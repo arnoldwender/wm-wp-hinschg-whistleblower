@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "fi",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Ilmoituskanava"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Sisäinen ilmoituskanava: ilmoituslomake, ilmoitusten ja viestien palvelinpuolen salaus, § 17 HinSchG -määräaikaseuranta ja allekirjoitettu tarkastusloki. Ei arvioi lainmukaisuutta."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Ilmoituskanava"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Ilmoitustaulu puuttuu (aktivoi lisäosa uudelleen)"
+      ],
+      "%d Frist überschritten": [
+        "%d määräaika ylitetty",
+        "%d määräaikaa ylitetty"
+      ],
+      "Keine Frist überschritten": [
+        "Yhtään määräaikaa ei ole ylitetty"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Vastaanottokuittaus 7 päivässä, palaute 3 kuukaudessa (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Tapaukset"
+      ],
+      "Offen": [
+        "Avoimet"
+      ],
+      "Überfällig": [
+        "Erääntyneet"
+      ],
+      "Meldestelle öffnen": [
+        "Avaa ilmoituskanava"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-kanava"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Ilmoituskanava (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Tapaukset ja määräajat"
+      ],
+      "Formular einbinden": [
+        "Upota lomake"
+      ],
+      "Testmeldung": [
+        "Testi-ilmoitus"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Määräajat ja ilmoitukset"
+      ],
+      "Deinstallation": [
+        "Poisto"
+      ],
+      "Begriffe": [
+        "Käsitteet"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Vastaanota ilmoituksia lomakkeella, tallenna ne salattuina ja laske § 17 HinSchG -määräajat."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Osa WM Suiten lisäosaperhettä"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-keskus"
+      ],
+      "Standalone": [
+        "Itsenäinen tila"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Avainpari käytettävissä"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Ei avainparia: ilmoituksia ei voida tallentaa"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Mitä sisäisen ilmoituskanavan tulee kattaa"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Työnantajien, joilla on säännönmukaisesti vähintään 50 työntekijää, on perustettava sisäinen ilmoituskanava (§ 12 mom. 2 HinSchG); § 12 mom. 3 mukaisille toimijoille, kuten luottolaitoksille, sijoituspalveluyrityksille ja vakuutusyhtiöille, velvollisuus koskee henkilöstömäärästä riippumatta. Kanava vahvistaa vastaanoton viimeistään seitsemän päivän kuluessa ja antaa palautteen kolmen kuukauden kuluessa (§ 17). Ilmoitukset on voitava tehdä kirjallisesti, suullisesti ja pyynnöstä henkilökohtaisesti (§ 16 mom. 3); tämä lisäosa kattaa vain kirjallisen tien. Nimettömät ilmoitukset tulee käsitellä ilman erillisen kanavan pakkoa (§ 16 mom. 1). Aineisto poistetaan kolme vuotta menettelyn päättymisestä (§ 11 mom. 5); lisäosa ei poista mitään automaattisesti eikä arvioi lakivelvoitteita."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Kolme esimerkkiasiaa luotu (pääsyavaimet token_demo_1 – token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testi-ilmoitus tallennettu salattuna."
+      ],
+      "Vorgangs-ID:": [
+        "Tapaus-ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Pääsyavain (näkyy vain nyt):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Ilmoituskanavan osiot"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Yksityinen avain on tietokannassa suojaamattomana."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Aseta %1$s (suositus, Libsodium XSalsa20-Poly1305, siirtää automaattisesti) tai %2$s tiedostoon wp-config.php ja suorita %3$s. Avainpari säilyy; vain tallennusmuoto muuttuu, joten kaikki aiemmat ilmoitukset pysyvät luettavina."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d henkilö saa avata ilmoituksia.",
+        "%d henkilöä saa avata ilmoituksia."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Mukana rooli %1$s eli jokainen sivuston ylläpitäjä. § 8 HinSchG rajaa sisällön kanavasta vastaaville henkilöille. Komennolla %2$s näet luettelon; anna rooli ”Meldestelle (HinSchG)” ja poista sen jälkeen oikeus komennolla %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Sivuston ylläpitäjät eivät voi avata ilmoituksia ilman tätä käyttöoikeutta."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Ei vielä tässä käyttöliittymässä:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Vastaanoton vahvistaminen ja vastaaminen. Käytä REST-reittejä POST /wp-json/wm-hinschg/v1/admin/ack ja /admin/reply (oikeus wm_hinschg_read_cases). Lisäosa ei lähetä sähköposteja."
+      ],
+      "Meldung %s": [
+        "Ilmoitus %s"
+      ],
+      "Meldungstext": [
+        "Ilmoituksen teksti"
+      ],
+      "Verlauf": [
+        "Keskustelu"
+      ],
+      "Meldestelle": [
+        "Ilmoitusyksikkö"
+      ],
+      "Hinweisgebende Person": [
+        "Ilmoittaja"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Tätä viestiä ei voitu purkaa."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Jokainen ilmoituksen avaus kirjataan tarkastuslokiin (§ 8 HinSchG: sisältö on luottamuksellinen myös organisaation sisällä)."
+      ],
+      "Zurück zur Übersicht": [
+        "Takaisin yleisnäkymään"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Tarkastusloki: ketju tarkistettu, jälkikäteisiä muutoksia ei havaittu"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Tarkastusloki: eheystarkistus epäonnistui"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d lokimerkintää tarkistettu. Allekirjoitusavain: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d vanhaa merkintää ilman allekirjoitusta"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Tuntematon virhe tarkistuksessa."
+      ],
+      "Offene Vorgänge": [
+        "Avoimet tapaukset"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "ilman lopullista palautetta"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Vastaanottokuittaus myöhässä"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "vahvistamatta, 7 päivän määräaika umpeutunut"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Kuittaus erääntyy 48 tunnissa"
+      ],
+      "noch nicht bestätigt": [
+        "ei vielä vahvistettu"
+      ],
+      "Rückmeldung überfällig": [
+        "Palaute myöhässä"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "ei palautetta, lisäosan määräaika umpeutunut"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Viimeisimmät 50 tapausta tiloineen ja määräaikoineen. Sisältö pysyy salattuna."
+      ],
+      "Vorgang": [
+        "Tapaus"
+      ],
+      "Kategorie": [
+        "Luokka"
+      ],
+      "Status": [
+        "Tilanne"
+      ],
+      "Eingangsbestätigung": [
+        "Vastaanottokuittaus"
+      ],
+      "Rückmeldung": [
+        "Palaute"
+      ],
+      "Eingang": [
+        "Saapunut"
+      ],
+      "Noch keine Vorgänge.": [
+        "Ei vielä tapauksia."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Luo kolme esimerkkiasiaa"
+      ],
+      "bestätigt am %s": [
+        "vahvistettu %s"
+      ],
+      "Frist %s": [
+        "Määräaika %s"
+      ],
+      "überfällig": [
+        "myöhässä"
+      ],
+      "gegeben am %s": [
+        "annettu %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Ilmoituslomakkeen upottaminen sivustolle"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Luo sivu, esimerkiksi ”Ilmoituskanava”."
+      ],
+      "Den Shortcode einfügen:": [
+        "Lisää lyhytkoodi:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(vastaava: [wm_hinschg_portal] tai lohko ”wm/hinschg-portal”)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Linkitä sivu sinne mistä henkilöstö löytää sen, kuten intranetiin tai alatunnisteeseen."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Lähetyksen jälkeen ilmoittaja saa tapaus-ID:n ja pääsyavaimen. Niillä voi tarkistaa tilan ja lähettää viestejä samassa lomakkeessa ilman nimeä tai sähköpostia. Vain avaimen HMAC tallennetaan; jos avain katoaa, pääsyä tapaukseen ei enää ole."
+      ],
+      "Testmeldung anlegen": [
+        "Luo testi-ilmoitus"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Luo tapauksen samaa reittiä kuin lomake ja näyttää pääsyavaimen kerran portaalin kokeilua varten."
+      ],
+      "Sachverhalt": [
+        "Tapahtumakuvaus"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Tallennetaan AES-256-GCM-salattuna; avain sinetöidään lisäosan RSA-avaimella."
+      ],
+      "Testmeldung speichern": [
+        "Tallenna testi-ilmoitus"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Vastaanottokuittaus: saapuminen + %d päivää. § 17 mom. 1 kohta 1 HinSchG edellyttää vahvistusta viimeistään seitsemän päivän kuluessa."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Palaute: saapuminen + %d kuukautta. § 17 mom. 2 HinSchG laskee kolme kuukautta vahvistuksesta (ilman vahvistusta kolme kuukautta ja seitsemän päivää); lisäosan määräaika ei ole koskaan myöhempi."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Määräajat on kiinteästi määritetty koodissa eikä niitä voi muuttaa."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Lisäosa ei lähetä sähköposteja. Tunneittainen tarkistus (WP-Cron) käynnistää toiminnon wm_hinschg_sla_breach_detected määräajan ylittyessä."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "15.9.2026 asti tässä oli sähköpostin, määräaikojen, liitteiden ja säilytyksen asetussivu, jonka arvoja ei koskaan luettu."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Poistoasetus tallennettu."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Kertaluonteinen yksityisen avaimen offline-tulostus (näkyy vain nyt):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Tallenna tämä yksityinen avain turvallisesti nimellä WM_HINSCHG_PRIVATE_KEY tiedostoon wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Lakisääteinen säilytys (§ 11 HinSchG) ja poisto"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "§ 11 mom. 5 HinSchG mukaan aineistoa säilytetään kolme vuotta menettelyn päättymisestä. Oletuksena ilmoitukset, viestit, tarkastusloki ja avainpari säilytetään lisäosan poiston yhteydessä."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Poista lisäosan poiston yhteydessä pysyvästi kaikki ilmoitukset, viestit, tarkastusmerkinnät ja avaimet"
+      ],
+      "Deinstallations-Option speichern": [
+        "Tallenna poistovalinta"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Vain sivuston ylläpitäjät (manage_options) voivat muuttaa poistokäyttäytymistä."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Tapaus-ID ja pääsyavain"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Annetaan ilmoittajalle kerran lähetyksen jälkeen. Avain on 64 merkkiä pitkä; vain sen HMAC tallennetaan."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Viimeistään seitsemän päivän kuluttua (§ 17 mom. 1 kohta 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Kolmen kuukauden kuluessa vastaanottovahvistuksesta suunniteltujen ja toteutettujen jatkotoimien kera (§ 17 mom. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Salaus"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Ilmoitukset ja viestit salataan palvelimella AES-256-GCM-menetelmällä ja AES-avain sinetöidään RSA:lla. Yksityisen avaimen sijainti määräytyy wp-config.php:ssä: siellä WM_HINSCHG_PRIVATE_KEY-vakiolla, tietokannassa salattuna WM_HINSCHG_KEY_PASSPHRASE-vakiolla tai selväkielisenä vanhoissa asennuksissa. Aktiivinen tila näkyy sivun yläosassa ja komennolla wp hinschg key-status. Yhteyden suojaa HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Oikeus avata ilmoitus"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Lisäosa tarkistaa oman wm_hinschg_read_cases-oikeutensa ja lisää roolin ”Meldestelle (HinSchG)”. WordPress tai roolilisäosa hallinnoi sen haltijoita. Asennuksessa ”Administrator” saa oikeuden lukituksen estämiseksi; oikeuden poistaminen ylläpitäjiltä jälkikäteen on tarkoitus. wp hinschg access näyttää haltijat."
+      ],
+      "Audit-Protokoll": [
+        "Tarkastusloki"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Jokainen merkintä sisältää edellisen merkinnän HMAC-SHA256-tiivisteen. Muutokset, poistot ja lisäykset havaitaan; wp-config.php:n avaimen haltija voi allekirjoittaa ketjun uudelleen."
+      ],
+      "Case ID is required.": [
+        "Tapaus-ID vaaditaan."
+      ],
+      "Case not found.": [
+        "Tapausta ei löytynyt."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Tämän ilmoituksen salauskuori on tallennettu puutteellisesti eikä sitä voida purkaa."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Tätä ilmoitusta ei voitu purkaa. Avainlähde: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Ilmoituksen kuvaus ei voi olla tyhjä."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Tallenna tämä pääsyavain huolellisesti. Se on AINOA tapa tarkistaa tila tai viestiä luottamuksellisesti paljastamatta henkilöllisyyttäsi."
+      ],
+      "Case ID and Access Token are required.": [
+        "Tapaus-ID ja pääsyavain vaaditaan."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Virheellinen tapaus-ID tai pääsyavain."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Tapaus-ID, pääsyavain ja viesti vaaditaan."
+      ],
+      "Confidential message appended successfully.": [
+        "Luottamuksellinen viesti lisätty."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Tämän ilmoituksen vastaanotto on jo vahvistettu."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Vastaanottokuittaus: ilmoituksesi on vastaanotettu sisäisessä ilmoituskanavassa (§ 17 mom. 1 kohta 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Vastaanottokuittaus kirjattu ja lähetetty ilmoittajan tapausnäkymään."
+      ],
+      "Case ID and message are required.": [
+        "Tapaus-ID ja viesti vaaditaan."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Vastaus tallennettu ilmoittajan tapausnäkymään."
+      ],
+      "Eingegangen": [
+        "Vastaanotettu"
+      ],
+      "In Bearbeitung": [
+        "Käsittelyssä"
+      ],
+      "Rückmeldung gegeben": [
+        "Palaute annettu"
+      ],
+      "Abgeschlossen": [
+        "Suljettu"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Taloudellinen petos, kavallus, korruptio ja lahjonta"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR-rikkomukset ja tietoturvaloukkaukset"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Tietoturva ja kyberpoikkeamat"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Toimitusketju ja ihmisoikeudet"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Työturvallisuus, syrjintä ja häirintä"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Yleiset vaatimustenmukaisuusrikkomukset"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Yksityinen avain on tiedostossa wp-config.php. Pelkkä tietokantavedos ei pura yhtäkään ilmoitusta."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Yksityinen avain on salattu tietokantaan Libsodiumilla (XSalsa20-Poly1305); pääavain (WM_HINSCHG_MASTER_KEY) on tiedostossa wp-config.php. Pelkkä vedos ei pura mitään."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Yksityinen avain on salattu tietokantaan; tunnuslause on tiedostossa wp-config.php. Pelkkä vedos ei pura mitään."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Yksityinen avain on salattu tietokantaan Libsodiumilla (johdettu wp-config.php:n AUTH_KEY-arvosta). Pelkkä vedos ei pura mitään; erilliseen avainkiertoon suositellaan vakioita WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Tietokannassa on vain julkinen avain (offline-säilytys). Uudet ilmoitukset sinetöidään; lukemiseen tarvitaan WM_HINSCHG_PRIVATE_KEY tiedostossa wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Yksityinen avain on tietokannassa salaamattomana ilmoitusten vieressä. Täyden tietokantavedoksen haltija voi purkaa jokaisen ilmoituksen."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Loki on tyhjä, vaikka viimeksi oli kirjattu %d merkintää."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ketjukatkos merkinnässä #%d: merkintä on poistettu, lisätty väliin tai järjestetty uudelleen."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Merkintä #%d ei täsmää allekirjoitukseensa: sitä on muutettu tai se on kirjoitettu eri AUTH_KEY-avaimella (esim. ennen sivuston siirtoa)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Lokin loppu ei täsmää viimeksi kirjattuun merkintään. Uusimmat merkinnät on poistettu."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Yhdessäkään merkinnässä ei ole avaimellista allekirjoitusta. Loki on ajalta ennen avainta tai palautettu väärennettävään muotoon, eikä sitä voi todentaa."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Tiedostossa wp-config.php ei ole asetettu vakioita %1$s eikä %2$s. Ilman wp-config.php:n salaisuutta avainta ei voi salata."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Tietokannassa ei ole yksityistä avainta. Ei mitään siirrettävää."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Tallennettua avainta ei voida purkaa WM_HINSCHG_MASTER_KEY-avaimella. Palauta alkuperäinen pääavain; mitään ei ylikirjoitettu."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Yksityinen avain on jo salattu Libsodiumilla (WM_HINSCHG_MASTER_KEY). Ei toimenpiteitä."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Tallennettua avainta ei voitu avata. Mitään ei ylikirjoitettu."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Libsodiumilla sinetöityä avainta ei voitu vahvistaa. Mitään ei ylikirjoitettu."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Yksityinen avain on nyt salattu Libsodiumilla (WM_HINSCHG_MASTER_KEY) tietokantaan. Pelkkä vedos ei enää pura ilmoituksia."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Tallennettu avain ei aukea ilman tunnuslausetta eikä asetetulla tunnuslauseella. Palauta vanha tunnuslause, muuten ilmoituksia ei voi lukea."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Yksityinen avain on jo salattu asetetulla tunnuslauseella. Ei toimenpiteitä."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Avainta ei voitu viedä salattuna. Tallennettu avain pysyy ennallaan."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Salattua avainta ei voitu avata uudelleen. Mitään ei ylikirjoitettu."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Yksityinen avain on nyt salattu tietokantaan. Pelkkä vedos ei pura mitään. wp-config.php:n tunnuslause on tästä lähtien välttämätön."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG-kanavan tila"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d päivän vastaanottokuittaus (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d kuukauden palautemääräaika (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Sisäinen ilmoituskanava käytössä"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Ilmoituskanavaa otetaan käyttöön"
+      ],
+      "Interne Meldestelle": [
+        "Sisäinen ilmoituskanava"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Täällä voit ilmoittaa väärinkäytöksistä. Nimeä ja sähköpostiosoitetta ei kysytä."
+      ],
+      "Neuen Hinweis melden": [
+        "Lähetä uusi ilmoitus"
+      ],
+      "Vorgang abrufen": [
+        "Hae tapaus"
+      ],
+      "Was gespeichert wird:": [
+        "Mitä tallennetaan:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Luokka ja tapahtumakuvaus palvelimella salattuina. IP-osoitettasi ei tallenneta ilmoituksen yhteyteen; pyyntöjen rajoittamiseksi sivusto säilyttää korkeintaan tunnin ajan siitä muodostetun HMAC-tiivisteen. Mahdollisesta palvelinlokista vastaa sivuston ylläpitäjä, ei tämä lomake. Lähetyksen jälkeen saat tapaus-ID:n ja pääsyavaimen lisäkysymyksiä ja palautetta varten."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Kuvaa tapahtumat mahdollisimman tarkasti (paikka, päivämäärä, osalliset) …"
+      ],
+      "Hinweis absenden": [
+        "Lähetä ilmoitus"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Syötä tapaus-ID ja pääsyavain nähdäksesi käsittelytilanteen ja viestiäksesi ilmoitusyksikölle."
+      ],
+      "Vorgangs-ID": [
+        "Tapaus-ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "esim. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Pääsyavain"
+      ],
+      "64 Zeichen": [
+        "64 merkkiä"
+      ],
+      "Vorgang laden": [
+        "Lataa tapaus"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Roolia %s ei ole olemassa."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rooli %s saa jo avata ilmoituksia. Ei toimenpiteitä."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rooli %s saa nyt avata ilmoituksia."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rooli %s ei muutenkaan saanut avata ilmoituksia. Ei toimenpiteitä."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Keskeytetty: tämän jälkeen kukaan ei voisi avata ilmoituksia. Yksikön on vahvistettava vastaanotto seitsemässä päivässä (§ 17 HinSchG). Valtuuta ensin toinen henkilö ja poista oikeus vasta sitten."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rooli %s ei saa enää avata ilmoituksia."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Käyttäjää %d ei ole olemassa."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s saa nyt avata ilmoituksia."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Keskeytetty: tämän jälkeen kukaan ei voisi avata ilmoituksia. Valtuuta ensin toinen henkilö ja poista oikeus vasta sitten."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s ei saa enää avata ilmoituksia."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Liikaa pyyntöjä. Yritä myöhemmin uudelleen."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Ilmoitusportaali"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Sisäinen ilmoituslomake ja tapauksen tilahaku HinSchG:n mukaisesti."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portaalin asetukset"
+      ],
+      "Überschrift": [
+        "Otsikko"
+      ],
+      "Einleitungstext anzeigen": [
+        "Näytä johdantoteksti"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Ilmoitusportaali (esikatselu julkisivulla)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Sisäinen väärinkäytösilmoitus- ja tilalohko Saksan HinSchG-lain mukaisesti."
+      ],
+      "hinschg": [
+        "hinschg-laki"
+      ],
+      "whistleblower": [
+        "ilmoittajansuoja"
+      ],
+      "meldestelle": [
+        "ilmoituskanava"
+      ],
+      "compliance": [
+        "vaatimustenmukaisuus"
+      ]
+    }
+  }
+}

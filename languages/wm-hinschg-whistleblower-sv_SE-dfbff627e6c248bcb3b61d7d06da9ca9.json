@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "sv_SE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Visselblåsarfunktion"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Intern visselblåsarkanal: anmälningsformulär, serverkryptering av rapporter och meddelanden, fristbevakning enligt § 17 HinSchG och signerad revisionslogg. Bedömer inte rättslig efterlevnad."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Mottagningsfunktion"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tabellen för rapporter saknas (aktivera tillägget igen)"
+      ],
+      "%d Frist überschritten": [
+        "%d tidsfrist överskriden",
+        "%d tidsfrister överskridna"
+      ],
+      "Keine Frist überschritten": [
+        "Ingen tidsfrist överskriden"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Mottagningsbekräftelse inom 7 dagar, återkoppling inom 3 månader (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Ärenden"
+      ],
+      "Offen": [
+        "Öppna"
+      ],
+      "Überfällig": [
+        "Förfallna"
+      ],
+      "Meldestelle öffnen": [
+        "Öppna mottagningsfunktionen"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-mottagning"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Mottagningsfunktion (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Ärenden & tidsfrister"
+      ],
+      "Formular einbinden": [
+        "Bädda in formulär"
+      ],
+      "Testmeldung": [
+        "Testrapport"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Tidsfrister & aviseringar"
+      ],
+      "Deinstallation": [
+        "Avinstallation"
+      ],
+      "Begriffe": [
+        "Begrepp"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Ta emot rapporter via formuläret, lagra dem krypterat och beräkna tidsfrister enligt § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Del av WM Suites tilläggsfamilj"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-Hub"
+      ],
+      "Standalone": [
+        "Fristående"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Nyckelpar finns"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Inget nyckelpar: rapporter kan inte sparas"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Vad mottagningsfunktionen ska uppfylla"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Arbetsgivare med i regel minst 50 anställda ska inrätta en intern mottagningsfunktion (§ 12 st. 2 HinSchG); för verksamheter i § 12 st. 3, såsom kreditinstitut, värdepappersbolag och försäkringsbolag, gäller kravet oavsett antal anställda. Funktionen bekräftar mottagandet senast efter sju dagar och lämnar återkoppling inom tre månader (§ 17). Rapporter ska kunna lämnas skriftligen, muntligen och på begäran vid ett fysiskt möte (§ 16 st. 3); detta tillägg täcker enbart den skriftliga vägen. Anonyma rapporter bör handläggas men kräver ingen särskild kanal (§ 16 st. 1). Dokumentationen raderas tre år efter avslutat ärende (§ 11 st. 5); tillägget raderar inget automatiskt och prövar inte lagkrav."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Tre demoärenden skapades (åtkomstnycklar token_demo_1 till token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testrapporten sparades krypterad."
+      ],
+      "Vorgangs-ID:": [
+        "Ärende-ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Åtkomstnyckel (visas endast nu):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Sektioner för mottagningsfunktionen"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Den privata nyckeln ligger oskyddad i databasen."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Ange %1$s (rekommenderas, Libsodium XSalsa20-Poly1305, migrerar automatiskt) eller %2$s i wp-config.php och kör %3$s. Nyckelparet behålls; endast lagringsformen ändras så att tidigare rapporter förblir läsbara."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d person får öppna rapporter.",
+        "%d personer får öppna rapporter."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Däribland rollen %1$s, alltså alla som administrerar webbplatsen. § 8 HinSchG begränsar innehållet till behörig personal. Med %2$s visas listan; tilldela rollen \"Meldestelle (HinSchG)\" och återkalla sedan behörigheten med %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Webbplatsadministratörer kan inte öppna rapporter så länge de saknar denna behörighet."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Ännu inte i detta gränssnitt:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Bekräfta mottagande och svara. Använd REST-rutterna POST /wp-json/wm-hinschg/v1/admin/ack och /admin/reply (behörighet wm_hinschg_read_cases). Tillägget skickar inga e-postmeddelanden."
+      ],
+      "Meldung %s": [
+        "Rapport %s"
+      ],
+      "Meldungstext": [
+        "Rapporttext"
+      ],
+      "Verlauf": [
+        "Historik"
+      ],
+      "Meldestelle": [
+        "Mottagningsfunktion"
+      ],
+      "Hinweisgebende Person": [
+        "Rapporterande person"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Detta meddelande kunde inte dekrypteras."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Varje öppning av rapporten loggas i revisionsloggen (§ 8 HinSchG: innehållet är konfidentiellt även internt)."
+      ],
+      "Zurück zur Übersicht": [
+        "Tillbaka till översikten"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Revisionslogg: kedjan kontrollerad, ingen efterföljande ändring upptäckt"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Revisionslogg: integritetskontroll misslyckades"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d loggposter kontrollerade. Signeringsnyckel: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d äldre poster utan signatur"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Okänt fel vid kontrollen."
+      ],
+      "Offene Vorgänge": [
+        "Öppna ärenden"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "utan slutlig återkoppling"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Mottagningsbekräftelse förfallen"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "ej bekräftad, 7-dagarsfrist passerad"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Bekräftelse förfaller inom 48 timmar"
+      ],
+      "noch nicht bestätigt": [
+        "ännu ej bekräftad"
+      ],
+      "Rückmeldung überfällig": [
+        "Återkoppling förfallen"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "ingen återkoppling, frist passerad"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "De senaste 50 ärendena med status och tidsfrister. Innehållet förblir krypterat."
+      ],
+      "Vorgang": [
+        "Ärende"
+      ],
+      "Kategorie": [
+        "Kategori"
+      ],
+      "Status": [
+        "Ärendestatus"
+      ],
+      "Eingangsbestätigung": [
+        "Mottagningsbekräftelse"
+      ],
+      "Rückmeldung": [
+        "Återkoppling"
+      ],
+      "Eingang": [
+        "Inkommen"
+      ],
+      "Noch keine Vorgänge.": [
+        "Inga ärenden ännu."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Skapa tre demoärenden"
+      ],
+      "bestätigt am %s": [
+        "bekräftad %s"
+      ],
+      "Frist %s": [
+        "Frist %s"
+      ],
+      "überfällig": [
+        "förfallen"
+      ],
+      "gegeben am %s": [
+        "lämnad %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Bädda in anmälningsformuläret på webbplatsen"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Skapa en sida, till exempel \"Visselblåsarkanal\"."
+      ],
+      "Den Shortcode einfügen:": [
+        "Infoga kortkoden:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(likvärdigt: [wm_hinschg_portal] eller blocket \"wm/hinschg-portal\")."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Länka sidan där medarbetare hittar den, exempelvis på intranätet eller i sidfoten."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Efter inskick får visselblåsaren ett ärende-ID och en åtkomstnyckel. Med båda kan status kontrolleras och meddelanden skickas i samma formulär utan namn eller e-post. Endast en HMAC av nyckeln lagras; förloras den går ärendet inte längre att nå."
+      ],
+      "Testmeldung anlegen": [
+        "Skapa testrapport"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Skapar ett ärende på samma sätt som formuläret och visar åtkomstnyckeln en gång så att portalen kan provas."
+      ],
+      "Sachverhalt": [
+        "Sakförhållande"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Lagras krypterat med AES-256-GCM; nyckeln förseglas med tilläggets RSA-nyckel."
+      ],
+      "Testmeldung speichern": [
+        "Spara testrapport"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Mottagningsbekräftelse: mottagande + %d dagar. § 17 st. 1 p. 1 HinSchG kräver bekräftelse senast inom sju dagar."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Återkoppling: mottagande + %d månader. § 17 st. 2 HinSchG räknar tre månader från bekräftelse (tre månader och sju dagar utan bekräftelse); tilläggets frist är aldrig senare."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Tidsfristerna är fastställda i koden och kan inte ändras."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Tillägget skickar ingen e-post. En timvis kontroll (WP-Cron) utlöser åtgärden wm_hinschg_sla_breach_detected vid överskridna frister."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Fram till 2026-09-15 fanns här en inställningssida för e-post, frister, bilagor och lagring vars värden aldrig användes."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Avinstallationsinställning sparad."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Engångsvisning av privat nyckel offline (endast synlig nu):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Spara denna privata nyckel säkert som WM_HINSCHG_PRIVATE_KEY i wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Lagstadgad bevarandeplikt (§ 11 HinSchG) & avinstallation"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Enligt § 11 st. 5 HinSchG ska dokumentation sparas i tre år efter avslutat förfarande. Som standard behålls rapporter, meddelanden, revisionslogg och nyckelpar vid borttagning av tillägget."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Radera oåterkalleligen alla rapporter, meddelanden, loggposter och nycklar vid avinstallation"
+      ],
+      "Deinstallations-Option speichern": [
+        "Spara avinstallationsval"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Endast webbplatsadministratörer (manage_options) kan ändra beteendet vid avinstallation."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Ärende-ID och åtkomstnyckel"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Visas en gång efter inskick. Nyckeln består av 64 tecken och endast en HMAC av den sparas."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Senast efter sju dagar (§ 17 st. 1 p. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Inom tre månader efter mottagningsbekräftelsen med planerade och vidtagna åtgärder (§ 17 st. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Kryptering"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Rapporter och meddelanden krypteras på servern med AES-256-GCM och AES-nyckeln förseglas med RSA. Var den privata nyckeln lagras styrs av wp-config.php: där via WM_HINSCHG_PRIVATE_KEY, krypterad i databasen via WM_HINSCHG_KEY_PASSPHRASE eller i klartext i äldre installationer. Aktivt läge visas överst och via wp hinschg key-status. Mellan webbläsare och server skyddar HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Behörighet att öppna en rapport"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Tillägget kontrollerar behörigheten wm_hinschg_read_cases och skapar rollen \"Meldestelle (HinSchG)\". WordPress eller ett rolltillägg styr vem som har den. Vid installation får \"Administrator\" den för att undvika utelåsning; att ta bort den efteråt är syftet. wp hinschg access visar innehavarna."
+      ],
+      "Audit-Protokoll": [
+        "Revisionslogg"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Varje post bär en HMAC-SHA256 över föregående post. Ändringar, raderingar och infogningar upptäcks; den som har nyckeln i wp-config.php kan signera om kedjan."
+      ],
+      "Case ID is required.": [
+        "Ärende-ID krävs."
+      ],
+      "Case not found.": [
+        "Ärendet hittades inte."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Kuvertet för denna rapport är ofullständigt lagrat och kan inte dekrypteras."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Rapporten kunde inte dekrypteras. Nyckelkälla: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Beskrivningen får inte vara tom."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Spara denna åtkomstnyckel säkert. Det är det ENDA sättet att kontrollera status eller kommunicera konfidentiellt utan att röja din identitet."
+      ],
+      "Case ID and Access Token are required.": [
+        "Ärende-ID och åtkomstnyckel krävs."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Ogiltigt ärende-ID eller ogiltig åtkomstnyckel."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Ärende-ID, åtkomstnyckel och meddelande krävs."
+      ],
+      "Confidential message appended successfully.": [
+        "Konfidentiellt meddelande har lagts till."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Mottagandet av denna rapport har redan bekräftats."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Mottagningsbekräftelse: din rapport har tagits emot av den interna mottagningsfunktionen (§ 17 st. 1 p. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Bekräftelsen registrerades och skickades till rapportörens ärendevy."
+      ],
+      "Case ID and message are required.": [
+        "Ärende-ID och meddelande krävs."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Svaret sparades i rapportörens ärendevy."
+      ],
+      "Eingegangen": [
+        "Mottagen"
+      ],
+      "In Bearbeitung": [
+        "Under handläggning"
+      ],
+      "Rückmeldung gegeben": [
+        "Återkoppling lämnad"
+      ],
+      "Abgeschlossen": [
+        "Avslutad"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Ekonomiskt bedrägeri, trolöshet, korruption & mutor"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR-överträdelser & personuppgiftsincidenter"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-säkerhet & cyberincidenter"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Leveranskedja & mänskliga rättigheter"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Arbetsmiljö, diskriminering & trakasserier"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Allmänna regelefterlevnadsbrott"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den privata nyckeln finns i wp-config.php. En databasdump ensam kan inte dekryptera någon rapport."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den privata nyckeln ligger krypterad med Libsodium (XSalsa20-Poly1305) i databasen; huvudnyckeln (WM_HINSCHG_MASTER_KEY) finns i wp-config.php. En dump ensam dekrypterar inget."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den privata nyckeln ligger krypterad i databasen; lösenfrasen finns i wp-config.php. En dump ensam dekrypterar inget."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Den privata nyckeln ligger krypterad med Libsodium i databasen (härledd ur AUTH_KEY i wp-config.php). En dump ensam dekrypterar inget; WM_HINSCHG_MASTER_KEY rekommenderas för separat rotation."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Endast den publika nyckeln finns i databasen (offlineförvaring). Nya rapporter förseglas; WM_HINSCHG_PRIVATE_KEY i wp-config.php krävs för läsning."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Den privata nyckeln ligger okrypterad i databasen bredvid rapporterna. Den som har en fullständig dump kan dekryptera allt."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Loggen är tom trots att %d poster senast var noterade."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kedjebrott vid post #%d: en post har raderats, infogats eller flyttats."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Post #%d stämmer inte med sin signatur: den har ändrats i efterhand eller skrivits med en annan AUTH_KEY (t.ex. före flytt)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Slutet av loggen stämmer inte med senast noterade post. De nyaste posterna har tagits bort."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Ingen post bär en nyckelsignatur. Loggen härrör helt från tiden före nyckeln eller har nedgraderats till det förfalskningsbara formatet och kan inte verifieras."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Varken %1$s eller %2$s är angivet i wp-config.php. Utan en hemlighet i wp-config.php kan nyckeln inte krypteras."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Det finns ingen privat nyckel i databasen. Inget att migrera."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Den lagrade nyckeln kan inte dekrypteras med WM_HINSCHG_MASTER_KEY. Återställ den ursprungliga huvudnyckeln; inget skrevs över."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Den privata nyckeln är redan krypterad via Libsodium (WM_HINSCHG_MASTER_KEY). Inget att göra."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Den lagrade nyckeln kunde inte öppnas. Inget skrevs över."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Den Libsodium-förseglade nyckeln kunde inte verifieras. Inget skrevs över."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Den privata nyckeln lagras nu krypterad med Libsodium (WM_HINSCHG_MASTER_KEY) i databasen. En dump ensam dekrypterar inga rapporter längre."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Den lagrade nyckeln kan varken öppnas utan eller med den angivna lösenfrasen. Återställ den tidigare lösenfrasen, annars kan inga rapporter läsas."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Den privata nyckeln är redan krypterad med lösenfrasen. Inget att göra."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Nyckeln kunde inte exporteras krypterad. Den lagrade nyckeln är oförändrad."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Den krypterade nyckeln kunde inte öppnas igen. Inget skrevs över."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Den privata nyckeln är nu krypterad i databasen. En dump ensam dekrypterar inget. Lösenfrasen i wp-config.php är hädanefter oumbärlig."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG-kanalstatus"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dagars mottagningsbekräftelse (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d månaders återkopplingsfrist (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Intern visselblåsarkanal aktiv"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Visselblåsarkanal konfigureras"
+      ],
+      "Interne Meldestelle": [
+        "Intern visselblåsarkanal"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Här kan du rapportera överträdelser. Namn och e-postadress efterfrågas inte."
+      ],
+      "Neuen Hinweis melden": [
+        "Lämna ny rapport"
+      ],
+      "Vorgang abrufen": [
+        "Hämta ärende"
+      ],
+      "Was gespeichert wird:": [
+        "Vad som sparas:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategori och beskrivning, krypterade på servern. Din IP-adress sparas inte med rapporten; för att begränsa anrop sparar webbplatsen i högst en timme en nyckelbaserad hash (HMAC) av den. Om webbservern loggar trafik avgörs av webbplatsens drift, inte av detta formulär. Efter inskick får du ärende-ID och åtkomstnyckel för följdfrågor och återkoppling."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Beskriv händelsen så utförligt som möjligt (plats, datum, berörda personer) …"
+      ],
+      "Hinweis absenden": [
+        "Skicka rapport"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Ange ärende-ID och åtkomstnyckel för att se status och skriva till mottagningsfunktionen."
+      ],
+      "Vorgangs-ID": [
+        "Ärende-ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "t.ex. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Åtkomstnyckel"
+      ],
+      "64 Zeichen": [
+        "64 tecken"
+      ],
+      "Vorgang laden": [
+        "Ladda ärende"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rollen %s finns inte."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rollen %s får redan öppna rapporter. Inget att göra."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rollen %s får nu öppna rapporter."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rollen %s fick ändå inte öppna rapporter. Inget att göra."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Avbrutet: annars skulle ingen längre kunna öppna rapporter. Funktionen måste bekräfta mottagande inom sju dagar (§ 17 HinSchG). Ge först någon annan behörighet och återkalla sedan här."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rollen %s får inte längre öppna rapporter."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Användare %d finns inte."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s får nu öppna rapporter."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Avbrutet: annars skulle ingen längre kunna öppna rapporter. Ge först någon annan behörighet och återkalla sedan här."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s får inte längre öppna rapporter."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "För många förfrågningar. Försök igen senare."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Visselblåsarportal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Internt visselblåsarformulär och ärendesökning enligt HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portalinställningar"
+      ],
+      "Überschrift": [
+        "Rubrik"
+      ],
+      "Einleitungstext anzeigen": [
+        "Visa inledningstext"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Visselblåsarportal (förhandsvisning på webbplatsen)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Internt visselblåsarformulär och statuskontroll enligt tyska HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-lag"
+      ],
+      "whistleblower": [
+        "visselblasare"
+      ],
+      "meldestelle": [
+        "mottagningskanal"
+      ],
+      "compliance": [
+        "regelefterlevnad"
+      ]
+    }
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "nl_NL",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Meldpunt Klokkenluiders"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Intern meldkanaal: meldformulier, serverzijdige versleuteling van meldingen en berichten, termijnbewaking volgens § 17 HinSchG en een ondertekend auditlogboek. Beoordeelt geen juridische naleving."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Meldpunt"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tabel met meldingen ontbreekt (activeer de plugin opnieuw)"
+      ],
+      "%d Frist überschritten": [
+        "%d termijn overschreden",
+        "%d termijnen overschreden"
+      ],
+      "Keine Frist überschritten": [
+        "Geen termijn overschreden"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Ontvangstbevestiging na 7 dagen, terugkoppeling na 3 maanden (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Dossiers"
+      ],
+      "Offen": [
+        "Openstaand"
+      ],
+      "Überfällig": [
+        "Verlopen"
+      ],
+      "Meldestelle öffnen": [
+        "Meldpunt openen"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-meldpunt"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Meldpunt (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Dossiers & termijnen"
+      ],
+      "Formular einbinden": [
+        "Formulier insluiten"
+      ],
+      "Testmeldung": [
+        "Testmelding"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Termijnen & meldingen"
+      ],
+      "Deinstallation": [
+        "De-installatie"
+      ],
+      "Begriffe": [
+        "Begrippen"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Meldingen via het formulier ontvangen, versleuteld opslaan en de termijnen volgens § 17 HinSchG berekenen."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Onderdeel van de WM Suite-pluginfamilie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-Hub"
+      ],
+      "Standalone": [
+        "Zelfstandig"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Sleutelpaar aanwezig"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Geen sleutelpaar: meldingen kunnen niet worden opgeslagen"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Wat het meldpunt moet bieden"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Werkgevers met doorgaans ten minste 50 werknemers moeten een intern meldpunt inrichten (§ 12 lid 2 HinSchG); voor ondernemingen in § 12 lid 3, zoals kredietinstellingen, beleggingsondernemingen en verzekeraars, geldt dit ongeacht het aantal werknemers. Het meldpunt bevestigt ontvangst uiterlijk binnen zeven dagen en geeft binnen drie maanden terugkoppeling (§ 17). Meldingen moeten schriftelijk, mondeling en op verzoek persoonlijk mogelijk zijn (§ 16 lid 3); deze plugin dekt alleen het schriftelijke kanaal. Anonieme meldingen moeten worden behandeld maar hoeven niet actief mogelijk te worden gemaakt (§ 16 lid 1). Documentatie wordt drie jaar na afronding verwijderd (§ 11 lid 5); de plugin verwijdert zelf niets en toetst geen wettelijke plichten."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Drie demodossiers aangemaakt (toegangssleutels token_demo_1 t/m token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testmelding versleuteld opgeslagen."
+      ],
+      "Vorgangs-ID:": [
+        "Dossier-ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Toegangssleutel (alleen nu zichtbaar):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Onderdelen van het meldpunt"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "De privésleutel staat onbeschermd in de database."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Stel %1$s (aanbevolen, Libsodium XSalsa20-Poly1305, migreert automatisch) of %2$s in wp-config.php in en voer %3$s uit. Het sleutelpaar blijft behouden; alleen de opgeslagen vorm verandert zodat eerdere meldingen leesbaar blijven."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d persoon mag meldingen openen.",
+        "%d personen mogen meldingen openen."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Waaronder de rol %1$s, oftewel iedereen die deze website beheert. § 8 HinSchG houdt de inhoud bij de met het meldpunt belaste personen. Met %2$s bekijkt u de lijst; wijs de rol „Meldestelle (HinSchG)\" toe en trek het recht daarna in met %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Beheerders van deze website kunnen geen meldingen openen zolang zij deze bevoegdheid niet hebben."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Nog niet in deze interface:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Ontvangst bevestigen en antwoorden. Gebruik hiervoor de REST-routes POST /wp-json/wm-hinschg/v1/admin/ack en /admin/reply (recht wm_hinschg_read_cases). De plugin verstuurt geen e-mails."
+      ],
+      "Meldung %s": [
+        "Melding %s"
+      ],
+      "Meldungstext": [
+        "Meldtekst"
+      ],
+      "Verlauf": [
+        "Verloop"
+      ],
+      "Meldestelle": [
+        "Intern meldpunt"
+      ],
+      "Hinweisgebende Person": [
+        "Meldende persoon"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Dit bericht kon niet worden ontsleuteld."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Elke inzage van deze melding wordt vastgelegd in het auditlogboek (§ 8 HinSchG: inhoud is ook intern vertrouwelijk)."
+      ],
+      "Zurück zur Übersicht": [
+        "Terug naar overzicht"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Auditlogboek: keten gecontroleerd, geen wijziging achteraf zichtbaar"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Auditlogboek: integriteitscontrole mislukt"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d logregels gecontroleerd. Ondertekeningssleutel: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historische oude vermeldingen zonder handtekening"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Onbekende fout tijdens controle."
+      ],
+      "Offene Vorgänge": [
+        "Open dossiers"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "zonder eindterugkoppeling"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Ontvangstbevestiging te laat"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "niet bevestigd, 7-dagentermijn verstreken"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Bevestiging binnen 48 uur vereist"
+      ],
+      "noch nicht bestätigt": [
+        "nog niet bevestigd"
+      ],
+      "Rückmeldung überfällig": [
+        "Terugkoppeling te laat"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "geen terugkoppeling, plugintermijn verstreken"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "De laatste 50 dossiers met status en termijnen. De inhoud blijft versleuteld."
+      ],
+      "Vorgang": [
+        "Dossier"
+      ],
+      "Kategorie": [
+        "Categorie"
+      ],
+      "Status": [
+        "Statusveld"
+      ],
+      "Eingangsbestätigung": [
+        "Ontvangstbevestiging"
+      ],
+      "Rückmeldung": [
+        "Terugkoppeling"
+      ],
+      "Eingang": [
+        "Binnengekomen"
+      ],
+      "Noch keine Vorgänge.": [
+        "Nog geen dossiers."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Drie demodossiers aanmaken"
+      ],
+      "bestätigt am %s": [
+        "bevestigd op %s"
+      ],
+      "Frist %s": [
+        "Termijn %s"
+      ],
+      "überfällig": [
+        "verlopen"
+      ],
+      "gegeben am %s": [
+        "gegeven op %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Meldformulier op de website plaatsen"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Maak een pagina aan, bijvoorbeeld „Klokkenluidersmeldpunt“."
+      ],
+      "Den Shortcode einfügen:": [
+        "Plaats de shortcode:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(gelijkwaardig: [wm_hinschg_portal] of het blok „wm/hinschg-portal“)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Link de pagina waar medewerkers haar vinden, zoals op het intranet of in de voettekst."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Na verzending ontvangt de melder een dossier-ID en toegangssleutel. Daarmee kan in hetzelfde formulier de status worden opgevraagd en worden gecommuniceerd zonder naam of e-mailadres op te geven. Alleen een HMAC van de sleutel wordt bewaard; bij verlies is er geen toegang meer."
+      ],
+      "Testmeldung anlegen": [
+        "Testmelding aanmaken"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Maakt op dezelfde manier als het formulier een dossier aan en toont eenmalig de toegangssleutel om het portaal te testen."
+      ],
+      "Sachverhalt": [
+        "Omschrijving"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Wordt versleuteld opgeslagen met AES-256-GCM; de sleutel wordt verzegeld met de RSA-sleutel van de plugin."
+      ],
+      "Testmeldung speichern": [
+        "Testmelding opslaan"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Ontvangstbevestiging: ontvangst + %d dagen. § 17 lid 1 nr. 1 HinSchG vereist bevestiging uiterlijk binnen zeven dagen."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Terugkoppeling: ontvangst + %d maanden. § 17 lid 2 HinSchG rekent drie maanden vanaf bevestiging (zonder bevestiging drie maanden en zeven dagen); de plugintermijn valt nooit later."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "De termijnen liggen vast in de code en zijn niet instelbaar."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "De plugin verzendt geen e-mails. Een uurlijkse controle (WP-Cron) activeert bij overschreden termijnen de actie wm_hinschg_sla_breach_detected voor eigen notificaties."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Tot 15-09-2026 stond hier een instellingenpagina voor e-mail, termijnen, uploads en bewaartermijn die nooit werd uitgelezen."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "De-installatievoorkeur opgeslagen."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Eenmalige offline weergave privésleutel (alleen nu zichtbaar):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Bewaar deze privésleutel veilig als WM_HINSCHG_PRIVATE_KEY in wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Wettelijke bewaarplicht (§ 11 HinSchG) & de-installatie"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Volgens § 11 lid 5 HinSchG wordt documentatie drie jaar na afronding bewaard. Standaard blijven meldingen, berichten, auditlog en sleutelpaar behouden bij verwijdering van de plugin."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Bij verwijderen van de plugin alle meldingen, berichten, auditregels en sleutels onherroepelijk wissen"
+      ],
+      "Deinstallations-Option speichern": [
+        "De-installatieoptie opslaan"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Alleen sitebeheerders (manage_options) kunnen het gedrag bij de-installatie wijzigen."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Dossier-ID en toegangssleutel"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "De melder ontvangt beide eenmalig na verzending. De sleutel telt 64 tekens; alleen een HMAC wordt opgeslagen."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Uiterlijk na zeven dagen (§ 17 lid 1 nr. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Binnen drie maanden na de ontvangstbevestiging, met geplande en genomen vervolgmaatregelen (§ 17 lid 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Versleuteling"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Melding en berichten worden op de server met AES-256-GCM versleuteld en de AES-sleutel wordt met RSA verzegeld. Waar de RSA-privésleutel staat hangt af van wp-config.php: daar via WM_HINSCHG_PRIVATE_KEY, versleuteld in de database via WM_HINSCHG_KEY_PASSPHRASE, of onversleuteld in oudere installaties. De actieve modus staat bovenaan en in wp hinschg key-status. Tussen browser en server beschermt HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Bevoegdheid om een melding te openen"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "De plugin controleert de eigen capability wm_hinschg_read_cases en levert de rol „Meldestelle (HinSchG)“. WordPress of een rollenplugin bepaalt wie deze heeft. Bij installatie krijgt „Administrator“ het recht om buitensluiting te voorkomen; daarna intrekken is de bedoeling. wp hinschg access toont de houders."
+      ],
+      "Audit-Protokoll": [
+        "Auditlogboek"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Elke regel bevat een HMAC-SHA256 over de vorige. Wijzigingen, verwijderingen en tussenvoegingen worden herkend; wie de sleutel uit wp-config.php kent kan de keten herschrijven."
+      ],
+      "Case ID is required.": [
+        "Dossier-ID is verplicht."
+      ],
+      "Case not found.": [
+        "Dossier niet gevonden."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "De envelop van deze melding is onvolledig opgeslagen; ontsleutelen mislukt."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Deze melding kon niet worden ontsleuteld. Sleutelbron: %s"
+      ],
+      "Report description cannot be empty.": [
+        "De beschrijving van de melding mag niet leeg zijn."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Bewaar deze toegangssleutel veilig. Dit is de ENIGE manier om uw status te bekijken of vertrouwelijk te communiceren zonder uw identiteit prijs te geven."
+      ],
+      "Case ID and Access Token are required.": [
+        "Dossier-ID en toegangssleutel zijn verplicht."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Ongeldig dossier-ID of ongeldige toegangssleutel."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Dossier-ID, toegangssleutel en bericht zijn verplicht."
+      ],
+      "Confidential message appended successfully.": [
+        "Vertrouwelijk bericht toegevoegd."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "De ontvangst van deze melding is al bevestigd."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Ontvangstbevestiging: uw melding is ontvangen door het interne meldpunt (§ 17 lid 1 nr. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Ontvangstbevestiging vastgelegd en naar het dossieroverzicht van de melder gestuurd."
+      ],
+      "Case ID and message are required.": [
+        "Dossier-ID en bericht zijn verplicht."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Antwoord opgeslagen in het dossieroverzicht van de melder."
+      ],
+      "Eingegangen": [
+        "Ontvangen"
+      ],
+      "In Bearbeitung": [
+        "In behandeling"
+      ],
+      "Rückmeldung gegeben": [
+        "Terugkoppeling gegeven"
+      ],
+      "Abgeschlossen": [
+        "Afgesloten"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Financiële fraude, verduistering, corruptie & omkoping"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "AVG-schendingen & datalekken"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-beveiliging & cyberincidenten"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Toeleveringsketen & mensenrechten"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Arbeidsveiligheid, discriminatie & intimidatie"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Algemene compliance-schendingen"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "De privésleutel staat in wp-config.php. Een databasedump alleen ontsleutelt geen enkele melding."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "De privésleutel ligt via Libsodium (XSalsa20-Poly1305) versleuteld in de database; de hoofdsleutel (WM_HINSCHG_MASTER_KEY) staat in wp-config.php. Een dump alleen ontsleutelt niets."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "De privésleutel ligt versleuteld in de database; het wachtwoordzinnetje staat in wp-config.php. Een dump alleen ontsleutelt niets."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "De privésleutel ligt via Libsodium versleuteld in de database (afgeleid uit AUTH_KEY in wp-config.php). Een dump alleen ontsleutelt niets; WM_HINSCHG_MASTER_KEY wordt aanbevolen voor aparte rotatie."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "In de database staat alleen de publieke sleutel (offline bewaring). Nieuwe meldingen worden verzegeld; voor lezen is WM_HINSCHG_PRIVATE_KEY in wp-config.php vereist."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "De privésleutel ligt onversleuteld in de database naast de meldingen. Wie een volledige dump heeft kan elke melding lezen."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Het logboek is leeg terwijl laatst %d regels geregistreerd stonden."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ketenbreuk bij regel #%d: een regel is verwijderd, tussengevoegd of verplaatst."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Regel #%d komt niet overeen met de handtekening: achteraf gewijzigd of geschreven met een andere AUTH_KEY (bijv. vóór een verhuizing)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Het einde van het logboek klopt niet met de laatst genoteerde regel. De nieuwste regels zijn verwijderd."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Geen enkele regel draagt een sleutelhandtekening. Het logboek stamt van vóór de sleutel of is teruggezet naar het vervalsbare formaat en is niet verifieerbaar."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "In wp-config.php is noch %1$s noch %2$s ingesteld. Zonder geheim in wp-config.php kan de sleutel niet worden versleuteld."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Er staat geen privésleutel in de database. Niets te migreren."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "De opgeslagen sleutel kan niet met WM_HINSCHG_MASTER_KEY worden ontsleuteld. Herstel de oorspronkelijke hoofdsleutel; er is niets overschreven."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "De privésleutel is al via Libsodium (WM_HINSCHG_MASTER_KEY) versleuteld. Niets te doen."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "De opgeslagen sleutel kon niet worden geopend. Er is niets overschreven."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "De met Libsodium verzegelde sleutel kon niet worden geverifieerd. Er is niets overschreven."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "De privésleutel ligt nu via Libsodium (WM_HINSCHG_MASTER_KEY) versleuteld in de database. Een dump alleen ontsleutelt geen meldingen meer."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "De opgeslagen sleutel opent noch zonder noch met de ingestelde passphrase. Hij is met een andere passphrase versleuteld — herstel de oude, anders blijft alles onleesbaar."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "De privésleutel is al met de ingestelde passphrase versleuteld. Niets te doen."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "De sleutel kon niet versleuteld worden geëxporteerd. De opgeslagen sleutel blijft ongewijzigd."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "De versleutelde sleutel kon niet opnieuw worden geopend. Er is niets overschreven."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "De privésleutel ligt nu versleuteld in de database. Een dump alleen ontsleutelt niets meer. De passphrase in wp-config.php is voortaan onmisbaar."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG-meldpuntstatus"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dagen ontvangstbevestiging (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d maanden terugkoppelingstermijn (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Intern meldpunt actief"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Meldpunt wordt ingericht"
+      ],
+      "Interne Meldestelle": [
+        "Intern meldpunt"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Hier kunt u misstanden melden. Naam en e-mailadres worden niet gevraagd."
+      ],
+      "Neuen Hinweis melden": [
+        "Nieuwe melding indienen"
+      ],
+      "Vorgang abrufen": [
+        "Dossier opvragen"
+      ],
+      "Was gespeichert wird:": [
+        "Wat wordt opgeslagen:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Categorie en beschrijving, versleuteld op de server. Uw IP-adres wordt niet bij de melding bewaard; ter begrenzing van aanvragen bewaart de site maximaal een uur een HMAC-hash ervan. Of de webserver toegangen logt bepaalt de websitebeheerder, niet dit formulier. Na verzending ontvangt u een dossier-ID en toegangssleutel voor vragen en terugkoppeling."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Beschrijf de situatie zo nauwkeurig mogelijk (plaats, datum, betrokken personen) …"
+      ],
+      "Hinweis absenden": [
+        "Melding verzenden"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Voer dossier-ID en toegangssleutel in om de voortgang te bekijken en het meldpunt te schrijven."
+      ],
+      "Vorgangs-ID": [
+        "Dossier-ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "bijv. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Toegangssleutel"
+      ],
+      "64 Zeichen": [
+        "64 tekens"
+      ],
+      "Vorgang laden": [
+        "Dossier laden"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "De rol %s bestaat niet."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "De rol %s mag al meldingen openen. Niets te doen."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "De rol %s mag nu meldingen openen."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "De rol %s mocht sowieso geen meldingen openen. Niets te doen."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Afgebroken: daarna zou niemand meer meldingen kunnen openen. Het meldpunt moet binnen zeven dagen bevestigen (§ 17 HinSchG). Geef eerst iemand anders toegang en trek die daarna hier in."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "De rol %s mag geen meldingen meer openen."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Gebruiker %d bestaat niet."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s mag nu meldingen openen."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Afgebroken: daarna zou niemand meer meldingen kunnen openen. Geef eerst iemand anders toegang en trek die daarna hier in."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s mag geen meldingen meer openen."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Te veel verzoeken. Probeer het later opnieuw."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Meldportaal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Intern klokkenluidersformulier en dossierinzage volgens de HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Meldpunt-instellingen"
+      ],
+      "Überschrift": [
+        "Koptekst"
+      ],
+      "Einleitungstext anzeigen": [
+        "Inleidende tekst tonen"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Meldportaal (voorbeeld aan de voorkant)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Intern klokkenluidersmeldformulier en statusopvraag onder de Duitse HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-wet"
+      ],
+      "whistleblower": [
+        "klokkenluider"
+      ],
+      "meldestelle": [
+        "meldpunt"
+      ],
+      "compliance": [
+        "naleving"
+      ]
+    }
+  }
+}

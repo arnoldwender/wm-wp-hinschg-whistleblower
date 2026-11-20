@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "de_DE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG-Hinweisgeber-Meldestelle"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Interner Meldekanal: Meldeformular, serverseitige Verschlüsselung von Meldungen und Nachrichten, Fristenverfolgung nach § 17 HinSchG und signiertes Audit-Protokoll. Keine Rechtsprüfung."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Meldestelle"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tabelle der Meldungen fehlt (Plugin neu aktivieren)"
+      ],
+      "%d Frist überschritten": [
+        "%d Frist überschritten",
+        "%d Fristen überschritten"
+      ],
+      "Keine Frist überschritten": [
+        "Keine Frist überschritten"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Vorgänge"
+      ],
+      "Offen": [
+        "Offen"
+      ],
+      "Überfällig": [
+        "Überfällig"
+      ],
+      "Meldestelle öffnen": [
+        "Meldestelle öffnen"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-Meldestelle"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Meldestelle (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Vorgänge & Fristen"
+      ],
+      "Formular einbinden": [
+        "Formular einbinden"
+      ],
+      "Testmeldung": [
+        "Testmeldung"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Fristen & Benachrichtigungen"
+      ],
+      "Deinstallation": [
+        "Deinstallation"
+      ],
+      "Begriffe": [
+        "Begriffe"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Teil der WM-Suite-Plugin-Familie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub-Modus"
+      ],
+      "Standalone": [
+        "Einzelbetrieb"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Schlüsselpaar vorhanden"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Was die Meldestelle leisten muss"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testmeldung verschlüsselt gespeichert."
+      ],
+      "Vorgangs-ID:": [
+        "Vorgangs-ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Zugangsschlüssel (nur jetzt sichtbar):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Bereiche der Meldestelle"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Der private Schlüssel liegt ungeschützt in der Datenbank."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d Person darf Meldungen öffnen.",
+        "%d Personen dürfen Meldungen öffnen."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Noch nicht in dieser Oberfläche:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht."
+      ],
+      "Meldung %s": [
+        "Meldung %s"
+      ],
+      "Meldungstext": [
+        "Meldungstext"
+      ],
+      "Verlauf": [
+        "Verlauf"
+      ],
+      "Meldestelle": [
+        "Meldestelle"
+      ],
+      "Hinweisgebende Person": [
+        "Hinweisgebende Person"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Diese Nachricht ließ sich nicht entschlüsseln."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich)."
+      ],
+      "Zurück zur Übersicht": [
+        "Zurück zur Übersicht"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Audit-Protokoll: Integritätsprüfung fehlgeschlagen"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historische Alt-Einträge ohne Signatur"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Unbekannter Fehler bei der Prüfung."
+      ],
+      "Offene Vorgänge": [
+        "Offene Vorgänge"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "ohne abschließende Rückmeldung"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Eingangsbestätigung überfällig"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "nicht bestätigt, 7-Tage-Frist vorbei"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Bestätigung in 48 Stunden fällig"
+      ],
+      "noch nicht bestätigt": [
+        "noch nicht bestätigt"
+      ],
+      "Rückmeldung überfällig": [
+        "Rückmeldung überfällig"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "keine Rückmeldung, Frist des Plugins vorbei"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt."
+      ],
+      "Vorgang": [
+        "Vorgang"
+      ],
+      "Kategorie": [
+        "Kategorie"
+      ],
+      "Status": [
+        "Status"
+      ],
+      "Eingangsbestätigung": [
+        "Eingangsbestätigung"
+      ],
+      "Rückmeldung": [
+        "Rückmeldung"
+      ],
+      "Eingang": [
+        "Eingang"
+      ],
+      "Noch keine Vorgänge.": [
+        "Noch keine Vorgänge."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Drei Demo-Vorgänge anlegen"
+      ],
+      "bestätigt am %s": [
+        "bestätigt am %s"
+      ],
+      "Frist %s": [
+        "Frist %s"
+      ],
+      "überfällig": [
+        "überfällig"
+      ],
+      "gegeben am %s": [
+        "gegeben am %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Meldeformular auf der Website einbinden"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“."
+      ],
+      "Den Shortcode einfügen:": [
+        "Den Shortcode einfügen:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang."
+      ],
+      "Testmeldung anlegen": [
+        "Testmeldung anlegen"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann."
+      ],
+      "Sachverhalt": [
+        "Sachverhalt"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt."
+      ],
+      "Testmeldung speichern": [
+        "Testmeldung speichern"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Die Fristen sind im Code festgelegt und nicht einstellbar."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Deinstallations-Einstellung gespeichert."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen"
+      ],
+      "Deinstallations-Option speichern": [
+        "Deinstallations-Option speichern"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Vorgangs-ID und Zugangsschlüssel"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Verschlüsselung"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Berechtigung zum Öffnen einer Meldung"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat."
+      ],
+      "Audit-Protokoll": [
+        "Audit-Protokoll"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben."
+      ],
+      "Case ID is required.": [
+        "Vorgangs-ID ist erforderlich."
+      ],
+      "Case not found.": [
+        "Vorgang nicht gefunden."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Die Beschreibung des Sachverhalts darf nicht leer sein."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Bewahren Sie diesen Zugangsschlüssel sicher auf. Er ist der EINZIGE Weg, den Status Ihrer Meldung abzurufen oder vertraulich ohne Preisgabe Ihrer Identität zu kommunizieren."
+      ],
+      "Case ID and Access Token are required.": [
+        "Vorgangs-ID und Zugangsschlüssel sind erforderlich."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Ungültige Vorgangs-ID oder ungültiger Zugangsschlüssel."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Vorgangs-ID, Zugangsschlüssel und Nachricht sind erforderlich."
+      ],
+      "Confidential message appended successfully.": [
+        "Vertrauliche Nachricht erfolgreich angehängt."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Der Eingang dieser Meldung wurde bereits bestätigt."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Eingangsbestätigung vermerkt und in der Vorgangsansicht bereitgestellt."
+      ],
+      "Case ID and message are required.": [
+        "Vorgangs-ID und Nachricht sind erforderlich."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Antwort in der Vorgangsansicht der hinweisgebenden Person gespeichert."
+      ],
+      "Eingegangen": [
+        "Eingegangen"
+      ],
+      "In Bearbeitung": [
+        "In Bearbeitung"
+      ],
+      "Rückmeldung gegeben": [
+        "Rückmeldung gegeben"
+      ],
+      "Abgeschlossen": [
+        "Abgeschlossen"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Finanzbetrug, Untreue, Korruption & Bestechung"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "DSGVO-Verstöße & Datenschutzverletzungen"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-Sicherheit & Cyber-Vorfälle"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Lieferkette & Menschenrechte"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Arbeitsschutz, Diskriminierung & Belästigung"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Allgemeine Compliance-Verstöße"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG Meldestelle Status"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d Tage Eingangsbestätigung (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d Monate Rückmeldefrist (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Interne Meldestelle aktiv"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Meldestelle wird eingerichtet"
+      ],
+      "Interne Meldestelle": [
+        "Interne Meldestelle"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt."
+      ],
+      "Neuen Hinweis melden": [
+        "Neuen Hinweis melden"
+      ],
+      "Vorgang abrufen": [
+        "Vorgang abrufen"
+      ],
+      "Was gespeichert wird:": [
+        "Was gespeichert wird:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …"
+      ],
+      "Hinweis absenden": [
+        "Hinweis absenden"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben."
+      ],
+      "Vorgangs-ID": [
+        "Vorgangs-ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "z. B. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Zugangsschlüssel"
+      ],
+      "64 Zeichen": [
+        "64 Zeichen"
+      ],
+      "Vorgang laden": [
+        "Vorgang laden"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Die Rolle %s gibt es nicht."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Die Rolle %s darf Meldungen jetzt öffnen."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Die Rolle %s darf Meldungen nicht mehr öffnen."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Benutzer %d gibt es nicht."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s darf Meldungen jetzt öffnen."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s darf Meldungen nicht mehr öffnen."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Zu viele Anfragen. Bitte versuchen Sie es später erneut."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Meldestelle Portal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Meldestelle-Einstellungen"
+      ],
+      "Überschrift": [
+        "Überschrift"
+      ],
+      "Einleitungstext anzeigen": [
+        "Einleitungstext anzeigen"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Meldestelle Portal (Vorschau im Frontend)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach dem HinSchG."
+      ],
+      "hinschg": [
+        "HinSchG"
+      ],
+      "whistleblower": [
+        "Hinweisgeber"
+      ],
+      "meldestelle": [
+        "Meldestelle"
+      ],
+      "compliance": [
+        "Compliance-Meldung"
+      ]
+    }
+  }
+}

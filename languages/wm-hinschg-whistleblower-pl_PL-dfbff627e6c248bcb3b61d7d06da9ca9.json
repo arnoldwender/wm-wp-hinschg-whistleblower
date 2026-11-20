@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "pl_PL",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Kanał Zgłoszeń Sygnalistów WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Wewnętrzny kanał zgłoszeń: formularz zgłoszeniowy, szyfrowanie po stronie serwera zgłoszeń i wiadomości, śledzenie terminów § 17 HinSchG oraz podpisany dziennik audytu. Nie ocenia zgodności prawnej."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Biuro zgłoszeń"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Brak tabeli zgłoszeń (ponownie aktywuj wtyczkę)"
+      ],
+      "%d Frist überschritten": [
+        "Przekroczono %d termin",
+        "Przekroczono %d terminy/terminów"
+      ],
+      "Keine Frist überschritten": [
+        "Nie przekroczono żadnego terminu"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Potwierdzenie odbioru po 7 dniach, informacja zwrotna po 3 miesiącach (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Sprawy"
+      ],
+      "Offen": [
+        "Otwarte"
+      ],
+      "Überfällig": [
+        "Po terminie"
+      ],
+      "Meldestelle öffnen": [
+        "Otwórz biuro zgłoszeń"
+      ],
+      "HinSchG-Meldestelle": [
+        "Biuro HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Biuro zgłoszeń (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Sprawy i terminy"
+      ],
+      "Formular einbinden": [
+        "Osadź formularz"
+      ],
+      "Testmeldung": [
+        "Zgłoszenie testowe"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Terminy i powiadomienia"
+      ],
+      "Deinstallation": [
+        "Dezinstalacja"
+      ],
+      "Begriffe": [
+        "Pojęcia"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Przyjmowanie zgłoszeń przez formularz, zapisywanie ich w formie zaszyfrowanej i obliczanie terminów z § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Część rodziny wtyczek WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Centrum Hub"
+      ],
+      "Standalone": [
+        "Samodzielny"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Para kluczy dostępna"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Brak pary kluczy: nie można zapisywać zgłoszeń"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Zadania wewnętrznego biura zgłoszeń"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Pracodawcy zatrudniający co do zasady co najmniej 50 pracowników muszą utworzyć wewnętrzny kanał zgłoszeń (§ 12 ust. 2 HinSchG); dla podmiotów z § 12 ust. 3 (instytucje kredytowe, firmy inwestycyjne, ubezpieczyciele) obowiązek ten działa niezależnie od liczby pracowników. Biuro potwierdza wpływ najpóźniej w ciągu siedmiu dni i przekazuje informację zwrotną w ciągu trzech miesięcy (§ 17). Zgłoszenia muszą być możliwe pisemnie, ustnie oraz na życzenie osobiście (§ 16 ust. 3); wtyczka obsługuje wyłącznie drogę pisemną. Zgłoszenia anonimowe powinny być rozpatrywane bez obowiązku tworzenia osobnych kanałów (§ 16 ust. 1). Dokumentację usuwa się trzy lata po zakończeniu postępowania (§ 11 ust. 5); wtyczka nie usuwa niczego sama i nie bada zgodności prawnej."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Utworzono trzy sprawy demonstracyjne (klucze dostępu token_demo_1 do token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Zgłoszenie testowe zapisano w formie zaszyfrowanej."
+      ],
+      "Vorgangs-ID:": [
+        "ID sprawy:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Klucz dostępu (widoczny tylko teraz):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Sekcje biura zgłoszeń"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Klucz prywatny jest przechowywany bez ochrony w bazie danych."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Ustaw %1$s (zalecane, Libsodium XSalsa20-Poly1305, automatyczna migracja) lub %2$s w wp-config.php i uruchom %3$s. Para kluczy pozostaje zachowana; zmienia się tylko forma zapisu, dzięki czemu wszystkie zgłoszenia pozostają czytelne."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d osoba może otwierać zgłoszenia.",
+        "%d osób może otwierać zgłoszenia."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "W tym rola %1$s, czyli każdy administrator tej witryny. § 8 HinSchG ogranicza dostęp do osób upoważnionych. Polecenie %2$s wyświetla listę; nadaj rolę „Meldestelle (HinSchG)” i odbierz uprawnienie poleceniem %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Administratorzy witryny nie mogą otwierać zgłoszeń, dopóki nie posiadają tego uprawnienia."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Jeszcze niedostępne w tym widoku:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Potwierdzanie wpływu i odpowiadanie. Służą do tego trasy REST POST /wp-json/wm-hinschg/v1/admin/ack oraz /admin/reply (uprawnienie wm_hinschg_read_cases). Wtyczka nie wysyła wiadomości e-mail."
+      ],
+      "Meldung %s": [
+        "Zgłoszenie %s"
+      ],
+      "Meldungstext": [
+        "Treść zgłoszenia"
+      ],
+      "Verlauf": [
+        "Przebieg"
+      ],
+      "Meldestelle": [
+        "Biuro zgłoszeń"
+      ],
+      "Hinweisgebende Person": [
+        "Osoba zgłaszająca"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Nie udało się odszyfrować tej wiadomości."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Każde otwarcie zgłoszenia jest zapisywane w dzienniku audytu (§ 8 HinSchG: treść jest poufna również wewnątrz organizacji)."
+      ],
+      "Zurück zur Übersicht": [
+        "Powrót do przeglądu"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Dziennik audytu: łańcuch zweryfikowany, brak śladów późniejszych zmian"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Dziennik audytu: kontrola integralności nie powiodła się"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Sprawdzono %1$d wpisów. Klucz podpisu: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historycznych wpisów bez podpisu"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Nieznany błąd podczas weryfikacji."
+      ],
+      "Offene Vorgänge": [
+        "Otwarte sprawy"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "bez końcowej informacji zwrotnej"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Potwierdzenie wpływu po terminie"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "niepotwierdzone, minął termin 7 dni"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Potwierdzenie wymagane w ciągu 48 godzin"
+      ],
+      "noch nicht bestätigt": [
+        "jeszcze niepotwierdzone"
+      ],
+      "Rückmeldung überfällig": [
+        "Informacja zwrotna po terminie"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "brak informacji zwrotnej, minął termin"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Ostatnie 50 spraw ze statusem i terminami. Treści pozostają zaszyfrowane."
+      ],
+      "Vorgang": [
+        "Sprawa"
+      ],
+      "Kategorie": [
+        "Kategoria"
+      ],
+      "Status": [
+        "Stan sprawy"
+      ],
+      "Eingangsbestätigung": [
+        "Potwierdzenie wpływu"
+      ],
+      "Rückmeldung": [
+        "Informacja zwrotna"
+      ],
+      "Eingang": [
+        "Wpływ"
+      ],
+      "Noch keine Vorgänge.": [
+        "Brak spraw."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Utwórz trzy sprawy demonstracyjne"
+      ],
+      "bestätigt am %s": [
+        "potwierdzono %s"
+      ],
+      "Frist %s": [
+        "Termin %s"
+      ],
+      "überfällig": [
+        "po terminie"
+      ],
+      "gegeben am %s": [
+        "przekazano %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Osadzanie formularza zgłoszeń na stronie"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Utwórz stronę, np. „System zgłoszeń sygnalistów”."
+      ],
+      "Den Shortcode einfügen:": [
+        "Wstaw krótki kod (shortcode):"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(równoważnie: [wm_hinschg_portal] lub blok „wm/hinschg-portal”)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Podlinkuj stronę w miejscu widocznym dla pracowników, np. w intranecie lub stopce."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Po wysłaniu sygnalista otrzymuje ID sprawy oraz klucz dostępu. Za ich pomocą sprawdza status i wymienia wiadomości w tym samym formularzu bez podawania imienia ani adresu e-mail. Zapisywany jest tylko skrót HMAC klucza; jego utrata oznacza brak dostępu do sprawy."
+      ],
+      "Testmeldung anlegen": [
+        "Utwórz zgłoszenie testowe"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Tworzy sprawę tą samą ścieżką co formularz publiczny i jednorazowo pokazuje klucz dostępu do przetestowania portalu."
+      ],
+      "Sachverhalt": [
+        "Opis stanu faktycznego"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Zapisywany po zaszyfrowaniu AES-256-GCM; klucz symetryczny jest pieczętowany kluczem RSA wtyczki."
+      ],
+      "Testmeldung speichern": [
+        "Zapisz zgłoszenie testowe"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Potwierdzenie wpływu: wpływ + %d dni. § 17 ust. 1 pkt 1 HinSchG wymaga potwierdzenia najpóźniej po siedmiu dniach."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Informacja zwrotna: wpływ + %d mies. § 17 ust. 2 HinSchG liczy trzy miesiące od potwierdzenia (bez potwierdzenia trzy miesiące i siedem dni); termin wtyczki nigdy nie wypada później."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Terminy są stałe w kodzie i nie podlegają zmianie."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Wtyczka nie wysyła e-maili. Cogodzinne sprawdzenie (WP-Cron) wywołuje akcję wm_hinschg_sla_breach_detected po przekroczeniu terminu."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Do 15.09.2026 znajdowała się tu strona ustawień e-mail, terminów, załączników i retencji, z której kod nigdy nie korzystał."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Zapisano ustawienie dezinstalacji."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Jednorazowy eksport klucza prywatnego offline (widoczny tylko teraz):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Zapisz bezpiecznie ten klucz prywatny jako WM_HINSCHG_PRIVATE_KEY w pliku wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Ustawowe przechowywanie (§ 11 HinSchG) i dezinstalacja"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Zgodnie z § 11 ust. 5 HinSchG dokumentację przechowuje się przez trzy lata od zakończenia postępowania. Domyślnie zgłoszenia, wiadomości, dziennik audytu i para kluczy zostają zachowane przy usunięciu wtyczki."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Podczas odinstalowywania wtyczki nieodwracalnie usuń wszystkie zgłoszenia, wiadomości, wpisy audytu i klucze"
+      ],
+      "Deinstallations-Option speichern": [
+        "Zapisz opcję dezinstalacji"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Tylko administratorzy witryny (manage_options) mogą zmienić zachowanie przy dezinstalacji."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID sprawy i klucz dostępu"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Przekazywane jednorazowo po wysłaniu. Klucz ma 64 znaki; wtyczka zapisuje wyłącznie jego HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Najpóźniej po siedmiu dniach (§ 17 ust. 1 pkt 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "W ciągu trzech miesięcy od potwierdzenia wpływu wraz z informacją o działaniach następczych (§ 17 ust. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Szyfrowanie"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Zgłoszenia i wiadomości są szyfrowane na serwerze algorytmem AES-256-GCM, a klucz AES jest pieczętowany RSA. Miejsce przechowywania klucza prywatnego określa wp-config.php: tam poprzez WM_HINSCHG_PRIVATE_KEY, w bazie zaszyfrowany hasłem WM_HINSCHG_KEY_PASSPHRASE albo w starszych instalacjach jawnie. Aktywny tryb widać u góry strony i w wp hinschg key-status. Transmisję chroni HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Uprawnienie do otwierania zgłoszeń"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Wtyczka sprawdza własne uprawnienie wm_hinschg_read_cases i dodaje rolę „Meldestelle (HinSchG)”. O tym, kto je posiada, decyduje WordPress lub wtyczka ról. Podczas instalacji otrzymuje je „Administrator”; późniejsze odebranie go administratorom zapewnia poufność. wp hinschg access pokazuje uprawnionych."
+      ],
+      "Audit-Protokoll": [
+        "Dziennik audytu"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Każdy wpis zawiera skrót HMAC-SHA256 poprzedniego. Zmiany, usunięcia i wstawienia są wykrywane; posiadacz klucza z wp-config.php może podpisać łańcuch na nowo."
+      ],
+      "Case ID is required.": [
+        "Wymagane jest ID sprawy."
+      ],
+      "Case not found.": [
+        "Nie znaleziono sprawy."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Koperta kryptograficzna tego zgłoszenia jest niekompletna; nie można go odszyfrować."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Nie udało się odszyfrować tego zgłoszenia. Źródło klucza: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Opis zgłoszenia nie może być pusty."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Zachowaj ten klucz dostępu w bezpiecznym miejscu. To JEDYNY sposób na sprawdzenie statusu lub poufną komunikację bez ujawniania tożsamości."
+      ],
+      "Case ID and Access Token are required.": [
+        "Wymagane są ID sprawy oraz klucz dostępu."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Nieprawidłowe ID sprawy lub klucz dostępu."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Wymagane są ID sprawy, klucz dostępu oraz wiadomość."
+      ],
+      "Confidential message appended successfully.": [
+        "Poufna wiadomość została dodana."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Odbiór tego zgłoszenia został już potwierdzony."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Potwierdzenie wpływu: Twoje zgłoszenie wpłynęło do wewnętrznego biura zgłoszeń (§ 17 ust. 1 pkt 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Potwierdzenie zapisano i przekazano do widoku sprawy sygnalisty."
+      ],
+      "Case ID and message are required.": [
+        "Wymagane są ID sprawy oraz wiadomość."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Odpowiedź zapisana w widoku sprawy osoby zgłaszającej."
+      ],
+      "Eingegangen": [
+        "Wpłynęło"
+      ],
+      "In Bearbeitung": [
+        "W trakcie opracowania"
+      ],
+      "Rückmeldung gegeben": [
+        "Udzielono informacji zwrotnej"
+      ],
+      "Abgeschlossen": [
+        "Zamknięte"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Oszustwa finansowe, sprzeniewierzenie, korupcja i łapownictwo"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Naruszenia RODO i wycieki danych"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Bezpieczeństwo IT i incydenty cybernetyczne"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Łańcuch dostaw i prawa człowieka"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "BHP, dyskryminacja i mobbing"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Ogólne naruszenia zgodności (compliance)"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Klucz prywatny znajduje się w wp-config.php. Sam zrzut bazy danych nie odszyfruje żadnego zgłoszenia."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Klucz prywatny jest zaszyfrowany w bazie przez Libsodium (XSalsa20-Poly1305); klucz główny (WM_HINSCHG_MASTER_KEY) jest w wp-config.php. Sam zrzut bazy niczego nie odszyfruje."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Klucz prywatny jest zaszyfrowany w bazie danych; hasło znajduje się w wp-config.php. Sam zrzut bazy niczego nie odszyfruje."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Klucz prywatny jest zaszyfrowany w bazie przez Libsodium (pochodny z AUTH_KEY w wp-config.php). Sam zrzut bazy niczego nie odszyfruje; zaleca się WM_HINSCHG_MASTER_KEY do niezależnej rotacji."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "W bazie znajduje się wyłącznie klucz publiczny (depozyt offline). Nowe zgłoszenia są pieczętowane; do odczytu wymagany jest WM_HINSCHG_PRIVATE_KEY w wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Klucz prywatny leży niezaszyfrowany w bazie obok zgłoszeń. Pełny zrzut bazy pozwala odszyfrować każde zgłoszenie."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Dziennik jest pusty, mimo że ostatnio odnotowano %d wpisów."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Przerwanie łańcucha przy wpisie #%d: wpis usunięto, wstawiono lub zmieniono kolejność."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Wpis #%d nie zgadza się z podpisem: został zmieniony lub zapisany innym AUTH_KEY (np. przed migracją witryny)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Koniec dziennika nie zgadza się z ostatnim zapisanym wpisem. Usunięto najnowsze wpisy."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Żaden wpis nie posiada podpisu z kluczem. Dziennik pochodzi sprzed wprowadzenia klucza lub został cofnięty do formatu podatnego na fałszerstwo i nie daje się zweryfikować."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "W wp-config.php nie ustawiono ani %1$s, ani %2$s. Bez sekretu w wp-config.php nie można zaszyfrować klucza."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "W bazie danych nie ma klucza prywatnego. Nie ma czego migrować."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Nie można odszyfrować zapisanego klucza za pomocą WM_HINSCHG_MASTER_KEY. Przywróć pierwotny klucz główny; nic nie zostało nadpisane."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Klucz prywatny jest już zaszyfrowany przez Libsodium (WM_HINSCHG_MASTER_KEY). Nic do zrobienia."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Nie udało się otworzyć zapisanego klucza. Nic nie zostało nadpisane."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Weryfikacja klucza zapieczętowanego przez Libsodium nie powiodła się. Nic nie zostało nadpisane."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Klucz prywatny jest teraz zaszyfrowany w bazie przez Libsodium (WM_HINSCHG_MASTER_KEY). Sam zrzut bazy nie odszyfruje już zgłoszeń."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Zapisanego klucza nie da się otworzyć ani bez hasła, ani ze skonfigurowanym hasłem. Przywróć poprzednie hasło, inaczej żadnego zgłoszenia nie będzie można odczytać."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Klucz prywatny jest już zaszyfrowany skonfigurowanym hasłem. Nic do zrobienia."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Nie udało się wyeksportować zaszyfrowanego klucza. Zapisany klucz pozostał bez zmian."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Nie udało się ponownie otworzyć zaszyfrowanego klucza. Nic nie zostało nadpisane."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Klucz prywatny jest teraz zaszyfrowany w bazie danych. Sam zrzut bazy niczego nie odszyfruje. Hasło w wp-config.php jest odtąd niezbędne."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Status kanału HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dni na potwierdzenie wpływu (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d mies. na informację zwrotną (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Wewnętrzny kanał zgłoszeń aktywny"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Kanał zgłoszeń w trakcie konfiguracji"
+      ],
+      "Interne Meldestelle": [
+        "Wewnętrzny kanał zgłoszeń"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Tutaj możesz zgłosić naruszenia. Imię, nazwisko ani adres e-mail nie są wymagane."
+      ],
+      "Neuen Hinweis melden": [
+        "Wyślij nowe zgłoszenie"
+      ],
+      "Vorgang abrufen": [
+        "Sprawdź sprawę"
+      ],
+      "Was gespeichert wird:": [
+        "Co jest zapisywane:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategoria i opis stanu faktycznego, szyfrowane na serwerze. Twój adres IP nie jest zapisywany ze zgłoszeniem; w celu ograniczenia liczby zapytań witryna przechowuje maksymalnie przez godzinę skrót HMAC adresu. Ewentualne logi serwera WWW zależą od operatora strony, nie od formularza. Po wysłaniu otrzymasz ID sprawy i klucz dostępu do dalszego kontaktu."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Opisz sytuację możliwie dokładnie (miejsce, data, zaangażowane osoby)…"
+      ],
+      "Hinweis absenden": [
+        "Wyślij zgłoszenie"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Podaj ID sprawy oraz klucz dostępu, aby sprawdzić stan sprawy i napisać do biura zgłoszeń."
+      ],
+      "Vorgangs-ID": [
+        "ID sprawy"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "np. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Klucz dostępu"
+      ],
+      "64 Zeichen": [
+        "64 znaki"
+      ],
+      "Vorgang laden": [
+        "Wczytaj sprawę"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rola %s nie istnieje."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rola %s może już otwierać zgłoszenia. Nic do zrobienia."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rola %s może teraz otwierać zgłoszenia."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rola %s i tak nie mogła otwierać zgłoszeń. Nic do zrobienia."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Przerwano: nikt nie mógłby już otwierać zgłoszeń. Biuro musi potwierdzić wpływ w ciągu siedmiu dni (§ 17 HinSchG). Najpierw nadaj uprawnienie komuś innemu, a potem odbierz tutaj."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rola %s nie może już otwierać zgłoszeń."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Użytkownik %d nie istnieje."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s może teraz otwierać zgłoszenia."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Przerwano: nikt nie mógłby już otwierać zgłoszeń. Najpierw nadaj uprawnienie komuś innemu, a potem odbierz tutaj."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s nie może już otwierać zgłoszeń."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Zbyt wiele zapytań. Spróbuj ponownie później."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portal Zgłoszeń HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Wewnętrzny formularz dla sygnalistów i sprawdzanie statusu sprawy wg HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Ustawienia portalu"
+      ],
+      "Überschrift": [
+        "Nagłówek"
+      ],
+      "Einleitungstext anzeigen": [
+        "Pokaż tekst wprowadzający"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portal Zgłoszeń HinSchG (podgląd na stronie)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Wewnętrzny formularz sygnalistów i podgląd sprawy zgodnie z niemiecką ustawą HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-ustawa"
+      ],
+      "whistleblower": [
+        "sygnalista"
+      ],
+      "meldestelle": [
+        "biuro-zgloszen"
+      ],
+      "compliance": [
+        "zgodnosc"
+      ]
+    }
+  }
+}

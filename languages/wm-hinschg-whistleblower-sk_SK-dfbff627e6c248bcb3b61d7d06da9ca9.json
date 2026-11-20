@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "sk_SK",
+        "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Pracovisko Oznamovateľov WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Vnútorný oznamovací kanál: formulár oznámenia, serverové šifrovanie oznámení a správ, sledovanie lehôt podľa § 17 HinSchG a podpísaný auditný protokol. Neposudzuje právny súlad."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Oznamovacie miesto"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Chýba tabuľka oznámení (znova aktivujte plugin)"
+      ],
+      "%d Frist überschritten": [
+        "Prekročená %d lehota",
+        "Prekročených %d lehôt"
+      ],
+      "Keine Frist überschritten": [
+        "Žiadna lehota nebola prekročená"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Potvrdenie prijatia do 7 dní, spätná väzba do 3 mesiacov (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Prípady"
+      ],
+      "Offen": [
+        "Otvorené"
+      ],
+      "Überfällig": [
+        "Po lehote"
+      ],
+      "Meldestelle öffnen": [
+        "Otvoriť oznamovacie miesto"
+      ],
+      "HinSchG-Meldestelle": [
+        "Oznamovacie miesto HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Oznamovacie miesto (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Prípady a lehoty"
+      ],
+      "Formular einbinden": [
+        "Vložiť formulár"
+      ],
+      "Testmeldung": [
+        "Testovacie oznámenie"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Lehoty a upozornenia"
+      ],
+      "Deinstallation": [
+        "Odinštalovanie"
+      ],
+      "Begriffe": [
+        "Pojmy"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Prijímať oznámenia cez formulár, šifrovane ich ukladať a počítať lehoty podľa § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Súčasť rodiny pluginov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Centrum Hub"
+      ],
+      "Standalone": [
+        "Samostatný režim"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Pár kľúčov je k dispozícii"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Chýba pár kľúčov: oznámenia nemožno ukladať"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Čo musí oznamovacie miesto zabezpečiť"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Zamestnávatelia so spravidla aspoň 50 zamestnancami musia zriadiť vnútorné oznamovacie miesto (§ 12 ods. 2 HinSchG); pre subjekty v § 12 ods. 3 (úverové inštitúcie, obchodníci s cennými papiermi, poisťovne) to platí bez ohľadu na počet zamestnancov. Miesto potvrdí prijatie najneskôr do siedmich dní a do troch mesiacov poskytne spätnú väzbu (§ 17). Oznámenie musí byť možné písomne, ústne a na žiadosť osobne (§ 16 ods. 3); tento plugin pokrýva len písomnú cestu. Anonymné oznámenia sa majú vybavovať bez povinnosti zriadiť osobitný kanál (§ 16 ods. 1). Dokumentácia sa maže tri roky po skončení konania (§ 11 ods. 5); plugin sám nič nemaže a nehodnotí zákonné povinnosti."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Vytvorené tri ukážkové prípady (prístupové kľúče token_demo_1 až token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testovacie oznámenie uložené šifrovane."
+      ],
+      "Vorgangs-ID:": [
+        "ID prípadu:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Prístupový kľúč (viditeľný iba teraz):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Sekcie oznamovacieho miesta"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Súkromný kľúč je v databáze uložený bez ochrany."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Nastavte %1$s (odporúčané, Libsodium XSalsa20-Poly1305, automatická migrácia) alebo %2$s vo wp-config.php a spustite %3$s. Pár kľúčov zostane zachovaný; zmení sa len uložená podoba, takže doterajšie oznámenia zostanú čitateľné."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d osoba smie otvárať oznámenia.",
+        "%d osôb smie otvárať oznámenia."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Vrátane roly %1$s, teda každého správcu webu. § 8 HinSchG obmedzuje obsah na poverené osoby. Príkazom %2$s zobrazíte zoznam; prideľte rolu „Meldestelle (HinSchG)“ a potom oprávnenie odoberte cez %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Administrátori tohto webu nemôžu otvárať oznámenia, kým nemajú toto oprávnenie."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Zatiaľ nie je v tomto rozhraní:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Potvrdenie prijatia a odpovedanie. Slúžia na to trasy REST POST /wp-json/wm-hinschg/v1/admin/ack a /admin/reply (oprávnenie wm_hinschg_read_cases). Plugin neposiela e-maily."
+      ],
+      "Meldung %s": [
+        "Oznámenie %s"
+      ],
+      "Meldungstext": [
+        "Text oznámenia"
+      ],
+      "Verlauf": [
+        "Priebeh"
+      ],
+      "Meldestelle": [
+        "Oznamovacie miesto"
+      ],
+      "Hinweisgebende Person": [
+        "Oznamujúca osoba"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Túto správu sa nepodarilo dešifrovať."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Každé otvorenie tohto oznámenia sa zapisuje do auditného protokolu (§ 8 HinSchG: obsah je dôverný aj vnútri organizácie)."
+      ],
+      "Zurück zur Übersicht": [
+        "Späť na prehľad"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Auditný protokol: reťazec overený, žiadna dodatočná zmena nezistená"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Auditný protokol: kontrola integrity zlyhala"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Overených %1$d záznamov protokolu. Podpisový kľúč: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historických záznamov bez podpisu"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Neznáma chyba pri overovaní."
+      ],
+      "Offene Vorgänge": [
+        "Otvorené prípady"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "bez záverečnej spätnej väzby"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Potvrdenie prijatia po lehote"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "nepotvrdené, 7-dňová lehota uplynula"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Potvrdenie splatné do 48 hodín"
+      ],
+      "noch nicht bestätigt": [
+        "zatiaľ nepotvrdené"
+      ],
+      "Rückmeldung überfällig": [
+        "Spätná väzba po lehote"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "bez spätnej väzby, lehota uplynula"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Posledných 50 prípadov so stavom a lehotami. Obsah zostáva šifrovaný."
+      ],
+      "Vorgang": [
+        "Prípad"
+      ],
+      "Kategorie": [
+        "Kategória"
+      ],
+      "Status": [
+        "Stav prípadu"
+      ],
+      "Eingangsbestätigung": [
+        "Potvrdenie prijatia"
+      ],
+      "Rückmeldung": [
+        "Spätná väzba"
+      ],
+      "Eingang": [
+        "Prijaté"
+      ],
+      "Noch keine Vorgänge.": [
+        "Zatiaľ žiadne prípady."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Vytvoriť tri ukážkové prípady"
+      ],
+      "bestätigt am %s": [
+        "potvrdené %s"
+      ],
+      "Frist %s": [
+        "Lehota %s"
+      ],
+      "überfällig": [
+        "po lehote"
+      ],
+      "gegeben am %s": [
+        "poskytnuté %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Vloženie formulára oznámenia na web"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Vytvorte stránku, napríklad „Systém oznamovania“."
+      ],
+      "Den Shortcode einfügen:": [
+        "Vložte skrátený kód (shortcode):"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(ekvivalentne: [wm_hinschg_portal] alebo blok „wm/hinschg-portal“)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Prepojte stránku tam, kde ju zamestnanci nájdu, napr. na intranete alebo v päte stránky."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Po odoslaní dostane oznamovateľ ID prípadu a prístupový kľúč. Pomocou oboch sleduje stav a píše správy v tom istom formulári bez uvedenia mena či e-mailu. Ukladá sa iba HMAC kľúča; pri strate už k prípadu niet prístupu."
+      ],
+      "Testmeldung anlegen": [
+        "Vytvoriť testovacie oznámenie"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Založí prípad rovnakou cestou ako formulár a jednorazovo zobrazí prístupový kľúč na odskúšanie portálu."
+      ],
+      "Sachverhalt": [
+        "Opis skutku"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Ukladá sa šifrovane pomocou AES-256-GCM; kľúč je zapečatený RSA kľúčom pluginu."
+      ],
+      "Testmeldung speichern": [
+        "Uložiť testovacie oznámenie"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Potvrdenie prijatia: prijatie + %d dní. § 17 ods. 1 bod 1 HinSchG vyžaduje potvrdenie najneskôr do siedmich dní."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Spätná väzba: prijatie + %d mesiacov. § 17 ods. 2 HinSchG počíta tri mesiace od potvrdenia (bez potvrdenia tri mesiace a sedem dní); lehota pluginu nie je nikdy neskoršia."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Lehoty sú pevne dané v kóde a nedajú sa meniť."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Plugin neposiela e-maily. Hodinová kontrola (WP-Cron) spustí pri prekročení lehoty akciu wm_hinschg_sla_breach_detected."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Do 15. 9. 2026 tu bola stránka nastavení pre e-mail, lehoty, prílohy a uchovávanie, ktorú kód nikdy nečítal."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Nastavenie odinštalovania uložené."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Jednorazový offline výpis súkromného kľúča (viditeľný len teraz):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Uložte tento súkromný kľúč bezpečne ako WM_HINSCHG_PRIVATE_KEY vo wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Zákonné uchovávanie (§ 11 HinSchG) a odinštalovanie"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Podľa § 11 ods. 5 HinSchG sa dokumentácia uchováva tri roky po skončení konania. Predvolene zostávajú oznámenia, správy, protokol aj kľúče pri zmazaní pluginu zachované."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Pri odinštalovaní pluginu nenávratne vymazať všetky oznámenia, správy, záznamy auditu a kľúče"
+      ],
+      "Deinstallations-Option speichern": [
+        "Uložiť voľbu odinštalovania"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Správanie pri odinštalovaní môžu meniť iba správcovia webu (manage_options)."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID prípadu a prístupový kľúč"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Oznamovateľ dostane oboje raz po odoslaní. Kľúč má 64 znakov; ukladá sa iba jeho HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Najneskôr po siedmich dňoch (§ 17 ods. 1 bod 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Do troch mesiacov od potvrdenia prijatia s uvedením plánovaných a prijatých opatrení (§ 17 ods. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Šifrovanie"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Oznámenia a správy sú na serveri šifrované AES-256-GCM a kľúč AES je zapečatený cez RSA. Umiestnenie súkromného kľúča určuje wp-config.php: tam cez WM_HINSCHG_PRIVATE_KEY, šifrovane v databáze cez WM_HINSCHG_KEY_PASSPHRASE alebo v otvorenom texte pri starších inštaláciách. Aktívny režim je hore a vo wp hinschg key-status. Prenos chráni HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Oprávnenie na otvorenie oznámenia"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Plugin kontroluje vlastné oprávnenie wm_hinschg_read_cases a prináša rolu „Meldestelle (HinSchG)“. Kto ju drží, riadi WordPress alebo správca rolí. Pri inštalácii ju dostane „Administrator“; následné odobratie správcom je cieľový stav. wp hinschg access vypíše držiteľov."
+      ],
+      "Audit-Protokoll": [
+        "Auditný protokol"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Každý záznam obsahuje HMAC-SHA256 predchádzajúceho. Úpravy, vymazania a vloženia sa odhalia; kto pozná kľúč z wp-config.php, môže reťazec podpísať nanovo."
+      ],
+      "Case ID is required.": [
+        "ID prípadu je povinné."
+      ],
+      "Case not found.": [
+        "Prípad sa nenašiel."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Obálka tohto oznámenia je uložená neúplne; nemožno ju dešifrovať."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Toto oznámenie sa nepodarilo dešifrovať. Zdroj kľúča: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Opis oznámenia nesmie byť prázdny."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Tento prístupový kľúč si bezpečne uložte. Je to JEDINÝ spôsob, ako skontrolovať stav alebo dôverne komunikovať bez odhalenia identity."
+      ],
+      "Case ID and Access Token are required.": [
+        "Vyžaduje sa ID prípadu a prístupový kľúč."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Neplatné ID prípadu alebo prístupový kľúč."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Vyžaduje sa ID prípadu, prístupový kľúč a správa."
+      ],
+      "Confidential message appended successfully.": [
+        "Dôverná správa bola úspešne pridaná."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Prijatie tohto oznámenia už bolo potvrdené."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Potvrdenie prijatia: vaše oznámenie bolo prijaté vnútorným oznamovacím miestom (§ 17 ods. 1 bod 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Potvrdenie bolo zaznamenané a odoslané do náhľadu prípadu oznamovateľa."
+      ],
+      "Case ID and message are required.": [
+        "Vyžaduje sa ID prípadu a správa."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Odpoveď uložená do náhľadu prípadu oznamujúcej osoby."
+      ],
+      "Eingegangen": [
+        "Prijaté"
+      ],
+      "In Bearbeitung": [
+        "V riešení"
+      ],
+      "Rückmeldung gegeben": [
+        "Spätná väzba poskytnutá"
+      ],
+      "Abgeschlossen": [
+        "Uzavreté"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Finančné podvody, sprenevera, korupcia a podplácanie"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Porušenia GDPR a úniky osobných údajov"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT bezpečnosť a kybernetické incidenty"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Dodávateľský reťazec a ľudské práva"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "BOZP, diskriminácia a obťažovanie"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Všeobecné porušenia súladu (compliance)"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Súkromný kľúč je vo wp-config.php. Samotný výpis databázy nedešifruje žiadne oznámenie."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Súkromný kľúč je v databáze šifrovaný cez Libsodium (XSalsa20-Poly1305); hlavný kľúč (WM_HINSCHG_MASTER_KEY) je vo wp-config.php. Samotný výpis nič nedešifruje."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Súkromný kľúč je v databáze šifrovaný; prístupová fráza je vo wp-config.php. Samotný výpis nič nedešifruje."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Súkromný kľúč je v databáze šifrovaný cez Libsodium (odvodený z AUTH_KEY vo wp-config.php). Samotný výpis nič nedešifruje; pre nezávislú rotáciu sa odporúča WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "V databáze je iba verejný kľúč (offline úschova). Nové oznámenia sa pečatia; na čítanie treba WM_HINSCHG_PRIVATE_KEY vo wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Súkromný kľúč leží nešifrovaný v databáze vedľa oznámení. Úplný výpis databázy rozšifruje každé oznámenie."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Protokol je prázdny, hoci bolo naposledy zaznamenaných %d položiek."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Prerušenie reťazca pri zázname #%d: záznam bol zmazaný, vložený alebo presunutý."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Záznam #%d nesedí s podpisom: bol dodatočne zmenený alebo zapísaný iným AUTH_KEY (napr. pred presunom webu)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Koniec protokolu nesedí s posledným zaznamenaným záznamom. Najnovšie záznamy boli odstránené."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Žiadny záznam nenesie podpis s kľúčom. Protokol pochádza spred kľúča alebo bol degradovaný na falšovateľný formát a nemožno ho overiť."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Vo wp-config.php nie je nastavené %1$s ani %2$s. Bez tajomstva vo wp-config.php nemožno kľúč zašifrovať."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "V databáze nie je žiadny súkromný kľúč. Niet čo migrovať."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Uložený kľúč nemožno dešifrovať pomocou WM_HINSCHG_MASTER_KEY. Obnovte pôvodný hlavný kľúč; nič nebolo prepísané."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Súkromný kľúč je už zašifrovaný cez Libsodium (WM_HINSCHG_MASTER_KEY). Niet čo robiť."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Uložený kľúč sa nepodarilo otvoriť. Nič nebolo prepísané."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Kľúč zapečatený cez Libsodium sa nepodarilo overiť. Nič nebolo prepísané."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Súkromný kľúč je teraz v databáze zašifrovaný cez Libsodium (WM_HINSCHG_MASTER_KEY). Samotný výpis databázy už oznámenia nedešifruje."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Uložený kľúč nemožno otvoriť bez frázy ani so zadanou frázou. Obnovte pôvodnú frázu, inak nebude žiadne oznámenie čitateľné."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Súkromný kľúč je už zašifrovaný nastavenou frázou. Niet čo robiť."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Kľúč sa nepodarilo šifrovane exportovať. Uložený kľúč zostáva nezmenený."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Zašifrovaný kľúč sa nepodarilo znova otvoriť. Nič nebolo prepísané."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Súkromný kľúč je teraz zašifrovaný v databáze. Samotný výpis nič nedešifruje. Fráza vo wp-config.php je odteraz nevyhnutná."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Stav kanála HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dní na potvrdenie prijatia (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d mesiacov lehota spätnej väzby (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Vnútorné oznamovacie miesto aktívne"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Oznamovacie miesto sa nastavuje"
+      ],
+      "Interne Meldestelle": [
+        "Vnútorné oznamovacie miesto"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Tu môžete nahlásiť porušenia predpisov. Meno a e-mailová adresa sa nevyžadujú."
+      ],
+      "Neuen Hinweis melden": [
+        "Podať nové oznámenie"
+      ],
+      "Vorgang abrufen": [
+        "Načítať prípad"
+      ],
+      "Was gespeichert wird:": [
+        "Čo sa ukladá:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategória a opis skutku, šifrované na serveri. Vaša IP adresa sa k oznámeniu neukladá; na obmedzenie dopytov web uchováva najviac hodinu jej HMAC odtlačok. Prípadné logovanie webového servera určuje prevádzkovateľ webu, nie tento formulár. Po odoslaní dostanete ID prípadu a prístupový kľúč pre otázky a spätnú väzbu."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Opíšte skutok čo najpresnejšie (miesto, dátum, zúčastnené osoby)…"
+      ],
+      "Hinweis absenden": [
+        "Odoslať oznámenie"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Zadajte ID prípadu a prístupový kľúč na zobrazenie stavu a komunikáciu s oznamovacím miestom."
+      ],
+      "Vorgangs-ID": [
+        "ID prípadu"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "napr. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Prístupový kľúč"
+      ],
+      "64 Zeichen": [
+        "64 znakov"
+      ],
+      "Vorgang laden": [
+        "Otvoriť prípad"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rola %s neexistuje."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rola %s už smie otvárať oznámenia. Niet čo robiť."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rola %s teraz smie otvárať oznámenia."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rola %s aj tak nesmela otvárať oznámenia. Niet čo robiť."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Zrušené: potom by už nikto nemohol otvárať oznámenia. Miesto musí potvrdiť prijatie do siedmich dní (§ 17 HinSchG). Najprv oprávnite inú osobu a potom odoberte oprávnenie tu."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rola %s už nesmie otvárať oznámenia."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Používateľ %d neexistuje."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s teraz smie otvárať oznámenia."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Zrušené: potom by už nikto nemohol otvárať oznámenia. Najprv oprávnite inú osobu a potom odoberte oprávnenie tu."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s už nesmie otvárať oznámenia."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Príliš veľa požiadaviek. Skúste to prosím neskôr."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portál Oznamovateľov HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Vnútorný formulár pre oznamovateľov a kontrola stavu prípadu podľa HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Nastavenia portálu"
+      ],
+      "Überschrift": [
+        "Nadpis"
+      ],
+      "Einleitungstext anzeigen": [
+        "Zobraziť úvodný text"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portál Oznamovateľov HinSchG (náhľad na webe)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Vnútorný formulár pre oznamovateľov a zobrazenie stavu podľa nemeckého zákona HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-zakon"
+      ],
+      "whistleblower": [
+        "oznamovatel"
+      ],
+      "meldestelle": [
+        "oznamovacie-miesto"
+      ],
+      "compliance": [
+        "sulad"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1582 @@
+# Translation of wm-hinschg-whistleblower in nl_NL
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-hinschg-whistleblower 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-hinschg-"
+"whistleblower\n"
+"POT-Creation-Date: 2026-11-19T12:13:17+00:00\n"
+"PO-Revision-Date: 2026-11-16 23:30+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-whistleblower/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-whistleblower/issues>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-hinschg-whistleblower\n"
+
+#. Plugin Name of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "WM HinSchG Whistleblower Desk"
+msgstr "WM HinSchG Meldpunt Klokkenluiders"
+
+#. Plugin URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+msgstr ""
+
+#. Description of the plugin
+#: wm-hinschg-whistleblower.php
+msgid ""
+"Internal whistleblowing channel: report form, server-side encryption of "
+"reports and messages, deadline tracking under § 17 HinSchG and a keyed audit "
+"log. It does not assess legal compliance."
+msgstr ""
+"Intern meldkanaal: meldformulier, serverzijdige versleuteling van meldingen "
+"en berichten, termijnbewaking volgens § 17 HinSchG en een ondertekend "
+"auditlogboek. Beoordeelt geen juridische naleving."
+
+#. Author of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://www.arnoldwender.com"
+msgstr "https://www.arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:44
+msgid "WM HinSchG — Meldestelle"
+msgstr "WM HinSchG — Meldpunt"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid "Tabelle der Meldungen fehlt (Plugin neu aktivieren)"
+msgstr "Tabel met meldingen ontbreekt (activeer de plugin opnieuw)"
+
+#. translators: %d: number of passed deadlines
+#: includes/Admin/AdminDashboard.php:80 includes/Admin/AdminDashboard.php:423
+#, php-format
+msgid "%d Frist überschritten"
+msgid_plural "%d Fristen überschritten"
+msgstr[0] "%d termijn overschreden"
+msgstr[1] "%d termijnen overschreden"
+
+#: includes/Admin/AdminDashboard.php:82 includes/Admin/AdminDashboard.php:425
+msgid "Keine Frist überschritten"
+msgstr "Geen termijn overschreden"
+
+#: includes/Admin/AdminDashboard.php:86
+msgid ""
+"Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)"
+msgstr ""
+"Ontvangstbevestiging na 7 dagen, terugkoppeling na 3 maanden (§ 17 HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:93 includes/Admin/AdminDashboard.php:689
+msgid "Vorgänge"
+msgstr "Dossiers"
+
+#: includes/Admin/AdminDashboard.php:97
+msgid "Offen"
+msgstr "Openstaand"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Überfällig"
+msgstr "Verlopen"
+
+#: includes/Admin/AdminDashboard.php:107
+msgid "Meldestelle öffnen"
+msgstr "Meldpunt openen"
+
+#: includes/Admin/AdminDashboard.php:127 includes/Admin/AdminDashboard.php:407
+msgid "HinSchG-Meldestelle"
+msgstr "HinSchG-meldpunt"
+
+#: includes/Admin/AdminDashboard.php:128
+msgid "Meldestelle (HinSchG)"
+msgstr "Meldpunt (HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:171
+msgid "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:172
+msgid "WebCrypto ist nur über HTTPS oder localhost verfügbar."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:173
+msgid "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:174
+msgid ""
+"Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den "
+"öffentlichen Schlüssel."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:175
+msgid "Fehler: "
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lokale Entschlüsselung im Browser läuft …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:177
+msgid "Meldungstext (lokal im Browser entschlüsselt)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:178 includes/Admin/AdminDashboard.php:574
+msgid "Verlauf"
+msgstr "Verloop"
+
+#: includes/Admin/AdminDashboard.php:179 includes/Admin/AdminDashboard.php:577
+msgid "Meldestelle"
+msgstr "Intern meldpunt"
+
+#: includes/Admin/AdminDashboard.php:180 includes/Admin/AdminDashboard.php:577
+msgid "Hinweisgebende Person"
+msgstr "Meldende persoon"
+
+#: includes/Admin/AdminDashboard.php:181
+msgid ""
+"Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den "
+"Browser nicht verlassen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:182
+msgid "Entschlüsselung fehlgeschlagen: "
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:183
+msgid "Eingangsbestätigung wird gespeichert …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:184
+msgid "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:185
+msgid "Antwort wird verschlüsselt gespeichert …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:186
+msgid "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:187
+msgid "Bitte geben Sie einen Nachrichtentext ein."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:188
+msgid ""
+"Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:395
+msgid "Vorgänge & Fristen"
+msgstr "Dossiers & termijnen"
+
+#: includes/Admin/AdminDashboard.php:396
+msgid "Formular einbinden"
+msgstr "Formulier insluiten"
+
+#: includes/Admin/AdminDashboard.php:397
+msgid "Testmeldung"
+msgstr "Testmelding"
+
+#: includes/Admin/AdminDashboard.php:398 includes/Admin/AdminDashboard.php:814
+msgid "Fristen & Benachrichtigungen"
+msgstr "Termijnen & meldingen"
+
+#: includes/Admin/AdminDashboard.php:399
+msgid "Schlüsselverwahrung"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:400
+msgid "Deinstallation"
+msgstr "De-installatie"
+
+#: includes/Admin/AdminDashboard.php:401 includes/Admin/AdminDashboard.php:963
+msgid "Begriffe"
+msgstr "Begrippen"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid ""
+"Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die "
+"Fristen nach § 17 HinSchG berechnen."
+msgstr ""
+"Meldingen via het formulier ontvangen, versleuteld opslaan en de termijnen "
+"volgens § 17 HinSchG berekenen."
+
+#: includes/Admin/AdminDashboard.php:411
+msgid "Part of the WM Suite plugin family"
+msgstr "Onderdeel van de WM Suite-pluginfamilie"
+
+#: includes/Admin/AdminDashboard.php:413
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Hub"
+msgstr "Suite-Hub"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Standalone"
+msgstr "Zelfstandig"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Schlüsselpaar vorhanden"
+msgstr "Sleutelpaar aanwezig"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden"
+msgstr "Geen sleutelpaar: meldingen kunnen niet worden opgeslagen"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Was die Meldestelle leisten muss"
+msgstr "Wat het meldpunt moet bieden"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine "
+"interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 "
+"genannten Unternehmen, etwa Kreditinstitute, "
+"Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das "
+"unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den "
+"Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von "
+"drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen "
+"schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. "
+"3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll "
+"die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). "
+"Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ "
+"11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre "
+"Pflichten erfüllt, prüft das Plugin nicht."
+msgstr ""
+"Werkgevers met doorgaans ten minste 50 werknemers moeten een intern meldpunt "
+"inrichten (§ 12 lid 2 HinSchG); voor ondernemingen in § 12 lid 3, zoals "
+"kredietinstellingen, beleggingsondernemingen en verzekeraars, geldt dit "
+"ongeacht het aantal werknemers. Het meldpunt bevestigt ontvangst uiterlijk "
+"binnen zeven dagen en geeft binnen drie maanden terugkoppeling (§ 17). "
+"Meldingen moeten schriftelijk, mondeling en op verzoek persoonlijk mogelijk "
+"zijn (§ 16 lid 3); deze plugin dekt alleen het schriftelijke kanaal. "
+"Anonieme meldingen moeten worden behandeld maar hoeven niet actief mogelijk "
+"te worden gemaakt (§ 16 lid 1). Documentatie wordt drie jaar na afronding "
+"verwijderd (§ 11 lid 5); de plugin verwijdert zelf niets en toetst geen "
+"wettelijke plichten."
+
+#: includes/Admin/AdminDashboard.php:440
+msgid ""
+"Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3)."
+msgstr ""
+"Drie demodossiers aangemaakt (toegangssleutels token_demo_1 t/m "
+"token_demo_3)."
+
+#: includes/Admin/AdminDashboard.php:448
+msgid "Testmeldung verschlüsselt gespeichert."
+msgstr "Testmelding versleuteld opgeslagen."
+
+#: includes/Admin/AdminDashboard.php:451
+msgid "Vorgangs-ID:"
+msgstr "Dossier-ID:"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Zugangsschlüssel (nur jetzt sichtbar):"
+msgstr "Toegangssleutel (alleen nu zichtbaar):"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche der Meldestelle"
+msgstr "Onderdelen van het meldpunt"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Der private Schlüssel liegt ungeschützt in der Datenbank."
+msgstr "De privésleutel staat onbeschermd in de database."
+
+#. translators: 1: master key constant name, 2: passphrase constant name, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:480
+#, php-format
+msgid ""
+"Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert "
+"automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das "
+"Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, "
+"sodass alle bisherigen Meldungen lesbar bleiben."
+msgstr ""
+"Stel %1$s (aanbevolen, Libsodium XSalsa20-Poly1305, migreert automatisch) of "
+"%2$s in wp-config.php in en voer %3$s uit. Het sleutelpaar blijft behouden; "
+"alleen de opgeslagen vorm verandert zodat eerdere meldingen leesbaar blijven."
+
+#. translators: %d: number of users who can open a report
+#: includes/Admin/AdminDashboard.php:502
+#, php-format
+msgid "%d Person darf Meldungen öffnen."
+msgid_plural "%d Personen dürfen Meldungen öffnen."
+msgstr[0] "%d persoon mag meldingen openen."
+msgstr[1] "%d personen mogen meldingen openen."
+
+#. translators: 1: role name, 2: WP-CLI command, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:509
+#, php-format
+msgid ""
+"Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 "
+"HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit "
+"%2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" "
+"und entziehen Sie die Berechtigung danach mit %3$s."
+msgstr ""
+"Waaronder de rol %1$s, oftewel iedereen die deze website beheert. § 8 "
+"HinSchG houdt de inhoud bij de met het meldpunt belaste personen. Met %2$s "
+"bekijkt u de lijst; wijs de rol „Meldestelle (HinSchG)\" toe en trek het "
+"recht daarna in met %3$s."
+
+#: includes/Admin/AdminDashboard.php:516
+msgid ""
+"Administratoren dieser Website können Meldungen nicht öffnen, solange sie "
+"die Berechtigung nicht haben."
+msgstr ""
+"Beheerders van deze website kunnen geen meldingen openen zolang zij deze "
+"bevoegdheid niet hebben."
+
+#. translators: %s: case reference
+#: includes/Admin/AdminDashboard.php:537
+#, php-format
+msgid "Meldung %s"
+msgstr "Melding %s"
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Vorgang konnte nicht geladen werden."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:552
+msgid "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:553
+msgid ""
+"Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die "
+"Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; "
+"der private Schlüssel wird nicht an den Server übertragen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "Meldungstext"
+msgstr "Meldtekst"
+
+#: includes/Admin/AdminDashboard.php:580
+msgid "Diese Nachricht ließ sich nicht entschlüsseln."
+msgstr "Dit bericht kon niet worden ontsleuteld."
+
+#: includes/Admin/AdminDashboard.php:588
+msgid ""
+"Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: "
+"der Inhalt ist auch innerhalb der Einrichtung vertraulich)."
+msgstr ""
+"Elke inzage van deze melding wordt vastgelegd in het auditlogboek (§ 8 "
+"HinSchG: inhoud is ook intern vertrouwelijk)."
+
+#: includes/Admin/AdminDashboard.php:600
+msgid "Fallbearbeitung nach § 17 HinSchG"
+msgstr ""
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:605
+#, php-format
+msgid "Eingangsbestätigung erfasst am %s."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:607
+msgid "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage)."
+msgstr ""
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:612
+#, php-format
+msgid "Abschließende Rückmeldung erfasst am %s."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:617
+msgid "Eingang bestätigen (§ 17 Abs. 1 HinSchG)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Rückfrage oder Rückmeldung an die hinweisgebende Person"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Wird verschlüsselt gespeichert und für die hinweisgebende Person unter "
+"„Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:627
+msgid "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:631
+msgid "Antwort verschlüsselt senden"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:636
+msgid "Zurück zur Übersicht"
+msgstr "Terug naar overzicht"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar"
+msgstr "Auditlogboek: keten gecontroleerd, geen wijziging achteraf zichtbaar"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Integritätsprüfung fehlgeschlagen"
+msgstr "Auditlogboek: integriteitscontrole mislukt"
+
+#. translators: 1: checked count, 2: key source
+#: includes/Admin/AdminDashboard.php:647
+#, php-format
+msgid "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s."
+msgstr "%1$d logregels gecontroleerd. Ondertekeningssleutel: %2$s."
+
+#. translators: %d: number of audit entries written before the signing key existed (unkeyed SHA-256)
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid "%d historische Alt-Einträge ohne Signatur"
+msgstr "%d historische oude vermeldingen zonder handtekening"
+
+#: includes/Admin/AdminDashboard.php:660
+msgid "Unbekannter Fehler bei der Prüfung."
+msgstr "Onbekende fout tijdens controle."
+
+#: includes/Admin/AdminDashboard.php:667
+msgid "Offene Vorgänge"
+msgstr "Open dossiers"
+
+#: includes/Admin/AdminDashboard.php:669
+msgid "ohne abschließende Rückmeldung"
+msgstr "zonder eindterugkoppeling"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eingangsbestätigung überfällig"
+msgstr "Ontvangstbevestiging te laat"
+
+#: includes/Admin/AdminDashboard.php:674
+msgid "nicht bestätigt, 7-Tage-Frist vorbei"
+msgstr "niet bevestigd, 7-dagentermijn verstreken"
+
+#: includes/Admin/AdminDashboard.php:677
+msgid "Bestätigung in 48 Stunden fällig"
+msgstr "Bevestiging binnen 48 uur vereist"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "noch nicht bestätigt"
+msgstr "nog niet bevestigd"
+
+#: includes/Admin/AdminDashboard.php:682
+msgid "Rückmeldung überfällig"
+msgstr "Terugkoppeling te laat"
+
+#: includes/Admin/AdminDashboard.php:684
+msgid "keine Rückmeldung, Frist des Plugins vorbei"
+msgstr "geen terugkoppeling, plugintermijn verstreken"
+
+#: includes/Admin/AdminDashboard.php:690
+msgid ""
+"Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben "
+"verschlüsselt."
+msgstr ""
+"De laatste 50 dossiers met status en termijnen. De inhoud blijft versleuteld."
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "Vorgang"
+msgstr "Dossier"
+
+#: includes/Admin/AdminDashboard.php:696 includes/Admin/AdminDashboard.php:794
+#: includes/Frontend/WhistlePortal.php:251
+msgid "Kategorie"
+msgstr "Categorie"
+
+#: includes/Admin/AdminDashboard.php:697
+msgid "Status"
+msgstr "Statusveld"
+
+#: includes/Admin/AdminDashboard.php:698 includes/Admin/AdminDashboard.php:968
+msgid "Eingangsbestätigung"
+msgstr "Ontvangstbevestiging"
+
+#: includes/Admin/AdminDashboard.php:699 includes/Admin/AdminDashboard.php:971
+msgid "Rückmeldung"
+msgstr "Terugkoppeling"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Eingang"
+msgstr "Binnengekomen"
+
+#: includes/Admin/AdminDashboard.php:707
+msgid "Noch keine Vorgänge."
+msgstr "Nog geen dossiers."
+
+#: includes/Admin/AdminDashboard.php:711
+msgid "Drei Demo-Vorgänge anlegen"
+msgstr "Drie demodossiers aanmaken"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:735
+#, php-format
+msgid "bestätigt am %s"
+msgstr "bevestigd op %s"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:740 includes/Admin/AdminDashboard.php:754
+#, php-format
+msgid "Frist %s"
+msgstr "Termijn %s"
+
+#: includes/Admin/AdminDashboard.php:742 includes/Admin/AdminDashboard.php:756
+msgid "überfällig"
+msgstr "verlopen"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:749
+#, php-format
+msgid "gegeben am %s"
+msgstr "gegeven op %s"
+
+#: includes/Admin/AdminDashboard.php:769
+msgid "Meldeformular auf der Website einbinden"
+msgstr "Meldformulier op de website plaatsen"
+
+#: includes/Admin/AdminDashboard.php:771
+msgid "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“."
+msgstr "Maak een pagina aan, bijvoorbeeld „Klokkenluidersmeldpunt“."
+
+#: includes/Admin/AdminDashboard.php:773
+msgid "Den Shortcode einfügen:"
+msgstr "Plaats de shortcode:"
+
+#: includes/Admin/AdminDashboard.php:775
+msgid "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“)."
+msgstr "(gelijkwaardig: [wm_hinschg_portal] of het blok „wm/hinschg-portal“)."
+
+#: includes/Admin/AdminDashboard.php:777
+msgid ""
+"Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder "
+"im Footer."
+msgstr ""
+"Link de pagina waar medewerkers haar vinden, zoals op het intranet of in de "
+"voettekst."
+
+#: includes/Admin/AdminDashboard.php:780
+msgid ""
+"Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und "
+"einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab "
+"und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. "
+"Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es "
+"keinen Zugang mehr zum Vorgang."
+msgstr ""
+"Na verzending ontvangt de melder een dossier-ID en toegangssleutel. Daarmee "
+"kan in hetzelfde formulier de status worden opgevraagd en worden "
+"gecommuniceerd zonder naam of e-mailadres op te geven. Alleen een HMAC van "
+"de sleutel wordt bewaard; bij verlies is er geen toegang meer."
+
+#: includes/Admin/AdminDashboard.php:786
+msgid "Testmeldung anlegen"
+msgstr "Testmelding aanmaken"
+
+#: includes/Admin/AdminDashboard.php:787
+msgid ""
+"Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den "
+"Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann."
+msgstr ""
+"Maakt op dezelfde manier als het formulier een dossier aan en toont eenmalig "
+"de toegangssleutel om het portaal te testen."
+
+#: includes/Admin/AdminDashboard.php:803
+#: includes/Frontend/WhistlePortal.php:260
+msgid "Sachverhalt"
+msgstr "Omschrijving"
+
+#: includes/Admin/AdminDashboard.php:804
+msgid ""
+"Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit "
+"dem RSA-Schlüssel des Plugins versiegelt."
+msgstr ""
+"Wordt versleuteld opgeslagen met AES-256-GCM; de sleutel wordt verzegeld met "
+"de RSA-sleutel van de plugin."
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Testmeldung speichern"
+msgstr "Testmelding opslaan"
+
+#. translators: %d: days
+#: includes/Admin/AdminDashboard.php:819
+#, php-format
+msgid ""
+"Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt "
+"die Bestätigung spätestens nach sieben Tagen."
+msgstr ""
+"Ontvangstbevestiging: ontvangst + %d dagen. § 17 lid 1 nr. 1 HinSchG vereist "
+"bevestiging uiterlijk binnen zeven dagen."
+
+#. translators: %d: months
+#: includes/Admin/AdminDashboard.php:825
+#, php-format
+msgid ""
+"Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab "
+"der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab "
+"Eingang); die Frist des Plugins liegt damit früher."
+msgstr ""
+"Terugkoppeling: ontvangst + %d maanden. § 17 lid 2 HinSchG rekent drie "
+"maanden vanaf bevestiging (zonder bevestiging drie maanden en zeven dagen); "
+"de plugintermijn valt nooit later."
+
+#: includes/Admin/AdminDashboard.php:828
+msgid "Die Fristen sind im Code festgelegt und nicht einstellbar."
+msgstr "De termijnen liggen vast in de code en zijn niet instelbaar."
+
+#: includes/Admin/AdminDashboard.php:829
+msgid ""
+"Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst "
+"bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, "
+"an die eine eigene Benachrichtigung angeschlossen werden kann."
+msgstr ""
+"De plugin verzendt geen e-mails. Een uurlijkse controle (WP-Cron) activeert "
+"bij overschreden termijnen de actie wm_hinschg_sla_breach_detected voor "
+"eigen notificaties."
+
+#: includes/Admin/AdminDashboard.php:831
+msgid ""
+"Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, "
+"Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet."
+msgstr ""
+"Tot 15-09-2026 stond hier een instellingenpagina voor e-mail, termijnen, "
+"uploads en bewaartermijn die nooit werd uitgelezen."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger "
+"Privatschlüssel entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:845 includes/Crypto/Vault.php:342
+msgid ""
+"Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / "
+"Ombudsperson) gespeichert."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:847 includes/Crypto/Vault.php:323
+msgid "Notfall- und Vertretungsschlüssel entfernt."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich "
+"den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich über das Kontrollkästchen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:853
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel "
+"(mindestens 2048 Bit, empfohlen 4096 Bit)."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:857
+msgid "Aktive Schlüsselverwahrung & Audit-Signatur"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:859
+msgid "RSA-Schlüsselquelle:"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:863
+msgid "Notfall- & Vertretungsschlüssel:"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "nicht hinterlegt"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:867
+msgid "Audit-Kettenschlüssel:"
+msgstr ""
+
+#. translators: %s: constant name
+#: includes/Admin/AdminDashboard.php:872
+#, php-format
+msgid ""
+"(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in "
+"der wp-config.php)."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:880
+msgid ""
+"Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:882
+msgid ""
+"Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). "
+"Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät "
+"heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-"
+"Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum "
+"Versiegeln eingehender Meldungen gespeichert."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:886
+msgid ""
+"RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel "
+"herunterladen"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:893
+msgid "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:899
+msgid ""
+"Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den "
+"bisherigen privaten Schlüssel)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:902
+msgid "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:905
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Schlüssel der Meldestelle hinterlegen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:910
+msgid ""
+"Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / "
+"Ombudsperson)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:912
+msgid ""
+"Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-"
+"Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel "
+"versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser "
+"entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung "
+"dieses privaten Schlüssels ausschließlich bei einer zweiten mit der "
+"Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — "
+"niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum "
+"Entfernen das Feld leeren und speichern."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:916
+msgid ""
+"Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten "
+"Schlüssel herunterladen"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:923
+msgid "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:926
+msgid "Notfall- & Vertretungsschlüssel speichern"
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:929
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Notfall- und Vertretungsschlüssel hinterlegen."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:937
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "De-installatievoorkeur opgeslagen."
+
+#: includes/Admin/AdminDashboard.php:940
+msgid "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation"
+msgstr "Wettelijke bewaarplicht (§ 11 HinSchG) & de-installatie"
+
+#: includes/Admin/AdminDashboard.php:942
+msgid ""
+"Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des "
+"Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, "
+"Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit "
+"ein Plugin-Update oder eine Neuinstallation keine gesetzlich "
+"aufzubewahrenden Vorgänge vernichtet."
+msgstr ""
+"Volgens § 11 lid 5 HinSchG wordt documentatie drie jaar na afronding "
+"bewaard. Standaard blijven meldingen, berichten, auditlog en sleutelpaar "
+"behouden bij verwijdering van de plugin."
+
+#: includes/Admin/AdminDashboard.php:951
+msgid ""
+"Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge "
+"und Schlüssel unwiderruflich löschen"
+msgstr ""
+"Bij verwijderen van de plugin alle meldingen, berichten, auditregels en "
+"sleutels onherroepelijk wissen"
+
+#: includes/Admin/AdminDashboard.php:954
+msgid "Deinstallations-Option speichern"
+msgstr "De-installatieoptie opslaan"
+
+#: includes/Admin/AdminDashboard.php:957
+msgid ""
+"Nur Website-Administratoren (manage_options) können das Verhalten bei der "
+"Plugin-Deinstallation ändern."
+msgstr ""
+"Alleen sitebeheerders (manage_options) kunnen het gedrag bij de-installatie "
+"wijzigen."
+
+#: includes/Admin/AdminDashboard.php:965
+msgid "Vorgangs-ID und Zugangsschlüssel"
+msgstr "Dossier-ID en toegangssleutel"
+
+#: includes/Admin/AdminDashboard.php:966
+msgid ""
+"Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der "
+"Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon."
+msgstr ""
+"De melder ontvangt beide eenmalig na verzending. De sleutel telt 64 tekens; "
+"alleen een HMAC wordt opgeslagen."
+
+#: includes/Admin/AdminDashboard.php:969
+msgid "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr "Uiterlijk na zeven dagen (§ 17 lid 1 nr. 1 HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:972
+msgid ""
+"Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und "
+"ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG)."
+msgstr ""
+"Binnen drie maanden na de ontvangstbevestiging, met geplande en genomen "
+"vervolgmaatregelen (§ 17 lid 2 HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:974
+msgid "Verschlüsselung"
+msgstr "Versleuteling"
+
+#: includes/Admin/AdminDashboard.php:975
+msgid ""
+"Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-"
+"Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für "
+"den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / "
+"Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter "
+"„Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php "
+"(WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt "
+"(WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt "
+"(WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-"
+"Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten "
+"zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben "
+"der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen "
+"Browser und Server schützt HTTPS."
+msgstr ""
+
+#: includes/Admin/AdminDashboard.php:977
+msgid "Berechtigung zum Öffnen einer Meldung"
+msgstr "Bevoegdheid om een melding te openen"
+
+#: includes/Admin/AdminDashboard.php:978
+msgid ""
+"Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt "
+"dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet "
+"WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser "
+"Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, "
+"damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche "
+"Zweck. wp hinschg access zeigt, wer sie hat."
+msgstr ""
+"De plugin controleert de eigen capability wm_hinschg_read_cases en levert de "
+"rol „Meldestelle (HinSchG)“. WordPress of een rollenplugin bepaalt wie deze "
+"heeft. Bij installatie krijgt „Administrator“ het recht om buitensluiting te "
+"voorkomen; daarna intrekken is de bedoeling. wp hinschg access toont de "
+"houders."
+
+#: includes/Admin/AdminDashboard.php:980
+msgid "Audit-Protokoll"
+msgstr "Auditlogboek"
+
+#: includes/Admin/AdminDashboard.php:981
+msgid ""
+"Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche "
+"Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus "
+"wp-config.php kennt, kann die Kette neu schreiben."
+msgstr ""
+"Elke regel bevat een HMAC-SHA256 over de vorige. Wijzigingen, verwijderingen "
+"en tussenvoegingen worden herkend; wie de sleutel uit wp-config.php kent kan "
+"de keten herschrijven."
+
+#: includes/API/RestController.php:98
+msgid ""
+"Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut "
+"versuchen."
+msgstr ""
+
+#: includes/API/RestController.php:136 includes/API/RestController.php:467
+msgid "Case ID is required."
+msgstr "Dossier-ID is verplicht."
+
+#: includes/API/RestController.php:148 includes/API/RestController.php:479
+#: includes/API/RestController.php:553
+msgid "Case not found."
+msgstr "Dossier niet gevonden."
+
+#: includes/API/RestController.php:161
+msgid ""
+"Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich "
+"nicht entschlüsseln."
+msgstr ""
+"De envelop van deze melding is onvolledig opgeslagen; ontsleutelen mislukt."
+
+#. translators: %s: what this install does with the private key
+#: includes/API/RestController.php:180
+#, php-format
+msgid "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s"
+msgstr "Deze melding kon niet worden ontsleuteld. Sleutelbron: %s"
+
+#: includes/API/RestController.php:247
+msgid "Report description cannot be empty."
+msgstr "De beschrijving van de melding mag niet leeg zijn."
+
+#: includes/API/RestController.php:298
+msgid ""
+"Save this Access Token securely. It is the ONLY way to check your report "
+"status or communicate confidentially without revealing your identity."
+msgstr ""
+"Bewaar deze toegangssleutel veilig. Dit is de ENIGE manier om uw status te "
+"bekijken of vertrouwelijk te communiceren zonder uw identiteit prijs te "
+"geven."
+
+#: includes/API/RestController.php:315
+msgid "Case ID and Access Token are required."
+msgstr "Dossier-ID en toegangssleutel zijn verplicht."
+
+#: includes/API/RestController.php:329 includes/API/RestController.php:413
+msgid "Invalid Case ID or Access Token."
+msgstr "Ongeldig dossier-ID of ongeldige toegangssleutel."
+
+#: includes/API/RestController.php:399
+msgid "Case ID, Access Token, and message are required."
+msgstr "Dossier-ID, toegangssleutel en bericht zijn verplicht."
+
+#: includes/API/RestController.php:438
+msgid "Confidential message appended successfully."
+msgstr "Vertrouwelijk bericht toegevoegd."
+
+#: includes/API/RestController.php:484
+msgid "The receipt of this report was already acknowledged."
+msgstr "De ontvangst van deze melding is al bevestigd."
+
+#: includes/API/RestController.php:496
+msgid ""
+"Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle "
+"eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr ""
+"Ontvangstbevestiging: uw melding is ontvangen door het interne meldpunt (§ "
+"17 lid 1 nr. 1 HinSchG)."
+
+#: includes/API/RestController.php:528
+msgid "Acknowledgment recorded and sent to the reporting person's case view."
+msgstr ""
+"Ontvangstbevestiging vastgelegd en naar het dossieroverzicht van de melder "
+"gestuurd."
+
+#: includes/API/RestController.php:541
+msgid "Case ID and message are required."
+msgstr "Dossier-ID en bericht zijn verplicht."
+
+#: includes/API/RestController.php:593
+msgid "Reply stored in the reporting person's case view."
+msgstr "Antwoord opgeslagen in het dossieroverzicht van de melder."
+
+#: includes/Compliance/CaseStatus.php:22
+msgid "Eingegangen"
+msgstr "Ontvangen"
+
+#: includes/Compliance/CaseStatus.php:23
+msgid "In Bearbeitung"
+msgstr "In behandeling"
+
+#: includes/Compliance/CaseStatus.php:31
+msgid "Rückmeldung gegeben"
+msgstr "Terugkoppeling gegeven"
+
+#: includes/Compliance/CaseStatus.php:32
+msgid "Abgeschlossen"
+msgstr "Afgesloten"
+
+#: includes/Compliance/ReportCategories.php:25
+msgid "Finanzbetrug, Untreue, Korruption & Bestechung"
+msgstr "Financiële fraude, verduistering, corruptie & omkoping"
+
+#: includes/Compliance/ReportCategories.php:26
+msgid "DSGVO-Verstöße & Datenschutzverletzungen"
+msgstr "AVG-schendingen & datalekken"
+
+#: includes/Compliance/ReportCategories.php:27
+msgid "IT-Sicherheit & Cyber-Vorfälle"
+msgstr "IT-beveiliging & cyberincidenten"
+
+#: includes/Compliance/ReportCategories.php:28
+msgid "Lieferkette & Menschenrechte"
+msgstr "Toeleveringsketen & mensenrechten"
+
+#: includes/Compliance/ReportCategories.php:29
+msgid "Arbeitsschutz, Diskriminierung & Belästigung"
+msgstr "Arbeidsveiligheid, discriminatie & intimidatie"
+
+#: includes/Compliance/ReportCategories.php:30
+msgid "Allgemeine Compliance-Verstöße"
+msgstr "Algemene compliance-schendingen"
+
+#: includes/Crypto/Vault.php:168
+msgid ""
+"Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung."
+msgstr ""
+"De privésleutel staat in wp-config.php. Een databasedump alleen ontsleutelt "
+"geen enkele melding."
+
+#: includes/Crypto/Vault.php:178
+msgid ""
+"Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt "
+"in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-"
+"config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+msgstr ""
+"De privésleutel ligt via Libsodium (XSalsa20-Poly1305) versleuteld in de "
+"database; de hoofdsleutel (WM_HINSCHG_MASTER_KEY) staat in wp-config.php. "
+"Een dump alleen ontsleutelt niets."
+
+#: includes/Crypto/Vault.php:186
+msgid ""
+"Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase "
+"steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine "
+"Meldung."
+msgstr ""
+"De privésleutel ligt versleuteld in de database; het wachtwoordzinnetje "
+"staat in wp-config.php. Een dump alleen ontsleutelt niets."
+
+#: includes/Crypto/Vault.php:194
+msgid ""
+"Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank "
+"(abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt "
+"sich WM_HINSCHG_MASTER_KEY."
+msgstr ""
+"De privésleutel ligt via Libsodium versleuteld in de database (afgeleid uit "
+"AUTH_KEY in wp-config.php). Een dump alleen ontsleutelt niets; "
+"WM_HINSCHG_MASTER_KEY wordt aanbevolen voor aparte rotatie."
+
+#: includes/Crypto/Vault.php:202
+msgid ""
+"In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). "
+"Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-"
+"Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY "
+"in der wp-config.php."
+msgstr ""
+
+#: includes/Crypto/Vault.php:210
+msgid ""
+"Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter "
+"„Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) "
+"oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php."
+msgstr ""
+
+#: includes/Crypto/Vault.php:217
+msgid ""
+"Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den "
+"Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung "
+"entschlüsseln."
+msgstr ""
+"De privésleutel ligt onversleuteld in de database naast de meldingen. Wie "
+"een volledige dump heeft kan elke melding lezen."
+
+#: includes/Crypto/Vault.php:242
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-"
+"Format."
+msgstr ""
+
+#: includes/Crypto/Vault.php:251
+msgid ""
+"Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit "
+"(empfohlen: 4096 Bit) sein."
+msgstr ""
+
+#: includes/Crypto/Vault.php:272
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der "
+"Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN "
+"PUBLIC KEY) gespeichert werden."
+msgstr ""
+
+#: includes/Crypto/Vault.php:289
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den "
+"bisherigen privaten Schlüssel benötigen."
+msgstr ""
+
+#: includes/Crypto/Vault.php:303
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel "
+"entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+
+#: includes/Crypto/Vault.php:329
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als "
+"Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche "
+"Schlüssel (BEGIN PUBLIC KEY) gespeichert werden."
+msgstr ""
+
+#. translators: %d: previously recorded entry count
+#: includes/Crypto/Vault.php:847
+#, php-format
+msgid "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+msgstr "Het logboek is leeg terwijl laatst %d regels geregistreerd stonden."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:866
+#, php-format
+msgid ""
+"Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder "
+"umsortiert."
+msgstr ""
+"Ketenbreuk bij regel #%d: een regel is verwijderd, tussengevoegd of "
+"verplaatst."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:906
+#, php-format
+msgid ""
+"Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, "
+"oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor "
+"einem Umzug der Website)."
+msgstr ""
+"Regel #%d komt niet overeen met de handtekening: achteraf gewijzigd of "
+"geschreven met een andere AUTH_KEY (bijv. vóór een verhuizing)."
+
+#: includes/Crypto/Vault.php:917
+msgid ""
+"Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die "
+"neuesten Einträge wurden entfernt."
+msgstr ""
+"Het einde van het logboek klopt niet met de laatst genoteerde regel. De "
+"nieuwste regels zijn verwijderd."
+
+#: includes/Crypto/Vault.php:927
+msgid ""
+"Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende "
+"wurde manipuliert."
+msgstr ""
+
+#: includes/Crypto/Vault.php:938
+msgid ""
+"Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll "
+"stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf "
+"das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht "
+"überprüfbar."
+msgstr ""
+"Geen enkele regel draagt een sleutelhandtekening. Het logboek stamt van vóór "
+"de sleutel of is teruggezet naar het vervalsbare formaat en is niet "
+"verifieerbaar."
+
+#. translators: %s: comma-separated list of missing PHP extensions
+#: includes/Database/Schema.php:39
+#, php-format
+msgid ""
+"WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende "
+"erforderliche PHP-Erweiterungen fehlen: %s."
+msgstr ""
+
+#: includes/Database/Schema.php:43
+msgid "Fehlende PHP-Erweiterung"
+msgstr ""
+
+#. translators: 1: master key constant name, 2: passphrase constant name
+#: includes/Database/Schema.php:190
+#, php-format
+msgid ""
+"In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-"
+"config.php kann der Schlüssel nicht verschlüsselt werden."
+msgstr ""
+"In wp-config.php is noch %1$s noch %2$s ingesteld. Zonder geheim in wp-"
+"config.php kan de sleutel niet worden versleuteld."
+
+#: includes/Database/Schema.php:201
+msgid ""
+"In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren."
+msgstr "Er staat geen privésleutel in de database. Niets te migreren."
+
+#: includes/Database/Schema.php:212
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY "
+"entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es "
+"wurde nichts überschrieben."
+msgstr ""
+"De opgeslagen sleutel kan niet met WM_HINSCHG_MASTER_KEY worden ontsleuteld. "
+"Herstel de oorspronkelijke hoofdsleutel; er is niets overschreven."
+
+#: includes/Database/Schema.php:217
+msgid ""
+"Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"De privésleutel is al via Libsodium (WM_HINSCHG_MASTER_KEY) versleuteld. "
+"Niets te doen."
+
+#: includes/Database/Schema.php:237
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts "
+"überschrieben."
+msgstr ""
+"De opgeslagen sleutel kon niet worden geopend. Er is niets overschreven."
+
+#: includes/Database/Schema.php:245
+msgid ""
+"Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es "
+"wurde nichts überschrieben."
+msgstr ""
+"De met Libsodium verzegelde sleutel kon niet worden geverifieerd. Er is "
+"niets overschreven."
+
+#: includes/Database/Schema.php:252
+msgid ""
+"Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt "
+"keine Meldung mehr."
+msgstr ""
+"De privésleutel ligt nu via Libsodium (WM_HINSCHG_MASTER_KEY) versleuteld in "
+"de database. Een dump alleen ontsleutelt geen meldingen meer."
+
+#: includes/Database/Schema.php:263
+msgid ""
+"Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten "
+"Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — "
+"bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar."
+msgstr ""
+"De opgeslagen sleutel opent noch zonder noch met de ingestelde passphrase. "
+"Hij is met een andere passphrase versleuteld — herstel de oude, anders "
+"blijft alles onleesbaar."
+
+#: includes/Database/Schema.php:268
+msgid ""
+"Der private Schlüssel ist bereits mit der konfigurierten Passphrase "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"De privésleutel is al met de ingestelde passphrase versleuteld. Niets te "
+"doen."
+
+#: includes/Database/Schema.php:276
+msgid ""
+"Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte "
+"Schlüssel bleibt unverändert."
+msgstr ""
+"De sleutel kon niet versleuteld worden geëxporteerd. De opgeslagen sleutel "
+"blijft ongewijzigd."
+
+#: includes/Database/Schema.php:290
+msgid ""
+"Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts "
+"überschrieben."
+msgstr ""
+"De versleutelde sleutel kon niet opnieuw worden geopend. Er is niets "
+"overschreven."
+
+#: includes/Database/Schema.php:298
+msgid ""
+"Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein "
+"Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in "
+"wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr "
+"lesbar."
+msgstr ""
+"De privésleutel ligt nu versleuteld in de database. Een dump alleen "
+"ontsleutelt niets meer. De passphrase in wp-config.php is voortaan onmisbaar."
+
+#: includes/Frontend/WhistlePortal.php:84
+#: includes/Frontend/WhistlePortal.php:111
+msgid "HinSchG Meldestelle Status"
+msgstr "HinSchG-meldpuntstatus"
+
+#. translators: %d: statutory acknowledgment days
+#: includes/Frontend/WhistlePortal.php:154
+#, php-format
+msgid "%d Tage Eingangsbestätigung (§ 17 HinSchG)"
+msgstr "%d dagen ontvangstbevestiging (§ 17 HinSchG)"
+
+#. translators: %d: statutory feedback months
+#: includes/Frontend/WhistlePortal.php:158
+#, php-format
+msgid "%d Monate Rückmeldefrist (§ 17 HinSchG)"
+msgstr "%d maanden terugkoppelingstermijn (§ 17 HinSchG)"
+
+#: includes/Frontend/WhistlePortal.php:170
+msgid "Interne Meldestelle aktiv"
+msgstr "Intern meldpunt actief"
+
+#: includes/Frontend/WhistlePortal.php:171
+msgid "Meldestelle wird eingerichtet"
+msgstr "Meldpunt wordt ingericht"
+
+#: includes/Frontend/WhistlePortal.php:218
+msgid "Interne Meldestelle"
+msgstr "Intern meldpunt"
+
+#: includes/Frontend/WhistlePortal.php:228
+msgid ""
+"Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden "
+"nicht abgefragt."
+msgstr ""
+"Hier kunt u misstanden melden. Naam en e-mailadres worden niet gevraagd."
+
+#: includes/Frontend/WhistlePortal.php:235
+msgid "Neuen Hinweis melden"
+msgstr "Nieuwe melding indienen"
+
+#: includes/Frontend/WhistlePortal.php:238
+msgid "Vorgang abrufen"
+msgstr "Dossier opvragen"
+
+#: includes/Frontend/WhistlePortal.php:245
+msgid "Was gespeichert wird:"
+msgstr "Wat wordt opgeslagen:"
+
+#: includes/Frontend/WhistlePortal.php:246
+msgid ""
+"Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse "
+"wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die "
+"Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash "
+"(HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der "
+"Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden "
+"erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und "
+"Rückmeldungen."
+msgstr ""
+"Categorie en beschrijving, versleuteld op de server. Uw IP-adres wordt niet "
+"bij de melding bewaard; ter begrenzing van aanvragen bewaart de site "
+"maximaal een uur een HMAC-hash ervan. Of de webserver toegangen logt bepaalt "
+"de websitebeheerder, niet dit formulier. Na verzending ontvangt u een "
+"dossier-ID en toegangssleutel voor vragen en terugkoppeling."
+
+#: includes/Frontend/WhistlePortal.php:261
+msgid ""
+"Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte "
+"Personen) …"
+msgstr ""
+"Beschrijf de situatie zo nauwkeurig mogelijk (plaats, datum, betrokken "
+"personen) …"
+
+#: includes/Frontend/WhistlePortal.php:265
+msgid "Hinweis absenden"
+msgstr "Melding verzenden"
+
+#: includes/Frontend/WhistlePortal.php:275
+msgid ""
+"Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu "
+"sehen und der Meldestelle zu schreiben."
+msgstr ""
+"Voer dossier-ID en toegangssleutel in om de voortgang te bekijken en het "
+"meldpunt te schrijven."
+
+#: includes/Frontend/WhistlePortal.php:280
+msgid "Vorgangs-ID"
+msgstr "Dossier-ID"
+
+#: includes/Frontend/WhistlePortal.php:281
+msgid "z. B. CASE-A1B2C3D4"
+msgstr "bijv. CASE-A1B2C3D4"
+
+#: includes/Frontend/WhistlePortal.php:284
+msgid "Zugangsschlüssel"
+msgstr "Toegangssleutel"
+
+#: includes/Frontend/WhistlePortal.php:285
+msgid "64 Zeichen"
+msgstr "64 tekens"
+
+#: includes/Frontend/WhistlePortal.php:288
+msgid "Vorgang laden"
+msgstr "Dossier laden"
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:116
+#: includes/Security/Capabilities.php:141
+#, php-format
+msgid "Die Rolle %s gibt es nicht."
+msgstr "De rol %s bestaat niet."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:120
+#, php-format
+msgid "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun."
+msgstr "De rol %s mag al meldingen openen. Niets te doen."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:124
+#, php-format
+msgid "Die Rolle %s darf Meldungen jetzt öffnen."
+msgstr "De rol %s mag nu meldingen openen."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:145
+#, php-format
+msgid "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun."
+msgstr "De rol %s mocht sowieso geen meldingen openen. Niets te doen."
+
+#: includes/Security/Capabilities.php:154
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die "
+"Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 "
+"HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst "
+"jemand anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Afgebroken: daarna zou niemand meer meldingen kunnen openen. Het meldpunt "
+"moet binnen zeven dagen bevestigen (§ 17 HinSchG). Geef eerst iemand anders "
+"toegang en trek die daarna hier in."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:159
+#, php-format
+msgid "Die Rolle %s darf Meldungen nicht mehr öffnen."
+msgstr "De rol %s mag geen meldingen meer openen."
+
+#. translators: %d: user id
+#: includes/Security/Capabilities.php:171
+#: includes/Security/Capabilities.php:187
+#, php-format
+msgid "Benutzer %d gibt es nicht."
+msgstr "Gebruiker %d bestaat niet."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:175
+#, php-format
+msgid "%s darf Meldungen jetzt öffnen."
+msgstr "%s mag nu meldingen openen."
+
+#: includes/Security/Capabilities.php:196
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand "
+"anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Afgebroken: daarna zou niemand meer meldingen kunnen openen. Geef eerst "
+"iemand anders toegang en trek die daarna hier in."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:201
+#, php-format
+msgid "%s darf Meldungen nicht mehr öffnen."
+msgstr "%s mag geen meldingen meer openen."
+
+#: includes/Security/RateLimiter.php:94
+msgid "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut."
+msgstr "Te veel verzoeken. Probeer het later opnieuw."
+
+#: blocks-src/index.js:19
+msgid "HinSchG Meldestelle Portal"
+msgstr "HinSchG Meldportaal"
+
+#: blocks-src/index.js:20
+msgid "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG."
+msgstr "Intern klokkenluidersformulier en dossierinzage volgens de HinSchG."
+
+#: blocks-src/index.js:50
+msgid "Meldestelle-Einstellungen"
+msgstr "Meldpunt-instellingen"
+
+#: blocks-src/index.js:54
+msgid "Überschrift"
+msgstr "Koptekst"
+
+#: blocks-src/index.js:61
+msgid "Einleitungstext anzeigen"
+msgstr "Inleidende tekst tonen"
+
+#: blocks-src/index.js:80
+msgid "HinSchG Meldestelle Portal (Vorschau im Frontend)."
+msgstr "HinSchG Meldportaal (voorbeeld aan de voorkant)."
+
+#: blocks/portal/block.json
+msgctxt "block title"
+msgid "HinSchG Meldestelle Portal"
+msgstr "HinSchG Meldportaal"
+
+#: blocks/portal/block.json
+msgctxt "block description"
+msgid ""
+"Internal whistleblowing reporting and case-status form under the German "
+"HinSchG."
+msgstr ""
+"Intern klokkenluidersmeldformulier en statusopvraag onder de Duitse HinSchG."
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "hinschg"
+msgstr "hinschg-wet"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "whistleblower"
+msgstr "klokkenluider"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "meldestelle"
+msgstr "meldpunt"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "compliance"
+msgstr "naleving"
+
+
+#~ msgid "Noch nicht in dieser Oberfläche:"
+#~ msgstr "Nog niet in deze interface:"
+
+#~ msgid ""
+#~ "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung "
+#~ "wm_hinschg_read_cases). E-Mails versendet das Plugin nicht."
+#~ msgstr ""
+#~ "Ontvangst bevestigen en antwoorden. Gebruik hiervoor de REST-routes POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack en /admin/reply (recht "
+#~ "wm_hinschg_read_cases). De plugin verstuurt geen e-mails."
+
+#~ msgid ""
+#~ "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM "
+#~ "verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-"
+#~ "Schlüssel liegt, entscheidet die wp-config.php: mit "
+#~ "WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt "
+#~ "in der Datenbank, ohne beides im Klartext in der Datenbank — dann "
+#~ "entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese "
+#~ "Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-"
+#~ "status. Zwischen Browser und Server schützt nur HTTPS."
+#~ msgstr ""
+#~ "Melding en berichten worden op de server met AES-256-GCM versleuteld en "
+#~ "de AES-sleutel wordt met RSA verzegeld. Waar de RSA-privésleutel staat "
+#~ "hangt af van wp-config.php: daar via WM_HINSCHG_PRIVATE_KEY, versleuteld "
+#~ "in de database via WM_HINSCHG_KEY_PASSPHRASE, of onversleuteld in oudere "
+#~ "installaties. De actieve modus staat bovenaan en in wp hinschg key-"
+#~ "status. Tussen browser en server beschermt HTTPS."
+
+#~ msgid "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):"
+#~ msgstr "Eenmalige offline weergave privésleutel (alleen nu zichtbaar):"
+
+#~ msgid ""
+#~ "Hinterlegen Sie diesen privaten Schlüssel sicher als "
+#~ "WM_HINSCHG_PRIVATE_KEY in der wp-config.php."
+#~ msgstr ""
+#~ "Bewaar deze privésleutel veilig als WM_HINSCHG_PRIVATE_KEY in wp-"
+#~ "config.php."
+
+#~ msgid ""
+#~ "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-"
+#~ "Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist "
+#~ "WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich."
+#~ msgstr ""
+#~ "In de database staat alleen de publieke sleutel (offline bewaring). "
+#~ "Nieuwe meldingen worden verzegeld; voor lezen is WM_HINSCHG_PRIVATE_KEY "
+#~ "in wp-config.php vereist."

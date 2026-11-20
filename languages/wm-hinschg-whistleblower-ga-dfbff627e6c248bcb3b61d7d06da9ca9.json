@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "ga",
+        "plural-forms": "nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Deasc Sceithirí WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Cainéal inmheánach sceithireachta: foirm tuairiscithe, criptiú freastalaí do thuairiscí agus teachtaireachtaí, rianú spriocdhátaí § 17 HinSchG agus loga iniúchta sínithe. Ní dhéanann sé measúnú ar chomhlíonadh dlí."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Oifig Tuairiscithe"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tá tábla na dtuairiscí ar iarraidh (athghníomhachtaigh an breiseán)"
+      ],
+      "%d Frist überschritten": [
+        "%d spriocdháta sáraithe",
+        "%d spriocdhátaí sáraithe"
+      ],
+      "Keine Frist überschritten": [
+        "Níor sáraíodh aon spriocdháta"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Admháil laistigh de 7 lá, aiseolas laistigh de 3 mhí (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Cásanna"
+      ],
+      "Offen": [
+        "Oscailte"
+      ],
+      "Überfällig": [
+        "Thar téarma"
+      ],
+      "Meldestelle öffnen": [
+        "Oscail an oifig tuairiscithe"
+      ],
+      "HinSchG-Meldestelle": [
+        "Oifig HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Oifig Tuairiscithe (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Cásanna & Spriocdhátaí"
+      ],
+      "Formular einbinden": [
+        "Leabaigh an fhoirm"
+      ],
+      "Testmeldung": [
+        "Tuairisc thástála"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Spriocdhátaí & Fógraí"
+      ],
+      "Deinstallation": [
+        "Díshuiteáil"
+      ],
+      "Begriffe": [
+        "Gluais"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Glac le tuairiscí tríd an bhfoirm, stóráil go criptithe iad agus ríomh spriocdhátaí § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Cuid d'fhine breiseán WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Mol Suite"
+      ],
+      "Standalone": [
+        "Neamhspleách"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Péire eochracha ar fáil"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Gan péire eochracha: ní féidir tuairiscí a shábháil"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Dualgais na hoifige inmheánaí tuairiscithe"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Ní mór d'fhostóirí a bhfuil 50 fostaí ar a laghad acu de ghnáth oifig inmheánach tuairiscithe a bhunú (§ 12(2) HinSchG); d'eintitis faoi § 12(3), amhail institiúidí creidmheasa, gnólachtaí infheistíochta agus árachóirí, tá feidhm leis beag beann ar líon na bhfostaithe. Admhaíonn an oifig go bhfuarthas tuairisc laistigh de sheacht lá agus tugann sí aiseolas laistigh de thrí mhí (§ 17). Ní mór tuairisciú i scríbhinn, ó bhéal agus go pearsanta ar iarratas a bheith ar fáil (§ 16(3)); ní chlúdaíonn an breiseán seo ach an bealach scríofa. Ba cheart tuairiscí gan ainm a phróiseáil gan dualgas cainéal ar leith a chruthú (§ 16(1)). Scriostar doiciméadú trí bliana tar éis dheireadh an nós imeachta (§ 11(5)); ní scriosann an breiseán aon ní leis féin ná ní mheasann sé dualgais dlí."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Cruthaíodh trí chás taispeána (eochracha rochtana token_demo_1 go token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Sábháladh an tuairisc thástála go criptithe."
+      ],
+      "Vorgangs-ID:": [
+        "Aitheantas cáis:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Eochair rochtana (le feiceáil anois amháin):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Rannóga na hoifige tuairiscithe"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Tá an eochair phríobháideach gan chosaint sa bhunachar sonraí."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Socraigh %1$s (molta, Libsodium XSalsa20-Poly1305, aistríonn go huathoibríoch) nó %2$s in wp-config.php agus rith %3$s. Coinnítear an péire eochracha; ní athraíonn ach an fhoirm stóráilte ionas go bhfanann gach tuairisc inléite."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "Tá cead ag %d duine tuairiscí a oscailt.",
+        "Tá cead ag %d daoine tuairiscí a oscailt."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Ról %1$s san áireamh, is é sin gach riarthóir ar an suíomh. Coinníonn § 8 HinSchG an t-inneachar ag daoine údaraithe amháin. Feic an liosta le %2$s; sann an ról \"Meldestelle (HinSchG)\" agus bain an cead ansin le %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Ní féidir le riarthóirí an tsuímh seo tuairiscí a oscailt gan an cumas sin."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Níl sa chomhéadan seo fós:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Admháil a sheoladh agus freagra a thabhairt. Úsáid na bealaí REST POST /wp-json/wm-hinschg/v1/admin/ack agus /admin/reply (cumas wm_hinschg_read_cases). Ní sheolann an breiseán ríomhphoist."
+      ],
+      "Meldung %s": [
+        "Tuairisc %s"
+      ],
+      "Meldungstext": [
+        "Téacs na tuairisce"
+      ],
+      "Verlauf": [
+        "Stair"
+      ],
+      "Meldestelle": [
+        "Oifig Tuairiscithe"
+      ],
+      "Hinweisgebende Person": [
+        "Tuairisceoir"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Níorbh fhéidir an teachtaireacht seo a dhíchriptiú."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Taifeadtar gach oscailt den tuairisc seo sa loga iniúchta (§ 8 HinSchG: tá an t-inneachar faoi rún laistigh den eagraíocht freisin)."
+      ],
+      "Zurück zur Übersicht": [
+        "Ar ais chuig an bhforbhreathnú"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Loga iniúchta: slabhra fíoraithe, gan aon athrú ina dhiaidh le brath"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Loga iniúchta: theip ar sheiceáil sláine"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Fíoraíodh %1$d iontráil loga. Eochair shínithe: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d seaniontráil stairiúil gan síniú"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Earráid anaithnid le linn fíoraithe."
+      ],
+      "Offene Vorgänge": [
+        "Cásanna oscailte"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "gan aiseolas deiridh"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Admháil thar téarma"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "gan admháil, sprioc 7 lá caite"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Admháil dlite laistigh de 48 uair"
+      ],
+      "noch nicht bestätigt": [
+        "gan admháil fós"
+      ],
+      "Rückmeldung überfällig": [
+        "Aiseolas thar téarma"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "gan aiseolas, sprioc caite"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Na 50 cás is déanaí le stádas agus spriocdhátaí. Fanann an t-inneachar criptithe."
+      ],
+      "Vorgang": [
+        "Cás"
+      ],
+      "Kategorie": [
+        "Catagóir"
+      ],
+      "Status": [
+        "Stádas"
+      ],
+      "Eingangsbestätigung": [
+        "Admháil"
+      ],
+      "Rückmeldung": [
+        "Aiseolas"
+      ],
+      "Eingang": [
+        "Faighte"
+      ],
+      "Noch keine Vorgänge.": [
+        "Níl aon chás ann fós."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Cruthaigh trí chás taispeána"
+      ],
+      "bestätigt am %s": [
+        "admhaithe ar %s"
+      ],
+      "Frist %s": [
+        "Sprioc %s"
+      ],
+      "überfällig": [
+        "thar téarma"
+      ],
+      "gegeben am %s": [
+        "tugtha ar %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Foirm thuairiscithe a leabú ar an suíomh gréasáin"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Cruthaigh leathanach, mar shampla \"Cainéal Sceithireachta\"."
+      ],
+      "Den Shortcode einfügen:": [
+        "Cuir isteach an gearrchód:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(comhionann: [wm_hinschg_portal] nó an bloc \"wm/hinschg-portal\")."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Cuir nasc leis an leathanach san áit a bhfaighidh fostaithe é, amhail an t-inlíon nó an buntásc."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Tar éis a sheolta gheobhaidh an tuairisceoir aitheantas cáis agus eochair rochtana. Leis an dá rud is féidir stádas a sheiceáil agus teachtaireachtaí a scríobh san fhoirm chéanna gan ainm ná ríomhphost a thabhairt. Ní stóráiltear ach HMAC na heochrach; má chailltear í, ní bheidh rochtain ar an gcás a thuilleadh."
+      ],
+      "Testmeldung anlegen": [
+        "Cruthaigh tuairisc thástála"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Cruthaíonn sé cás ar an mbealach céanna leis an bhfoirm agus taispeánann sé an eochair rochtana uair amháin chun an tairseach a thástáil."
+      ],
+      "Sachverhalt": [
+        "Cur síos ar na fíricí"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Stóráiltear criptithe le AES-256-GCM é; séalaítear an eochair le heochair RSA an bhreiseáin."
+      ],
+      "Testmeldung speichern": [
+        "Sábháil tuairisc thástála"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Admháil: fáil + %d lá. Éilíonn § 17(1) Uimh. 1 HinSchG admháil tráth nach déanaí ná seacht lá."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Aiseolas: fáil + %d mhí. Ríomhann § 17(2) HinSchG trí mhí ón admháil (trí mhí agus seacht lá gan admháil); ní bhíonn sprioc an bhreiseáin níos déanaí riamh."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Tá na spriocdhátaí socraithe sa chód agus ní féidir iad a athrú."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Ní sheolann an breiseán ríomhphoist. Spreagann seiceáil uair an chloig (WP-Cron) an gníomh wm_hinschg_sla_breach_detected nuair a sháraítear spriocdháta."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Go dtí 15.09.2026 bhí leathanach socruithe anseo do ríomhphost, spriocdhátaí, uaslódálacha agus coinneáil nár léigh an cód riamh."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Sábháladh rogha díshuiteála."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Easpórtáil aonuaire as líne don eochair phríobháideach (le feiceáil anois amháin):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Stóráil an eochair phríobháideach seo go slán mar WM_HINSCHG_PRIVATE_KEY in wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Coinneáil reachtúil (§ 11 HinSchG) & díshuiteáil"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Faoi § 11(5) HinSchG coinnítear an doiciméadú ar feadh trí bliana tar éis dheireadh an nós imeachta. De réir réamhshocraithe coinnítear tuairiscí, teachtaireachtaí, loga iniúchta agus eochracha nuair a scriostar an breiseán."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Scrios go buan gach tuairisc, teachtaireacht, iontráil iniúchta agus eochair nuair a dhíshuiteáiltear an breiseán"
+      ],
+      "Deinstallations-Option speichern": [
+        "Sábháil rogha díshuiteála"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Is iad riarthóirí an tsuímh (manage_options) amháin is féidir iompar díshuiteála a athrú."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Aitheantas cáis agus eochair rochtana"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Tugtar an dá cheann uair amháin tar éis seolta. Tá 64 carachtar san eochair; ní stóráiltear ach a HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Tráth nach déanaí ná seacht lá (§ 17(1) Uimh. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Laistigh de thrí mhí ón admháil mar aon leis na bearta atá beartaithe nó déanta (§ 17(2) HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Criptiú"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Criptítear tuairiscí agus teachtaireachtaí ar an bhfreastalaí le AES-256-GCM agus séalaítear eochair AES le RSA. Braitheann suíomh na heochrach príobháidí ar wp-config.php: ann le WM_HINSCHG_PRIVATE_KEY, criptithe sa bhunachar sonraí le WM_HINSCHG_KEY_PASSPHRASE, nó i ngnáth-théacs i sean-shuiteálacha. Taispeántar an mód gníomhach ag barr an leathanaigh agus in wp hinschg key-status. Cosnaíonn HTTPS an t-iompar."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Cead chun tuairisc a oscailt"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Seiceálann an breiseán a chumas féin wm_hinschg_read_cases agus cuireann sé an ról \"Meldestelle (HinSchG)\" ar fáil. Cinneann róil WordPress cé a shealbhaíonn é. Tugtar do \"Administrator\" ar shuiteáil é chun glasáil amach a sheachaint; é a chúlghairm ina dhiaidh an cuspóir. Taispeánann wp hinschg access na sealbhóirí."
+      ],
+      "Audit-Protokoll": [
+        "Loga iniúchta"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Tá HMAC-SHA256 thar an iontráil roimhe i ngach iontráil. Braitear athruithe, scriosadh agus cur isteach; is féidir le duine a bhfuil eochair wp-config.php aige an slabhra a athshíniú."
+      ],
+      "Case ID is required.": [
+        "Tá aitheantas cáis ag teastáil."
+      ],
+      "Case not found.": [
+        "Níor aimsíodh an cás."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Tá clúdach na tuairisce seo neamhiomlán; ní féidir í a dhíchriptiú."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Níorbh fhéidir an tuairisc seo a dhíchriptiú. Foinse na heochrach: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Ní fhéadfaidh cur síos na tuairisce a bheith folamh."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Sábháil an eochair rochtana seo go slán. Is í an tAON bhealach amháin chun stádas a sheiceáil nó cumarsáid rúnda a dhéanamh gan d'aitheantas a nochtadh."
+      ],
+      "Case ID and Access Token are required.": [
+        "Tá aitheantas cáis agus eochair rochtana ag teastáil."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Aitheantas cáis nó eochair rochtana neamhbhailí."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Tá aitheantas cáis, eochair rochtana agus teachtaireacht ag teastáil."
+      ],
+      "Confidential message appended successfully.": [
+        "Cuireadh an teachtaireacht rúnda leis go rathúil."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Admhaíodh go bhfuarthas an tuairisc seo cheana féin."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Admháil fála: fuair an oifig inmheánach tuairiscithe do thuairisc (§ 17(1) Uimh. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Taifeadadh an admháil agus seoladh chuig amharc cáis an tuairisceora í."
+      ],
+      "Case ID and message are required.": [
+        "Tá aitheantas cáis agus teachtaireacht ag teastáil."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Sábháladh an freagra in amharc cáis an tuairisceora."
+      ],
+      "Eingegangen": [
+        "Faighte"
+      ],
+      "In Bearbeitung": [
+        "Á phróiseáil"
+      ],
+      "Rückmeldung gegeben": [
+        "Aiseolas tugtha"
+      ],
+      "Abgeschlossen": [
+        "Dúnta"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Calaois airgeadais, cúbláil, éilliú & breabaireacht"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Sáruithe GDPR & sáruithe sonraí"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Slándáil TF & teagmhais chibear"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Slabhra soláthair & cearta an duine"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Sábháilteacht oibre, idirdhealú & ciapadh"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Sáruithe ginearálta comhlíonta"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Tá an eochair phríobháideach in wp-config.php. Ní dhíchriptíonn dumpáil bunachair sonraí léi féin aon tuairisc."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Tá an eochair phríobháideach criptithe sa bhunachar sonraí le Libsodium (XSalsa20-Poly1305); tá an mháistir-eochair (WM_HINSCHG_MASTER_KEY) in wp-config.php. Ní dhíchriptíonn dumpáil léi féin dada."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Tá an eochair phríobháideach criptithe sa bhunachar sonraí; tá an pasfhrása in wp-config.php. Ní dhíchriptíonn dumpáil léi féin dada."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Tá an eochair phríobháideach criptithe sa bhunachar sonraí le Libsodium (díorthaithe ó AUTH_KEY in wp-config.php). Ní dhíchriptíonn dumpáil léi féin dada; moltar WM_HINSCHG_MASTER_KEY le haghaidh rothlú neamhspleách."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Níl ach an eochair phoiblí sa bhunachar sonraí (coimeád as líne). Séalaítear tuairiscí nua; teastaíonn WM_HINSCHG_PRIVATE_KEY in wp-config.php lena léamh."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Tá an eochair phríobháideach gan chriptiú sa bhunachar sonraí in aice leis na tuairiscí. Is féidir le duine ar bith a bhfuil dumpáil iomlán aige gach tuairisc a dhíchriptiú."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Tá an loga folamh cé go raibh %d iontráil taifeadta roimhe seo."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Briseadh slabhra ag iontráil #%d: scriosadh, cuireadh isteach nó athordaíodh iontráil."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Ní mheaitseálann iontráil #%d a síniú: athraíodh ina dhiaidh í nó scríobhadh le AUTH_KEY eile í (m.sh. roimh aistriú suímh)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Ní mheaitseálann deireadh an loga leis an iontráil dheireanach a taifeadadh. Baineadh na hiontrálacha is déanaí."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Níl síniú eochrach ar aon iontráil. Tagann an loga ó roimh an eochair nó íosghrádaíodh go formáid inbhrionnaithe é agus ní féidir é a fhíorú."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Níl %1$s ná %2$s socraithe in wp-config.php. Gan rún in wp-config.php ní féidir an eochair a chriptiú."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Níl aon eochair phríobháideach sa bhunachar sonraí. Níl dada le haistriú."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Ní féidir an eochair stóráilte a dhíchriptiú le WM_HINSCHG_MASTER_KEY. Athchóirigh an mháistir-eochair bhunaidh; níor forscríobhadh dada."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Tá an eochair phríobháideach criptithe le Libsodium (WM_HINSCHG_MASTER_KEY) cheana féin. Níl dada le déanamh."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Níorbh fhéidir an eochair stóráilte a oscailt. Níor forscríobhadh dada."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Theip ar fhíorú na heochrach séalaithe le Libsodium. Níor forscríobhadh dada."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Tá an eochair phríobháideach criptithe anois le Libsodium (WM_HINSCHG_MASTER_KEY) sa bhunachar sonraí. Ní dhíchriptíonn dumpáil léi féin tuairiscí a thuilleadh."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Ní osclaítear an eochair stóráilte gan pasfhrása ná leis an bpasfhrása cumraithe. Athchóirigh an sean-phasfhrása nó ní bheidh aon tuairisc inléite."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Tá an eochair phríobháideach criptithe leis an bpasfhrása cumraithe cheana féin. Níl dada le déanamh."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Níorbh fhéidir an eochair a easpórtáil go criptithe. Fanann an eochair stóráilte gan athrú."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Níorbh fhéidir an eochair chriptithe a athoscailt. Níor forscríobhadh dada."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Tá an eochair phríobháideach criptithe sa bhunachar sonraí anois. Ní dhíchriptíonn dumpáil léi féin dada. Tá an pasfhrása in wp-config.php riachtanach as seo amach."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Stádas Cainéil HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d lá le haghaidh admhála (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d mhí sprioc aiseolais (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Cainéal inmheánach tuairiscithe gníomhach"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Cainéal tuairiscithe á chumrú"
+      ],
+      "Interne Meldestelle": [
+        "Cainéal Inmheánach Tuairiscithe"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Is féidir leat sáruithe a thuairisciú anseo. Ní iarrtar ainm ná seoladh ríomhphoist."
+      ],
+      "Neuen Hinweis melden": [
+        "Seol tuairisc nua"
+      ],
+      "Vorgang abrufen": [
+        "Féach ar chás"
+      ],
+      "Was gespeichert wird:": [
+        "Cad a stóráiltear:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Catagóir agus cur síos, criptithe ar an bhfreastalaí. Ní stóráiltear do sheoladh IP leis an tuairisc; chun iarratais a theorannú coinníonn an suíomh hais HMAC de ar feadh uair an chloig ar a mhéad. Socraíonn oibreoir an tsuímh logáil an fhreastalaí ghréasáin, ní an fhoirm seo. Tar éis seolta gheobhaidh tú aitheantas cáis agus eochair rochtana le haghaidh ceisteanna agus aiseolais."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Déan cur síos chomh cruinn agus is féidir ar na fíricí (áit, dáta, daoine lena mbaineann) …"
+      ],
+      "Hinweis absenden": [
+        "Seol tuairisc"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Cuir isteach aitheantas cáis agus eochair rochtana chun an stádas a fheiceáil agus scríobh chuig an oifig."
+      ],
+      "Vorgangs-ID": [
+        "Aitheantas cáis"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "m.sh. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Eochair rochtana"
+      ],
+      "64 Zeichen": [
+        "64 carachtar"
+      ],
+      "Vorgang laden": [
+        "Lódáil cás"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Níl an ról %s ann."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Tá cead ag an ról %s tuairiscí a oscailt cheana féin. Níl dada le déanamh."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Tá cead ag an ról %s tuairiscí a oscailt anois."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Ní raibh cead ag an ról %s tuairiscí a oscailt ar aon nós. Níl dada le déanamh."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Scoireadh: ní bheadh aon duine in ann tuairiscí a oscailt ina dhiaidh sin. Ní mór admháil a thabhairt laistigh de sheacht lá (§ 17 HinSchG). Údaraigh duine eile ar dtús agus bain an cead anseo ansin."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Níl cead ag an ról %s tuairiscí a oscailt a thuilleadh."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Níl úsáideoir %d ann."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "Tá cead ag %s tuairiscí a oscailt anois."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Scoireadh: ní bheadh aon duine in ann tuairiscí a oscailt ina dhiaidh sin. Údaraigh duine eile ar dtús agus bain an cead anseo ansin."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "Níl cead ag %s tuairiscí a oscailt a thuilleadh."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "An iomarca iarratas. Bain triail eile as níos déanaí."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Tairseach Sceithireachta HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Foirm inmheánach sceithireachta agus cuardach cáis faoin HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Socruithe na Tairsí"
+      ],
+      "Überschrift": [
+        "Ceannteideal"
+      ],
+      "Einleitungstext anzeigen": [
+        "Taispeáin téacs tosaigh"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Tairseach Sceithireachta HinSchG (réamhamharc tosaigh)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Foirm inmheánach tuairiscithe agus stádais cáis faoi dhlí HinSchG na Gearmáine."
+      ],
+      "hinschg": [
+        "dli-hinschg"
+      ],
+      "whistleblower": [
+        "sceithire"
+      ],
+      "meldestelle": [
+        "oifig-tuairiscithe"
+      ],
+      "compliance": [
+        "comhlionadh"
+      ]
+    }
+  }
+}

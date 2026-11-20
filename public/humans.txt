@@ -1,0 +1,24 @@
+/* TEAM */
+    Arnold Wender
+
+/* THANKS */
+    To My Family -- For unconditional love, strength & inspiration
+    WordPress Community -- The platform this plugin runs on
+    Open Source Community -- For making the web better
+    Our Clients -- For trusting us with their digital presence
+
+/* SITE */
+    Last update: 2026/09/15
+    Language: German (interface), English (documentation)
+    Standards: HTML5, CSS3, WAI-ARIA
+    Components: WM Suite admin family sheets
+    Software: WordPress plugin, PHP 8.2
+    Security: local assets only, AES-256-GCM with RSA-4096 key sealing at rest, keyed audit log
+
+/* CONTACT */
+    Personal Website: https://arnoldwender.com
+    Website: https://arnoldwender.com
+    Phone: +49-151-4193-2856
+
+/* DEDICATION */
+    Dedicated to my family with eternal love and gratitude.

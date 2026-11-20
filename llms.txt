@@ -1,0 +1,27 @@
+# WM HinSchG Whistleblower Desk
+
+> WordPress plugin for an internal whistleblowing channel under the German Hinweisgeberschutzgesetz (HinSchG): a reporting form (`[wm_whistleblower_portal]`, `[wm_hinschg_portal]`, block `wm/hinschg-portal`), AES-256-GCM / RSA-4096 encryption at rest (and optional browser `RSA-OAEP-4096` `offline-custody` mode with dual-envelope recovery key), § 17 deadlines (7 days / 3 months), and an HMAC-chained audit log (`wm_whistle_reports`, `wm_whistle_messages`, `wm_whistle_audit_log`).
+
+## Overview
+
+`wm-hinschg-whistleblower` is a WordPress plugin developed with an agentic workflow (AI coding agents). It provides the written reporting channel and encrypted case desk behind the capability `wm_hinschg_read_cases` and the role `Meldestelle (HinSchG)`. It registers as a spoke of the WM Suite Hub when the hub is active. It does not cover oral or in-person reporting (§ 16 Abs. 3 HinSchG), does not perform automatic 3-year deletion (§ 11 Abs. 5 HinSchG), sends no outbound requests or e-mails, and makes no legal assessment.
+
+- REST: `wm-hinschg/v1` — `report/submit`, `report/status`, `report/chat` (anonymous portal permission callback with hourly-rotated HMAC rate limiting), `admin/cases`, `admin/case`, `admin/ack`, `admin/reply` (`wm_hinschg_read_cases`)
+- WP-CLI: `wp hinschg list`, `wp hinschg sla-check`, `wp hinschg audit`, `wp hinschg key-status`, `wp hinschg protect-key`, `wp hinschg access`, `wp hinschg grant-access`, `wp hinschg revoke-access`
+- Shortcodes & Block: `[wm_whistleblower_portal]`, `[wm_hinschg_portal]`, Gutenberg block `wm/hinschg-portal`
+- Block Bindings & GenerateBlocks: `wm-hinschg/status` (WP 6.5+) and `{{wm_hinschg_status}}` (GenerateBlocks 2.x)
+- Uninstall: preserves statutory records, keys, chain tip and the Meldestelle role by default unless `wm_hinschg_delete_data_on_uninstall` is enabled
+- Version 1.4.0.
+
+## Standards
+
+- PHP 8.2+ with strict types and `ext-openssl` / `ext-sodium`; WordPress 6.4+
+- Zero-CDN (all scripts and stylesheets ship locally with the plugin)
+- Never stores client IP addresses on whistleblowing routes; never writes plaintext PEM private keys to `wp_options` on new activations
+- MySQL `GET_LOCK('wm_hinschg_audit_chain', 0)` serialization for concurrent audit appends, HMAC-signed chain tip, and standalone + mutation + PHPUnit test suites
+
+## Official Links
+
+- Plugin Page: https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/
+- GitHub Repository: https://github.com/arnoldwender/wm-wp-hinschg-whistleblower
+- Support & Liability: Zero support — reproducible bugs on https://github.com/arnoldwender/wm-wp-hinschg-whistleblower/issues only · no private support · AS IS / no liability (SUPPORT.md)

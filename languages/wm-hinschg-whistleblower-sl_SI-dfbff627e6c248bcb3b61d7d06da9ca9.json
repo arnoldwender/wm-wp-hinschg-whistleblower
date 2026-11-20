@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "sl_SI",
+        "plural-forms": "nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Prijavna Točka za Žvižgače WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Notranji prijavni kanal: obrazec za prijavo, strežniško šifriranje prijav in sporočil, spremljanje rokov po § 17 HinSchG ter podpisan revizijski dnevnik. Ne presoja pravne skladnosti."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Prijavna točka"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tabela prijav manjka (ponovno aktivirajte vtičnik)"
+      ],
+      "%d Frist überschritten": [
+        "Prekoračen %d rok",
+        "Prekoračeni %d roki"
+      ],
+      "Keine Frist überschritten": [
+        "Noben rok ni prekoračen"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Potrditev prejema po 7 dneh, povratna informacija po 3 mesecih (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Zadeve"
+      ],
+      "Offen": [
+        "Odprte"
+      ],
+      "Überfällig": [
+        "Zapadle"
+      ],
+      "Meldestelle öffnen": [
+        "Odpri prijavno točko"
+      ],
+      "HinSchG-Meldestelle": [
+        "Prijavna točka HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Prijavna točka (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Zadeve in roki"
+      ],
+      "Formular einbinden": [
+        "Vdelaj obrazec"
+      ],
+      "Testmeldung": [
+        "Testna prijava"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Roki in obvestila"
+      ],
+      "Deinstallation": [
+        "Odstranitev"
+      ],
+      "Begriffe": [
+        "Pojmi"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Prejemanje prijav prek obrazca, šifrirano shranjevanje in izračun rokov po § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Del družine vtičnikov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Središče Hub"
+      ],
+      "Standalone": [
+        "Samostojni način"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Par ključev je na voljo"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Ni para ključev: prijav ni mogoče shraniti"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Kaj mora zagotavljati prijavna točka"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Delodajalci s praviloma vsaj 50 zaposlenimi morajo vzpostaviti notranjo prijavno točko (§ 12 odst. 2 HinSchG); za subjekte iz § 12 odst. 3 (kreditne institucije, investicijska podjetja, zavarovalnice) to velja ne glede na število zaposlenih. Točka potrdi prejem najpozneje v sedmih dneh in v treh mesecih poda povratno informacijo (§ 17). Prijave morajo biti mogoče pisno, ustno in na zahtevo osebno (§ 16 odst. 3); ta vtičnik pokriva le pisno pot. Anonimne prijave naj se obravnavajo brez obveznosti posebnega kanala (§ 16 odst. 1). Dokumentacija se izbriše tri leta po zaključku postopka (§ 11 odst. 5); vtičnik sam ničesar ne briše in ne preverja zakonskih obveznosti."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Ustvarjene tri vzorčne zadeve (dostopni ključi token_demo_1 do token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testna prijava je bila šifrirano shranjena."
+      ],
+      "Vorgangs-ID:": [
+        "ID zadeve:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Dostopni ključ (viden samo zdaj):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Sklop prijavne točke"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Zasebni ključ je v podatkovni zbirki shranjen nezaščiteno."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Nastavite %1$s (priporočeno, Libsodium XSalsa20-Poly1305, samodejna selitev) ali %2$s v wp-config.php in zaženite %3$s. Par ključev se ohrani; spremeni se le oblika zapisa, tako da vse dosedanje prijave ostanejo berljive."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d oseba sme odpirati prijave.",
+        "%d oseb sme odpirati prijave."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Vključno z vlogo %1$s, torej vsakim skrbnikom tega spletišča. § 8 HinSchG omejuje vsebino na pooblaščene osebe. Z %2$s prikažete seznam; dodelite vlogo »Meldestelle (HinSchG)« in nato odvzemite pravico z %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Skrbniki tega spletišča ne morejo odpirati prijav, dokler nimajo tega dovoljenja."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Še ni v tem vmesniku:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Potrditev prejema in odgovarjanje. Za to sta na voljo poti REST POST /wp-json/wm-hinschg/v1/admin/ack in /admin/reply (pravica wm_hinschg_read_cases). Vtičnik ne pošilja e-pošte."
+      ],
+      "Meldung %s": [
+        "Prijava %s"
+      ],
+      "Meldungstext": [
+        "Besedilo prijave"
+      ],
+      "Verlauf": [
+        "Potek"
+      ],
+      "Meldestelle": [
+        "Prijavna točka"
+      ],
+      "Hinweisgebende Person": [
+        "Prijavitelj"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Tega sporočila ni bilo mogoče dešifrirati."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Vsak vpogled v to prijavo se zapiše v revizijski dnevnik (§ 8 HinSchG: vsebina je zaupna tudi znotraj organizacije)."
+      ],
+      "Zurück zur Übersicht": [
+        "Nazaj na pregled"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Revizijski dnevnik: veriga preverjena, naknadne spremembe niso zaznane"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Revizijski dnevnik: preverjanje celovitosti ni uspelo"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Preverjenih %1$d vnosov dnevnika. Podpisni ključ: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d zgodovinskih vnosov brez podpisa"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Neznana napaka pri preverjanju."
+      ],
+      "Offene Vorgänge": [
+        "Odprte zadeve"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "brez končne povratne informacije"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Potrditev prejema zamuja"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "nepotrjeno, 7-dnevni rok je potekel"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Potrditev zapade v 48 urah"
+      ],
+      "noch nicht bestätigt": [
+        "še nepotrjeno"
+      ],
+      "Rückmeldung überfällig": [
+        "Povratna informacija zamuja"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "brez povratne informacije, rok vtičnika je potekel"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Zadnjih 50 zadev s stanjem in roki. Vsebina ostaja šifrirana."
+      ],
+      "Vorgang": [
+        "Zadeva"
+      ],
+      "Kategorie": [
+        "Kategorija"
+      ],
+      "Status": [
+        "Stanje zadeve"
+      ],
+      "Eingangsbestätigung": [
+        "Potrditev prejema"
+      ],
+      "Rückmeldung": [
+        "Povratna informacija"
+      ],
+      "Eingang": [
+        "Prejem"
+      ],
+      "Noch keine Vorgänge.": [
+        "Še ni zadev."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Ustvari tri vzorčne zadeve"
+      ],
+      "bestätigt am %s": [
+        "potrjeno %s"
+      ],
+      "Frist %s": [
+        "Rok %s"
+      ],
+      "überfällig": [
+        "zapadlo"
+      ],
+      "gegeben am %s": [
+        "poslano %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Vdelava prijavnega obrazca na spletno stran"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Ustvarite stran, na primer »Sistem za prijavo kršitev«."
+      ],
+      "Den Shortcode einfügen:": [
+        "Vstavite kratko kodo (shortcode):"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(enakovredno: [wm_hinschg_portal] ali blok »wm/hinschg-portal«)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Povezavo dodajte tja, kjer jo zaposleni najdejo, denimo na intranet ali v nogo strani."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Po oddaji prijavitelj prejme ID zadeve in dostopni ključ. Z obema v istem obrazcu spremlja stanje in pošilja sporočila brez navedbe imena ali e-pošte. Shrani se le HMAC ključa; ob izgubi dostop do zadeve ni več mogoč."
+      ],
+      "Testmeldung anlegen": [
+        "Ustvari testno prijavo"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Ustvari zadevo po enaki poti kot obrazec in enkrat prikaže dostopni ključ za preizkus portala."
+      ],
+      "Sachverhalt": [
+        "Opis dejanskega stanja"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Shrani se šifrirano z AES-256-GCM; simetrični ključ se zapečati z RSA ključem vtičnika."
+      ],
+      "Testmeldung speichern": [
+        "Shrani testno prijavo"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Potrditev prejema: prejem + %d dni. § 17 odst. 1 št. 1 HinSchG zahteva potrditev najpozneje v sedmih dneh."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Povratna informacija: prejem + %d mesecev. § 17 odst. 2 HinSchG šteje tri mesece od potrditve (tri mesece in sedem dni brez potrditve); rok vtičnika nikoli ni poznejši."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Roki so določeni v kodi in jih ni mogoče nastavljati."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Vtičnik ne pošilja e-pošte. Urno preverjanje (WP-Cron) ob prekoračitvi roka sproži dejanje wm_hinschg_sla_breach_detected."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Do 15. 9. 2026 je bila tukaj stran z nastavitvami za e-pošto, roke, priloge in hrambo, ki jih koda nikoli ni brala."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Nastavitev odstranitve je shranjena."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Enkratni izpis zasebnega ključa brez povezave (viden le zdaj):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Ta zasebni ključ varno shranite kot WM_HINSCHG_PRIVATE_KEY v wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Zakonska hramba (§ 11 HinSchG) in odstranitev"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Po § 11 odst. 5 HinSchG se dokumentacija hrani tri leta po zaključku postopka. Privzeto ostanejo prijave, sporočila, revizijski dnevnik in par ključev ob izbrisu vtičnika ohranjeni."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Ob odstranitvi vtičnika nepreklicno izbriši vse prijave, sporočila, vnose dnevnika in ključe"
+      ],
+      "Deinstallations-Option speichern": [
+        "Shrani možnost odstranitve"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Samo skrbniki spletišča (manage_options) lahko spremenijo vedenje ob odstranitvi."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID zadeve in dostopni ključ"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Prijavitelj prejme oboje enkrat po oddaji. Ključ je dolg 64 znakov; vtičnik shrani le njegov HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Najpozneje po sedmih dneh (§ 17 odst. 1 št. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "V treh mesecih po potrditvi prejema z navedbo načrtovanih ali izvedenih ukrepov (§ 17 odst. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Šifriranje"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Prijave in sporočila se na strežniku šifrirajo z AES-256-GCM, ključ AES pa zapečati z RSA. Kje je zasebni ključ, določa wp-config.php: tam prek WM_HINSCHG_PRIVATE_KEY, šifrirano v zbirki prek WM_HINSCHG_KEY_PASSPHRASE ali v čistem besedilu pri starejših namestitvah. Aktivni način je izpisan zgoraj in v wp hinschg key-status. Prenos ščiti HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Dovoljenje za odpiranje prijave"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Vtičnik preverja lastno pravico wm_hinschg_read_cases in doda vlogo »Meldestelle (HinSchG)«. Kdo jo ima, ureja WordPress ali vtičnik za vloge. Ob namestitvi jo prejme »Administrator«; poznejši odvzem skrbnikom je namen ločitve. wp hinschg access izpiše imetnike."
+      ],
+      "Audit-Protokoll": [
+        "Revizijski dnevnik"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Vsak vnos vsebuje HMAC-SHA256 prejšnjega. Spremembe, izbrisi in vrivanja so zaznani; kdor ima ključ iz wp-config.php, lahko verigo znova podpiše."
+      ],
+      "Case ID is required.": [
+        "ID zadeve je obvezen."
+      ],
+      "Case not found.": [
+        "Zadeva ni bila najdena."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Ovojnica te prijave je nepopolno shranjena in je ni mogoče dešifrirati."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Te prijave ni bilo mogoče dešifrirati. Vir ključa: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Opis prijave ne sme biti prazen."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Ta dostopni ključ varno shranite. To je EDINI način za preverjanje stanja ali zaupno komunikacijo brez razkritja identitete."
+      ],
+      "Case ID and Access Token are required.": [
+        "Zahtevana sta ID zadeve in dostopni ključ."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Neveljaven ID zadeve ali dostopni ključ."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Zahtevani so ID zadeve, dostopni ključ in sporočilo."
+      ],
+      "Confidential message appended successfully.": [
+        "Zaupno sporočilo je bilo uspešno dodano."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Prejem te prijave je bil že potrjen."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Potrditev prejema: vaša prijava je prispela na notranjo prijavno točko (§ 17 odst. 1 št. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Potrditev je zabeležena in poslana v pogled zadeve prijavitelja."
+      ],
+      "Case ID and message are required.": [
+        "Zahtevana sta ID zadeve in sporočilo."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Odgovor je shranjen v pogledu zadeve prijavitelja."
+      ],
+      "Eingegangen": [
+        "Prejeto"
+      ],
+      "In Bearbeitung": [
+        "V obravnavi"
+      ],
+      "Rückmeldung gegeben": [
+        "Povratna informacija podana"
+      ],
+      "Abgeschlossen": [
+        "Zaključeno"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Finančne goljufije, poneverbe, korupcija in podkupovanje"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Kršitve GDPR in kršitve varstva podatkov"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Varnost IT in kibernetski incidenti"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Dobavna veriga in človekove pravice"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Varnost pri delu, diskriminacija in nadlegovanje"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Splošne kršitve skladnosti"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Zasebni ključ je v wp-config.php. Izvoz podatkovne zbirke sam ne dešifrira nobene prijave."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Zasebni ključ je v zbirki šifriran prek Libsodiuma (XSalsa20-Poly1305); glavni ključ (WM_HINSCHG_MASTER_KEY) je v wp-config.php. Sam izvoz zbirke ničesar ne dešifrira."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Zasebni ključ je v zbirki šifriran; šifrirna fraza je v wp-config.php. Sam izvoz zbirke ničesar ne dešifrira."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Zasebni ključ je v zbirki šifriran prek Libsodiuma (izpeljan iz AUTH_KEY v wp-config.php). Sam izvoz zbirke ničesar ne dešifrira; za ločeno menjavo priporočamo WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "V zbirki je le javni ključ (hramba brez povezave). Nove prijave se zapečatijo; za branje je potreben WM_HINSCHG_PRIVATE_KEY v wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Zasebni ključ je nešifriran v zbirki poleg prijav. Kdor ima celoten izvoz zbirke, lahko dešifrira vse."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Dnevnik je prazen, čeprav je bilo nazadnje zabeleženih %d vnosov."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Prekinitev verige pri vnosu #%d: vnos je bil izbrisan, vstavljen ali prerazporejen."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Vnos #%d se ne ujema s podpisom: bil je spremenjen ali zapisan z drugim AUTH_KEY (npr. pred selitvijo spletišča)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Konec dnevnika se ne ujema z zadnjim zabeleženim vnosom. Najnovejši vnosi so bili odstranjeni."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Noben vnos nima podpisa s ključem. Dnevnik izvira iz časa pred ključem ali je bil povrnjen v ponaredljivo obliko in ga ni mogoče preveriti."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "V wp-config.php ni nastavljen niti %1$s niti %2$s. Brez skrivnosti v wp-config.php ključa ni mogoče šifrirati."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "V podatkovni zbirki ni zasebnega ključa. Ničesar ni za selitev."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Shranjenega ključa ni mogoče dešifrirati z WM_HINSCHG_MASTER_KEY. Obnovite prvotni glavni ključ; nič ni bilo prepisano."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Zasebni ključ je že šifriran prek Libsodiuma (WM_HINSCHG_MASTER_KEY). Nič ni treba storiti."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Shranjenega ključa ni bilo mogoče odpreti. Nič ni bilo prepisano."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Ključa, zapečatenega z Libsodiumom, ni bilo mogoče preveriti. Nič ni bilo prepisano."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Zasebni ključ je zdaj v zbirki šifriran prek Libsodiuma (WM_HINSCHG_MASTER_KEY). Sam izvoz zbirke prijav ne dešifrira več."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Shranjenega ključa ni mogoče odpreti ne brez ne z nastavljeno frazo. Obnovite prejšnjo frazo, sicer nobena prijava ne bo berljiva."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Zasebni ključ je že šifriran z nastavljeno frazo. Nič ni treba storiti."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Ključa ni bilo mogoče šifrirano izvoziti. Shranjeni ključ ostaja nespremenjen."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Šifriranega ključa ni bilo mogoče znova odpreti. Nič ni bilo prepisano."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Zasebni ključ je zdaj šifriran v podatkovni zbirki. Sam izvoz zbirke ničesar ne dešifrira. Fraza v wp-config.php je od zdaj nepogrešljiva."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Stanje kanala HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dni za potrditev prejema (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d mesecev rok za povratno informacijo (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Notranja prijavna točka aktivna"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Prijavna točka se nastavlja"
+      ],
+      "Interne Meldestelle": [
+        "Notranja prijavna točka"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Tukaj lahko prijavite kršitve. Ime in e-poštni naslov se ne sprašujeta."
+      ],
+      "Neuen Hinweis melden": [
+        "Oddaj novo prijavo"
+      ],
+      "Vorgang abrufen": [
+        "Prikliči zadevo"
+      ],
+      "Was gespeichert wird:": [
+        "Kaj se shrani:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategorija in opis dejstev, šifrirana na strežniku. Vaš naslov IP se s prijavo ne shrani; za omejitev zahtevkov spletišče največ eno uro hrani njegov zgoščeni odtis (HMAC). Ali spletni strežnik beleži dostope, določa upravljavec spletišča, ne ta obrazec. Po oddaji prejmete ID zadeve in dostopni ključ za vprašanja ter povratne informacije."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Opišite dejstva čim bolj natančno (kraj, datum, udeležene osebe) …"
+      ],
+      "Hinweis absenden": [
+        "Oddaj prijavo"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Vnesite ID zadeve in dostopni ključ za pregled stanja in pisanje prijavni točki."
+      ],
+      "Vorgangs-ID": [
+        "ID zadeve"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "npr. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Dostopni ključ"
+      ],
+      "64 Zeichen": [
+        "64 znakov"
+      ],
+      "Vorgang laden": [
+        "Naloži zadevo"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Vloga %s ne obstaja."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Vloga %s že sme odpirati prijave. Nič ni treba storiti."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Vloga %s zdaj sme odpirati prijave."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Vloga %s tako ali tako ni smela odpirati prijav. Nič ni treba storiti."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Prekinjeno: nato nihče več ne bi mogel odpirati prijav. Točka mora potrditi prejem v sedmih dneh (§ 17 HinSchG). Najprej pooblastite nekoga drugega in šele nato odvzemite tukaj."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Vloga %s ne sme več odpirati prijav."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Uporabnik %d ne obstaja."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s zdaj sme odpirati prijave."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Prekinjeno: nato nihče več ne bi mogel odpirati prijav. Najprej pooblastite nekoga drugega in šele nato odvzemite tukaj."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s ne sme več odpirati prijav."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Preveč zahtevkov. Poskusite znova pozneje."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portal Prijavne Točke HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Notranji obrazec za prijavo kršitev in pregled zadeve po HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Nastavitve portala"
+      ],
+      "Überschrift": [
+        "Naslov bloka"
+      ],
+      "Einleitungstext anzeigen": [
+        "Prikaži uvodno besedilo"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portal Prijavne Točke HinSchG (predogled na spletišču)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Notranji obrazec za žvižgače in preverjanje stanja po nemškem zakonu HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-zakon"
+      ],
+      "whistleblower": [
+        "zvizgac"
+      ],
+      "meldestelle": [
+        "prijavna-tocka"
+      ],
+      "compliance": [
+        "skladnost"
+      ]
+    }
+  }
+}

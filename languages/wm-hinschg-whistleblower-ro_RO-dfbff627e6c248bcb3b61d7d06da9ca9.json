@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "ro_RO",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Canal Intern de Avertizare WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Canal intern pentru avertizori: formular de raportare, criptare pe server a rapoartelor și mesajelor, urmărirea termenelor § 17 HinSchG și jurnal de audit semnat. Nu evaluează conformitatea juridică."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Birou de raportare"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Lipsește tabelul rapoartelor (reactivați modulul)"
+      ],
+      "%d Frist überschritten": [
+        "%d termen depășit",
+        "%d termene depășite"
+      ],
+      "Keine Frist überschritten": [
+        "Niciun termen depășit"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Confirmare de primire în 7 zile, răspuns în 3 luni (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Dosare"
+      ],
+      "Offen": [
+        "Deschise"
+      ],
+      "Überfällig": [
+        "Restante"
+      ],
+      "Meldestelle öffnen": [
+        "Deschide biroul de raportare"
+      ],
+      "HinSchG-Meldestelle": [
+        "Birou HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Birou de raportare (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Dosare și termene"
+      ],
+      "Formular einbinden": [
+        "Integrare formular"
+      ],
+      "Testmeldung": [
+        "Raport de test"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Termene și notificări"
+      ],
+      "Deinstallation": [
+        "Dezinstalare"
+      ],
+      "Begriffe": [
+        "Glosar"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Preluarea rapoartelor prin formular, stocarea lor criptată și calculul termenelor conform § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte din familia de module WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Modul Hub"
+      ],
+      "Standalone": [
+        "Independent"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Pereche de chei disponibilă"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Lipsă pereche de chei: rapoartele nu pot fi salvate"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Ce trebuie să asigure biroul intern de raportare"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Angajatorii cu cel puțin 50 de angajați în mod curent trebuie să instituie un canal intern de raportare (§ 12 alin. 2 HinSchG); pentru entitățile din § 12 alin. 3 (instituții de credit, firme de investiții, asigurători) obligația se aplică indiferent de numărul de salariați. Biroul confirmă primirea în cel mult șapte zile și oferă feedback în trei luni (§ 17). Raportarea trebuie să fie posibilă în scris, verbal și, la cerere, în persoană (§ 16 alin. 3); acest modul acoperă doar calea scrisă. Rapoartele anonime ar trebui tratate fără obligația unui canal dedicat (§ 16 alin. 1). Documentația se șterge la trei ani după închiderea procedurii (§ 11 alin. 5); modulul nu șterge nimic automat și nu verifică conformitatea legală."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Au fost create trei dosare demonstrative (chei de acces token_demo_1 până la token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Raportul de test a fost salvat criptat."
+      ],
+      "Vorgangs-ID:": [
+        "ID dosar:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Cheie de acces (vizibilă doar acum):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Secțiunile biroului"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Cheia privată este stocată neprotejat în baza de date."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Configurați %1$s (recomandat, Libsodium XSalsa20-Poly1305, migrare automată) sau %2$s în wp-config.php și rulați %3$s. Perechea de chei se păstrează; se schimbă doar forma stocată astfel încât toate rapoartele anterioare rămân lizibile."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d persoană poate deschide rapoarte.",
+        "%d persoane pot deschide rapoarte."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Inclusiv rolul %1$s, adică orice administrator al site-ului. § 8 HinSchG păstrează conținutul doar la persoanele desemnate. Cu %2$s vedeți lista; atribuiți rolul „Meldestelle (HinSchG)” și revocați apoi dreptul cu %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Administratorii acestui site nu pot deschide rapoarte cât timp nu dețin această permisiune."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Încă indisponibil în această interfață:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Confirmarea primirii și trimiterea răspunsurilor. Folosiți rutele REST POST /wp-json/wm-hinschg/v1/admin/ack și /admin/reply (permisiune wm_hinschg_read_cases). Modulul nu trimite e-mailuri."
+      ],
+      "Meldung %s": [
+        "Raport %s"
+      ],
+      "Meldungstext": [
+        "Textul raportului"
+      ],
+      "Verlauf": [
+        "Istoric mesaje"
+      ],
+      "Meldestelle": [
+        "Birou de raportare"
+      ],
+      "Hinweisgebende Person": [
+        "Persoană raportoare"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Acest mesaj nu a putut fi decriptat."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Fiecare accesare a acestui raport este consemnată în jurnalul de audit (§ 8 HinSchG: conținutul este confidențial și în interiorul organizației)."
+      ],
+      "Zurück zur Übersicht": [
+        "Înapoi la prezentare"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Jurnal de audit: lanț verificat, nicio modificare ulterioară detectată"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Jurnal de audit: verificarea integrității a eșuat"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d înregistrări verificate. Cheie de semnare: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d înregistrări istorice fără semnătură"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Eroare necunoscută la verificare."
+      ],
+      "Offene Vorgänge": [
+        "Dosare deschise"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "fără răspuns final"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Confirmare de primire restantă"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "neconfirmat, termenul de 7 zile a expirat"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Confirmare scadentă în 48 de ore"
+      ],
+      "noch nicht bestätigt": [
+        "încă neconfirmat"
+      ],
+      "Rückmeldung überfällig": [
+        "Răspuns restant"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "niciun răspuns, termenul a expirat"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Ultimele 50 de dosare cu stare și termene. Conținutul rămâne criptat."
+      ],
+      "Vorgang": [
+        "Dosar"
+      ],
+      "Kategorie": [
+        "Categorie"
+      ],
+      "Status": [
+        "Stare"
+      ],
+      "Eingangsbestätigung": [
+        "Confirmare primire"
+      ],
+      "Rückmeldung": [
+        "Răspuns"
+      ],
+      "Eingang": [
+        "Primit la"
+      ],
+      "Noch keine Vorgänge.": [
+        "Niciun dosar încă."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Creează trei dosare demonstrative"
+      ],
+      "bestätigt am %s": [
+        "confirmat la %s"
+      ],
+      "Frist %s": [
+        "Termen %s"
+      ],
+      "überfällig": [
+        "restant"
+      ],
+      "gegeben am %s": [
+        "trimis la %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Integrarea formularului de raportare pe site"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Creați o pagină, de exemplu „Canal de avertizare în interes public”."
+      ],
+      "Den Shortcode einfügen:": [
+        "Inserați shortcode-ul:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(echivalent: [wm_hinschg_portal] sau blocul „wm/hinschg-portal”)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Adăugați legătura acolo unde angajații o pot găsi, de pildă pe intranet sau în subsol."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "După trimitere, raportorul primește un ID de dosar și o cheie de acces. Cu ambele verifică starea și trimite mesaje în același formular fără a indica numele sau adresa de e-mail. Se salvează doar un HMAC al cheii; dacă se pierde, dosarul nu mai poate fi accesat."
+      ],
+      "Testmeldung anlegen": [
+        "Creează raport de test"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Creează un dosar pe aceeași cale ca formularul public și afișează o singură dată cheia de acces pentru testarea portalului."
+      ],
+      "Sachverhalt": [
+        "Descrierea faptelor"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Salvat criptat cu AES-256-GCM; cheia simetrică este sigilată cu cheia RSA a modulului."
+      ],
+      "Testmeldung speichern": [
+        "Salvează raportul de test"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Confirmare de primire: primire + %d zile. § 17 alin. 1 pct. 1 HinSchG impune confirmarea în cel mult șapte zile."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Răspuns: primire + %d luni. § 17 alin. 2 HinSchG calculează trei luni de la confirmare (trei luni și șapte zile fără confirmare); termenul modulului nu este niciodată mai târziu."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Termenele sunt fixate în cod și nu pot fi modificate."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Modulul nu trimite e-mailuri. O verificare orară (WP-Cron) declanșează acțiunea wm_hinschg_sla_breach_detected la depășirea termenelor."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Până la 15.09.2026 aici exista o pagină de setări pentru e-mail, termene, încărcări și păstrare ale cărei valori nu au fost folosite niciodată."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Opțiunea de dezinstalare a fost salvată."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Afișare unică offline a cheii private (vizibilă doar acum):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Salvați în siguranță această cheie privată ca WM_HINSCHG_PRIVATE_KEY în wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Păstrare legală (§ 11 HinSchG) și dezinstalare"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Conform § 11 alin. 5 HinSchG, documentația se păstrează trei ani de la încheierea procedurii. Implicit, rapoartele, mesajele, jurnalul de audit și cheile sunt păstrate la ștergerea modulului."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "La dezinstalarea modulului șterge ireversibil toate rapoartele, mesajele, înregistrările de audit și cheile"
+      ],
+      "Deinstallations-Option speichern": [
+        "Salvează opțiunea de dezinstalare"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Doar administratorii site-ului (manage_options) pot modifica comportamentul la dezinstalare."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID dosar și cheie de acces"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Comunicate o singură dată după trimitere. Cheia are 64 de caractere; se stochează doar HMAC-ul ei."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Cel târziu după șapte zile (§ 17 alin. 1 pct. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "În termen de trei luni de la confirmarea primirii, cu măsurile planificate sau adoptate (§ 17 alin. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Criptare"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Rapoartele și mesajele sunt criptate pe server cu AES-256-GCM, iar cheia AES este sigilată cu RSA. Locul cheii private depinde de wp-config.php: acolo prin WM_HINSCHG_PRIVATE_KEY, criptată în baza de date prin WM_HINSCHG_KEY_PASSPHRASE sau în clar pe instalările vechi. Modul activ apare sus și în wp hinschg key-status. Transportul este protejat prin HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Permisiunea de a deschide un raport"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Modulul verifică permisiunea proprie wm_hinschg_read_cases și aduce rolul „Meldestelle (HinSchG)”. WordPress sau un modul de roluri stabilește cine o deține. La instalare o primește „Administrator”; revocarea ulterioară asigură separarea. wp hinschg access afișează deținătorii."
+      ],
+      "Audit-Protokoll": [
+        "Jurnal de audit"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Fiecare înregistrare poartă un HMAC-SHA256 peste cea anterioară. Modificările, ștergerile și inserările sunt detectate; cine deține cheia din wp-config.php poate resemna lanțul."
+      ],
+      "Case ID is required.": [
+        "ID-ul dosarului este obligatoriu."
+      ],
+      "Case not found.": [
+        "Dosarul nu a fost găsit."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Plicul criptografic al acestui raport este incomplet; nu poate fi decriptat."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Acest raport nu a putut fi decriptat. Sursa cheii: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Descrierea raportului nu poate fi goală."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Păstrați în siguranță această cheie de acces. Este SINGURA modalitate de a verifica starea sau de a comunica confidențial fără a vă dezvălui identitatea."
+      ],
+      "Case ID and Access Token are required.": [
+        "Sunt necesare ID-ul dosarului și cheia de acces."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "ID de dosar sau cheie de acces nevalidă."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Sunt necesare ID-ul dosarului, cheia de acces și mesajul."
+      ],
+      "Confidential message appended successfully.": [
+        "Mesaj confidențial adăugat cu succes."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Primirea acestui raport a fost deja confirmată."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Confirmare de primire: raportul dvs. a fost înregistrat la biroul intern de raportare (§ 17 alin. 1 pct. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Confirmarea a fost înregistrată și trimisă în pagina dosarului raportorului."
+      ],
+      "Case ID and message are required.": [
+        "Sunt necesare ID-ul dosarului și mesajul."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Răspunsul a fost salvat în pagina dosarului persoanei raportoare."
+      ],
+      "Eingegangen": [
+        "Primit"
+      ],
+      "In Bearbeitung": [
+        "În analiză"
+      ],
+      "Rückmeldung gegeben": [
+        "Răspuns transmis"
+      ],
+      "Abgeschlossen": [
+        "Închis"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Fraudă financiară, delapidare, corupție și dare/luare de mită"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Încălcări GDPR și breșe de securitate a datelor"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Securitate IT și incidente cibernetice"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Lanț de aprovizionare și drepturile omului"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Securitate în muncă, discriminare și hărțuire"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Încălcări generale de conformitate"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Cheia privată se află în wp-config.php. O copie a bazei de date singură nu decriptează niciun raport."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Cheia privată este criptată în baza de date prin Libsodium (XSalsa20-Poly1305); cheia principală (WM_HINSCHG_MASTER_KEY) este în wp-config.php. O copie a bazei singură nu decriptează nimic."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Cheia privată este criptată în baza de date; fraza de acces este în wp-config.php. O copie a bazei singură nu decriptează nimic."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Cheia privată este criptată în bază prin Libsodium (derivată din AUTH_KEY în wp-config.php). O copie singură nu decriptează nimic; se recomandă WM_HINSCHG_MASTER_KEY pentru rotație dedicată."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "În baza de date există doar cheia publică (custodie offline). Rapoartele noi sunt sigilate; pentru citire este necesar WM_HINSCHG_PRIVATE_KEY în wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Cheia privată este necriptată în baza de date lângă rapoarte. Oricine deține o copie completă poate decripta toate rapoartele."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Jurnalul este gol deși anterior figurau %d înregistrări."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Întrerupere a lanțului la înregistrarea #%d: o intrare a fost ștearsă, inserată sau reordonată."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Înregistrarea #%d nu corespunde semnăturii: a fost modificată ulterior sau scrisă cu alt AUTH_KEY (de ex. înaintea mutării site-ului)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Finalul jurnalului nu corespunde ultimei intrări consemnate. Cele mai noi înregistrări au fost eliminate."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Nicio înregistrare nu poartă semnătură cu cheie. Jurnalul provine dinaintea cheii sau a fost retrogradat la formatul falsificabil și nu poate fi verificat."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Nici %1$s, nici %2$s nu sunt definite în wp-config.php. Fără un secret în wp-config.php cheia nu poate fi criptată."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Nu există cheie privată în baza de date. Nimic de migrat."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Cheia stocată nu poate fi decriptată cu WM_HINSCHG_MASTER_KEY. Restaurați cheia principală originală; nimic nu a fost suprascris."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Cheia privată este deja criptată prin Libsodium (WM_HINSCHG_MASTER_KEY). Nimic de făcut."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Cheia stocată nu a putut fi deschisă. Nimic nu a fost suprascris."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Cheia sigilată cu Libsodium nu a putut fi verificată. Nimic nu a fost suprascris."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Cheia privată este acum criptată prin Libsodium (WM_HINSCHG_MASTER_KEY) în baza de date. O copie a bazei singură nu mai decriptează rapoarte."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Cheia stocată nu se deschide nici fără, nici cu fraza configurată. Restaurați fraza veche, altfel niciun raport nu va mai putea fi citit."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Cheia privată este deja criptată cu fraza configurată. Nimic de făcut."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Cheia nu a putut fi exportată criptat. Cheia stocată rămâne neschimbată."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Cheia criptată nu a putut fi redeschisă. Nimic nu a fost suprascris."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Cheia privată este acum criptată în baza de date. O copie a bazei singură nu mai decriptează nimic. Fraza din wp-config.php devine indispensabilă."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Stare canal HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d zile pentru confirmare primire (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d luni termen de răspuns (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Canal intern de raportare activ"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Canal de raportare în curs de configurare"
+      ],
+      "Interne Meldestelle": [
+        "Canal intern de raportare"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Aici puteți semnala încălcări. Numele și adresa de e-mail nu sunt solicitate."
+      ],
+      "Neuen Hinweis melden": [
+        "Trimite raport nou"
+      ],
+      "Vorgang abrufen": [
+        "Verifică dosar"
+      ],
+      "Was gespeichert wird:": [
+        "Ce se stochează:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Categoria și descrierea faptelor, criptate pe server. Adresa dvs. IP nu se salvează împreună cu raportul; pentru limitarea cererilor, site-ul păstrează cel mult o oră un hash cu cheie (HMAC). Eventuala jurnalizare de către serverul web depinde de operatorul site-ului, nu de acest formular. După trimitere primiți un ID de dosar și o cheie de acces pentru întrebări și răspunsuri."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Descrieți faptele cât mai exact posibil (locul, data, persoanele implicate)…"
+      ],
+      "Hinweis absenden": [
+        "Trimite raportul"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Introduceți ID-ul dosarului și cheia de acces pentru a vedea stadiul și a scrie biroului."
+      ],
+      "Vorgangs-ID": [
+        "ID dosar"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "de ex. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Cheie de acces"
+      ],
+      "64 Zeichen": [
+        "64 de caractere"
+      ],
+      "Vorgang laden": [
+        "Încarcă dosarul"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rolul %s nu există."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rolul %s poate deja deschide rapoarte. Nimic de făcut."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rolul %s poate acum deschide rapoarte."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rolul %s oricum nu putea deschide rapoarte. Nimic de făcut."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Anulat: nimeni nu ar mai putea deschide rapoarte. Biroul trebuie să confirme primirea în șapte zile (§ 17 HinSchG). Autorizați mai întâi altă persoană și revocați apoi aici."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rolul %s nu mai poate deschide rapoarte."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Utilizatorul %d nu există."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s poate acum deschide rapoarte."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Anulat: nimeni nu ar mai putea deschide rapoarte. Autorizați mai întâi altă persoană și revocați apoi aici."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s nu mai poate deschide rapoarte."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Prea multe cereri. Încercați din nou mai târziu."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portal de Avertizare HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Formular intern de raportare și consultare dosar conform HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Setări portal"
+      ],
+      "Überschrift": [
+        "Titlu"
+      ],
+      "Einleitungstext anzeigen": [
+        "Afișează textul introductiv"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portal de Avertizare HinSchG (previzualizare în pagină)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Formular intern pentru avertizori și verificare stare conform legii germane HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-lege"
+      ],
+      "whistleblower": [
+        "avertizor"
+      ],
+      "meldestelle": [
+        "birou-raportare"
+      ],
+      "compliance": [
+        "conformitate"
+      ]
+    }
+  }
+}

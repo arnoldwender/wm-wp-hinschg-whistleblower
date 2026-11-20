@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "el",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Γραφείο Αναφορών WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Εσωτερικός δίαυλος αναφορών: φόρμα υποβολής, κρυπτογράφηση στον διακομιστή για αναφορές και μηνύματα, παρακολούθηση προθεσμιών § 17 HinSchG και υπογεγραμμένο αρχείο ελέγχου. Δεν αξιολογεί νομική συμμόρφωση."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Γραφείο αναφορών"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Λείπει ο πίνακας αναφορών (ενεργοποιήστε ξανά το πρόσθετο)"
+      ],
+      "%d Frist überschritten": [
+        "Υπέρβαση %d προθεσμίας",
+        "Υπέρβαση %d προθεσμιών"
+      ],
+      "Keine Frist überschritten": [
+        "Καμία υπέρβαση προθεσμίας"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Επιβεβαίωση παραλαβής σε 7 ημέρες, ενημέρωση σε 3 μήνες (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Υποθέσεις"
+      ],
+      "Offen": [
+        "Ανοικτές"
+      ],
+      "Überfällig": [
+        "Εκπρόθεσμες"
+      ],
+      "Meldestelle öffnen": [
+        "Άνοιγμα γραφείου αναφορών"
+      ],
+      "HinSchG-Meldestelle": [
+        "Γραφείο HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Γραφείο αναφορών (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Υποθέσεις & προθεσμίες"
+      ],
+      "Formular einbinden": [
+        "Ενσωμάτωση φόρμας"
+      ],
+      "Testmeldung": [
+        "Δοκιμαστική αναφορά"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Προθεσμίες & ειδοποιήσεις"
+      ],
+      "Deinstallation": [
+        "Απεγκατάσταση"
+      ],
+      "Begriffe": [
+        "Όροι"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Παραλαβή αναφορών μέσω της φόρμας, κρυπτογραφημένη αποθήκευση και υπολογισμός προθεσμιών κατά το § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Μέρος της οικογένειας προσθέτων WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Κόμβος Hub"
+      ],
+      "Standalone": [
+        "Αυτόνομη λειτουργία"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Το ζεύγος κλειδιών είναι διαθέσιμο"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Δεν υπάρχει ζεύγος κλειδιών: αδύνατη η αποθήκευση αναφορών"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Τι πρέπει να καλύπτει το εσωτερικό γραφείο αναφορών"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Εργοδότες με κατά κανόνα τουλάχιστον 50 εργαζομένους οφείλουν να συστήσουν εσωτερικό γραφείο αναφορών (§ 12 παρ. 2 HinSchG)· για τους φορείς του § 12 παρ. 3 (πιστωτικά ιδρύματα, επιχειρήσεις επενδύσεων, ασφαλιστικές) ισχύει ανεξαρτήτως προσωπικού. Το γραφείο επιβεβαιώνει την παραλαβή εντός επτά ημερών και παρέχει ενημέρωση εντός τριών μηνών (§ 17). Οι αναφορές πρέπει να είναι δυνατές γραπτώς, προφορικώς και, κατόπιν αιτήματος, αυτοπροσώπως (§ 16 παρ. 3)· το πρόσθετο καλύπτει μόνο τη γραπτή οδό. Οι ανώνυμες αναφορές εξετάζονται χωρίς υποχρέωση ειδικού διαύλου (§ 16 παρ. 1). Η τεκμηρίωση διαγράφεται τρία έτη μετά την περάτωση (§ 11 παρ. 5)· το πρόσθετο δεν διαγράφει τίποτα αυτόματα ούτε ελέγχει νομικές υποχρεώσεις."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Δημιουργήθηκαν τρεις δοκιμαστικές υποθέσεις (κλειδιά token_demo_1 έως token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Η δοκιμαστική αναφορά αποθηκεύτηκε κρυπτογραφημένα."
+      ],
+      "Vorgangs-ID:": [
+        "Κωδικός υπόθεσης:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Κλειδί πρόσβασης (εμφανίζεται μόνο τώρα):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Ενότητες γραφείου αναφορών"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Το ιδιωτικό κλειδί βρίσκεται απροστάτευτο στη βάση δεδομένων."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Ορίστε το %1$s (συνιστάται, Libsodium XSalsa20-Poly1305, αυτόματη μετάβαση) ή το %2$s στο wp-config.php και εκτελέστε %3$s. Το ζεύγος κλειδιών διατηρείται· αλλάζει μόνο η αποθηκευμένη μορφή ώστε όλες οι υπάρχουσες αναφορές να παραμένουν αναγνώσιμες."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d άτομο επιτρέπεται να ανοίγει αναφορές.",
+        "%d άτομα επιτρέπεται να ανοίγουν αναφορές."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Συμπεριλαμβανομένου του ρόλου %1$s, δηλαδή κάθε διαχειριστή του ιστοτόπου. Το § 8 HinSchG περιορίζει το περιεχόμενο στα εντεταλμένα πρόσωπα. Με %2$s βλέπετε τη λίστα· εκχωρήστε τον ρόλο «Meldestelle (HinSchG)» και αφαιρέστε κατόπιν το δικαίωμα με %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Οι διαχειριστές αυτού του ιστοτόπου δεν μπορούν να ανοίγουν αναφορές χωρίς αυτήν την άδεια."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Δεν περιλαμβάνεται ακόμη σε αυτήν την οθόνη:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Επιβεβαίωση παραλαβής και απάντηση. Χρησιμοποιήστε τις διαδρομές REST POST /wp-json/wm-hinschg/v1/admin/ack και /admin/reply (δικαίωμα wm_hinschg_read_cases). Το πρόσθετο δεν στέλνει email."
+      ],
+      "Meldung %s": [
+        "Αναφορά %s"
+      ],
+      "Meldungstext": [
+        "Κείμενο αναφοράς"
+      ],
+      "Verlauf": [
+        "Ιστορικό"
+      ],
+      "Meldestelle": [
+        "Γραφείο αναφορών"
+      ],
+      "Hinweisgebende Person": [
+        "Αναφέρων"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Δεν ήταν δυνατή η αποκρυπτογράφηση αυτού του μηνύματος."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Κάθε άνοιγμα αυτής της αναφοράς καταγράφεται στο αρχείο ελέγχου (§ 8 HinSchG: το περιεχόμενο είναι εμπιστευτικό και εντός του οργανισμού)."
+      ],
+      "Zurück zur Übersicht": [
+        "Επιστροφή στην επισκόπηση"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Αρχείο ελέγχου: η αλυσίδα επαληθεύτηκε, δεν εντοπίστηκε μεταγενέστερη αλλοίωση"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Αρχείο ελέγχου: αποτυχία ελέγχου ακεραιότητας"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Ελέγχθηκαν %1$d εγγραφές. Κλειδί υπογραφής: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d παλαιές εγγραφές χωρίς υπογραφή"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Άγνωστο σφάλμα κατά τον έλεγχο."
+      ],
+      "Offene Vorgänge": [
+        "Ανοικτές υποθέσεις"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "χωρίς τελική ενημέρωση"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Εκπρόθεσμη επιβεβαίωση παραλαβής"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "ανεπιβεβαίωτη, παρήλθε η προθεσμία 7 ημερών"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Επιβεβαίωση εντός 48 ωρών"
+      ],
+      "noch nicht bestätigt": [
+        "δεν επιβεβαιώθηκε ακόμη"
+      ],
+      "Rückmeldung überfällig": [
+        "Εκπρόθεσμη ενημέρωση"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "χωρίς ενημέρωση, παρήλθε η προθεσμία"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Οι τελευταίες 50 υποθέσεις με κατάσταση και προθεσμίες. Τα περιεχόμενα παραμένουν κρυπτογραφημένα."
+      ],
+      "Vorgang": [
+        "Υπόθεση"
+      ],
+      "Kategorie": [
+        "Κατηγορία"
+      ],
+      "Status": [
+        "Κατάσταση"
+      ],
+      "Eingangsbestätigung": [
+        "Επιβεβαίωση παραλαβής"
+      ],
+      "Rückmeldung": [
+        "Ενημέρωση"
+      ],
+      "Eingang": [
+        "Παραλαβή"
+      ],
+      "Noch keine Vorgänge.": [
+        "Δεν υπάρχουν ακόμη υποθέσεις."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Δημιουργία τριών υποθέσεων επίδειξης"
+      ],
+      "bestätigt am %s": [
+        "επιβεβαιώθηκε στις %s"
+      ],
+      "Frist %s": [
+        "Προθεσμία %s"
+      ],
+      "überfällig": [
+        "εκπρόθεσμη"
+      ],
+      "gegeben am %s": [
+        "δόθηκε στις %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Ενσωμάτωση της φόρμας αναφορών στον ιστότοπο"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Δημιουργήστε μια σελίδα, π.χ. «Σύστημα Αναφορών»."
+      ],
+      "Den Shortcode einfügen:": [
+        "Εισαγάγετε το shortcode:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(ισοδύναμα: [wm_hinschg_portal] ή το μπλοκ «wm/hinschg-portal»)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Προσθέστε σύνδεσμο όπου τον βρίσκουν οι εργαζόμενοι, π.χ. στο intranet ή στο υποσέλιδο."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Μετά την υποβολή ο αναφέρων λαμβάνει κωδικό υπόθεσης και κλειδί πρόσβασης. Με τα δύο ελέγχει την πορεία και ανταλλάσσει μηνύματα στην ίδια φόρμα χωρίς όνομα ή email. Αποθηκεύεται μόνο HMAC του κλειδιού· αν χαθεί, δεν υπάρχει πλέον πρόσβαση."
+      ],
+      "Testmeldung anlegen": [
+        "Δημιουργία δοκιμαστικής αναφοράς"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Δημιουργεί υπόθεση μέσω της ίδιας οδού με τη φόρμα και εμφανίζει μία φορά το κλειδί πρόσβασης για δοκιμή της πύλης."
+      ],
+      "Sachverhalt": [
+        "Περιγραφή περιστατικού"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Αποθηκεύεται κρυπτογραφημένα με AES-256-GCM· το συμμετρικό κλειδί σφραγίζεται με το κλειδί RSA του προσθέτου."
+      ],
+      "Testmeldung speichern": [
+        "Αποθήκευση δοκιμαστικής αναφοράς"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Επιβεβαίωση παραλαβής: παραλαβή + %d ημέρες. Το § 17 παρ. 1 αρ. 1 HinSchG απαιτεί επιβεβαίωση το αργότερο εντός επτά ημερών."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Ενημέρωση: παραλαβή + %d μήνες. Το § 17 παρ. 2 HinSchG υπολογίζει τρεις μήνες από την επιβεβαίωση (τρεις μήνες και επτά ημέρες χωρίς επιβεβαίωση)· η προθεσμία του προσθέτου δεν είναι ποτέ μεταγενέστερη."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Οι προθεσμίες είναι καθορισμένες στον κώδικα και δεν αλλάζουν."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Το πρόσθετο δεν στέλνει email. Ωριαίος έλεγχος (WP-Cron) ενεργοποιεί τη δράση wm_hinschg_sla_breach_detected σε εκπρόθεσμες υποθέσεις."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Έως τις 15/09/2026 υπήρχε εδώ σελίδα ρυθμίσεων για email, προθεσμίες, αρχεία και διατήρηση, της οποίας οι τιμές δεν χρησιμοποιήθηκαν ποτέ."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Η προτίμηση απεγκατάστασης αποθηκεύτηκε."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Εφάπαξ εξαγωγή ιδιωτικού κλειδιού εκτός σύνδεσης (ορατή μόνο τώρα):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Αποθηκεύστε με ασφάλεια αυτό το ιδιωτικό κλειδί ως WM_HINSCHG_PRIVATE_KEY στο wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Νόμιμη διατήρηση (§ 11 HinSchG) & απεγκατάσταση"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Κατά το § 11 παρ. 5 HinSchG η τεκμηρίωση τηρείται επί τρία έτη μετά την περάτωση της διαδικασίας. Από προεπιλογή αναφορές, μηνύματα, αρχείο ελέγχου και κλειδιά διατηρούνται κατά τη διαγραφή του προσθέτου."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Κατά την απεγκατάσταση του προσθέτου να διαγραφούν οριστικά όλες οι αναφορές, τα μηνύματα, οι εγγραφές ελέγχου και τα κλειδιά"
+      ],
+      "Deinstallations-Option speichern": [
+        "Αποθήκευση επιλογής απεγκατάστασης"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Μόνο οι διαχειριστές ιστοτόπου (manage_options) μπορούν να αλλάξουν τη συμπεριφορά απεγκατάστασης."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Κωδικός υπόθεσης και κλειδί πρόσβασης"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Παρέχονται μία φορά μετά την υποβολή. Το κλειδί έχει μήκος 64 χαρακτήρων· αποθηκεύεται μόνο το HMAC του."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Το αργότερο εντός επτά ημερών (§ 17 παρ. 1 αρ. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Εντός τριών μηνών από την επιβεβαίωση παραλαβής με τα σχεδιαζόμενα ή ληφθέντα μέτρα (§ 17 παρ. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Κρυπτογράφηση"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Οι αναφορές και τα μηνύματα κρυπτογραφούνται στον διακομιστή με AES-256-GCM και το κλειδί AES σφραγίζεται με RSA. Η θέση του ιδιωτικού κλειδιού καθορίζεται από το wp-config.php: εκεί μέσω WM_HINSCHG_PRIVATE_KEY, κρυπτογραφημένο στη βάση μέσω WM_HINSCHG_KEY_PASSPHRASE ή σε απλό κείμενο σε παλαιές εγκαταστάσεις. Η ενεργή λειτουργία φαίνεται επάνω και στο wp hinschg key-status. Τη μεταφορά προστατεύει το HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Δικαίωμα ανοίγματος αναφοράς"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Το πρόσθετο ελέγχει το δικό του δικαίωμα wm_hinschg_read_cases και παρέχει τον ρόλο «Meldestelle (HinSchG)». Το WordPress ή ένα πρόσθετο ρόλων καθορίζει τους κατόχους. Κατά την εγκατάσταση αποδίδεται στον «Administrator»· η αφαίρεσή του κατόπιν είναι ο επιδιωκόμενος διαχωρισμός. Το wp hinschg access εμφανίζει τους κατόχους."
+      ],
+      "Audit-Protokoll": [
+        "Αρχείο ελέγχου"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Κάθε εγγραφή περιέχει HMAC-SHA256 επί της προηγούμενης. Τροποποιήσεις, διαγραφές και παρεμβολές εντοπίζονται· όποιος διαθέτει το κλειδί από το wp-config.php μπορεί να επανυπογράψει την αλυσίδα."
+      ],
+      "Case ID is required.": [
+        "Απαιτείται ο κωδικός υπόθεσης."
+      ],
+      "Case not found.": [
+        "Η υπόθεση δεν βρέθηκε."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Ο φάκελος κρυπτογράφησης αυτής της αναφοράς είναι ελλιπής· δεν αποκρυπτογραφείται."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Δεν ήταν δυνατή η αποκρυπτογράφηση αυτής της αναφοράς. Πηγή κλειδιού: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Η περιγραφή της αναφοράς δεν μπορεί να είναι κενή."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Φυλάξτε με ασφάλεια αυτό το κλειδί πρόσβασης. Είναι ο ΜΟΝΟΣ τρόπος ελέγχου κατάστασης ή εμπιστευτικής επικοινωνίας χωρίς αποκάλυψη ταυτότητας."
+      ],
+      "Case ID and Access Token are required.": [
+        "Απαιτούνται κωδικός υπόθεσης και κλειδί πρόσβασης."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Μη έγκυρος κωδικός υπόθεσης ή κλειδί πρόσβασης."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Απαιτούνται κωδικός υπόθεσης, κλειδί πρόσβασης και μήνυμα."
+      ],
+      "Confidential message appended successfully.": [
+        "Το εμπιστευτικό μήνυμα προστέθηκε επιτυχώς."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Η παραλαβή αυτής της αναφοράς έχει ήδη επιβεβαιωθεί."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Επιβεβαίωση παραλαβής: η αναφορά σας παρελήφθη από το εσωτερικό γραφείο αναφορών (§ 17 παρ. 1 αρ. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Η επιβεβαίωση καταχωρίστηκε και στάλθηκε στην προβολή υπόθεσης του αναφέροντος."
+      ],
+      "Case ID and message are required.": [
+        "Απαιτούνται κωδικός υπόθεσης και μήνυμα."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Η απάντηση αποθηκεύτηκε στην προβολή υπόθεσης του αναφέροντος."
+      ],
+      "Eingegangen": [
+        "Παρελήφθη"
+      ],
+      "In Bearbeitung": [
+        "Σε επεξεργασία"
+      ],
+      "Rückmeldung gegeben": [
+        "Δόθηκε ενημέρωση"
+      ],
+      "Abgeschlossen": [
+        "Ολοκληρώθηκε"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Οικονομική απάτη, υπεξαίρεση, διαφθορά & δωροδοκία"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Παραβάσεις GDPR & παραβιάσεις δεδομένων"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Ασφάλεια πληροφορικής & κυβερνοπεριστατικά"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Εφοδιαστική αλυσίδα & ανθρώπινα δικαιώματα"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Ασφάλεια εργασίας, διακρίσεις & παρενόχληση"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Γενικές παραβάσεις κανονιστικής συμμόρφωσης"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Το ιδιωτικό κλειδί βρίσκεται στο wp-config.php. Ένα αντίγραφο της βάσης μόνο του δεν αποκρυπτογραφεί καμία αναφορά."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Το ιδιωτικό κλειδί είναι κρυπτογραφημένο στη βάση μέσω Libsodium (XSalsa20-Poly1305)· το κύριο κλειδί (WM_HINSCHG_MASTER_KEY) βρίσκεται στο wp-config.php. Το αντίγραφο βάσης μόνο του δεν αποκρυπτογραφεί τίποτα."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Το ιδιωτικό κλειδί είναι κρυπτογραφημένο στη βάση· η φράση πρόσβασης βρίσκεται στο wp-config.php. Το αντίγραφο βάσης μόνο του δεν αποκρυπτογραφεί τίποτα."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Το ιδιωτικό κλειδί είναι κρυπτογραφημένο στη βάση μέσω Libsodium (παράγωγο του AUTH_KEY στο wp-config.php). Το αντίγραφο μόνο του δεν αποκρυπτογραφεί τίποτα· συνιστάται το WM_HINSCHG_MASTER_KEY για ανεξάρτητη εναλλαγή."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Στη βάση υπάρχει μόνο το δημόσιο κλειδί (φύλαξη εκτός σύνδεσης). Οι νέες αναφορές σφραγίζονται· για ανάγνωση απαιτείται WM_HINSCHG_PRIVATE_KEY στο wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Το ιδιωτικό κλειδί βρίσκεται ακρυπτογράφητο στη βάση δίπλα στις αναφορές. Όποιος έχει πλήρες αντίγραφο της βάσης μπορεί να αποκρυπτογραφήσει τα πάντα."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Το αρχείο ελέγχου είναι κενό παρότι είχαν καταγραφεί %d εγγραφές."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Διάσπαση αλυσίδας στην εγγραφή #%d: μια εγγραφή διαγράφηκε, παρεμβλήθηκε ή αναδιατάχθηκε."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Η εγγραφή #%d δεν ταιριάζει με την υπογραφή της: αλλοιώθηκε ή γράφτηκε με άλλο AUTH_KEY (π.χ. πριν από μεταφορά ιστοτόπου)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Το τέλος του αρχείου δεν ταιριάζει με την τελευταία καταγεγραμμένη εγγραφή. Οι νεότερες εγγραφές αφαιρέθηκαν."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Καμία εγγραφή δεν φέρει υπογραφή με κλειδί. Το αρχείο προέρχεται πριν από το κλειδί ή υποβαθμίστηκε σε πλαστογραφήσιμη μορφή και δεν επαληθεύεται."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Στο wp-config.php δεν έχει οριστεί ούτε το %1$s ούτε το %2$s. Χωρίς μυστικό στο wp-config.php το κλειδί δεν μπορεί να κρυπτογραφηθεί."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Δεν υπάρχει ιδιωτικό κλειδί στη βάση δεδομένων. Δεν υπάρχει τίποτα προς μετάβαση."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Το αποθηκευμένο κλειδί δεν αποκρυπτογραφείται με το WM_HINSCHG_MASTER_KEY. Επαναφέρετε το αρχικό κύριο κλειδί· δεν αντικαταστάθηκε τίποτα."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Το ιδιωτικό κλειδί είναι ήδη κρυπτογραφημένο μέσω Libsodium (WM_HINSCHG_MASTER_KEY). Καμία ενέργεια."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Δεν ήταν δυνατό το άνοιγμα του αποθηκευμένου κλειδιού. Δεν αντικαταστάθηκε τίποτα."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Το σφραγισμένο με Libsodium κλειδί δεν επαληθεύτηκε. Δεν αντικαταστάθηκε τίποτα."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Το ιδιωτικό κλειδί είναι πλέον κρυπτογραφημένο μέσω Libsodium (WM_HINSCHG_MASTER_KEY) στη βάση. Το αντίγραφο βάσης μόνο του δεν αποκρυπτογραφεί πλέον αναφορές."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Το αποθηκευμένο κλειδί δεν ανοίγει ούτε χωρίς ούτε με τη ρυθμισμένη φράση πρόσβασης. Επαναφέρετε την παλιά φράση, αλλιώς καμία αναφορά δεν θα διαβάζεται."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Το ιδιωτικό κλειδί είναι ήδη κρυπτογραφημένο με τη ρυθμισμένη φράση πρόσβασης. Καμία ενέργεια."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Δεν ήταν δυνατή η κρυπτογραφημένη εξαγωγή του κλειδιού. Το αποθηκευμένο κλειδί παραμένει αμετάβλητο."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Το κρυπτογραφημένο κλειδί δεν μπόρεσε να ανοιχθεί ξανά. Δεν αντικαταστάθηκε τίποτα."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Το ιδιωτικό κλειδί είναι πλέον κρυπτογραφημένο στη βάση δεδομένων. Το αντίγραφο μόνο του δεν αποκρυπτογραφεί τίποτα. Η φράση στο wp-config.php είναι εφεξής απαραίτητη."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Κατάσταση διαύλου HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d ημέρες για επιβεβαίωση παραλαβής (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d μήνες προθεσμία ενημέρωσης (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Εσωτερικός δίαυλος αναφορών ενεργός"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Ο δίαυλος αναφορών ρυθμίζεται"
+      ],
+      "Interne Meldestelle": [
+        "Εσωτερικό γραφείο αναφορών"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Εδώ μπορείτε να αναφέρετε παραβάσεις. Δεν ζητούνται όνομα και διεύθυνση email."
+      ],
+      "Neuen Hinweis melden": [
+        "Υποβολή νέας αναφοράς"
+      ],
+      "Vorgang abrufen": [
+        "Ανάκτηση υπόθεσης"
+      ],
+      "Was gespeichert wird:": [
+        "Τι αποθηκεύεται:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Κατηγορία και περιγραφή, κρυπτογραφημένες στον διακομιστή. Η διεύθυνση IP σας δεν αποθηκεύεται με την αναφορά· για περιορισμό αιτημάτων ο ιστότοπος διατηρεί έως μία ώρα σύνοψη HMAC αυτής. Η τυχόν καταγραφή από τον διακομιστή ιστού εξαρτάται από τον διαχειριστή του ιστοτόπου, όχι από αυτήν τη φόρμα. Μετά την υποβολή λαμβάνετε κωδικό υπόθεσης και κλειδί πρόσβασης για διευκρινίσεις και ενημέρωση."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Περιγράψτε τα περιστατικά όσο το δυνατόν ακριβέστερα (τόπος, ημερομηνία, εμπλεκόμενα πρόσωπα)…"
+      ],
+      "Hinweis absenden": [
+        "Αποστολή αναφοράς"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Εισαγάγετε κωδικό υπόθεσης και κλειδί πρόσβασης για να δείτε την πορεία και να γράψετε στο γραφείο."
+      ],
+      "Vorgangs-ID": [
+        "Κωδικός υπόθεσης"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "π.χ. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Κλειδί πρόσβασης"
+      ],
+      "64 Zeichen": [
+        "64 χαρακτήρες"
+      ],
+      "Vorgang laden": [
+        "Φόρτωση υπόθεσης"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Ο ρόλος %s δεν υπάρχει."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Ο ρόλος %s μπορεί ήδη να ανοίγει αναφορές. Καμία ενέργεια."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Ο ρόλος %s μπορεί πλέον να ανοίγει αναφορές."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Ο ρόλος %s ούτως ή άλλως δεν μπορούσε να ανοίγει αναφορές. Καμία ενέργεια."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Ακυρώθηκε: έπειτα κανείς δεν θα μπορούσε να ανοίξει αναφορές. Το γραφείο οφείλει επιβεβαίωση εντός επτά ημερών (§ 17 HinSchG). Εξουσιοδοτήστε πρώτα άλλον και έπειτα αφαιρέστε εδώ."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Ο ρόλος %s δεν επιτρέπεται πλέον να ανοίγει αναφορές."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Ο χρήστης %d δεν υπάρχει."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "Ο χρήστης %s μπορεί πλέον να ανοίγει αναφορές."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Ακυρώθηκε: έπειτα κανείς δεν θα μπορούσε να ανοίξει αναφορές. Εξουσιοδοτήστε πρώτα άλλον και έπειτα αφαιρέστε εδώ."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "Ο χρήστης %s δεν επιτρέπεται πλέον να ανοίγει αναφορές."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Πάρα πολλά αιτήματα. Δοκιμάστε ξανά αργότερα."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Πύλη Αναφορών HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Εσωτερική φόρμα αναφορών και αναζήτησης υπόθεσης κατά το HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Ρυθμίσεις πύλης"
+      ],
+      "Überschrift": [
+        "Επικεφαλίδα"
+      ],
+      "Einleitungstext anzeigen": [
+        "Εμφάνιση εισαγωγικού κειμένου"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Πύλη Αναφορών HinSchG (προεπισκόπηση στον ιστότοπο)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Εσωτερική φόρμα αναφορών και ελέγχου πορείας σύμφωνα με τον γερμανικό νόμο HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-νομος"
+      ],
+      "whistleblower": [
+        "αναφερων"
+      ],
+      "meldestelle": [
+        "γραφειο-αναφορων"
+      ],
+      "compliance": [
+        "συμμορφωση"
+      ]
+    }
+  }
+}

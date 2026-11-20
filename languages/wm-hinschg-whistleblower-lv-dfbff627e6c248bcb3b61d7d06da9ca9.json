@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "lv",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Trauksmes Celšanas Kanāls"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Iekšējais trauksmes celšanas kanāls: ziņošanas veidlapa, ziņojumu un sarakstes šifrēšana serverī, § 17 HinSchG termiņu uzskaite un parakstīts audita žurnāls. Juridisko atbilstību nevērtē."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Ziņošanas punkts"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Trūkst ziņojumu tabulas (atkārtoti aktivizējiet spraudni)"
+      ],
+      "%d Frist überschritten": [
+        "Pārsniegts %d termiņš",
+        "Pārsniegti %d termiņi"
+      ],
+      "Keine Frist überschritten": [
+        "Neviens termiņš nav pārsniegts"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Saņemšanas apstiprinājums 7 dienās, atgriezeniskā saite 3 mēnešos (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Lietas"
+      ],
+      "Offen": [
+        "Atvērtas"
+      ],
+      "Überfällig": [
+        "Nokavētas"
+      ],
+      "Meldestelle öffnen": [
+        "Atvērt ziņošanas punktu"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG punkts"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Ziņošanas punkts (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Lietas un termiņi"
+      ],
+      "Formular einbinden": [
+        "Iegult veidlapu"
+      ],
+      "Testmeldung": [
+        "Testa ziņojums"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Termiņi un paziņojumi"
+      ],
+      "Deinstallation": [
+        "Atinstalēšana"
+      ],
+      "Begriffe": [
+        "Termini"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Pieņemt ziņojumus caur veidlapu, glabāt tos šifrētus un aprēķināt § 17 HinSchG termiņus."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Daļa no WM Suite spraudņu saimes"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite centrs"
+      ],
+      "Standalone": [
+        "Autonoms režīms"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Atslēgu pāris pieejams"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Nav atslēgu pāra: ziņojumus nevar saglabāt"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Kas jānodrošina iekšējam ziņošanas punktam"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Darba devējiem, kuriem parasti ir vismaz 50 darbinieku, jāizveido iekšējais ziņošanas punkts (§ 12 2. d. HinSchG); § 12 3. d. minētajiem uzņēmumiem (kredītiestādēm, ieguldījumu sabiedrībām, apdrošinātājiem) tas attiecas neatkarīgi no darbinieku skaita. Punkts apstiprina saņemšanu vēlākais septiņu dienu laikā un sniedz atbildi trīs mēnešu laikā (§ 17). Ziņošanai jābūt iespējamai rakstiski, mutiski un pēc lūguma klātienē (§ 16 3. d.); šis spraudnis nodrošina tikai rakstisko kanālu. Anonīmi ziņojumi jāizskata bez pienākuma veidot īpašu kanālu (§ 16 1. d.). Dokumentācija jādzēš trīs gadus pēc procesa beigām (§ 11 5. d.); spraudnis pats neko nedzēš un nepārbauda likuma prasību izpildi."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Izveidotas trīs demonstrācijas lietas (piekļuves atslēgas token_demo_1 līdz token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testa ziņojums saglabāts šifrētā veidā."
+      ],
+      "Vorgangs-ID:": [
+        "Lietas ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Piekļuves atslēga (redzama tikai tagad):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Ziņošanas punkta sadaļas"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Privātā atslēga datubāzē glabājas neaizsargāta."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Iestatiet %1$s (ieteicams, Libsodium XSalsa20-Poly1305, migrē automātiski) vai %2$s failā wp-config.php un izpildiet %3$s. Atslēgu pāris saglabājas; mainās tikai glabāšanas forma, lai visi iepriekšējie ziņojumi paliktu izlasāmi."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d persona drīkst atvērt ziņojumus.",
+        "%d personas drīkst atvērt ziņojumus."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Tostarp loma %1$s, t. i., ikviens vietnes administrators. § 8 HinSchG ierobežo saturu tikai pilnvarotām personām. Ar %2$s redzams saraksts; piešķiriet lomu “Meldestelle (HinSchG)” un pēc tam atsauciet tiesības ar %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Šīs vietnes administratori nevar atvērt ziņojumus, kamēr viņiem nav šīs atļaujas."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Vēl nav šajā saskarnē:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Saņemšanas apstiprināšana un atbildēšana. Izmantojiet REST maršrutus POST /wp-json/wm-hinschg/v1/admin/ack un /admin/reply (tiesības wm_hinschg_read_cases). Spraudnis nesūta e-pastus."
+      ],
+      "Meldung %s": [
+        "Ziņojums %s"
+      ],
+      "Meldungstext": [
+        "Ziņojuma teksts"
+      ],
+      "Verlauf": [
+        "Sarakste"
+      ],
+      "Meldestelle": [
+        "Ziņošanas punkts"
+      ],
+      "Hinweisgebende Person": [
+        "Ziņotājs"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Šo ziņojumu neizdevās atšifrēt."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Katra šī ziņojuma atvēršana tiek reģistrēta audita žurnālā (§ 8 HinSchG: saturs ir konfidenciāls arī organizācijas iekšienē)."
+      ],
+      "Zurück zur Übersicht": [
+        "Atpakaļ uz pārskatu"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Audita žurnāls: ķēde pārbaudīta, vēlākas izmaiņas nav konstatētas"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Audita žurnāls: integritātes pārbaude neizdevās"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Pārbaudīti %1$d žurnāla ieraksti. Paraksta atslēga: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d vēsturiski ieraksti bez paraksta"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Nezināma kļūda pārbaudes laikā."
+      ],
+      "Offene Vorgänge": [
+        "Atvērtās lietas"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "bez gala atbildes"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Saņemšanas apstiprinājums nokavēts"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "nav apstiprināts, 7 dienu termiņš beidzies"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Apstiprinājums jāsniedz 48 stundu laikā"
+      ],
+      "noch nicht bestätigt": [
+        "vēl nav apstiprināts"
+      ],
+      "Rückmeldung überfällig": [
+        "Atgriezeniskā saite nokavēta"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "nav atbildes, termiņš beidzies"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Pēdējās 50 lietas ar statusu un termiņiem. Saturs paliek šifrēts."
+      ],
+      "Vorgang": [
+        "Lieta"
+      ],
+      "Kategorie": [
+        "Kategorija"
+      ],
+      "Status": [
+        "Lietas statuss"
+      ],
+      "Eingangsbestätigung": [
+        "Saņemšanas apstiprinājums"
+      ],
+      "Rückmeldung": [
+        "Atgriezeniskā saite"
+      ],
+      "Eingang": [
+        "Saņemts"
+      ],
+      "Noch keine Vorgänge.": [
+        "Vēl nav lietu."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Izveidot trīs demonstrācijas lietas"
+      ],
+      "bestätigt am %s": [
+        "apstiprināts %s"
+      ],
+      "Frist %s": [
+        "Termiņš %s"
+      ],
+      "überfällig": [
+        "nokavēts"
+      ],
+      "gegeben am %s": [
+        "sniegta %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Ziņošanas veidlapas ievietošana tīmekļa vietnē"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Izveidojiet lapu, piemēram, “Trauksmes celšanas kanāls”."
+      ],
+      "Den Shortcode einfügen:": [
+        "Ievietojiet īskodu:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(līdzvērtīgi: [wm_hinschg_portal] vai bloks “wm/hinschg-portal”)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Pievienojiet saiti vietā, kur darbinieki to atrod, piemēram, iekštīklā vai kājenē."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Pēc iesniegšanas ziņotājs saņem lietas ID un piekļuves atslēgu. Ar abiem tajā pašā veidlapā var skatīt statusu un rakstīt ziņas, nenorādot vārdu vai e-pastu. Tiek glabāts tikai atslēgas HMAC; ja to pazaudē, piekļuve lietai zūd."
+      ],
+      "Testmeldung anlegen": [
+        "Izveidot testa ziņojumu"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Izveido lietu pa to pašu ceļu kā publiskā veidlapa un vienreiz parāda piekļuves atslēgu portāla izmēģināšanai."
+      ],
+      "Sachverhalt": [
+        "Faktu apraksts"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Tiek saglabāts šifrēts ar AES-256-GCM; atslēga aizzīmogota ar spraudņa RSA atslēgu."
+      ],
+      "Testmeldung speichern": [
+        "Saglabāt testa ziņojumu"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Saņemšanas apstiprinājums: saņemšana + %d dienas. § 17 1. d. 1. p. HinSchG prasa apstiprinājumu vēlākais septiņās dienās."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Atgriezeniskā saite: saņemšana + %d mēneši. § 17 2. d. HinSchG skaita trīs mēnešus no apstiprinājuma (trīs mēnešus un septiņas dienas bez apstiprinājuma); spraudņa termiņš nekad nav vēlāks."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Termiņi ir fiksēti kodā un nav maināmi."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Spraudnis nesūta e-pastus. Ikstundas pārbaude (WP-Cron) pārsniegtu termiņu gadījumā izsauc darbību wm_hinschg_sla_breach_detected."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Līdz 15.09.2026. šeit bija iestatījumu lapa e-pastam, termiņiem, failiem un glabāšanai, kuras vērtības kods nekad nelasīja."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Atinstalēšanas iestatījums saglabāts."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Vienreizēja bezsaistes privātās atslēgas izvade (redzama tikai tagad):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Droši saglabājiet šo privāto atslēgu kā WM_HINSCHG_PRIVATE_KEY failā wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Likumā noteiktā glabāšana (§ 11 HinSchG) un atinstalēšana"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Saskaņā ar § 11 5. d. HinSchG dokumentācija jāglabā trīs gadus pēc procesa noslēguma. Pēc noklusējuma ziņojumi, sarakste, audita žurnāls un atslēgu pāris, dzēšot spraudni, tiek saglabāti."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Atinstalējot spraudni, neatgriezeniski dzēst visus ziņojumus, saraksti, audita ierakstus un atslēgas"
+      ],
+      "Deinstallations-Option speichern": [
+        "Saglabāt atinstalēšanas izvēli"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Tikai vietnes administratori (manage_options) var mainīt rīcību atinstalēšanas laikā."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Lietas ID un piekļuves atslēga"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Tiek izsniegti vienu reizi pēc iesniegšanas. Atslēga ir 64 rakstzīmes gara; tiek glabāts tikai tās HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Vēlākais pēc septiņām dienām (§ 17 1. d. 1. p. HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Trīs mēnešu laikā pēc saņemšanas apstiprinājuma, norādot plānotos un veiktos pasākumus (§ 17 2. d. HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Šifrēšana"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Ziņojumi un sarakste serverī tiek šifrēti ar AES-256-GCM, un AES atslēga tiek aizzīmogota ar RSA. Privātās atslēgas atrašanās vietu nosaka wp-config.php: tur ar WM_HINSCHG_PRIVATE_KEY, šifrēti datubāzē ar WM_HINSCHG_KEY_PASSPHRASE vai atklātā tekstā vecās instalācijās. Aktīvais režīms redzams augšpusē un ar wp hinschg key-status. Pārsūtīšanu aizsargā HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Tiesības atvērt ziņojumu"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Spraudnis pārbauda tiesības wm_hinschg_read_cases un pievieno lomu “Meldestelle (HinSchG)”. To turētājus pārvalda WordPress lomas. Instalējot tās saņem “Administrator”; vēlāka atsaukšana administratoriem ir paredzētais mērķis. wp hinschg access parāda turētājus."
+      ],
+      "Audit-Protokoll": [
+        "Audita žurnāls"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Katrs ieraksts satur iepriekšējā ieraksta HMAC-SHA256. Izmaiņas, dzēšana un iespraušana tiek atklāta; wp-config.php atslēgas turētājs var ķēdi parakstīt no jauna."
+      ],
+      "Case ID is required.": [
+        "Lietas ID ir obligāts."
+      ],
+      "Case not found.": [
+        "Lieta nav atrasta."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Šī ziņojuma šifrēšanas aploksne ir nepilnīga; to nevar atšifrēt."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Šo ziņojumu neizdevās atšifrēt. Atslēgas avots: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Ziņojuma apraksts nedrīkst būt tukšs."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Droši saglabājiet šo piekļuves atslēgu. Tas ir VIENĪGAIS veids, kā pārbaudīt statusu vai konfidenciāli sazināties, neatklājot savu identitāti."
+      ],
+      "Case ID and Access Token are required.": [
+        "Nepieciešams lietas ID un piekļuves atslēga."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Nederīgs lietas ID vai piekļuves atslēga."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Nepieciešams lietas ID, piekļuves atslēga un ziņojums."
+      ],
+      "Confidential message appended successfully.": [
+        "Konfidenciālā ziņa veiksmīgi pievienota."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Šī ziņojuma saņemšana jau ir apstiprināta."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Saņemšanas apstiprinājums: jūsu ziņojums ir saņemts iekšējā ziņošanas punktā (§ 17 1. d. 1. p. HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Apstiprinājums reģistrēts un nosūtīts uz ziņotāja lietas skatu."
+      ],
+      "Case ID and message are required.": [
+        "Nepieciešams lietas ID un ziņojums."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Atbilde saglabāta ziņotāja lietas skatā."
+      ],
+      "Eingegangen": [
+        "Saņemts"
+      ],
+      "In Bearbeitung": [
+        "Izskatīšanā"
+      ],
+      "Rückmeldung gegeben": [
+        "Atbilde sniegta"
+      ],
+      "Abgeschlossen": [
+        "Slēgts"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Finanšu krāpšana, piesavināšanās, korupcija un kukuļošana"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "VDAR pārkāpumi un datu noplūdes"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT drošība un kiberincidenti"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Piegādes ķēde un cilvēktiesības"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Darba aizsardzība, diskriminācija un aizskaršana"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Vispārīgi atbilstības pārkāpumi"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privātā atslēga atrodas wp-config.php. Datubāzes kopija viena pati neatšifrē nevienu ziņojumu."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privātā atslēga datubāzē ir šifrēta ar Libsodium (XSalsa20-Poly1305); galvenā atslēga (WM_HINSCHG_MASTER_KEY) ir wp-config.php. Kopija viena pati neko neatšifrē."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privātā atslēga datubāzē ir šifrēta; paroles frāze ir wp-config.php. Kopija viena pati neko neatšifrē."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Privātā atslēga datubāzē šifrēta ar Libsodium (atvasināta no AUTH_KEY failā wp-config.php). Kopija viena neko neatšifrē; neatkarīgai rotācijai ieteicams WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Datubāzē glabājas tikai publiskā atslēga (bezsaistes glabāšana). Jauni ziņojumi tiek aizzīmogoti; lasīšanai vajadzīgs WM_HINSCHG_PRIVATE_KEY failā wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Privātā atslēga datubāzē glabājas nešifrēta blakus ziņojumiem. Pilnas datubāzes kopijas ieguvējs var atšifrēt visu."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Žurnāls ir tukšs, lai gan pēdējo reizi bija reģistrēti %d ieraksti."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ķēdes pārrāvums pie ieraksta #%d: ieraksts dzēsts, iesprausts vai pārkārtots."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Ieraksts #%d neatbilst parakstam: tas ir mainīts vai rakstīts ar citu AUTH_KEY (piem., pirms vietnes pārcelšanas)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Žurnāla beigas neatbilst pēdējam fiksētajam ierakstam. Jaunākie ieraksti ir izņemti."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Nevienam ierakstam nav paraksta ar atslēgu. Žurnāls ir no laika pirms atslēgas vai pazemināts uz viltojamu formātu un nav pārbaudāms."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Failā wp-config.php nav iestatīts ne %1$s, ne %2$s. Bez noslēpuma wp-config.php failā atslēgu nevar šifrēt."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Datubāzē nav privātās atslēgas. Nav ko migrēt."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Saglabāto atslēgu nevar atšifrēt ar WM_HINSCHG_MASTER_KEY. Atjaunojiet sākotnējo galveno atslēgu; nekas netika pārrakstīts."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Privātā atslēga jau ir šifrēta ar Libsodium (WM_HINSCHG_MASTER_KEY). Darbība nav vajadzīga."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Saglabāto atslēgu neizdevās atvērt. Nekas netika pārrakstīts."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Ar Libsodium aizzīmogoto atslēgu neizdevās pārbaudīt. Nekas netika pārrakstīts."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Privātā atslēga tagad datubāzē ir šifrēta ar Libsodium (WM_HINSCHG_MASTER_KEY). Datubāzes kopija viena vairs neatšifrē ziņojumus."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Saglabāto atslēgu nevar atvērt ne bez paroles frāzes, ne ar norādīto frāzi. Atjaunojiet veco frāzi, citādi ziņojumi nebūs lasāmi."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Privātā atslēga jau ir šifrēta ar norādīto paroles frāzi. Darbība nav vajadzīga."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Atslēgu neizdevās eksportēt šifrētā veidā. Saglabātā atslēga paliek nemainīga."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Šifrēto atslēgu neizdevās atkārtoti atvērt. Nekas netika pārrakstīts."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Privātā atslēga tagad datubāzē ir šifrēta. Kopija viena neko neatšifrē. Paroles frāze wp-config.php failā turpmāk ir obligāta."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG kanāla statuss"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dienas saņemšanas apstiprinājumam (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d mēneši atbildes termiņš (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Iekšējais ziņošanas kanāls aktīvs"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Ziņošanas kanāls tiek iestatīts"
+      ],
+      "Interne Meldestelle": [
+        "Iekšējais ziņošanas kanāls"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Šeit varat ziņot par pārkāpumiem. Vārds un e-pasta adrese netiek prasīti."
+      ],
+      "Neuen Hinweis melden": [
+        "Iesniegt jaunu ziņojumu"
+      ],
+      "Vorgang abrufen": [
+        "Skatīt lietu"
+      ],
+      "Was gespeichert wird:": [
+        "Kas tiek saglabāts:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategorija un apraksts, šifrēti serverī. Jūsu IP adrese netiek saglabāta kopā ar ziņojumu; pieprasījumu ierobežošanai vietne līdz vienai stundai glabā tās HMAC jaucējkodu. Par tīmekļa servera piekļuves žurnāliem lemj vietnes uzturētājs, nevis šī veidlapa. Pēc iesniegšanas saņemsiet lietas ID un piekļuves atslēgu saziņai."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Aprakstiet faktus pēc iespējas precīzāk (vieta, datums, iesaistītās personas)…"
+      ],
+      "Hinweis absenden": [
+        "Nosūtīt ziņojumu"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Ievadiet lietas ID un piekļuves atslēgu, lai redzētu virzību un rakstītu ziņošanas punktam."
+      ],
+      "Vorgangs-ID": [
+        "Lietas ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "piem., CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Piekļuves atslēga"
+      ],
+      "64 Zeichen": [
+        "64 rakstzīmes"
+      ],
+      "Vorgang laden": [
+        "Ielādēt lietu"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Loma %s neeksistē."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Loma %s jau drīkst atvērt ziņojumus. Darbība nav vajadzīga."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Loma %s tagad drīkst atvērt ziņojumus."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Loma %s tāpat nedrīkstēja atvērt ziņojumus. Darbība nav vajadzīga."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Atcelts: pēc tam neviens vairs nevarētu atvērt ziņojumus. Punktam jāapstiprina saņemšana septiņās dienās (§ 17 HinSchG). Vispirms pilnvarojiet citu personu un tad atsauciet šeit."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Loma %s vairs nedrīkst atvērt ziņojumus."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Lietotājs %d neeksistē."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s tagad drīkst atvērt ziņojumus."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Atcelts: pēc tam neviens vairs nevarētu atvērt ziņojumus. Vispirms pilnvarojiet citu personu un tad atsauciet šeit."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s vairs nedrīkst atvērt ziņojumus."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Pārāk daudz pieprasījumu. Mēģiniet vēlāk vēlreiz."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Ziņošanas Portāls"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Iekšējā trauksmes celšanas veidlapa un lietas statusa pārbaude pēc HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portāla iestatījumi"
+      ],
+      "Überschrift": [
+        "Virsraksts"
+      ],
+      "Einleitungstext anzeigen": [
+        "Rādīt ievadtekstu"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Ziņošanas Portāls (priekšskatījums vietnē)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Iekšējā trauksmes celšanas un lietas statusa veidlapa saskaņā ar Vācijas HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-likums"
+      ],
+      "whistleblower": [
+        "trauksmes-celejs"
+      ],
+      "meldestelle": [
+        "zinosanas-punkts"
+      ],
+      "compliance": [
+        "atbilstiba"
+      ]
+    }
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "ar",
+        "plural-forms": "nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "مكتب بلاغات المبلّغين WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "قناة إبلاغ داخلية: نموذج تقديم البلاغات، تشفير على الخادم للبلاغات والرسائل، تتبع مواعيد § 17 HinSchG وسجل تدقيق موقّع. لا يقيّم الامتثال القانوني."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — مكتب الإبلاغ"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "جدول البلاغات مفقود (أعد تفعيل الإضافة)"
+      ],
+      "%d Frist überschritten": [
+        "تم تجاوز مهلة %d",
+        "تم تجاوز %d مهل"
+      ],
+      "Keine Frist überschritten": [
+        "لا توجد مهل متجاوزة"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "تأكيد الاستلام خلال 7 أيام، والرد خلال 3 أشهر (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "الملفات"
+      ],
+      "Offen": [
+        "مفتوحة"
+      ],
+      "Überfällig": [
+        "متأخرة"
+      ],
+      "Meldestelle öffnen": [
+        "فتح مكتب الإبلاغ"
+      ],
+      "HinSchG-Meldestelle": [
+        "مكتب HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "مكتب الإبلاغ (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "الملفات والمهل"
+      ],
+      "Formular einbinden": [
+        "تضمين النموذج"
+      ],
+      "Testmeldung": [
+        "بلاغ تجريبي"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "المهل والإشعارات"
+      ],
+      "Deinstallation": [
+        "إلغاء التثبيت"
+      ],
+      "Begriffe": [
+        "المصطلحات"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "استلام البلاغات عبر النموذج وحفظها مشفّرة وحساب المهل وفق § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "جزء من عائلة إضافات WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "مركز Suite"
+      ],
+      "Standalone": [
+        "وضع مستقل"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "زوج المفاتيح متوفر"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "لا يوجد زوج مفاتيح: يتعذر حفظ البلاغات"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "واجبات مكتب الإبلاغ الداخلي"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "يجب على جهات العمل التي تضم عادةً 50 موظفاً على الأقل إنشاء مكتب إبلاغ داخلي (§ 12 ف 2 HinSchG)؛ وبالنسبة للجهات المذكورة في § 12 ف 3 مثل المؤسسات الائتمانية وشركات الاستثمار والتأمين يسري الالتزام بغض النظر عن عدد العاملين. يؤكد المكتب استلام البلاغ خلال سبعة أيام كحد أقصى ويقدّم إفادة خلال ثلاثة أشهر (§ 17). يجب إتاحة التبليغ كتابياً وشفهياً وعند الطلب حضورياً (§ 16 ف 3)؛ تغطي هذه الإضافة المسار الكتابي فقط. ينبغي معالجة البلاغات المجهولة دون إلزام بقناة خاصة (§ 16 ف 1). تُحذف الوثائق بعد ثلاث سنوات من انتهاء الإجراء (§ 11 ف 5)؛ لا تحذف الإضافة شيئاً تلقائياً ولا تفحص الالتزامات القانونية."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "تم إنشاء ثلاثة ملفات تجريبية (مفاتيح الوصول token_demo_1 إلى token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "تم حفظ البلاغ التجريبي مشفّراً."
+      ],
+      "Vorgangs-ID:": [
+        "معرّف الملف:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "مفتاح الوصول (يظهر الآن فقط):"
+      ],
+      "Bereiche der Meldestelle": [
+        "أقسام مكتب الإبلاغ"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "المفتاح الخاص مخزّن دون حماية في قاعدة البيانات."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "اضبط %1$s (موصى به، Libsodium XSalsa20-Poly1305، ترحيل تلقائي) أو %2$s في wp-config.php ثم نفّذ %3$s. يُحفظ زوج المفاتيح ويتغير شكل التخزين فقط بحيث تبقى جميع البلاغات السابقة قابلة للقراءة."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "يحق لـ %d شخص فتح البلاغات.",
+        "يحق لـ %d أشخاص فتح البلاغات."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "بما في ذلك الدور %1$s أي كل من يدير الموقع. يحصر § 8 HinSchG المحتوى بالأشخاص المكلفين بالقناة. استخدم %2$s لعرض القائمة؛ امنح الدور «Meldestelle (HinSchG)» ثم اسحب الصلاحية عبر %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "لا يمكن لمديري الموقع فتح البلاغات ما لم يمتلكوا هذه الصلاحية."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "غير متاح بعد في هذه الواجهة:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "تأكيد الاستلام والرد. تتوفر لذلك مسارات REST عبر POST /wp-json/wm-hinschg/v1/admin/ack و /admin/reply (الصلاحية wm_hinschg_read_cases). لا ترسل الإضافة رسائل بريد إلكتروني."
+      ],
+      "Meldung %s": [
+        "البلاغ %s"
+      ],
+      "Meldungstext": [
+        "نص البلاغ"
+      ],
+      "Verlauf": [
+        "سجل المراسلات"
+      ],
+      "Meldestelle": [
+        "مكتب الإبلاغ"
+      ],
+      "Hinweisgebende Person": [
+        "المبلِّغ"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "تعذر فك تشفير هذه الرسالة."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "يُسجَّل كل فتح لهذا البلاغ في سجل التدقيق (§ 8 HinSchG: المحتوى سري داخل المؤسسة أيضاً)."
+      ],
+      "Zurück zur Übersicht": [
+        "العودة إلى النظرة العامة"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "سجل التدقيق: تم التحقق من السلسلة ولا يوجد تعديل لاحق"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "سجل التدقيق: فشل فحص السلامة"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "تم فحص %1$d قيد في السجل. مفتاح التوقيع: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d قيود قديمة بدون توقيع"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "خطأ غير معروف أثناء الفحص."
+      ],
+      "Offene Vorgänge": [
+        "الملفات المفتوحة"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "دون إفادة ختامية"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "تأكيد الاستلام متأخر"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "غير مؤكد، انقضت مهلة 7 أيام"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "تأكيد مستحق خلال 48 ساعة"
+      ],
+      "noch nicht bestätigt": [
+        "لم يؤكد بعد"
+      ],
+      "Rückmeldung überfällig": [
+        "الإفادة متأخرة"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "لا توجد إفادة، انقضت المهلة"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "آخر 50 ملفاً مع الحالة والمهل. تبقى المحتويات مشفّرة."
+      ],
+      "Vorgang": [
+        "الملف"
+      ],
+      "Kategorie": [
+        "الفئة"
+      ],
+      "Status": [
+        "الحالة"
+      ],
+      "Eingangsbestätigung": [
+        "تأكيد الاستلام"
+      ],
+      "Rückmeldung": [
+        "الإفادة"
+      ],
+      "Eingang": [
+        "تاريخ الورود"
+      ],
+      "Noch keine Vorgänge.": [
+        "لا توجد ملفات بعد."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "إنشاء ثلاثة ملفات تجريبية"
+      ],
+      "bestätigt am %s": [
+        "أُكِّد في %s"
+      ],
+      "Frist %s": [
+        "المهلة %s"
+      ],
+      "überfällig": [
+        "متأخر"
+      ],
+      "gegeben am %s": [
+        "قُدِّمت في %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "تضمين نموذج الإبلاغ في الموقع"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "أنشئ صفحة مثل «نظام الإبلاغ الداخلي»."
+      ],
+      "Den Shortcode einfügen:": [
+        "أدرج الرمز القصير:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(المكافئ: [wm_hinschg_portal] أو المكون «wm/hinschg-portal»)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "ضع رابط الصفحة حيث يجده الموظفون مثل الشبكة الداخلية أو تذييل الموقع."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "بعد الإرسال يحصل المبلِّغ على معرّف ملف ومفتاح وصول. بهما يتابع الحالة ويتبادل الرسائل في النموذج نفسه دون ذكر الاسم أو البريد الإلكتروني. يُحفظ فقط HMAC للمفتاح؛ وإذا فُقد تعذر الوصول للملف."
+      ],
+      "Testmeldung anlegen": [
+        "إنشاء بلاغ تجريبي"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "ينشئ ملفاً بالمسار نفسه للنموذج العام ويعرض مفتاح الوصول مرة واحدة لتجربة البوابة."
+      ],
+      "Sachverhalt": [
+        "تفاصيل الواقعة"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "يُحفظ مشفّراً بخوارزمية AES-256-GCM ويُختم المفتاح بمفتاح RSA الخاص بالإضافة."
+      ],
+      "Testmeldung speichern": [
+        "حفظ البلاغ التجريبي"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "تأكيد الاستلام: الورود + %d أيام. يشترط § 17 ف 1 بند 1 HinSchG التأكيد خلال سبعة أيام كحد أقصى."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "الإفادة: الورود + %d أشهر. يحسب § 17 ف 2 HinSchG ثلاثة أشهر من التأكيد (وثلاثة أشهر وسبعة أيام دونه)؛ موعد الإضافة لا يتأخر عن ذلك أبداً."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "المهل محددة في الشيفرة البرمجية وغير قابلة للتعديل."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "لا ترسل الإضافة بريداً إلكترونياً. يطلق فحص كل ساعة (WP-Cron) الحدث wm_hinschg_sla_breach_detected عند تجاوز مهلة."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "حتى 15/09/2026 كانت هنا صفحة إعدادات للبريد والمهل والمرفقات والاحتفاظ لم يقرأها الكود قط."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "تم حفظ خيار إلغاء التثبيت."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "إخراج المفتاح الخاص دون اتصال لمرة واحدة (مرئي الآن فقط):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "احفظ هذا المفتاح الخاص بأمان باسم WM_HINSCHG_PRIVATE_KEY في wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "الاحتفاظ القانوني (§ 11 HinSchG) وإلغاء التثبيت"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "بموجب § 11 ف 5 HinSchG يُحتفظ بالوثائق لمدة ثلاث سنوات بعد انتهاء الإجراء. افتراضياً تبقى البلاغات والرسائل وسجل التدقيق والمفاتيح محفوظة عند حذف الإضافة."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "حذف جميع البلاغات والرسائل وقيود التدقيق والمفاتيح نهائياً عند إلغاء تثبيت الإضافة"
+      ],
+      "Deinstallations-Option speichern": [
+        "حفظ خيار إلغاء التثبيت"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "يمكن لمديري الموقع فقط (manage_options) تعديل سلوك إلغاء التثبيت."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "معرّف الملف ومفتاح الوصول"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "يُسلَّمان مرة واحدة بعد الإرسال. طول المفتاح 64 حرفاً ولا يُحفظ سوى HMAC الخاص به."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "خلال سبعة أيام كحد أقصى (§ 17 ف 1 بند 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "خلال ثلاثة أشهر من تأكيد الاستلام مع الإجراءات المخطط لها أو المتخذة (§ 17 ف 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "التشفير"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "تُشفَّر البلاغات والرسائل على الخادم بـ AES-256-GCM ويُختم مفتاح AES بـ RSA. يحدد wp-config.php مكان المفتاح الخاص: هناك عبر WM_HINSCHG_PRIVATE_KEY، أو مشفّراً في قاعدة البيانات عبر WM_HINSCHG_KEY_PASSPHRASE، أو بنص صريح في التثبيتات القديمة. يظهر الوضع النشط أعلى الصفحة وفي wp hinschg key-status. يحمي HTTPS النقل."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "صلاحية فتح البلاغ"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "تتحقق الإضافة من صلاحيتها wm_hinschg_read_cases وتضيف الدور «Meldestelle (HinSchG)». يدير WordPress من يحملها. تُمنح لدور «Administrator» عند التثبيت لمنع الإقفال وسحبها لاحقاً هو المقصود. يعرض wp hinschg access حامليها."
+      ],
+      "Audit-Protokoll": [
+        "سجل التدقيق"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "يحمل كل قيد بصمة HMAC-SHA256 للقيد السابق. تُكتشف التعديلات والحذف والإدراج؛ ومن يملك مفتاح wp-config.php يمكنه إعادة توقيع السلسلة."
+      ],
+      "Case ID is required.": [
+        "معرّف الملف مطلوب."
+      ],
+      "Case not found.": [
+        "لم يتم العثور على الملف."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "مغلف التشفير لهذا البلاغ غير مكتمل؛ يتعذر فك التشفير."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "تعذر فك تشفير هذا البلاغ. مصدر المفتاح: %s"
+      ],
+      "Report description cannot be empty.": [
+        "لا يمكن أن يكون وصف البلاغ فارغاً."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "احتفظ بمفتاح الوصول هذا في مكان آمن. إنه الوسيلة الوحيدة للتحقق من الحالة أو التواصل بسرية دون كشف هويتك."
+      ],
+      "Case ID and Access Token are required.": [
+        "معرّف الملف ومفتاح الوصول مطلوبان."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "معرّف الملف أو مفتاح الوصول غير صالح."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "معرّف الملف ومفتاح الوصول والرسالة مطلوبة."
+      ],
+      "Confidential message appended successfully.": [
+        "تم إرفاق الرسالة السرية بنجاح."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "تم تأكيد استلام هذا البلاغ مسبقاً."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "تأكيد الاستلام: وصل بلاغك إلى مكتب الإبلاغ الداخلي (§ 17 ف 1 بند 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "تم تسجيل التأكيد وإرساله إلى صفحة متابعة الملف."
+      ],
+      "Case ID and message are required.": [
+        "معرّف الملف والرسالة مطلوبان."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "تم حفظ الرد في صفحة متابعة الملف للمبلِّغ."
+      ],
+      "Eingegangen": [
+        "مستلم"
+      ],
+      "In Bearbeitung": [
+        "قيد المعالجة"
+      ],
+      "Rückmeldung gegeben": [
+        "تم تقديم الإفادة"
+      ],
+      "Abgeschlossen": [
+        "مغلق"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "احتيال مالي وخيانة أمانة وفساد ورشوة"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "مخالفات اللائحة العامة لحماية البيانات وتسرب البيانات"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "أمن تقنية المعلومات والحوادث السيبرانية"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "سلسلة الإمداد وحقوق الإنسان"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "السلامة المهنية والتمييز والمضايقة"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "مخالفات الامتثال العامة"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "المفتاح الخاص موجود في wp-config.php. نسخة قاعدة البيانات وحدها لا تفك تشفير أي بلاغ."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "المفتاح الخاص مشفّر في قاعدة البيانات عبر Libsodium (XSalsa20-Poly1305)؛ المفتاح الرئيسي (WM_HINSCHG_MASTER_KEY) في wp-config.php. نسخة القاعدة وحدها لا تفك شيئاً."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "المفتاح الخاص مشفّر في قاعدة البيانات؛ عبارة المرور في wp-config.php. نسخة القاعدة وحدها لا تفك شيئاً."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "المفتاح الخاص مشفّر في قاعدة البيانات عبر Libsodium (مشتق من AUTH_KEY في wp-config.php). النسخة وحدها لا تفك شيئاً؛ يُنصح بـ WM_HINSCHG_MASTER_KEY لتدوير مستقل."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "يوجد في قاعدة البيانات المفتاح العام فقط (حفظ دون اتصال). تُختم البلاغات الجديدة؛ وتلزم WM_HINSCHG_PRIVATE_KEY في wp-config.php لقراءتها."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "المفتاح الخاص غير مشفّر في قاعدة البيانات بجانب البلاغات. من يملك نسخة كاملة من القاعدة يمكنه فك تشفير كل بلاغ."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "السجل فارغ رغم أنه كان يضم %d قيود مسجلة."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "انقطاع في السلسلة عند القيد #%d: حُذف قيد أو أُدرج أو أُعيد ترتيبه."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "القيد #%d لا يطابق توقيعه: تم تعديله لاحقاً أو كُتب بمفتاح AUTH_KEY مختلف (مثلاً قبل نقل الموقع)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "نهاية السجل لا تطابق آخر قيد مسجل. تمت إزالة أحدث القيود."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "لا يحمل أي قيد توقيعاً بمفتاح. يعود السجل لما قبل المفتاح أو أُعيد إلى صيغة قابلة للتزوير ولا يمكن التحقق منه."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "لم يُضبط %1$s ولا %2$s في wp-config.php. دون سر في wp-config.php لا يمكن تشفير المفتاح."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "لا يوجد مفتاح خاص في قاعدة البيانات. لا شيء للترحيل."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "يتعذر فك تشفير المفتاح المحفوظ بواسطة WM_HINSCHG_MASTER_KEY. استعد المفتاح الرئيسي الأصلي؛ لم يُستبدل شيء."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "المفتاح الخاص مشفّر مسبقاً عبر Libsodium (WM_HINSCHG_MASTER_KEY). لا يلزم إجراء."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "تعذر فتح المفتاح المحفوظ. لم يُستبدل شيء."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "تعذر التحقق من المفتاح المختوم بـ Libsodium. لم يُستبدل شيء."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "أصبح المفتاح الخاص الآن مشفّراً عبر Libsodium (WM_HINSCHG_MASTER_KEY) في قاعدة البيانات. نسخة القاعدة وحدها لم تعد تفك تشفير البلاغات."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "لا يُفتح المفتاح المحفوظ دون عبارة المرور ولا بالعبارة المحددة. استعد العبارة القديمة وإلا تعذرت قراءة البلاغات."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "المفتاح الخاص مشفّر مسبقاً بعبارة المرور المحددة. لا يلزم إجراء."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "تعذر تصدير المفتاح مشفّراً. بقي المفتاح المحفوظ دون تغيير."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "تعذر إعادة فتح المفتاح المشفّر. لم يُستبدل شيء."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "أصبح المفتاح الخاص مشفّراً في قاعدة البيانات. النسخة وحدها لا تفك شيئاً. عبارة المرور في wp-config.php أصبحت ضرورية."
+      ],
+      "HinSchG Meldestelle Status": [
+        "حالة قناة HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d أيام لتأكيد الاستلام (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d أشهر مهلة الإفادة (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "قناة الإبلاغ الداخلية نشطة"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "جاري إعداد قناة الإبلاغ"
+      ],
+      "Interne Meldestelle": [
+        "مكتب الإبلاغ الداخلي"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "يمكنك هنا الإبلاغ عن المخالفات. لا يُطلب الاسم ولا عنوان البريد الإلكتروني."
+      ],
+      "Neuen Hinweis melden": [
+        "تقديم بلاغ جديد"
+      ],
+      "Vorgang abrufen": [
+        "متابعة ملف"
+      ],
+      "Was gespeichert wird:": [
+        "ما الذي يتم حفظه:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "الفئة وتفاصيل الواقعة مشفّرة على الخادم. لا يُحفظ عنوان IP مع البلاغ؛ ولتقييد الطلبات يحتفظ الموقع لمدة ساعة كحد أقصى ببصمة HMAC له. أما سجلات خادم الويب فيحددها مشغّل الموقع وليس هذا النموذج. بعد الإرسال تحصل على معرّف ملف ومفتاح وصول للاستفسارات والردود."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "اشرح الواقعة بأكبر قدر ممكن من الدقة (المكان، التاريخ، الأشخاص المعنيون)…"
+      ],
+      "Hinweis absenden": [
+        "إرسال البلاغ"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "أدخل معرّف الملف ومفتاح الوصول للاطلاع على الحالة ومراسلة مكتب الإبلاغ."
+      ],
+      "Vorgangs-ID": [
+        "معرّف الملف"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "مثال: CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "مفتاح الوصول"
+      ],
+      "64 Zeichen": [
+        "64 حرفاً"
+      ],
+      "Vorgang laden": [
+        "تحميل الملف"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "الدور %s غير موجود."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "يحق للدور %s فتح البلاغات مسبقاً. لا يلزم إجراء."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "أصبح يحق للدور %s فتح البلاغات."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "لم يكن يحق للدور %s فتح البلاغات أصلاً. لا يلزم إجراء."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "أُلغي الإجراء: لن يبقى أحد قادراً على فتح البلاغات. يجب تأكيد الاستلام خلال سبعة أيام (§ 17 HinSchG). امنح الصلاحية لشخص آخر أولاً ثم اسحبها هنا."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "لم يعد يحق للدور %s فتح البلاغات."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "المستخدم %d غير موجود."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "أصبح يحق لـ %s فتح البلاغات."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "أُلغي الإجراء: لن يبقى أحد قادراً على فتح البلاغات. امنح الصلاحية لشخص آخر أولاً ثم اسحبها هنا."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "لم يعد يحق لـ %s فتح البلاغات."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "طلبات كثيرة جداً. يرجى المحاولة لاحقاً."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "بوابة بلاغات HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "نموذج إبلاغ داخلي ومتابعة حالة الملف وفق قانون HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "إعدادات البوابة"
+      ],
+      "Überschrift": [
+        "العنوان"
+      ],
+      "Einleitungstext anzeigen": [
+        "إظهار النص التمهيدي"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "بوابة بلاغات HinSchG (معاينة في الواجهة)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "نموذج إبلاغ داخلي ومتابعة ملفات وفق قانون حماية المبلّغين الألماني HinSchG."
+      ],
+      "hinschg": [
+        "قانون-hinschg"
+      ],
+      "whistleblower": [
+        "مبلغ-مخالفات"
+      ],
+      "meldestelle": [
+        "مكتب-بلاغات"
+      ],
+      "compliance": [
+        "امتثال"
+      ]
+    }
+  }
+}

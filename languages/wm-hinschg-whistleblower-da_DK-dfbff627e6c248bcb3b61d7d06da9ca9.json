@@ -1,0 +1,617 @@
+{
+  "translation-revision-date": "2026-11-16T23:30:00+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "da_DK",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Whistleblower-enhed"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Intern whistleblowerkanal: indberetningsformular, serverside-kryptering af indberetninger og beskeder, friststyring efter § 17 HinSchG og signeret auditlog. Vurderer ikke juridisk efterlevelse."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://www.arnoldwender.com": [
+        "https://www.arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Whistleblowerenhed"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Tabel over indberetninger mangler (genaktiver plugin)"
+      ],
+      "%d Frist überschritten": [
+        "%d frist overskredet",
+        "%d frister overskredet"
+      ],
+      "Keine Frist überschritten": [
+        "Ingen frist overskredet"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Modtagelsesbekræftelse efter 7 dage, tilbagemelding efter 3 måneder (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Sager"
+      ],
+      "Offen": [
+        "Åbne"
+      ],
+      "Überfällig": [
+        "Overskredet"
+      ],
+      "Meldestelle öffnen": [
+        "Åbn whistleblowerenhed"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-enhed"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Whistleblowerenhed (HinSchG)"
+      ],
+      "Vorgänge & Fristen": [
+        "Sager og frister"
+      ],
+      "Formular einbinden": [
+        "Indlejring af formular"
+      ],
+      "Testmeldung": [
+        "Testindberetning"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Frister og underretninger"
+      ],
+      "Deinstallation": [
+        "Afinstallation"
+      ],
+      "Begriffe": [
+        "Begreber"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Modtag indberetninger via formularen, gem dem krypteret og beregn fristerne efter § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "En del af WM Suite-pluginfamilien"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-Hub"
+      ],
+      "Standalone": [
+        "Selvstændig"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Nøglepar findes"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Intet nøglepar: indberetninger kan ikke gemmes"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Hvad whistleblowerenheden skal dække"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Arbejdsgivere med som regel mindst 50 ansatte skal oprette en intern whistleblowerenhed (§ 12 stk. 2 HinSchG); for virksomheder nævnt i § 12 stk. 3, f.eks. kreditinstitutter, fondsmæglerselskaber og forsikringsselskaber, gælder pligten uanset antal ansatte. Enheden bekræfter modtagelsen senest efter syv dage og giver tilbagemelding inden tre måneder (§ 17). Indberetning skal være mulig skriftligt, mundtligt og efter ønske personligt (§ 16 stk. 3); dette plugin dækker kun den skriftlige vej. Anonyme indberetninger bør behandles, men kræver ikke særlige kanaler (§ 16 stk. 1). Dokumentationen slettes tre år efter sagens afslutning (§ 11 stk. 5); pluginet sletter intet selv og vurderer ikke lovpligtig efterlevelse."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Tre demosager oprettet (adgangsnøgler token_demo_1 til token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testindberetning gemt krypteret."
+      ],
+      "Vorgangs-ID:": [
+        "Sags-ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Adgangsnøgle (vises kun nu):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Områder i whistleblowerenheden"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Den private nøgle ligger ubeskyttet i databasen."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Angiv %1$s (anbefalet, Libsodium XSalsa20-Poly1305, migrerer automatisk) eller %2$s i wp-config.php og kør %3$s. Nøgleparret bevares; kun lagringsformen ændres, så tidligere indberetninger forbliver læsbare."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d person må åbne indberetninger.",
+        "%d personer må åbne indberetninger."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Herunder rollen %1$s, dvs. enhver som administrerer webstedet. § 8 HinSchG begrænser indholdet til betroede medarbejdere. Se listen med %2$s; tildel rollen \"Meldestelle (HinSchG)\" og fjern derefter adgangen med %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Administratorer på dette websted kan ikke åbne indberetninger uden denne rettighed."
+      ],
+      "Noch nicht in dieser Oberfläche:": [
+        "Endnu ikke i denne brugerflade:"
+      ],
+      "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung wm_hinschg_read_cases). E-Mails versendet das Plugin nicht.": [
+        "Bekræfte modtagelse og svare. Brug REST-ruterne POST /wp-json/wm-hinschg/v1/admin/ack og /admin/reply (rettighed wm_hinschg_read_cases). Pluginet sender ingen e-mails."
+      ],
+      "Meldung %s": [
+        "Indberetning %s"
+      ],
+      "Meldungstext": [
+        "Indberetningstekst"
+      ],
+      "Verlauf": [
+        "Forløb"
+      ],
+      "Meldestelle": [
+        "Whistleblowerenhed"
+      ],
+      "Hinweisgebende Person": [
+        "Indberettende person"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Denne besked kunne ikke dekrypteres."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Hver visning af denne indberetning logges i auditprotokollen (§ 8 HinSchG: indholdet er også fortroligt internt)."
+      ],
+      "Zurück zur Übersicht": [
+        "Tilbage til oversigten"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Auditlog: kæde kontrolleret, ingen efterfølgende ændring konstateret"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Auditlog: integritetskontrol mislykkedes"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d logposter kontrolleret. Signaturnøgle: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historiske poster uden signatur"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Ukendt fejl under kontrollen."
+      ],
+      "Offene Vorgänge": [
+        "Åbne sager"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "uden afsluttende tilbagemelding"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Modtagelsesbekræftelse overskredet"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "ikke bekræftet, 7-dagesfrist udløbet"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Bekræftelse forfalder inden 48 timer"
+      ],
+      "noch nicht bestätigt": [
+        "endnu ikke bekræftet"
+      ],
+      "Rückmeldung überfällig": [
+        "Tilbagemelding overskredet"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "ingen tilbagemelding, frist udløbet"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "De seneste 50 sager med status og frister. Indholdet forbliver krypteret."
+      ],
+      "Vorgang": [
+        "Sag"
+      ],
+      "Kategorie": [
+        "Kategori"
+      ],
+      "Status": [
+        "Sagsstatus"
+      ],
+      "Eingangsbestätigung": [
+        "Modtagelsesbekræftelse"
+      ],
+      "Rückmeldung": [
+        "Tilbagemelding"
+      ],
+      "Eingang": [
+        "Modtaget"
+      ],
+      "Noch keine Vorgänge.": [
+        "Endnu ingen sager."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Opret tre demosager"
+      ],
+      "bestätigt am %s": [
+        "bekræftet %s"
+      ],
+      "Frist %s": [
+        "Frist %s"
+      ],
+      "überfällig": [
+        "overskredet"
+      ],
+      "gegeben am %s": [
+        "givet %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Indlejr indberetningsformularen på webstedet"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Opret en side, f.eks. \"Whistleblowerordning\"."
+      ],
+      "Den Shortcode einfügen:": [
+        "Indsæt shortcoden:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(tilsvarende: [wm_hinschg_portal] eller blokken \"wm/hinschg-portal\")."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Link til siden hvor medarbejdere kan finde den, f.eks. på intranettet eller i sidefoden."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Efter afsendelse får indberetteren et sags-ID og en adgangsnøgle. Med begge kan status følges og beskeder sendes i samme formular uden navn eller e-mail. Kun en HMAC af nøglen gemmes; mistes den, er der ikke længere adgang."
+      ],
+      "Testmeldung anlegen": [
+        "Opret testindberetning"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Opretter en sag ad samme vej som formularen og viser adgangsnøglen én gang til test af portalen."
+      ],
+      "Sachverhalt": [
+        "Sagsfremstilling"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Gemmes krypteret med AES-256-GCM; nøglen forsegles med pluginets RSA-nøgle."
+      ],
+      "Testmeldung speichern": [
+        "Gem testindberetning"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Modtagelsesbekræftelse: modtagelse + %d dage. § 17 stk. 1 nr. 1 HinSchG kræver bekræftelse senest efter syv dage."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Tilbagemelding: modtagelse + %d måneder. § 17 stk. 2 HinSchG regner tre måneder fra bekræftelse (tre måneder og syv dage uden bekræftelse); pluginets frist ligger aldrig senere."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Fristerne er fastlagt i koden og kan ikke ændres."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Pluginet sender ingen e-mails. Et timeligt tjek (WP-Cron) udløser handlingen wm_hinschg_sla_breach_detected ved overskredne frister."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Indtil 15.09.2026 fandtes her en indstillingsside for e-mail, frister, uploads og opbevaring, som koden aldrig brugte."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Indstilling for afinstallation gemt."
+      ],
+      "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):": [
+        "Engangsvisning af privat nøgle offline (kun synlig nu):"
+      ],
+      "Hinterlegen Sie diesen privaten Schlüssel sicher als WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Gem denne private nøgle sikkert som WM_HINSCHG_PRIVATE_KEY i wp-config.php."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Lovpligtig opbevaring (§ 11 HinSchG) og afinstallation"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Efter § 11 stk. 5 HinSchG skal dokumentation opbevares i tre år efter sagens afslutning. Som standard bevares indberetninger, beskeder, auditlog og nøglepar ved sletning af pluginet."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Slet uigenkaldeligt alle indberetninger, beskeder, auditposter og nøgler ved afinstallation"
+      ],
+      "Deinstallations-Option speichern": [
+        "Gem afinstallationsvalg"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Kun webstedsadministratorer (manage_options) kan ændre adfærd ved afinstallation."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Sags-ID og adgangsnøgle"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Udleveres én gang efter indsendelse. Nøglen er 64 tegn lang; pluginet gemmer kun en HMAC af den."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Senest efter syv dage (§ 17 stk. 1 nr. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Inden tre måneder efter modtagelsesbekræftelsen med oplysning om opfølgende tiltag (§ 17 stk. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Kryptering"
+      ],
+      "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-Schlüssel liegt, entscheidet die wp-config.php: mit WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt in der Datenbank, ohne beides im Klartext in der Datenbank — dann entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-status. Zwischen Browser und Server schützt nur HTTPS.": [
+        "Indberetninger og beskeder krypteres på serveren med AES-256-GCM, og AES-nøglen forsegles med RSA. Placeringen af den private nøgle styres i wp-config.php: der via WM_HINSCHG_PRIVATE_KEY, krypteret i databasen via WM_HINSCHG_KEY_PASSPHRASE eller ukrypteret i ældre installationer. Aktiv tilstand vises øverst og med wp hinschg key-status. Mellem browser og server beskytter HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Rettighed til at åbne en indberetning"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Pluginet kontrollerer rettigheden wm_hinschg_read_cases og opretter rollen \"Meldestelle (HinSchG)\". WordPress eller et rolleplugin styrer hvem der har den. Ved installation tildeles \"Administrator\" den for at undgå udelukkelse; at fjerne den bagefter er formålet. wp hinschg access viser indehaverne."
+      ],
+      "Audit-Protokoll": [
+        "Auditlog"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Hver post indeholder en HMAC-SHA256 over den foregående. Ændringer, sletninger og indskud opdages; den der kender nøglen fra wp-config.php kan gensignere kæden."
+      ],
+      "Case ID is required.": [
+        "Sags-ID er påkrævet."
+      ],
+      "Case not found.": [
+        "Sagen blev ikke fundet."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Kuverten til denne indberetning er ufuldstændigt gemt og kan ikke dekrypteres."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Denne indberetning kunne ikke dekrypteres. Nøglekilde: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Beskrivelsen må ikke være tom."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Opbevar denne adgangsnøgle sikkert. Den er den ENESTE måde at se status eller kommunikere fortroligt uden at afsløre din identitet."
+      ],
+      "Case ID and Access Token are required.": [
+        "Sags-ID og adgangsnøgle er påkrævet."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Ugyldigt sags-ID eller ugyldig adgangsnøgle."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Sags-ID, adgangsnøgle og besked er påkrævet."
+      ],
+      "Confidential message appended successfully.": [
+        "Fortrolig besked tilføjet."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Modtagelsen af denne indberetning er allerede bekræftet."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Modtagelsesbekræftelse: din indberetning er modtaget hos den interne whistleblowerenhed (§ 17 stk. 1 nr. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Bekræftelse registreret og sendt til indberetterens sagsvisning."
+      ],
+      "Case ID and message are required.": [
+        "Sags-ID og besked er påkrævet."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Svar gemt i indberetterens sagsvisning."
+      ],
+      "Eingegangen": [
+        "Modtaget"
+      ],
+      "In Bearbeitung": [
+        "Under behandling"
+      ],
+      "Rückmeldung gegeben": [
+        "Tilbagemelding givet"
+      ],
+      "Abgeschlossen": [
+        "Afsluttet"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Økonomisk svig, mandatsvig, korruption og bestikkelse"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR-overtrædelser og databrud"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-sikkerhed og cyberhændelser"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Leverandørkæde og menneskerettigheder"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Arbejdsmiljø, diskrimination og chikane"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Generelle compliance-overtrædelser"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den private nøgle ligger i wp-config.php. Et databasedump alene kan ikke dekryptere nogen indberetning."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den private nøgle ligger krypteret med Libsodium (XSalsa20-Poly1305) i databasen; hovednøglen (WM_HINSCHG_MASTER_KEY) står i wp-config.php. Et dump alene dekrypterer intet."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Den private nøgle ligger krypteret i databasen; adgangssætningen står i wp-config.php. Et dump alene dekrypterer intet."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Den private nøgle ligger krypteret med Libsodium i databasen (afledt af AUTH_KEY i wp-config.php). Et dump alene dekrypterer intet; WM_HINSCHG_MASTER_KEY anbefales til uafhængig nøglerotation."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich.": [
+        "Kun den offentlige nøgle ligger i databasen (offline opbevaring). Nye indberetninger forsegles; læsning kræver WM_HINSCHG_PRIVATE_KEY i wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Den private nøgle ligger ukrypteret i databasen ved siden af indberetningerne. Et fuldt dump kan dekryptere alt."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Loggen er tom, selvom der senest var registreret %d poster."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kædebrud ved post #%d: en post er slettet, indsat eller flyttet."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Post #%d passer ikke til signaturen: den er ændret efterfølgende eller skrevet med en anden AUTH_KEY (f.eks. før flytning)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Slutningen af loggen passer ikke til senest registrerede post. De nyeste poster er fjernet."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Ingen post bærer en nøglesignatur. Loggen stammer fra før nøglen eller er nedgraderet til det gamle format og kan ikke verificeres."
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Hverken %1$s eller %2$s er sat i wp-config.php. Uden en hemmelighed i wp-config.php kan nøglen ikke krypteres."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Der ligger ingen privat nøgle i databasen. Intet at migrere."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Den gemte nøgle kan ikke dekrypteres med WM_HINSCHG_MASTER_KEY. Gendan den oprindelige hovednøgle; intet blev overskrevet."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Den private nøgle er allerede krypteret med Libsodium (WM_HINSCHG_MASTER_KEY). Intet at gøre."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Den gemte nøgle kunne ikke åbnes. Intet blev overskrevet."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Den Libsodium-forseglede nøgle kunne ikke verificeres. Intet blev overskrevet."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Den private nøgle ligger nu krypteret med Libsodium (WM_HINSCHG_MASTER_KEY) i databasen. Et dump alene kan ikke længere dekryptere indberetninger."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Den gemte nøgle kan hverken åbnes uden eller med den angivne adgangssætning. Gendan den gamle adgangssætning, ellers kan ingen indberetninger læses."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Den private nøgle er allerede krypteret med adgangssætningen. Intet at gøre."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Nøglen kunne ikke eksporteres krypteret. Den gemte nøgle er uændret."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Den krypterede nøgle kunne ikke genåbnes. Intet blev overskrevet."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Den private nøgle ligger nu krypteret i databasen. Et dump alene dekrypterer intet. Adgangssætningen i wp-config.php er fremover uundværlig."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG-kanalstatus"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d dages modtagelsesbekræftelse (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d måneders tilbagemeldingsfrist (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Intern whistleblowerkanal aktiv"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Whistleblowerkanal klargøres"
+      ],
+      "Interne Meldestelle": [
+        "Intern whistleblowerenhed"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Her kan du indberette overtrædelser. Navn og e-mailadresse efterspørges ikke."
+      ],
+      "Neuen Hinweis melden": [
+        "Indsend ny indberetning"
+      ],
+      "Vorgang abrufen": [
+        "Hent sag"
+      ],
+      "Was gespeichert wird:": [
+        "Hvad der gemmes:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategori og sagsfremstilling, krypteret på serveren. Din IP-adresse gemmes ikke sammen med indberetningen; for at begrænse forespørgsler opbevarer webstedet i op til en time en nøglebaseret hash (HMAC) af den. Om webserveren logger adgang styres af driftsansvarlig, ikke af denne formular. Efter afsendelse modtager du sags-ID og adgangsnøgle til opfølgning."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Beskriv hændelsen så præcist som muligt (sted, dato, involverede personer) …"
+      ],
+      "Hinweis absenden": [
+        "Send indberetning"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Indtast sags-ID og adgangsnøgle for at se status og skrive til whistleblowerenheden."
+      ],
+      "Vorgangs-ID": [
+        "Sags-ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "f.eks. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Adgangsnøgle"
+      ],
+      "64 Zeichen": [
+        "64 tegn"
+      ],
+      "Vorgang laden": [
+        "Indlæs sag"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rollen %s findes ikke."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Rollen %s må allerede åbne indberetninger. Intet at gøre."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Rollen %s må nu åbne indberetninger."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Rollen %s måtte i forvejen ikke åbne indberetninger. Intet at gøre."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Afbrudt: ellers kunne ingen åbne indberetninger længere. Enheden skal bekræfte modtagelse inden syv dage (§ 17 HinSchG). Giv først en anden adgang, og fjern derefter her."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Rollen %s må ikke længere åbne indberetninger."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Bruger %d findes ikke."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s må nu åbne indberetninger."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Afbrudt: ellers kunne ingen åbne indberetninger længere. Giv først en anden adgang, og fjern derefter her."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s må ikke længere åbne indberetninger."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "For mange forespørgsler. Prøv igen senere."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Whistleblowerportal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Intern indberetningsformular og sagsopslag efter HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portalindstillinger"
+      ],
+      "Überschrift": [
+        "Overskrift"
+      ],
+      "Einleitungstext anzeigen": [
+        "Vis indledningstekst"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Whistleblowerportal (forhåndsvisning på forsiden)."
+      ],
+      "Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Intern whistleblowerformular og statusopslag efter den tyske HinSchG."
+      ],
+      "hinschg": [
+        "hinschg-lov"
+      ],
+      "whistleblower": [
+        "whistleblower-kanal"
+      ],
+      "meldestelle": [
+        "indberetningsenhed"
+      ],
+      "compliance": [
+        "overholdelse"
+      ]
+    }
+  }
+}
