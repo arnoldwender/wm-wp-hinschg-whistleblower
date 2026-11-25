@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "bg_BG",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Звено за Сигнали WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Вътрешен канал за подаване на сигнали: формуляр, сървърно криптиране на сигнали и съобщения, следене на сроковете по § 17 HinSchG и подписан одитен дневник. Не оценява правното съответствие."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Звено за сигнали"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Липсва таблицата със сигнали (активирайте отново разширението)"
+      ],
+      "%d Frist überschritten": [
+        "%d просрочен срок",
+        "%d просрочени срока"
+      ],
+      "Keine Frist überschritten": [
+        "Няма просрочени срокове"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Потвърждение до 7 дни, обратна връзка до 3 месеца (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Преписки"
+      ],
+      "Offen": [
+        "Отворени"
+      ],
+      "Überfällig": [
+        "Просрочени"
+      ],
+      "Meldestelle öffnen": [
+        "Отвори звеното за сигнали"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG звено"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Звено за сигнали (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "Не е открит валиден частен ключ PKCS#8 (BEGIN PRIVATE KEY)."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto е достъпен само през HTTPS или на localhost."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "Двойката ключове RSA-4096 се изчислява локално в браузъра …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Частният ключ е изтеглен локално. Сега проверете и запазете публичния ключ."
+      ],
+      "Fehler: ": [
+        "Грешка: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Тече локално дешифриране в браузъра …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Текст на сигнала (дешифриран локално в браузъра)"
+      ],
+      "Verlauf": [
+        "Хронология"
+      ],
+      "Meldestelle": [
+        "Звено за сигнали"
+      ],
+      "Hinweisgebende Person": [
+        "Сигнализиращо лице"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Сигналът е дешифриран локално в браузъра. Частният ключ не е напускал браузъра."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Дешифрирането е неуспешно: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Потвърждението се запазва …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Потвърждението е запазено. Изгледът се обновява …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "Отговорът се запазва шифрован …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "Отговорът е запазен шифрован. Изгледът се обновява …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Въведете текст на съобщението."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Одитният дневник е временно зает. Опитайте отново след 2 секунди."
+      ],
+      "Vorgänge & Fristen": [
+        "Преписки и срокове"
+      ],
+      "Formular einbinden": [
+        "Вграждане на формуляр"
+      ],
+      "Testmeldung": [
+        "Тестов сигнал"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Срокове и известия"
+      ],
+      "Schlüsselverwahrung": [
+        "Съхранение на ключове"
+      ],
+      "Deinstallation": [
+        "Деинсталиране"
+      ],
+      "Begriffe": [
+        "Понятия"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Приемане на сигнали чрез формуляра, криптирано съхранение и изчисляване на сроковете по § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Част от семейството разширения на WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Център Hub"
+      ],
+      "Standalone": [
+        "Самостоятелен режим"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Налична двойка ключове"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Липсва двойка ключове: сигналите не могат да се записват"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Какво трябва да осигурява звеното за сигнали"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Работодателите с обичайно поне 50 служители трябва да изградят вътрешно звено за сигнали (§ 12, ал. 2 HinSchG); за дружествата по § 12, ал. 3 (кредитни институции, инвестиционни посредници, застрахователи) това важи независимо от броя на заетите. Звеното потвърждава получаването най-късно до седем дни и връща информация до три месеца (§ 17). Сигналите трябва да са възможни писмено, устно и при поискване лично (§ 16, ал. 3); разширението обхваща само писмения ред. Анонимни сигнали следва да се разглеждат без задължение за специален канал (§ 16, ал. 1). Документацията се изтрива три години след приключване (§ 11, ал. 5); разширението не изтрива нищо само и не проверява законови задължения."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Създадени са три демонстрационни преписки (ключове token_demo_1 до token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Тестовият сигнал е записан криптиран."
+      ],
+      "Vorgangs-ID:": [
+        "ID на преписка:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Ключ за достъп (видим само сега):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Раздели на звеното"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Частният ключ се съхранява незащитен в базата данни."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Задайте %1$s (препоръчително, Libsodium XSalsa20-Poly1305, автоматична миграция) или %2$s в wp-config.php и изпълнете %3$s. Двойката ключове се запазва; променя се само записаната форма, така че всички подадени сигнали остават четими."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d лице има право да отваря сигнали.",
+        "%d лица имат право да отварят сигнали."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Включително ролята %1$s, т.е. всеки администратор на сайта. § 8 HinSchG ограничава съдържанието до оправомощените лица. С %2$s виждате списъка; възложете ролята „Meldestelle (HinSchG)“ и после отнемете правото с %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Администраторите на сайта не могат да отварят сигнали, докато нямат това право."
+      ],
+      "Meldung %s": [
+        "Сигнал %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "Преписката не можа да бъде заредена."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Локално дешифриране в браузъра (изберете офлайн частен ключ)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Изберете локално съхранения файл с ключ PKCS#8 (.pem). Дешифрирането се извършва изключително в работната памет на вашия браузър; частният ключ не се предава на сървъра."
+      ],
+      "Meldungstext": [
+        "Текст на сигнала"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Това съобщение не можа да бъде декриптирано."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Всяко отваряне на сигнала се записва в одитния дневник (§ 8 HinSchG: съдържанието е поверително и вътре в организацията)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Обработка на преписката съгласно § 17 HinSchG"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Потвърждението е регистрирано на %s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Получаването все още не е потвърдено (§ 17, ал. 1, т. 1 HinSchG: срок 7 дни)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Окончателната обратна връзка е регистрирана на %s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Потвърдете получаването (§ 17, ал. 1 HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Допълнителен въпрос или обратна връзка към сигнализиращото лице"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Запазва се шифровано и се предоставя на сигнализиращото лице в „Провери преписка“. Разширението не изпраща имейли."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Окончателна обратна връзка съгласно § 17, ал. 2 HinSchG"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Изпрати отговора шифрован"
+      ],
+      "Zurück zur Übersicht": [
+        "Назад към прегледа"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Одитен дневник: веригата е проверена, няма следи от последваща промяна"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Одитен дневник: проверката за цялост е неуспешна"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Проверени %1$d записа. Ключ за подпис: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d стари записа без подпис"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Неизвестна грешка при проверката."
+      ],
+      "Offene Vorgänge": [
+        "Отворени преписки"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "без окончателна обратна връзка"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Просрочено потвърждение"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "непотвърдено, 7-дневният срок е изтекъл"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Потвърждение дължимо до 48 часа"
+      ],
+      "noch nicht bestätigt": [
+        "все още непотвърдено"
+      ],
+      "Rückmeldung überfällig": [
+        "Просрочена обратна връзка"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "няма обратна връзка, срокът е изтекъл"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Последните 50 преписки със статус и срокове. Съдържанието остава криптирано."
+      ],
+      "Vorgang": [
+        "Преписка"
+      ],
+      "Kategorie": [
+        "Категория"
+      ],
+      "Status": [
+        "Статус"
+      ],
+      "Eingangsbestätigung": [
+        "Потвърждение"
+      ],
+      "Rückmeldung": [
+        "Обратна връзка"
+      ],
+      "Eingang": [
+        "Постъпил"
+      ],
+      "Noch keine Vorgänge.": [
+        "Все още няма преписки."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Създай три демо преписки"
+      ],
+      "bestätigt am %s": [
+        "потвърдено на %s"
+      ],
+      "Frist %s": [
+        "Срок %s"
+      ],
+      "überfällig": [
+        "просрочено"
+      ],
+      "gegeben am %s": [
+        "изпратена на %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Вграждане на формуляра в уебсайта"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Създайте страница, напр. „Подаване на сигнали“."
+      ],
+      "Den Shortcode einfügen:": [
+        "Поставете краткия код:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(еквивалентно: [wm_hinschg_portal] или блока „wm/hinschg-portal“)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Поставете връзка там, където служителите я намират, напр. в интранета или футъра."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "След изпращане подателят получава ID на преписката и ключ за достъп. С двете проверява статуса и пише съобщения в същия формуляр без име или имейл. Съхранява се само HMAC на ключа; при загуба достъпът е невъзможен."
+      ],
+      "Testmeldung anlegen": [
+        "Създаване на тестов сигнал"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Създава преписка по същия път като формуляра и показва еднократно ключа за тестване на портала."
+      ],
+      "Sachverhalt": [
+        "Описание на фактите"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Записва се криптирано с AES-256-GCM; ключът се запечатва с RSA ключа на разширението."
+      ],
+      "Testmeldung speichern": [
+        "Запази тестовия сигнал"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Потвърждение: постъпване + %d дни. § 17, ал. 1, т. 1 HinSchG изисква потвърждение най-късно след седем дни."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Обратна връзка: постъпване + %d месеца. § 17, ал. 2 HinSchG брои три месеца от потвърждението (три месеца и седем дни без потвърждение); срокът на разширението никога не е по-късен."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Сроковете са фиксирани в кода и не подлежат на промяна."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Разширението не праща имейли. Почасова проверка (WP-Cron) задейства wm_hinschg_sla_breach_detected при просрочие."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "До 15.09.2026 г. тук имаше настройки за имейл, срокове, файлове и съхранение, които кодът никога не е чел."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Публичният RSA ключ е запазен, а евентуалният частен ключ на сървъра е премахнат (офлайн съхранение активно)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Публичният авариен и заместващ ключ (2-ро определено лице / омбудсман) е запазен."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Аварийният и заместващ ключ е премахнат."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Отхвърлено: изпратен е частен ключ. Подайте само публичния ключ (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Вече има шифровани преписки. Потвърдете изрично смяната на ключа чрез квадратчето за отметка."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "Изпратеният текст не е валиден публичен RSA ключ (поне 2048 бита, препоръчително 4096 бита)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Активно съхранение на ключове & одитен подпис"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "Източник на RSA ключа:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Авариен & заместващ ключ:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "депозиран (двоен плик активен за 2-ро определено лице / омбудсман)"
+      ],
+      "nicht hinterlegt": [
+        "не е депозиран"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Ключ на одитната верига:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(за ротация на ключовете независимо от AUTH_KEY задайте %s в wp-config.php)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Генериране на ключове в браузъра (офлайн съхранение без частен ключ на сървъра)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Генерира двойка ключове RSA-OAEP-4096 локално във вашия браузър (WebCrypto). Частният ключ се изтегля директно на вашето устройство като файл .pem и никога не достига до PHP, уеб сървъра или базата данни MySQL. На сървъра се съхранява само публичният ключ, с който се запечатват входящите сигнали."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Генерирай двойка ключове RSA-4096 локално в браузъра & изтегли частния ключ"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Публичен RSA ключ (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Замени съществуващия ключ (съществуващите сигнали продължават да изискват досегашния частен ключ)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Запази само публичния ключ (активирай офлайн съхранение)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Само администраторите на сайта (manage_options) могат да депозират публичния ключ на звеното за сигнали."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Авариен & заместващ ключ (2-ро определено лице на звеното за сигнали / омбудсман)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Незадължителен двоен плик за нови сигнали и съобщения: сесийният ключ AES-256 се запечатва допълнително с този публичен RSA ключ, за да може заместник при отсъствие да дешифрира локално в браузъра. Съгласно § 8, ал. 1 и § 15 HinSchG този частен ключ може да се съхранява само от второ лице, определено към звеното за сигнали, или от независим омбудсман — никога от ръководството или общата ИТ администрация. За премахване изчистете полето и запазете."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Генерирай заместваща двойка ключове (RSA-4096) локално в браузъра & изтегли частния ключ"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Публичен авариен & заместващ ключ (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Запази аварийния & заместващ ключ"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Само администраторите на сайта (manage_options) могат да депозират публичния авариен и заместващ ключ."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Настройката за деинсталиране е запазена."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Законово съхранение (§ 11 HinSchG) и деинсталиране"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Съгласно § 11, ал. 5 HinSchG документацията се пази три години след приключване. По подразбиране сигналите, съобщенията, одитният дневник и ключовете се запазват при изтриване на разширението."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "При деинсталиране на разширението изтрий необратимо всички сигнали, съобщения, одитни записи и ключове"
+      ],
+      "Deinstallations-Option speichern": [
+        "Запази опцията за деинсталиране"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Само администратори на сайта (manage_options) могат да променят поведението при деинсталиране."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID на преписка и ключ за достъп"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Предоставят се еднократно след подаване. Ключът е от 64 знака; пази се само неговият HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Най-късно след седем дни (§ 17, ал. 1, т. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "В рамките на три месеца след потвърждението с планираните и предприети мерки (§ 17, ал. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Криптиране"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Сигналите и съобщенията се шифроват с AES-256-GCM, а ключът AES се запечатва с RSA-OAEP (по избор и като двоен плик за аварийния & заместващ ключ на 2-ро определено лице / омбудсман). Къде се намира частният RSA ключ, показват разделът „Съхранение на ключове“ и wp hinschg key-status: в wp-config.php (WM_HINSCHG_PRIVATE_KEY), запечатан с Libsodium XSalsa20-Poly1305 (WM_HINSCHG_MASTER_KEY или AUTH_KEY), шифрован с OpenSSL (WM_HINSCHG_KEY_PASSPHRASE) или само локално в браузъра без частен ключ на сървъра (офлайн съхранение). Отговорите на звеното за сигнали получават допълнително кутия, запечатана за ключа за достъп, докато въведеното от сигнализиращото лице остава запечатано чисто асиметрично. Между браузъра и сървъра защитава HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Право за отваряне на сигнал"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Разширението проверява собственото право wm_hinschg_read_cases и добавя ролята „Meldestelle (HinSchG)“. WordPress управлява кой го притежава. При инсталация го получава „Administrator“; отнемането му след това е целта. wp hinschg access показва титулярите."
+      ],
+      "Audit-Protokoll": [
+        "Одитен дневник"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Всеки запис съдържа HMAC-SHA256 върху предходния. Промени, изтривания и вмъквания се засичат; притежателят на ключа от wp-config.php може да преподпише веригата."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "Одитният дневник е временно зает. Опитайте отново след малко."
+      ],
+      "Case ID is required.": [
+        "Изисква се ID на преписката."
+      ],
+      "Case not found.": [
+        "Преписката не е намерена."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Пликът на този сигнал е непълен и не може да бъде декриптиран."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Сигналът не можа да се декриптира. Източник на ключ: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Описанието на сигнала не може да е празно."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Запазете сигурно този ключ за достъп. Това е ЕДИНСТВЕНИЯТ начин за проверка на статуса или поверителна връзка без разкриване на самоличността."
+      ],
+      "Case ID and Access Token are required.": [
+        "Изискват се ID на преписка и ключ за достъп."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Невалидно ID на преписка или ключ за достъп."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Изискват се ID на преписка, ключ за достъп и съобщение."
+      ],
+      "Confidential message appended successfully.": [
+        "Поверителното съобщение е добавено успешно."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Получаването на този сигнал вече е потвърдено."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Потвърждение за получаване: Вашият сигнал постъпи във вътрешното звено (§ 17, ал. 1, т. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Потвърждението е записано и изпратено към изгледа на преписката."
+      ],
+      "Case ID and message are required.": [
+        "Изискват се ID на преписка и съобщение."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Отговорът е записан в изгледа на преписката на подателя."
+      ],
+      "Eingegangen": [
+        "Постъпил"
+      ],
+      "In Bearbeitung": [
+        "В обработка"
+      ],
+      "Rückmeldung gegeben": [
+        "Дадена обратна връзка"
+      ],
+      "Abgeschlossen": [
+        "Приключен"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Финансови измами, злоупотреба, корупция и подкуп"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Нарушения на GDPR и течове на лични данни"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "ИТ сигурност и киберинциденти"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Верига на доставки и права на човека"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Безопасност на труда, дискриминация и тормоз"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Общи нарушения на съответствието"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Частният ключ е във wp-config.php. Архив на базата данни сам по себе си не декриптира нито един сигнал."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Частният ключ е криптиран в базата с Libsodium (XSalsa20-Poly1305); главният ключ (WM_HINSCHG_MASTER_KEY) е във wp-config.php. Архив на базата сам не декриптира нищо."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Частният ключ е криптиран в базата; паролата е във wp-config.php. Архив на базата сам не декриптира нищо."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Частният ключ е криптиран в базата с Libsodium (изведен от AUTH_KEY във wp-config.php). Архив сам не декриптира нищо; препоръчва се WM_HINSCHG_MASTER_KEY за отделна ротация."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "В базата данни се намира само публичният ключ (офлайн съхранение). Новите сигнали се запечатват; за да ги прочетете, използвайте локалното дешифриране в браузъра в изгледа на преписката или задайте WM_HINSCHG_PRIVATE_KEY в wp-config.php."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Все още няма депозирана двойка ключове. Генерирайте локална двойка ключове в браузъра в раздела „Съхранение на ключове“ (офлайн съхранение) или задайте WM_HINSCHG_MASTER_KEY в wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Частният ключ е некриптиран в базата до сигналите. Пълен архив на базата може да декриптира всеки сигнал."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "Изпратеният текст не е валиден публичен RSA ключ във формат PEM."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "Публичният ключ трябва да бъде RSA ключ с поне 2048 бита (препоръчително: 4096 бита)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Прекъсване по съображения за сигурност: изпратен е частен ключ. При офлайн съхранение може да се запази само публичният ключ (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Вече има шифровани преписки. Потвърдете изрично смяната на ключа, тъй като съществуващите сигнали продължават да изискват досегашния частен ключ."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Публичният RSA ключ е запазен, а частният ключ на сървъра е премахнат (офлайн съхранение активно)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Прекъсване по съображения за сигурност: изпратен е частен ключ. Като авариен и заместващ ключ може да се запази само публичният ключ (BEGIN PUBLIC KEY)."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Дневникът е празен, въпреки че последно са били отчетени %d записа."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Прекъсване на веригата при запис #%d: запис е изтрит, вмъкнат или пренареден."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Запис #%d не отговаря на подписа си: променен е впоследствие или е записан с друг AUTH_KEY (напр. преди местене на сайта)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Краят на дневника не съвпада с последния отбелязан запис. Най-новите записи са премахнати."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "Подписът на регистрирания край на веригата е невалиден. Краят на дневника е манипулиран."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Нито един запис няма подпис с ключ. Дневникът е отпреди ключа или е върнат към подправяем формат и не подлежи на проверка."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "WM HinSchG Whistleblower Desk не можа да бъде активиран, защото липсват следните необходими PHP разширения: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Липсващо PHP разширение"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Във wp-config.php не е зададен нито %1$s, нито %2$s. Без тайна във wp-config.php ключът не може да се криптира."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "В базата данни няма частен ключ. Няма какво да се мигрира."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Записаният ключ не може да се декриптира с WM_HINSCHG_MASTER_KEY. Възстановете оригиналния главен ключ; нищо не е презаписано."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Частният ключ вече е криптиран с Libsodium (WM_HINSCHG_MASTER_KEY). Няма нужда от действие."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Записаният ключ не можа да бъде отворен. Нищо не е презаписано."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Запечатаният с Libsodium ключ не премина проверката. Нищо не е презаписано."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Частният ключ вече е криптиран с Libsodium (WM_HINSCHG_MASTER_KEY) в базата. Архив на базата сам вече не декриптира сигнали."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Записаният ключ не се отваря нито без, нито със зададената парола. Възстановете старата парола, иначе сигналите остават нечетими."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Частният ключ вече е криптиран със зададената парола. Няма нужда от действие."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Ключът не можа да бъде експортиран криптиран. Записаният ключ остава непроменен."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Криптираният ключ не можа да се отвори отново. Нищо не е презаписано."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Частният ключ вече е криптиран в базата данни. Архив сам не декриптира нищо. Паролата във wp-config.php вече е задължителна."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Статус на HinSchG канала"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d дни за потвърждение (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d месеца срок за обратна връзка (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Вътрешният канал за сигнали е активен"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Каналът за сигнали се настройва"
+      ],
+      "Interne Meldestelle": [
+        "Вътрешно звено за сигнали"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Тук можете да подадете сигнал за нарушения. Име и имейл адрес не се изискват."
+      ],
+      "Neuen Hinweis melden": [
+        "Подай нов сигнал"
+      ],
+      "Vorgang abrufen": [
+        "Провери преписка"
+      ],
+      "Was gespeichert wird:": [
+        "Какво се записва:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Категория и описание, криптирани на сървъра. Вашият IP адрес не се пази със сигнала; за ограничаване на заявките сайтът пази до един час HMAC хеш от него. Дали уеб сървърът записва достъпи зависи от оператора на сайта, а не от този формуляр. След подаване получавате ID на преписка и ключ за достъп за въпроси и обратна връзка."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Опишете случая възможно най-точно (място, дата, замесени лица)…"
+      ],
+      "Hinweis absenden": [
+        "Изпрати сигнала"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Въведете ID на преписка и ключ за достъп, за да видите статуса и да пишете до звеното."
+      ],
+      "Vorgangs-ID": [
+        "ID на преписка"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "напр. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Ключ за достъп"
+      ],
+      "64 Zeichen": [
+        "64 знака"
+      ],
+      "Vorgang laden": [
+        "Зареди преписката"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Ролята %s не съществува."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Ролята %s вече може да отваря сигнали. Няма нужда от действие."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Ролята %s вече има право да отваря сигнали."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Ролята %s така или иначе нямаше право да отваря сигнали. Няма нужда от действие."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Прекъснато: след това никой не би могъл да отваря сигнали. Звеното трябва да потвърди получаването до седем дни (§ 17 HinSchG). Първо оправомощете друг, а после отнемете тук."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Ролята %s вече няма право да отваря сигнали."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Потребител %d не съществува."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s вече има право да отваря сигнали."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Прекъснато: след това никой не би могъл да отваря сигнали. Първо оправомощете друг, а после отнемете тук."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s вече няма право да отваря сигнали."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Твърде много заявки. Опитайте отново по-късно."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Портал за Сигнали HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Вътрешен формуляр за подаване на сигнали и проверка по HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Настройки на портала"
+      ],
+      "Überschrift": [
+        "Заглавие"
+      ],
+      "Einleitungstext anzeigen": [
+        "Показване на въвеждащия текст"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Портал за Сигнали HinSchG (преглед в сайта)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "Портал за Сигнали HinSchG"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Вътрешен формуляр за сигнали и проверка на статус по германския закон HinSchG."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-закон"
+      ],
+      "block keyword\u0004whistleblower": [
+        "сигнализатор"
+      ],
+      "block keyword\u0004meldestelle": [
+        "канал-сигнали"
+      ],
+      "block keyword\u0004compliance": [
+        "съответствие"
+      ]
+    }
+  }
+}

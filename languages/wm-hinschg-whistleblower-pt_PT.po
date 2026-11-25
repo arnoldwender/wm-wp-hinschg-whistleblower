@@ -1,0 +1,1672 @@
+# Translation of wm-hinschg-whistleblower in pt_PT
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-hinschg-whistleblower 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-hinschg-"
+"whistleblower\n"
+"POT-Creation-Date: 2026-11-21T13:16:55+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:33+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-hinschg-whistleblower\n"
+
+#. Plugin Name of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "WM HinSchG Whistleblower Desk"
+msgstr "Canal de Denúncias WM HinSchG"
+
+#. Plugin URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+
+#. Description of the plugin
+#: wm-hinschg-whistleblower.php
+msgid ""
+"Internal whistleblowing channel: report form, server-side encryption of "
+"reports and messages, deadline tracking under § 17 HinSchG and a keyed audit "
+"log. It does not assess legal compliance."
+msgstr ""
+"Canal interno de denúncias: formulário de submissão, encriptação no servidor "
+"de denúncias e mensagens, controlo de prazos § 17 HinSchG e registo de "
+"auditoria assinado. Não avalia a conformidade legal."
+
+#. Author of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:44
+msgid "WM HinSchG — Meldestelle"
+msgstr "WM HinSchG — Canal interno"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid "Tabelle der Meldungen fehlt (Plugin neu aktivieren)"
+msgstr "Tabela de denúncias em falta (reativar o plugin)"
+
+#. translators: %d: number of passed deadlines
+#: includes/Admin/AdminDashboard.php:80 includes/Admin/AdminDashboard.php:423
+#, php-format
+msgid "%d Frist überschritten"
+msgid_plural "%d Fristen überschritten"
+msgstr[0] "%d prazo ultrapassado"
+msgstr[1] "%d prazos ultrapassados"
+
+#: includes/Admin/AdminDashboard.php:82 includes/Admin/AdminDashboard.php:425
+msgid "Keine Frist überschritten"
+msgstr "Nenhum prazo ultrapassado"
+
+#: includes/Admin/AdminDashboard.php:86
+msgid ""
+"Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)"
+msgstr "Aviso de receção em 7 dias, retorno em 3 meses (§ 17 HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:93 includes/Admin/AdminDashboard.php:689
+msgid "Vorgänge"
+msgstr "Processos"
+
+#: includes/Admin/AdminDashboard.php:97
+msgid "Offen"
+msgstr "Abertos"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Überfällig"
+msgstr "Em atraso"
+
+#: includes/Admin/AdminDashboard.php:107
+msgid "Meldestelle öffnen"
+msgstr "Abrir canal de denúncias"
+
+#: includes/Admin/AdminDashboard.php:127 includes/Admin/AdminDashboard.php:407
+msgid "HinSchG-Meldestelle"
+msgstr "Canal HinSchG"
+
+#: includes/Admin/AdminDashboard.php:128
+msgid "Meldestelle (HinSchG)"
+msgstr "Gabinete de denúncias (HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:171
+msgid "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt."
+msgstr ""
+"Não foi detetada nenhuma chave privada PKCS#8 válida (BEGIN PRIVATE KEY)."
+
+#: includes/Admin/AdminDashboard.php:172
+msgid "WebCrypto ist nur über HTTPS oder localhost verfügbar."
+msgstr "O WebCrypto só está disponível através de HTTPS ou em localhost."
+
+#: includes/Admin/AdminDashboard.php:173
+msgid "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …"
+msgstr "A calcular o par de chaves RSA-4096 localmente no navegador …"
+
+#: includes/Admin/AdminDashboard.php:174
+msgid ""
+"Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den "
+"öffentlichen Schlüssel."
+msgstr ""
+"Chave privada transferida localmente. Verifique e guarde agora a chave "
+"pública."
+
+#: includes/Admin/AdminDashboard.php:175
+msgid "Fehler: "
+msgstr "Erro: "
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lokale Entschlüsselung im Browser läuft …"
+msgstr "Desencriptação local no navegador em curso …"
+
+#: includes/Admin/AdminDashboard.php:177
+msgid "Meldungstext (lokal im Browser entschlüsselt)"
+msgstr "Texto da denúncia (desencriptado localmente no navegador)"
+
+#: includes/Admin/AdminDashboard.php:178 includes/Admin/AdminDashboard.php:574
+msgid "Verlauf"
+msgstr "Histórico"
+
+#: includes/Admin/AdminDashboard.php:179 includes/Admin/AdminDashboard.php:577
+msgid "Meldestelle"
+msgstr "Gabinete de denúncias"
+
+#: includes/Admin/AdminDashboard.php:180 includes/Admin/AdminDashboard.php:577
+msgid "Hinweisgebende Person"
+msgstr "Pessoa denunciante"
+
+#: includes/Admin/AdminDashboard.php:181
+msgid ""
+"Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den "
+"Browser nicht verlassen."
+msgstr ""
+"Denúncia desencriptada localmente no navegador. A chave privada não saiu do "
+"navegador."
+
+#: includes/Admin/AdminDashboard.php:182
+msgid "Entschlüsselung fehlgeschlagen: "
+msgstr "Falha na desencriptação: "
+
+#: includes/Admin/AdminDashboard.php:183
+msgid "Eingangsbestätigung wird gespeichert …"
+msgstr "A guardar o aviso de receção …"
+
+#: includes/Admin/AdminDashboard.php:184
+msgid "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …"
+msgstr "Aviso de receção guardado. A atualizar a vista …"
+
+#: includes/Admin/AdminDashboard.php:185
+msgid "Antwort wird verschlüsselt gespeichert …"
+msgstr "A guardar a resposta encriptada …"
+
+#: includes/Admin/AdminDashboard.php:186
+msgid "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …"
+msgstr "Resposta encriptada guardada. A atualizar a vista …"
+
+#: includes/Admin/AdminDashboard.php:187
+msgid "Bitte geben Sie einen Nachrichtentext ein."
+msgstr "Introduza o texto da mensagem."
+
+#: includes/Admin/AdminDashboard.php:188
+msgid ""
+"Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen."
+msgstr ""
+"Registo de auditoria temporariamente ocupado. Tente novamente dentro de 2 "
+"segundos."
+
+#: includes/Admin/AdminDashboard.php:395
+msgid "Vorgänge & Fristen"
+msgstr "Processos e prazos"
+
+#: includes/Admin/AdminDashboard.php:396
+msgid "Formular einbinden"
+msgstr "Incorporar formulário"
+
+#: includes/Admin/AdminDashboard.php:397
+msgid "Testmeldung"
+msgstr "Denúncia de teste"
+
+#: includes/Admin/AdminDashboard.php:398 includes/Admin/AdminDashboard.php:814
+msgid "Fristen & Benachrichtigungen"
+msgstr "Prazos e notificações"
+
+#: includes/Admin/AdminDashboard.php:399
+msgid "Schlüsselverwahrung"
+msgstr "Custódia de chaves"
+
+#: includes/Admin/AdminDashboard.php:400
+msgid "Deinstallation"
+msgstr "Desinstalação"
+
+#: includes/Admin/AdminDashboard.php:401 includes/Admin/AdminDashboard.php:963
+msgid "Begriffe"
+msgstr "Glossário"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid ""
+"Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die "
+"Fristen nach § 17 HinSchG berechnen."
+msgstr ""
+"Receber participações através do formulário, guardá-las encriptadas e "
+"calcular os prazos do § 17 HinSchG."
+
+#: includes/Admin/AdminDashboard.php:411
+msgid "Part of the WM Suite plugin family"
+msgstr "Parte da família de plugins WM Suite"
+
+#: includes/Admin/AdminDashboard.php:413
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Hub"
+msgstr "Módulo Hub"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Standalone"
+msgstr "Autónomo"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Schlüsselpaar vorhanden"
+msgstr "Par de chaves disponível"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden"
+msgstr "Sem par de chaves: não é possível guardar denúncias"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Was die Meldestelle leisten muss"
+msgstr "Obrigações do gabinete interno de denúncias"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine "
+"interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 "
+"genannten Unternehmen, etwa Kreditinstitute, "
+"Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das "
+"unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den "
+"Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von "
+"drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen "
+"schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. "
+"3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll "
+"die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). "
+"Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ "
+"11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre "
+"Pflichten erfüllt, prüft das Plugin nicht."
+msgstr ""
+"Entidades empregadoras com pelo menos 50 trabalhadores em regra devem criar "
+"um canal interno de denúncia (§ 12 n.º 2 HinSchG); para as entidades do § 12 "
+"n.º 3, como instituições de crédito, empresas de investimento e seguradoras, "
+"aplica-se independentemente do número de trabalhadores. O gabinete confirma "
+"a receção até sete dias e dá seguimento em três meses (§ 17). As denúncias "
+"devem ser possíveis por escrito, oralmente e, a pedido, presencialmente (§ "
+"16 n.º 3); este plugin cobre apenas a via escrita. Denúncias anónimas devem "
+"ser tratadas sem obrigação de canal dedicado (§ 16 n.º 1). A documentação "
+"deve ser eliminada três anos após o encerramento (§ 11 n.º 5); o plugin não "
+"apaga dados automaticamente nem avalia deveres legais."
+
+#: includes/Admin/AdminDashboard.php:440
+msgid ""
+"Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3)."
+msgstr ""
+"Três processos de demonstração criados (chaves token_demo_1 a token_demo_3)."
+
+#: includes/Admin/AdminDashboard.php:448
+msgid "Testmeldung verschlüsselt gespeichert."
+msgstr "Denúncia de teste guardada encriptada."
+
+#: includes/Admin/AdminDashboard.php:451
+msgid "Vorgangs-ID:"
+msgstr "ID do processo:"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Zugangsschlüssel (nur jetzt sichtbar):"
+msgstr "Chave de acesso (visível apenas agora):"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche der Meldestelle"
+msgstr "Secções do gabinete"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Der private Schlüssel liegt ungeschützt in der Datenbank."
+msgstr "A chave privada encontra-se desprotegida na base de dados."
+
+#. translators: 1: master key constant name, 2: passphrase constant name, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:480
+#, php-format
+msgid ""
+"Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert "
+"automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das "
+"Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, "
+"sodass alle bisherigen Meldungen lesbar bleiben."
+msgstr ""
+"Defina %1$s (recomendado, Libsodium XSalsa20-Poly1305, migra "
+"automaticamente) ou %2$s no wp-config.php e execute %3$s. O par de chaves "
+"mantém-se; apenas muda o formato guardado para que todas as denúncias "
+"continuem legíveis."
+
+#. translators: %d: number of users who can open a report
+#: includes/Admin/AdminDashboard.php:502
+#, php-format
+msgid "%d Person darf Meldungen öffnen."
+msgid_plural "%d Personen dürfen Meldungen öffnen."
+msgstr[0] "%d pessoa pode abrir denúncias."
+msgstr[1] "%d pessoas podem abrir denúncias."
+
+#. translators: 1: role name, 2: WP-CLI command, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:509
+#, php-format
+msgid ""
+"Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 "
+"HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit "
+"%2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" "
+"und entziehen Sie die Berechtigung danach mit %3$s."
+msgstr ""
+"Incluindo o perfil %1$s, ou seja, quem administra este site. O § 8 HinSchG "
+"reserva o conteúdo às pessoas encarregadas do canal. Com %2$s vê a lista; "
+"atribua o perfil «Meldestelle (HinSchG)» e revogue depois a permissão com "
+"%3$s."
+
+#: includes/Admin/AdminDashboard.php:516
+msgid ""
+"Administratoren dieser Website können Meldungen nicht öffnen, solange sie "
+"die Berechtigung nicht haben."
+msgstr ""
+"Os administradores deste site não podem abrir denúncias enquanto não tiverem "
+"esta permissão."
+
+#. translators: %s: case reference
+#: includes/Admin/AdminDashboard.php:537
+#, php-format
+msgid "Meldung %s"
+msgstr "Denúncia %s"
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Vorgang konnte nicht geladen werden."
+msgstr "Não foi possível carregar o processo."
+
+#: includes/Admin/AdminDashboard.php:552
+msgid "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)"
+msgstr "Desencriptação local no navegador (escolher a chave privada offline)"
+
+#: includes/Admin/AdminDashboard.php:553
+msgid ""
+"Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die "
+"Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; "
+"der private Schlüssel wird nicht an den Server übertragen."
+msgstr ""
+"Escolha o seu ficheiro de chave PKCS#8 (.pem) guardado localmente. A "
+"desencriptação ocorre exclusivamente na memória do seu navegador; a chave "
+"privada não é transmitida ao servidor."
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "Meldungstext"
+msgstr "Texto da denúncia"
+
+#: includes/Admin/AdminDashboard.php:580
+msgid "Diese Nachricht ließ sich nicht entschlüsseln."
+msgstr "Não foi possível desencriptar esta mensagem."
+
+#: includes/Admin/AdminDashboard.php:588
+msgid ""
+"Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: "
+"der Inhalt ist auch innerhalb der Einrichtung vertraulich)."
+msgstr ""
+"Cada consulta desta denúncia fica registada na auditoria (§ 8 HinSchG: o "
+"conteúdo é confidencial também dentro da organização)."
+
+#: includes/Admin/AdminDashboard.php:600
+msgid "Fallbearbeitung nach § 17 HinSchG"
+msgstr "Tratamento do processo nos termos do § 17 HinSchG"
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:605
+#, php-format
+msgid "Eingangsbestätigung erfasst am %s."
+msgstr "Aviso de receção registado em %s."
+
+#: includes/Admin/AdminDashboard.php:607
+msgid "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage)."
+msgstr ""
+"Receção ainda não confirmada (§ 17, n.º 1, al. 1 HinSchG: prazo de 7 dias)."
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:612
+#, php-format
+msgid "Abschließende Rückmeldung erfasst am %s."
+msgstr "Retorno final registado em %s."
+
+#: includes/Admin/AdminDashboard.php:617
+msgid "Eingang bestätigen (§ 17 Abs. 1 HinSchG)"
+msgstr "Confirmar a receção (§ 17, n.º 1 HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Rückfrage oder Rückmeldung an die hinweisgebende Person"
+msgstr "Pedido de esclarecimento ou retorno ao denunciante"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Wird verschlüsselt gespeichert und für die hinweisgebende Person unter "
+"„Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails."
+msgstr ""
+"É guardado encriptado e disponibilizado ao denunciante em «Consultar "
+"processo». O plugin não envia e-mails."
+
+#: includes/Admin/AdminDashboard.php:627
+msgid "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG"
+msgstr "Retorno final nos termos do § 17, n.º 2 HinSchG"
+
+#: includes/Admin/AdminDashboard.php:631
+msgid "Antwort verschlüsselt senden"
+msgstr "Enviar resposta encriptada"
+
+#: includes/Admin/AdminDashboard.php:636
+msgid "Zurück zur Übersicht"
+msgstr "Voltar à vista geral"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar"
+msgstr ""
+"Registo de auditoria: cadeia verificada, sem alterações posteriores detetadas"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Integritätsprüfung fehlgeschlagen"
+msgstr "Registo de auditoria: falha na verificação de integridade"
+
+#. translators: 1: checked count, 2: key source
+#: includes/Admin/AdminDashboard.php:647
+#, php-format
+msgid "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s."
+msgstr "%1$d entradas verificadas. Chave de assinatura: %2$s."
+
+#. translators: %d: number of audit entries written before the signing key existed (unkeyed SHA-256)
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid "%d historische Alt-Einträge ohne Signatur"
+msgstr "%d entradas antigas sem assinatura"
+
+#: includes/Admin/AdminDashboard.php:660
+msgid "Unbekannter Fehler bei der Prüfung."
+msgstr "Erro desconhecido durante a verificação."
+
+#: includes/Admin/AdminDashboard.php:667
+msgid "Offene Vorgänge"
+msgstr "Processos abertos"
+
+#: includes/Admin/AdminDashboard.php:669
+msgid "ohne abschließende Rückmeldung"
+msgstr "sem retorno final"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eingangsbestätigung überfällig"
+msgstr "Aviso de receção em atraso"
+
+#: includes/Admin/AdminDashboard.php:674
+msgid "nicht bestätigt, 7-Tage-Frist vorbei"
+msgstr "não confirmado, prazo de 7 dias expirado"
+
+#: includes/Admin/AdminDashboard.php:677
+msgid "Bestätigung in 48 Stunden fällig"
+msgstr "Confirmação vence em 48 horas"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "noch nicht bestätigt"
+msgstr "ainda não confirmado"
+
+#: includes/Admin/AdminDashboard.php:682
+msgid "Rückmeldung überfällig"
+msgstr "Retorno em atraso"
+
+#: includes/Admin/AdminDashboard.php:684
+msgid "keine Rückmeldung, Frist des Plugins vorbei"
+msgstr "sem retorno, prazo do plugin expirado"
+
+#: includes/Admin/AdminDashboard.php:690
+msgid ""
+"Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben "
+"verschlüsselt."
+msgstr ""
+"Os últimos 50 processos com estado e prazos. Os conteúdos permanecem "
+"encriptados."
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "Vorgang"
+msgstr "Processo"
+
+#: includes/Admin/AdminDashboard.php:696 includes/Admin/AdminDashboard.php:794
+#: includes/Frontend/WhistlePortal.php:251
+msgid "Kategorie"
+msgstr "Categoria"
+
+#: includes/Admin/AdminDashboard.php:697
+msgid "Status"
+msgstr "Estado atual"
+
+#: includes/Admin/AdminDashboard.php:698 includes/Admin/AdminDashboard.php:968
+msgid "Eingangsbestätigung"
+msgstr "Aviso de receção"
+
+#: includes/Admin/AdminDashboard.php:699 includes/Admin/AdminDashboard.php:971
+msgid "Rückmeldung"
+msgstr "Retorno"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Eingang"
+msgstr "Entrada"
+
+#: includes/Admin/AdminDashboard.php:707
+msgid "Noch keine Vorgänge."
+msgstr "Ainda sem processos."
+
+#: includes/Admin/AdminDashboard.php:711
+msgid "Drei Demo-Vorgänge anlegen"
+msgstr "Criar três processos de demonstração"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:735
+#, php-format
+msgid "bestätigt am %s"
+msgstr "confirmado em %s"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:740 includes/Admin/AdminDashboard.php:754
+#, php-format
+msgid "Frist %s"
+msgstr "Prazo %s"
+
+#: includes/Admin/AdminDashboard.php:742 includes/Admin/AdminDashboard.php:756
+msgid "überfällig"
+msgstr "em atraso"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:749
+#, php-format
+msgid "gegeben am %s"
+msgstr "enviado em %s"
+
+#: includes/Admin/AdminDashboard.php:769
+msgid "Meldeformular auf der Website einbinden"
+msgstr "Integrar o formulário de denúncia no site"
+
+#: includes/Admin/AdminDashboard.php:771
+msgid "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“."
+msgstr "Crie uma página, por exemplo «Canal de Denúncias»."
+
+#: includes/Admin/AdminDashboard.php:773
+msgid "Den Shortcode einfügen:"
+msgstr "Insira o shortcode:"
+
+#: includes/Admin/AdminDashboard.php:775
+msgid "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“)."
+msgstr "(equivalente: [wm_hinschg_portal] ou o bloco «wm/hinschg-portal»)."
+
+#: includes/Admin/AdminDashboard.php:777
+msgid ""
+"Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder "
+"im Footer."
+msgstr ""
+"Coloque a ligação onde os colaboradores a encontrem, como na intranet ou no "
+"rodapé."
+
+#: includes/Admin/AdminDashboard.php:780
+msgid ""
+"Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und "
+"einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab "
+"und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. "
+"Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es "
+"keinen Zugang mehr zum Vorgang."
+msgstr ""
+"Após submeter, a pessoa denunciante recebe um ID de processo e uma chave de "
+"acesso. Com ambos consulta o estado e troca mensagens no mesmo formulário "
+"sem indicar nome ou e-mail. Apenas um HMAC da chave é guardado; se se "
+"perder, deixa de haver acesso ao processo."
+
+#: includes/Admin/AdminDashboard.php:786
+msgid "Testmeldung anlegen"
+msgstr "Criar denúncia de teste"
+
+#: includes/Admin/AdminDashboard.php:787
+msgid ""
+"Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den "
+"Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann."
+msgstr ""
+"Cria um processo pela mesma via do formulário público e mostra uma única vez "
+"a chave de acesso para testar o portal."
+
+#: includes/Admin/AdminDashboard.php:803
+#: includes/Frontend/WhistlePortal.php:260
+msgid "Sachverhalt"
+msgstr "Descrição dos factos"
+
+#: includes/Admin/AdminDashboard.php:804
+msgid ""
+"Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit "
+"dem RSA-Schlüssel des Plugins versiegelt."
+msgstr ""
+"Guardado encriptado com AES-256-GCM; a chave simétrica é selada com a chave "
+"RSA do plugin."
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Testmeldung speichern"
+msgstr "Guardar denúncia de teste"
+
+#. translators: %d: days
+#: includes/Admin/AdminDashboard.php:819
+#, php-format
+msgid ""
+"Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt "
+"die Bestätigung spätestens nach sieben Tagen."
+msgstr ""
+"Aviso de receção: entrada + %d dias. O § 17 n.º 1 ponto 1 HinSchG exige "
+"confirmação no máximo em sete dias."
+
+#. translators: %d: months
+#: includes/Admin/AdminDashboard.php:825
+#, php-format
+msgid ""
+"Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab "
+"der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab "
+"Eingang); die Frist des Plugins liegt damit früher."
+msgstr ""
+"Retorno: entrada + %d meses. O § 17 n.º 2 HinSchG conta três meses após "
+"confirmação (três meses e sete dias sem confirmação); o prazo do plugin "
+"nunca é posterior."
+
+#: includes/Admin/AdminDashboard.php:828
+msgid "Die Fristen sind im Code festgelegt und nicht einstellbar."
+msgstr "Os prazos estão fixados no código e não são ajustáveis."
+
+#: includes/Admin/AdminDashboard.php:829
+msgid ""
+"Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst "
+"bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, "
+"an die eine eigene Benachrichtigung angeschlossen werden kann."
+msgstr ""
+"O plugin não envia e-mails. Uma verificação horária (WP-Cron) aciona "
+"wm_hinschg_sla_breach_detected quando um prazo expira para ligar alertas "
+"próprios."
+
+#: includes/Admin/AdminDashboard.php:831
+msgid ""
+"Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, "
+"Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet."
+msgstr ""
+"Até 15/09/2026 existia aqui uma página de definições para e-mail, prazos, "
+"anexos e retenção cujos valores nunca foram lidos."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger "
+"Privatschlüssel entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"Chave RSA pública guardada e eventual chave privada do lado do servidor "
+"removida (custódia offline ativa)."
+
+#: includes/Admin/AdminDashboard.php:845 includes/Crypto/Vault.php:342
+msgid ""
+"Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / "
+"Ombudsperson) gespeichert."
+msgstr ""
+"Chave pública de emergência e substituição (2.ª pessoa designada / provedor) "
+"guardada."
+
+#: includes/Admin/AdminDashboard.php:847 includes/Crypto/Vault.php:323
+msgid "Notfall- und Vertretungsschlüssel entfernt."
+msgstr "Chave de emergência e substituição removida."
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich "
+"den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen."
+msgstr ""
+"Recusado: foi enviada uma chave privada. Submeta exclusivamente a chave "
+"pública (BEGIN PUBLIC KEY)."
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich über das Kontrollkästchen."
+msgstr ""
+"Já existem processos encriptados. Confirme expressamente a mudança de chave "
+"através da caixa de verificação."
+
+#: includes/Admin/AdminDashboard.php:853
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel "
+"(mindestens 2048 Bit, empfohlen 4096 Bit)."
+msgstr ""
+"O texto enviado não é uma chave RSA pública válida (mínimo 2048 bits, "
+"recomendado 4096 bits)."
+
+#: includes/Admin/AdminDashboard.php:857
+msgid "Aktive Schlüsselverwahrung & Audit-Signatur"
+msgstr "Custódia de chaves ativa e assinatura de auditoria"
+
+#: includes/Admin/AdminDashboard.php:859
+msgid "RSA-Schlüsselquelle:"
+msgstr "Origem da chave RSA:"
+
+#: includes/Admin/AdminDashboard.php:863
+msgid "Notfall- & Vertretungsschlüssel:"
+msgstr "Chave de emergência e substituição:"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)"
+msgstr ""
+"depositada (envelope duplo ativo para a 2.ª pessoa designada / provedor)"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "nicht hinterlegt"
+msgstr "não depositada"
+
+#: includes/Admin/AdminDashboard.php:867
+msgid "Audit-Kettenschlüssel:"
+msgstr "Chave da cadeia de auditoria:"
+
+#. translators: %s: constant name
+#: includes/Admin/AdminDashboard.php:872
+#, php-format
+msgid ""
+"(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in "
+"der wp-config.php)."
+msgstr ""
+"(para uma rotação de chaves independente de AUTH_KEY, defina %s no wp-"
+"config.php)."
+
+#: includes/Admin/AdminDashboard.php:880
+msgid ""
+"Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)"
+msgstr ""
+"Geração de chaves no navegador (custódia offline sem chave privada no "
+"servidor)"
+
+#: includes/Admin/AdminDashboard.php:882
+msgid ""
+"Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). "
+"Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät "
+"heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-"
+"Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum "
+"Versiegeln eingehender Meldungen gespeichert."
+msgstr ""
+"Gera um par de chaves RSA-OAEP-4096 localmente no seu navegador (WebCrypto). "
+"A chave privada é transferida diretamente para o seu dispositivo como "
+"ficheiro .pem e nunca passa pelo PHP, pelo servidor web nem pela base de "
+"dados MySQL. No servidor é guardada exclusivamente a chave pública usada "
+"para selar as denúncias recebidas."
+
+#: includes/Admin/AdminDashboard.php:886
+msgid ""
+"RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel "
+"herunterladen"
+msgstr ""
+"Gerar o par de chaves RSA-4096 localmente no navegador e transferir a chave "
+"privada"
+
+#: includes/Admin/AdminDashboard.php:893
+msgid "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)"
+msgstr "Chave RSA pública (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:899
+msgid ""
+"Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den "
+"bisherigen privaten Schlüssel)"
+msgstr ""
+"Substituir a chave existente (as denúncias existentes continuam a precisar "
+"da chave privada anterior)"
+
+#: includes/Admin/AdminDashboard.php:902
+msgid "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)"
+msgstr "Guardar apenas a chave pública (ativar a custódia offline)"
+
+#: includes/Admin/AdminDashboard.php:905
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Schlüssel der Meldestelle hinterlegen."
+msgstr ""
+"Só os administradores do site (manage_options) podem depositar a chave "
+"pública do gabinete de denúncias."
+
+#: includes/Admin/AdminDashboard.php:910
+msgid ""
+"Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / "
+"Ombudsperson)"
+msgstr ""
+"Chave de emergência e substituição (2.ª pessoa designada do gabinete de "
+"denúncias / provedor)"
+
+#: includes/Admin/AdminDashboard.php:912
+msgid ""
+"Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-"
+"Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel "
+"versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser "
+"entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung "
+"dieses privaten Schlüssels ausschließlich bei einer zweiten mit der "
+"Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — "
+"niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum "
+"Entfernen das Feld leeren und speichern."
+msgstr ""
+"Envelope duplo opcional para novas denúncias e mensagens: a chave de sessão "
+"AES-256 é selada adicionalmente com esta chave RSA pública, para que um "
+"substituto possa desencriptar localmente no navegador em caso de ausência. "
+"Nos termos do § 8, n.º 1 e do § 15 HinSchG, a custódia desta chave privada "
+"só pode caber a uma segunda pessoa designada do gabinete de denúncias ou a "
+"um provedor independente — nunca à direção nem à administração informática "
+"geral. Para a remover, esvazie o campo e guarde."
+
+#: includes/Admin/AdminDashboard.php:916
+msgid ""
+"Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten "
+"Schlüssel herunterladen"
+msgstr ""
+"Gerar o par de chaves de substituição (RSA-4096) localmente no navegador e "
+"transferir a chave privada"
+
+#: includes/Admin/AdminDashboard.php:923
+msgid "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)"
+msgstr "Chave pública de emergência e substituição (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:926
+msgid "Notfall- & Vertretungsschlüssel speichern"
+msgstr "Guardar a chave de emergência e substituição"
+
+#: includes/Admin/AdminDashboard.php:929
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Notfall- und Vertretungsschlüssel hinterlegen."
+msgstr ""
+"Só os administradores do site (manage_options) podem depositar a chave "
+"pública de emergência e substituição."
+
+#: includes/Admin/AdminDashboard.php:937
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "Preferência de desinstalação guardada."
+
+#: includes/Admin/AdminDashboard.php:940
+msgid "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation"
+msgstr "Conservação legal (§ 11 HinSchG) e desinstalação"
+
+#: includes/Admin/AdminDashboard.php:942
+msgid ""
+"Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des "
+"Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, "
+"Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit "
+"ein Plugin-Update oder eine Neuinstallation keine gesetzlich "
+"aufzubewahrenden Vorgänge vernichtet."
+msgstr ""
+"Nos termos do § 11 n.º 5 HinSchG, a documentação deve ser conservada durante "
+"três anos após o encerramento. Por predefinição, denúncias, mensagens, "
+"auditoria e chaves são preservadas ao remover o plugin."
+
+#: includes/Admin/AdminDashboard.php:951
+msgid ""
+"Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge "
+"und Schlüssel unwiderruflich löschen"
+msgstr ""
+"Eliminar irreversivelmente todas as denúncias, mensagens, entradas de "
+"auditoria e chaves ao desinstalar o plugin"
+
+#: includes/Admin/AdminDashboard.php:954
+msgid "Deinstallations-Option speichern"
+msgstr "Guardar opção de desinstalação"
+
+#: includes/Admin/AdminDashboard.php:957
+msgid ""
+"Nur Website-Administratoren (manage_options) können das Verhalten bei der "
+"Plugin-Deinstallation ändern."
+msgstr ""
+"Apenas administradores do site (manage_options) podem alterar o "
+"comportamento na desinstalação."
+
+#: includes/Admin/AdminDashboard.php:965
+msgid "Vorgangs-ID und Zugangsschlüssel"
+msgstr "ID do processo e chave de acesso"
+
+#: includes/Admin/AdminDashboard.php:966
+msgid ""
+"Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der "
+"Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon."
+msgstr ""
+"Entregues uma única vez após o envio. A chave tem 64 caracteres; o plugin "
+"guarda apenas o seu HMAC."
+
+#: includes/Admin/AdminDashboard.php:969
+msgid "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr "No máximo após sete dias (§ 17 n.º 1 ponto 1 HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:972
+msgid ""
+"Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und "
+"ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG)."
+msgstr ""
+"No prazo de três meses após o aviso de receção, indicando medidas previstas "
+"ou adotadas (§ 17 n.º 2 HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:974
+msgid "Verschlüsselung"
+msgstr "Encriptação"
+
+#: includes/Admin/AdminDashboard.php:975
+msgid ""
+"Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-"
+"Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für "
+"den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / "
+"Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter "
+"„Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php "
+"(WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt "
+"(WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt "
+"(WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-"
+"Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten "
+"zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben "
+"der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen "
+"Browser und Server schützt HTTPS."
+msgstr ""
+"As denúncias e as mensagens são encriptadas com AES-256-GCM e a chave AES é "
+"selada com RSA-OAEP (opcionalmente também como envelope duplo para a chave "
+"de emergência e substituição de uma 2.ª pessoa designada / provedor). Onde "
+"se encontra a chave RSA privada é indicado pelo separador «Custódia de "
+"chaves» e por wp hinschg key-status: no wp-config.php "
+"(WM_HINSCHG_PRIVATE_KEY), selada com Libsodium XSalsa20-Poly1305 "
+"(WM_HINSCHG_MASTER_KEY ou AUTH_KEY), encriptada com OpenSSL "
+"(WM_HINSCHG_KEY_PASSPHRASE) ou apenas localmente no navegador, sem chave "
+"privada no servidor (custódia offline). As respostas do gabinete de "
+"denúncias recebem ainda uma caixa selada para a chave de acesso, enquanto as "
+"entradas do denunciante permanecem seladas de forma puramente assimétrica. "
+"Entre o navegador e o servidor, a proteção é assegurada por HTTPS."
+
+#: includes/Admin/AdminDashboard.php:977
+msgid "Berechtigung zum Öffnen einer Meldung"
+msgstr "Permissão para abrir uma denúncia"
+
+#: includes/Admin/AdminDashboard.php:978
+msgid ""
+"Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt "
+"dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet "
+"WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser "
+"Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, "
+"damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche "
+"Zweck. wp hinschg access zeigt, wer sie hat."
+msgstr ""
+"O plugin verifica a permissão própria wm_hinschg_read_cases e inclui o "
+"perfil «Meldestelle (HinSchG)». O WordPress ou um gestor de perfis define "
+"quem a detém. Na instalação é atribuída a «Administrator» para evitar "
+"bloqueios; revogá-la depois é o objetivo. wp hinschg access mostra os "
+"titulares."
+
+#: includes/Admin/AdminDashboard.php:980
+msgid "Audit-Protokoll"
+msgstr "Registo de auditoria"
+
+#: includes/Admin/AdminDashboard.php:981
+msgid ""
+"Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche "
+"Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus "
+"wp-config.php kennt, kann die Kette neu schreiben."
+msgstr ""
+"Cada registo contém um HMAC-SHA256 sobre o anterior. Alterações, remoções e "
+"inserções são detetadas; quem tiver a chave do wp-config.php pode assinar "
+"novamente a cadeia."
+
+#: includes/API/RestController.php:98
+msgid ""
+"Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut "
+"versuchen."
+msgstr ""
+"O registo de auditoria está temporariamente ocupado. Tente novamente dentro "
+"de instantes."
+
+#: includes/API/RestController.php:136 includes/API/RestController.php:467
+msgid "Case ID is required."
+msgstr "O ID do processo é obrigatório."
+
+#: includes/API/RestController.php:148 includes/API/RestController.php:479
+#: includes/API/RestController.php:553
+msgid "Case not found."
+msgstr "Processo não encontrado."
+
+#: includes/API/RestController.php:161
+msgid ""
+"Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich "
+"nicht entschlüsseln."
+msgstr ""
+"O envelope criptográfico desta denúncia está incompleto; não é possível "
+"desencriptar."
+
+#. translators: %s: what this install does with the private key
+#: includes/API/RestController.php:180
+#, php-format
+msgid "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s"
+msgstr "Não foi possível desencriptar esta denúncia. Origem da chave: %s"
+
+#: includes/API/RestController.php:247
+msgid "Report description cannot be empty."
+msgstr "A descrição da denúncia não pode estar vazia."
+
+#: includes/API/RestController.php:298
+msgid ""
+"Save this Access Token securely. It is the ONLY way to check your report "
+"status or communicate confidentially without revealing your identity."
+msgstr ""
+"Guarde esta chave de acesso em segurança. É a ÚNICA forma de consultar o "
+"estado ou comunicar confidencialmente sem revelar a sua identidade."
+
+#: includes/API/RestController.php:315
+msgid "Case ID and Access Token are required."
+msgstr "São necessários o ID do processo e a chave de acesso."
+
+#: includes/API/RestController.php:329 includes/API/RestController.php:413
+msgid "Invalid Case ID or Access Token."
+msgstr "ID do processo ou chave de acesso inválidos."
+
+#: includes/API/RestController.php:399
+msgid "Case ID, Access Token, and message are required."
+msgstr "São necessários o ID do processo, a chave de acesso e a mensagem."
+
+#: includes/API/RestController.php:438
+msgid "Confidential message appended successfully."
+msgstr "Mensagem confidencial adicionada com sucesso."
+
+#: includes/API/RestController.php:484
+msgid "The receipt of this report was already acknowledged."
+msgstr "A receção desta denúncia já foi confirmada."
+
+#: includes/API/RestController.php:496
+msgid ""
+"Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle "
+"eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr ""
+"Aviso de receção: a sua participação deu entrada no gabinete interno de "
+"denúncias (§ 17 n.º 1 ponto 1 HinSchG)."
+
+#: includes/API/RestController.php:528
+msgid "Acknowledgment recorded and sent to the reporting person's case view."
+msgstr ""
+"Confirmação registada e enviada para a vista do processo do denunciante."
+
+#: includes/API/RestController.php:541
+msgid "Case ID and message are required."
+msgstr "São necessários o ID do processo e a mensagem."
+
+#: includes/API/RestController.php:593
+msgid "Reply stored in the reporting person's case view."
+msgstr "Resposta guardada na vista do processo da pessoa denunciante."
+
+#: includes/Compliance/CaseStatus.php:22
+msgid "Eingegangen"
+msgstr "Recebido"
+
+#: includes/Compliance/CaseStatus.php:23
+msgid "In Bearbeitung"
+msgstr "Em análise"
+
+#: includes/Compliance/CaseStatus.php:31
+msgid "Rückmeldung gegeben"
+msgstr "Retorno enviado"
+
+#: includes/Compliance/CaseStatus.php:32
+msgid "Abgeschlossen"
+msgstr "Encerrado"
+
+#: includes/Compliance/ReportCategories.php:25
+msgid "Finanzbetrug, Untreue, Korruption & Bestechung"
+msgstr "Fraude financeira, infidelidade, corrupção e suborno"
+
+#: includes/Compliance/ReportCategories.php:26
+msgid "DSGVO-Verstöße & Datenschutzverletzungen"
+msgstr "Violações do RGPD e quebras de dados"
+
+#: includes/Compliance/ReportCategories.php:27
+msgid "IT-Sicherheit & Cyber-Vorfälle"
+msgstr "Segurança informática e ciberincidentes"
+
+#: includes/Compliance/ReportCategories.php:28
+msgid "Lieferkette & Menschenrechte"
+msgstr "Cadeia de abastecimento e direitos humanos"
+
+#: includes/Compliance/ReportCategories.php:29
+msgid "Arbeitsschutz, Diskriminierung & Belästigung"
+msgstr "Segurança no trabalho, discriminação e assédio"
+
+#: includes/Compliance/ReportCategories.php:30
+msgid "Allgemeine Compliance-Verstöße"
+msgstr "Incumprimentos gerais de conformidade"
+
+#: includes/Crypto/Vault.php:168
+msgid ""
+"Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung."
+msgstr ""
+"A chave privada está no wp-config.php. Uma cópia da base de dados isolada "
+"não desencripta qualquer denúncia."
+
+#: includes/Crypto/Vault.php:178
+msgid ""
+"Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt "
+"in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-"
+"config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+msgstr ""
+"A chave privada está encriptada via Libsodium (XSalsa20-Poly1305) na base de "
+"dados; a chave mestra (WM_HINSCHG_MASTER_KEY) está no wp-config.php. Uma "
+"cópia isolada não desencripta nada."
+
+#: includes/Crypto/Vault.php:186
+msgid ""
+"Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase "
+"steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine "
+"Meldung."
+msgstr ""
+"A chave privada está encriptada na base de dados; a frase-passe está no wp-"
+"config.php. Uma cópia isolada não desencripta nada."
+
+#: includes/Crypto/Vault.php:194
+msgid ""
+"Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank "
+"(abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt "
+"sich WM_HINSCHG_MASTER_KEY."
+msgstr ""
+"A chave privada está encriptada via Libsodium na base de dados (derivada de "
+"AUTH_KEY no wp-config.php). Uma cópia isolada não desencripta nada; "
+"recomenda-se WM_HINSCHG_MASTER_KEY para rotação independente."
+
+#: includes/Crypto/Vault.php:202
+msgid ""
+"In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). "
+"Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-"
+"Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY "
+"in der wp-config.php."
+msgstr ""
+"Na base de dados encontra-se apenas a chave pública (custódia offline). As "
+"novas denúncias são seladas; para as ler, utilize a desencriptação local no "
+"navegador na vista do processo ou defina WM_HINSCHG_PRIVATE_KEY no wp-"
+"config.php."
+
+#: includes/Crypto/Vault.php:210
+msgid ""
+"Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter "
+"„Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) "
+"oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php."
+msgstr ""
+"Ainda não está depositado nenhum par de chaves. Gere um par de chaves local "
+"no navegador no separador «Custódia de chaves» (custódia offline) ou defina "
+"WM_HINSCHG_MASTER_KEY no wp-config.php."
+
+#: includes/Crypto/Vault.php:217
+msgid ""
+"Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den "
+"Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung "
+"entschlüsseln."
+msgstr ""
+"A chave privada está sem encriptação na base de dados ao lado das denúncias. "
+"Quem tiver uma cópia integral pode desencriptar tudo."
+
+#: includes/Crypto/Vault.php:242
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-"
+"Format."
+msgstr "O texto enviado não é uma chave RSA pública válida no formato PEM."
+
+#: includes/Crypto/Vault.php:251
+msgid ""
+"Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit "
+"(empfohlen: 4096 Bit) sein."
+msgstr ""
+"A chave pública tem de ser uma chave RSA com pelo menos 2048 bits "
+"(recomendado: 4096 bits)."
+
+#: includes/Crypto/Vault.php:272
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der "
+"Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN "
+"PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Interrupção de segurança: foi enviada uma chave privada. Na custódia offline "
+"só pode ser guardada a chave pública (BEGIN PUBLIC KEY)."
+
+#: includes/Crypto/Vault.php:289
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den "
+"bisherigen privaten Schlüssel benötigen."
+msgstr ""
+"Já existem processos encriptados. Confirme expressamente a mudança de chave, "
+"uma vez que as denúncias existentes continuam a precisar da chave privada "
+"anterior."
+
+#: includes/Crypto/Vault.php:303
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel "
+"entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"Chave RSA pública guardada e chave privada do lado do servidor removida "
+"(custódia offline ativa)."
+
+#: includes/Crypto/Vault.php:329
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als "
+"Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche "
+"Schlüssel (BEGIN PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Interrupção de segurança: foi enviada uma chave privada. Como chave de "
+"emergência e substituição só pode ser guardada a chave pública (BEGIN PUBLIC "
+"KEY)."
+
+#. translators: %d: previously recorded entry count
+#: includes/Crypto/Vault.php:847
+#, php-format
+msgid "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+msgstr "O registo está vazio apesar de estarem anotadas %d entradas."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:866
+#, php-format
+msgid ""
+"Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder "
+"umsortiert."
+msgstr ""
+"Quebra de cadeia na entrada #%d: um registo foi apagado, inserido ou "
+"reordenado."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:906
+#, php-format
+msgid ""
+"Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, "
+"oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor "
+"einem Umzug der Website)."
+msgstr ""
+"A entrada #%d não coincide com a assinatura: foi alterada posteriormente ou "
+"escrita com outro AUTH_KEY (por exemplo antes de migrar o site)."
+
+#: includes/Crypto/Vault.php:917
+msgid ""
+"Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die "
+"neuesten Einträge wurden entfernt."
+msgstr ""
+"O fim do registo não coincide com a última entrada anotada. As entradas mais "
+"recentes foram removidas."
+
+#: includes/Crypto/Vault.php:927
+msgid ""
+"Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende "
+"wurde manipuliert."
+msgstr ""
+"A assinatura do fim da cadeia registado é inválida. O fim do registo foi "
+"manipulado."
+
+#: includes/Crypto/Vault.php:938
+msgid ""
+"Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll "
+"stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf "
+"das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht "
+"überprüfbar."
+msgstr ""
+"Nenhuma entrada possui assinatura com chave. O registo é anterior à chave ou "
+"foi revertido para o formato falsificável, sendo inverificável."
+
+#. translators: %s: comma-separated list of missing PHP extensions
+#: includes/Database/Schema.php:39
+#, php-format
+msgid ""
+"WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende "
+"erforderliche PHP-Erweiterungen fehlen: %s."
+msgstr ""
+"Não foi possível ativar o WM HinSchG Whistleblower Desk porque faltam as "
+"seguintes extensões PHP necessárias: %s."
+
+#: includes/Database/Schema.php:43
+msgid "Fehlende PHP-Erweiterung"
+msgstr "Extensão PHP em falta"
+
+#. translators: 1: master key constant name, 2: passphrase constant name
+#: includes/Database/Schema.php:190
+#, php-format
+msgid ""
+"In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-"
+"config.php kann der Schlüssel nicht verschlüsselt werden."
+msgstr ""
+"Nem %1$s nem %2$s estão definidos no wp-config.php. Sem um segredo no wp-"
+"config.php a chave não pode ser encriptada."
+
+#: includes/Database/Schema.php:201
+msgid ""
+"In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren."
+msgstr "Não existe chave privada na base de dados. Nada a migrar."
+
+#: includes/Database/Schema.php:212
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY "
+"entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es "
+"wurde nichts überschrieben."
+msgstr ""
+"A chave guardada não pôde ser desencriptada com WM_HINSCHG_MASTER_KEY. "
+"Restaure a chave mestra original; nada foi sobrescrito."
+
+#: includes/Database/Schema.php:217
+msgid ""
+"Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"A chave privada já está encriptada via Libsodium (WM_HINSCHG_MASTER_KEY). "
+"Nada a fazer."
+
+#: includes/Database/Schema.php:237
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts "
+"überschrieben."
+msgstr "Não foi possível abrir a chave guardada. Nada foi sobrescrito."
+
+#: includes/Database/Schema.php:245
+msgid ""
+"Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es "
+"wurde nichts überschrieben."
+msgstr ""
+"A chave selada com Libsodium falhou na verificação. Nada foi sobrescrito."
+
+#: includes/Database/Schema.php:252
+msgid ""
+"Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt "
+"keine Meldung mehr."
+msgstr ""
+"A chave privada está agora encriptada via Libsodium (WM_HINSCHG_MASTER_KEY) "
+"na base de dados. Uma cópia isolada já não desencripta denúncias."
+
+#: includes/Database/Schema.php:263
+msgid ""
+"Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten "
+"Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — "
+"bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar."
+msgstr ""
+"A chave guardada não abre nem sem nem com a frase-passe configurada. Foi "
+"encriptada com outra frase-passe — restaure a anterior, senão nenhuma "
+"denúncia será legível."
+
+#: includes/Database/Schema.php:268
+msgid ""
+"Der private Schlüssel ist bereits mit der konfigurierten Passphrase "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"A chave privada já está encriptada com a frase-passe configurada. Nada a "
+"fazer."
+
+#: includes/Database/Schema.php:276
+msgid ""
+"Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte "
+"Schlüssel bleibt unverändert."
+msgstr ""
+"Não foi possível exportar a chave encriptada. A chave guardada permanece "
+"inalterada."
+
+#: includes/Database/Schema.php:290
+msgid ""
+"Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts "
+"überschrieben."
+msgstr "A chave encriptada não pôde ser reaberta. Nada foi sobrescrito."
+
+#: includes/Database/Schema.php:298
+msgid ""
+"Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein "
+"Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in "
+"wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr "
+"lesbar."
+msgstr ""
+"A chave privada encontra-se agora encriptada na base de dados. Uma cópia "
+"isolada já não desencripta nada. A frase-passe no wp-config.php passa a ser "
+"indispensável."
+
+#: includes/Frontend/WhistlePortal.php:84
+#: includes/Frontend/WhistlePortal.php:111
+msgid "HinSchG Meldestelle Status"
+msgstr "Estado do canal HinSchG"
+
+#. translators: %d: statutory acknowledgment days
+#: includes/Frontend/WhistlePortal.php:154
+#, php-format
+msgid "%d Tage Eingangsbestätigung (§ 17 HinSchG)"
+msgstr "%d dias para aviso de receção (§ 17 HinSchG)"
+
+#. translators: %d: statutory feedback months
+#: includes/Frontend/WhistlePortal.php:158
+#, php-format
+msgid "%d Monate Rückmeldefrist (§ 17 HinSchG)"
+msgstr "%d meses de prazo de retorno (§ 17 HinSchG)"
+
+#: includes/Frontend/WhistlePortal.php:170
+msgid "Interne Meldestelle aktiv"
+msgstr "Canal interno de denúncias ativo"
+
+#: includes/Frontend/WhistlePortal.php:171
+msgid "Meldestelle wird eingerichtet"
+msgstr "Canal de denúncias em configuração"
+
+#: includes/Frontend/WhistlePortal.php:218
+msgid "Interne Meldestelle"
+msgstr "Canal interno de denúncias"
+
+#: includes/Frontend/WhistlePortal.php:228
+msgid ""
+"Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden "
+"nicht abgefragt."
+msgstr ""
+"Comunique aqui infrações. Nome e endereço de e-mail não são solicitados."
+
+#: includes/Frontend/WhistlePortal.php:235
+msgid "Neuen Hinweis melden"
+msgstr "Submeter nova denúncia"
+
+#: includes/Frontend/WhistlePortal.php:238
+msgid "Vorgang abrufen"
+msgstr "Consultar processo"
+
+#: includes/Frontend/WhistlePortal.php:245
+msgid "Was gespeichert wird:"
+msgstr "O que fica guardado:"
+
+#: includes/Frontend/WhistlePortal.php:246
+msgid ""
+"Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse "
+"wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die "
+"Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash "
+"(HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der "
+"Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden "
+"erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und "
+"Rückmeldungen."
+msgstr ""
+"Categoria e descrição, encriptadas no servidor. O seu endereço IP não é "
+"guardado com a denúncia; para limitar pedidos o site retém até uma hora um "
+"hash com chave (HMAC). O eventual registo de acessos pelo servidor web "
+"depende do operador do site e não deste formulário. Após o envio recebe um "
+"ID do processo e uma chave de acesso para esclarecimentos e retorno."
+
+#: includes/Frontend/WhistlePortal.php:261
+msgid ""
+"Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte "
+"Personen) …"
+msgstr ""
+"Descreva os factos com o maior detalhe possível (local, data, pessoas "
+"envolvidas)…"
+
+#: includes/Frontend/WhistlePortal.php:265
+msgid "Hinweis absenden"
+msgstr "Enviar denúncia"
+
+#: includes/Frontend/WhistlePortal.php:275
+msgid ""
+"Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu "
+"sehen und der Meldestelle zu schreiben."
+msgstr ""
+"Introduza o ID do processo e a chave de acesso para ver o estado e escrever "
+"ao gabinete."
+
+#: includes/Frontend/WhistlePortal.php:280
+msgid "Vorgangs-ID"
+msgstr "ID do processo"
+
+#: includes/Frontend/WhistlePortal.php:281
+msgid "z. B. CASE-A1B2C3D4"
+msgstr "p. ex. CASE-A1B2C3D4"
+
+#: includes/Frontend/WhistlePortal.php:284
+msgid "Zugangsschlüssel"
+msgstr "Chave de acesso"
+
+#: includes/Frontend/WhistlePortal.php:285
+msgid "64 Zeichen"
+msgstr "64 caracteres"
+
+#: includes/Frontend/WhistlePortal.php:288
+msgid "Vorgang laden"
+msgstr "Carregar processo"
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:116
+#: includes/Security/Capabilities.php:141
+#, php-format
+msgid "Die Rolle %s gibt es nicht."
+msgstr "O perfil %s não existe."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:120
+#, php-format
+msgid "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun."
+msgstr "O perfil %s já pode abrir denúncias. Nada a fazer."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:124
+#, php-format
+msgid "Die Rolle %s darf Meldungen jetzt öffnen."
+msgstr "O perfil %s pode agora abrir denúncias."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:145
+#, php-format
+msgid "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun."
+msgstr "O perfil %s já não podia abrir denúncias. Nada a fazer."
+
+#: includes/Security/Capabilities.php:154
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die "
+"Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 "
+"HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst "
+"jemand anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Cancelado: mais ninguém ficaria habilitado a abrir denúncias. O gabinete tem "
+"de confirmar a receção em sete dias (§ 17 HinSchG). Autorize primeiro outra "
+"pessoa antes de revogar aqui."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:159
+#, php-format
+msgid "Die Rolle %s darf Meldungen nicht mehr öffnen."
+msgstr "O perfil %s deixou de poder abrir denúncias."
+
+#. translators: %d: user id
+#: includes/Security/Capabilities.php:171
+#: includes/Security/Capabilities.php:187
+#, php-format
+msgid "Benutzer %d gibt es nicht."
+msgstr "O utilizador %d não existe."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:175
+#, php-format
+msgid "%s darf Meldungen jetzt öffnen."
+msgstr "%s pode agora abrir denúncias."
+
+#: includes/Security/Capabilities.php:196
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand "
+"anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Cancelado: mais ninguém ficaria habilitado a abrir denúncias. Autorize "
+"primeiro outra pessoa antes de revogar aqui."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:201
+#, php-format
+msgid "%s darf Meldungen nicht mehr öffnen."
+msgstr "%s deixou de poder abrir denúncias."
+
+#: includes/Security/RateLimiter.php:94
+msgid "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut."
+msgstr "Demasiados pedidos. Tente novamente mais tarde."
+
+#: blocks-src/index.js:19
+msgid "HinSchG Meldestelle Portal"
+msgstr "Portal de Denúncias HinSchG"
+
+#: blocks-src/index.js:20
+msgid "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG."
+msgstr ""
+"Formulário interno de denúncias e consulta de processo segundo a HinSchG."
+
+#: blocks-src/index.js:50
+msgid "Meldestelle-Einstellungen"
+msgstr "Definições do canal"
+
+#: blocks-src/index.js:54
+msgid "Überschrift"
+msgstr "Cabeçalho"
+
+#: blocks-src/index.js:61
+msgid "Einleitungstext anzeigen"
+msgstr "Mostrar texto introdutório"
+
+#: blocks-src/index.js:80
+msgid "HinSchG Meldestelle Portal (Vorschau im Frontend)."
+msgstr "Portal de Denúncias HinSchG (pré-visualização no site)."
+
+#: blocks/portal/block.json
+msgctxt "block title"
+msgid "HinSchG Meldestelle Portal"
+msgstr "Portal de Denúncias HinSchG"
+
+#: blocks/portal/block.json
+msgctxt "block description"
+msgid ""
+"Internal whistleblowing reporting and case-status form under the German "
+"HinSchG."
+msgstr ""
+"Formulário interno de participação e consulta de estado ao abrigo da lei "
+"alemã HinSchG."
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "hinschg"
+msgstr "hinschg-lei"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "whistleblower"
+msgstr "denunciante"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "meldestelle"
+msgstr "gabinete-denuncias"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "compliance"
+msgstr "conformidade"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"
+
+#~ msgid "Noch nicht in dieser Oberfläche:"
+#~ msgstr "Ainda não disponível neste ecrã:"
+
+#~ msgid ""
+#~ "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung "
+#~ "wm_hinschg_read_cases). E-Mails versendet das Plugin nicht."
+#~ msgstr ""
+#~ "Confirmar a receção e responder. Utilize as rotas REST POST /wp-json/wm-"
+#~ "hinschg/v1/admin/ack e /admin/reply (permissão wm_hinschg_read_cases). O "
+#~ "plugin não envia e-mails."
+
+#~ msgid ""
+#~ "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM "
+#~ "verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-"
+#~ "Schlüssel liegt, entscheidet die wp-config.php: mit "
+#~ "WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt "
+#~ "in der Datenbank, ohne beides im Klartext in der Datenbank — dann "
+#~ "entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese "
+#~ "Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-"
+#~ "status. Zwischen Browser und Server schützt nur HTTPS."
+#~ msgstr ""
+#~ "Denúncias e mensagens são encriptadas no servidor com AES-256-GCM e a "
+#~ "chave AES é selada com RSA. O local da chave privada depende do wp-"
+#~ "config.php: lá com WM_HINSCHG_PRIVATE_KEY, encriptada na base de dados "
+#~ "com WM_HINSCHG_KEY_PASSPHRASE, ou em texto simples em instalações "
+#~ "antigas. O modo ativo surge no topo e em wp hinschg key-status. Entre "
+#~ "navegador e servidor protege o HTTPS."
+
+#~ msgid "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):"
+#~ msgstr "Exportação única offline da chave privada (visível apenas agora):"
+
+#~ msgid ""
+#~ "Hinterlegen Sie diesen privaten Schlüssel sicher als "
+#~ "WM_HINSCHG_PRIVATE_KEY in der wp-config.php."
+#~ msgstr ""
+#~ "Guarde esta chave privada em segurança como WM_HINSCHG_PRIVATE_KEY no wp-"
+#~ "config.php."
+
+#~ msgid ""
+#~ "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-"
+#~ "Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist "
+#~ "WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich."
+#~ msgstr ""
+#~ "Na base de dados existe apenas a chave pública (custódia offline). Novas "
+#~ "denúncias são seladas; para ler é necessário WM_HINSCHG_PRIVATE_KEY no wp-"
+#~ "config.php."

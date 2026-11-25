@@ -1,0 +1,35 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-11-18T21:45:00Z",
+    "component": {
+      "type": "application",
+      "name": "wm-hinschg-whistleblower",
+      "version": "1.4.1",
+      "description": "Internal whistleblowing channel for the German HinSchG: report form, server-side encryption, § 17 deadlines and a keyed audit log.",
+      "supplier": {
+        "name": "Arnold Wender",
+        "url": [
+          "https://arnoldwender.com"
+        ]
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-2.0-or-later"
+          }
+        }
+      ],
+      "purl": "pkg:wordpress/wm-hinschg-whistleblower@1.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3b4d9d35db1e55c82bffa10508f8acc3cf9ed26ec79985253ec10a09b1ef459b"
+        }
+      ]
+    }
+  },
+  "components": []
+}

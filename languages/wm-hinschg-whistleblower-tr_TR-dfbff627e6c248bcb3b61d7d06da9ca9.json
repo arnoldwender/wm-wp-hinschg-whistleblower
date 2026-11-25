@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "tr_TR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Bilgi Uçurma Masası"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Kurum içi ihbar kanalı: bildirim formu, bildirim ve mesajların sunucu tarafında şifrelenmesi, § 17 HinSchG süre takibi ve imzalı denetim günlüğü. Hukuki uyumu değerlendirmez."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Bildirim Birimi"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Bildirim tablosu eksik (eklentiyi yeniden etkinleştirin)"
+      ],
+      "%d Frist überschritten": [
+        "%d süre aşıldı",
+        "%d süre aşıldı"
+      ],
+      "Keine Frist überschritten": [
+        "Aşılan süre yok"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "7 gün içinde alındı teyidi, 3 ay içinde geri bildirim (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Dosyalar"
+      ],
+      "Offen": [
+        "Açık"
+      ],
+      "Überfällig": [
+        "Gecikmiş"
+      ],
+      "Meldestelle öffnen": [
+        "Bildirim birimini aç"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG Birimi"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Bildirim Birimi (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "Geçerli bir PKCS#8 özel anahtarı (BEGIN PRIVATE KEY) algılanmadı."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto yalnızca HTTPS üzerinden veya localhost'ta kullanılabilir."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "RSA-4096 anahtar çifti tarayıcıda yerel olarak hesaplanıyor …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Özel anahtar yerel olarak indirildi. Şimdi genel anahtarı kontrol edip kaydedin."
+      ],
+      "Fehler: ": [
+        "Hata: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Tarayıcıda yerel şifre çözme sürüyor …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Bildirim metni (tarayıcıda yerel olarak şifresi çözüldü)"
+      ],
+      "Verlauf": [
+        "Yazışma geçmişi"
+      ],
+      "Meldestelle": [
+        "Bildirim Birimi"
+      ],
+      "Hinweisgebende Person": [
+        "Bildirimde bulunan kişi"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Bildirimin şifresi tarayıcıda yerel olarak çözüldü. Özel anahtar tarayıcıdan çıkmadı."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Şifre çözme başarısız: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Alındı teyidi kaydediliyor …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Alındı teyidi kaydedildi. Görünüm yenileniyor …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "Yanıt şifreli olarak kaydediliyor …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "Yanıt şifreli olarak kaydedildi. Görünüm yenileniyor …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Lütfen bir mesaj metni girin."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Denetim günlüğü geçici olarak meşgul. Lütfen 2 saniye sonra tekrar deneyin."
+      ],
+      "Vorgänge & Fristen": [
+        "Dosyalar ve Süreler"
+      ],
+      "Formular einbinden": [
+        "Formu yerleştir"
+      ],
+      "Testmeldung": [
+        "Test bildirimi"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Süreler ve Bildirimler"
+      ],
+      "Schlüsselverwahrung": [
+        "Anahtar saklama"
+      ],
+      "Deinstallation": [
+        "Kaldırma"
+      ],
+      "Begriffe": [
+        "Terimler"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Form üzerinden bildirimleri alın, şifreli olarak saklayın ve § 17 HinSchG sürelerini hesaplayın."
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite eklenti ailesinin parçası"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite Merkezi"
+      ],
+      "Standalone": [
+        "Bağımsız Mod"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Anahtar çifti mevcut"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Anahtar çifti yok: bildirimler kaydedilemez"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Bildirim biriminin sağlaması gerekenler"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Kural olarak en az 50 çalışanı bulunan işverenler iç bildirim birimi kurmalıdır (§ 12 fıkra 2 HinSchG); § 12 fıkra 3'te sayılan kredi kuruluşları, yatırım şirketleri ve sigorta şirketleri için bu yükümlülük çalışan sayısından bağımsızdır. Birim, bildirimin alındığını en geç yedi gün içinde teyit eder ve üç ay içinde geri bildirim verir (§ 17). Bildirimler yazılı, sözlü ve talep halinde yüz yüze yapılabilmelidir (§ 16 fıkra 3); bu eklenti yalnızca yazılı kanalı kapsar. Anonim bildirimler özel kanal zorunluluğu olmaksızın işlenmelidir (§ 16 fıkra 1). Kayıtlar süreç bitiminden üç yıl sonra silinir (§ 11 fıkra 5); eklenti kendiliğinden hiçbir veriyi silmez ve yasal uyumu denetlemez."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Üç örnek dosya oluşturuldu (erişim anahtarları token_demo_1 ile token_demo_3 arası)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Test bildirimi şifreli olarak kaydedildi."
+      ],
+      "Vorgangs-ID:": [
+        "Dosya Kimliği:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Erişim Anahtarı (yalnızca şimdi görünür):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Bildirim birimi bölümleri"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Özel anahtar veritabanında korumasız duruyor."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "wp-config.php içinde %1$s (önerilen, Libsodium XSalsa20-Poly1305, otomatik taşır) veya %2$s tanımlayın ve %3$s komutunu çalıştırın. Anahtar çifti korunur; yalnızca saklama biçimi değişir, böylece önceki tüm bildirimler okunabilir kalır."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d kişi bildirimleri açabilir.",
+        "%d kişi bildirimleri açabilir."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Buna %1$s rolü, yani siteyi yöneten herkes dahildir. § 8 HinSchG içeriği yalnızca görevli kişilerle sınırlar. %2$s ile listeyi görün; \"Meldestelle (HinSchG)\" rolünü atayın ve ardından %3$s ile yetkiyi kaldırın."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Site yöneticileri bu yetkiye sahip olmadıkça bildirimleri açamaz."
+      ],
+      "Meldung %s": [
+        "Bildirim %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "Dosya yüklenemedi."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Tarayıcıda yerel şifre çözme (çevrimdışı özel anahtarı seçin)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Yerel olarak saklanan PKCS#8 anahtar dosyanızı (.pem) seçin. Şifre çözme yalnızca tarayıcınızın çalışma belleğinde gerçekleşir; özel anahtar sunucuya iletilmez."
+      ],
+      "Meldungstext": [
+        "Bildirim metni"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Bu mesajın şifresi çözülemedi."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Bu bildirimin her açılışı denetim günlüğüne işlenir (§ 8 HinSchG: içerik kurum içinde de gizlidir)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "§ 17 HinSchG uyarınca dosya işlemi"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Alındı teyidi %s tarihinde kaydedildi."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Alındı henüz teyit edilmedi (§ 17 f. 1 b. 1 HinSchG: süre 7 gün)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Nihai geri bildirim %s tarihinde kaydedildi."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Alındığını teyit et (§ 17 f. 1 HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Bildirimde bulunan kişiye ek soru veya geri bildirim"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Şifreli olarak kaydedilir ve bildirimde bulunan kişinin erişimine “Dosya sorgula” altında sunulur. Eklenti e-posta göndermez."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "§ 17 f. 2 HinSchG uyarınca nihai geri bildirim"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Yanıtı şifreli gönder"
+      ],
+      "Zurück zur Übersicht": [
+        "Genel görünüme dön"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Denetim günlüğü: zincir doğrulandı, sonradan değişiklik saptanmadı"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Denetim günlüğü: bütünlük doğrulaması başarısız"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d günlük kaydı doğrulandı. İmza anahtarı: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d imzasız eski kayıt"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Doğrulama sırasında bilinmeyen hata."
+      ],
+      "Offene Vorgänge": [
+        "Açık dosyalar"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "nihai geri bildirimi olmayan"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Alındı teyidi gecikmiş"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "teyit edilmedi, 7 günlük süre doldu"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "48 saat içinde teyit gerekli"
+      ],
+      "noch nicht bestätigt": [
+        "henüz teyit edilmedi"
+      ],
+      "Rückmeldung überfällig": [
+        "Geri bildirim gecikmiş"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "geri bildirim yok, süre doldu"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Durum ve süreleriyle son 50 dosya. İçerikler şifreli kalır."
+      ],
+      "Vorgang": [
+        "Dosya"
+      ],
+      "Kategorie": [
+        "Kategori"
+      ],
+      "Status": [
+        "Durum"
+      ],
+      "Eingangsbestätigung": [
+        "Alındı teyidi"
+      ],
+      "Rückmeldung": [
+        "Geri bildirim"
+      ],
+      "Eingang": [
+        "Geliş tarihi"
+      ],
+      "Noch keine Vorgänge.": [
+        "Henüz dosya yok."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Üç örnek dosya oluştur"
+      ],
+      "bestätigt am %s": [
+        "%s tarihinde teyit edildi"
+      ],
+      "Frist %s": [
+        "Son tarih %s"
+      ],
+      "überfällig": [
+        "gecikmiş"
+      ],
+      "gegeben am %s": [
+        "%s tarihinde verildi"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Bildirim formunu web sitesine yerleştirme"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Örneğin \"İhbar Sistemi\" adlı bir sayfa oluşturun."
+      ],
+      "Den Shortcode einfügen:": [
+        "Kısa kodu ekleyin:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(eşdeğeri: [wm_hinschg_portal] veya \"wm/hinschg-portal\" bloğu)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Sayfayı çalışanların bulabileceği intranet veya altbilgi gibi bir yere bağlayın."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Gönderimden sonra bildirim sahibi bir dosya kimliği ve erişim anahtarı alır. İkisiyle aynı form üzerinden ad veya e-posta vermeden durumu sorgular ve mesaj yazar. Anahtarın yalnızca HMAC özeti saklanır; kaybolursa dosyaya bir daha erişilemez."
+      ],
+      "Testmeldung anlegen": [
+        "Test bildirimi oluştur"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Formla aynı yoldan bir dosya açar ve portalı denemek için erişim anahtarını bir kez gösterir."
+      ],
+      "Sachverhalt": [
+        "Olay açıklaması"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "AES-256-GCM ile şifrelenerek saklanır; simetrik anahtar eklentinin RSA anahtarıyla mühürlenir."
+      ],
+      "Testmeldung speichern": [
+        "Test bildirimini kaydet"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Alındı teyidi: geliş + %d gün. § 17 fıkra 1 bent 1 HinSchG en geç yedi gün içinde teyit şartı koşar."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Geri bildirim: geliş + %d ay. § 17 fıkra 2 HinSchG teyitten itibaren üç ay sayar (teyitsiz üç ay yedi gün); eklentinin süresi asla daha geç değildir."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Süreler kodda sabittir ve değiştirilemez."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Eklenti e-posta göndermez. Saatlik kontrol (WP-Cron) süre aşımında wm_hinschg_sla_breach_detected eylemini tetikler."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "15.09.2026 tarihine kadar burada kodun hiç okumadığı e-posta, süre, yükleme ve saklama ayarları sayfası vardı."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Genel RSA anahtarı kaydedildi ve sunucudaki olası özel anahtar kaldırıldı (çevrimdışı saklama etkin)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Genel acil durum ve vekâlet anahtarı (2. görevli kişi / ombudsman) kaydedildi."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Acil durum ve vekâlet anahtarı kaldırıldı."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Reddedildi: Bir özel anahtar gönderildi. Lütfen yalnızca genel anahtarı (BEGIN PUBLIC KEY) gönderin."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Şifreli dosyalar zaten mevcut. Lütfen anahtar değişikliğini onay kutusuyla açıkça onaylayın."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "Gönderilen metin geçerli bir genel RSA anahtarı değil (en az 2048 bit, önerilen 4096 bit)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Etkin anahtar saklama & denetim imzası"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "RSA anahtar kaynağı:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Acil durum & vekâlet anahtarı:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "yatırıldı (2. görevli kişi / ombudsman için çift zarf etkin)"
+      ],
+      "nicht hinterlegt": [
+        "yatırılmadı"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Denetim zinciri anahtarı:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(AUTH_KEY'den bağımsız anahtar rotasyonu için wp-config.php dosyasında %s ayarlayın)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Tarayıcıda anahtar oluşturma (sunucuda özel anahtar olmadan çevrimdışı saklama)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Tarayıcınızda yerel olarak bir RSA-OAEP-4096 anahtar çifti oluşturur (WebCrypto). Özel anahtar doğrudan cihazınıza .pem dosyası olarak indirilir ve hiçbir zaman PHP'ye, web sunucusuna veya MySQL veritabanına ulaşmaz. Sunucuda yalnızca gelen bildirimleri mühürlemek için kullanılan genel anahtar saklanır."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Tarayıcıda yerel olarak RSA-4096 anahtar çifti oluştur & özel anahtarı indir"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Genel RSA anahtarı (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Mevcut anahtarı değiştir (mevcut bildirimler hâlâ önceki özel anahtara ihtiyaç duyar)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Yalnızca genel anahtarı kaydet (çevrimdışı saklamayı etkinleştir)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Bildirim biriminin genel anahtarını yalnızca site yöneticileri (manage_options) yatırabilir."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Acil durum & vekâlet anahtarı (bildirim biriminin 2. görevli kişisi / ombudsman)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Yeni bildirimler ve mesajlar için isteğe bağlı çift zarf: AES-256 oturum anahtarı, yokluk durumunda bir vekilin tarayıcıda yerel olarak şifre çözebilmesi için ayrıca bu genel RSA anahtarıyla mühürlenir. § 8 f. 1 ve § 15 HinSchG uyarınca bu özel anahtarı yalnızca bildirim birimine atanmış ikinci bir kişi veya bağımsız bir ombudsman saklayabilir — asla yönetim veya genel BT yönetimi değil. Kaldırmak için alanı boşaltıp kaydedin."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Tarayıcıda yerel olarak vekâlet anahtar çifti (RSA-4096) oluştur & özel anahtarı indir"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Genel acil durum & vekâlet anahtarı (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Acil durum & vekâlet anahtarını kaydet"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Genel acil durum ve vekâlet anahtarını yalnızca site yöneticileri (manage_options) yatırabilir."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Kaldırma tercihi kaydedildi."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Yasal saklama (§ 11 HinSchG) ve kaldırma"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "§ 11 fıkra 5 HinSchG uyarınca belgeler süreç bitiminden sonra üç yıl saklanır. Varsayılan olarak eklenti silindiğinde bildirimler, mesajlar, denetim günlüğü ve anahtar çifti korunur."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Eklenti kaldırılırken tüm bildirimleri, mesajları, denetim kayıtlarını ve anahtarları geri döndürülemez biçimde sil"
+      ],
+      "Deinstallations-Option speichern": [
+        "Kaldırma seçeneğini kaydet"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Yalnızca site yöneticileri (manage_options) kaldırma davranışını değiştirebilir."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Dosya kimliği ve erişim anahtarı"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Gönderim sonrasında bir kez verilir. Anahtar 64 karakterdir; yalnızca HMAC özeti saklanır."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "En geç yedi gün sonra (§ 17 fıkra 1 bent 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Alındı teyidinden itibaren üç ay içinde planlanan ve alınan önlemlerle birlikte (§ 17 fıkra 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Şifreleme"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Bildirimler ve mesajlar AES-256-GCM ile şifrelenir ve AES anahtarı RSA-OAEP ile mühürlenir (isteğe bağlı olarak 2. görevli kişinin / ombudsmanın acil durum & vekâlet anahtarı için çift zarf olarak da). Özel RSA anahtarının nerede bulunduğunu “Anahtar saklama” sekmesi ve wp hinschg key-status gösterir: wp-config.php içinde (WM_HINSCHG_PRIVATE_KEY), Libsodium XSalsa20-Poly1305 ile mühürlenmiş (WM_HINSCHG_MASTER_KEY veya AUTH_KEY), OpenSSL ile şifrelenmiş (WM_HINSCHG_KEY_PASSPHRASE) ya da sunucuda özel anahtar olmadan yalnızca tarayıcıda yerel olarak (çevrimdışı saklama). Bildirim biriminin yanıtları ayrıca erişim anahtarı için mühürlenmiş bir kutu alır; bildirimde bulunan kişinin girdileri ise tamamen asimetrik olarak mühürlü kalır. Tarayıcı ile sunucu arasında HTTPS koruma sağlar."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Bildirim açma yetkisi"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Eklenti kendi wm_hinschg_read_cases yetkisini denetler ve \"Meldestelle (HinSchG)\" rolünü getirir. Kimin sahip olacağını WordPress rolleri belirler. Kurulumda kilitlenmeyi önlemek için \"Administrator\" rolüne verilir; sonrasında yöneticilerden almak asıl amaçtır. wp hinschg access yetki sahiplerini gösterir."
+      ],
+      "Audit-Protokoll": [
+        "Denetim günlüğü"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Her kayıt bir öncekinin HMAC-SHA256 özetini taşır. Değişiklik, silme ve araya eklemeler algılanır; wp-config.php anahtarını bilen kişi zinciri yeniden imzalayabilir."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "Denetim günlüğü geçici olarak meşgul. Lütfen kısa süre sonra tekrar deneyin."
+      ],
+      "Case ID is required.": [
+        "Dosya kimliği zorunludur."
+      ],
+      "Case not found.": [
+        "Dosya bulunamadı."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Bu bildirimin şifreleme zarfı eksik kaydedilmiş; şifresi çözülemiyor."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Bu bildirimin şifresi çözülemedi. Anahtar kaynağı: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Bildirim açıklaması boş olamaz."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Bu erişim anahtarını güvenle saklayın. Kimliğinizi açıklamadan durumu kontrol etmenin veya gizlice yazışmanın TEK yoludur."
+      ],
+      "Case ID and Access Token are required.": [
+        "Dosya kimliği ve erişim anahtarı zorunludur."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Geçersiz dosya kimliği veya erişim anahtarı."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Dosya kimliği, erişim anahtarı ve mesaj zorunludur."
+      ],
+      "Confidential message appended successfully.": [
+        "Gizli mesaj başarıyla eklendi."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Bu bildirimin alındısı zaten teyit edilmiş."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Alındı teyidi: bildiriminiz iç bildirim birimine ulaşmıştır (§ 17 fıkra 1 bent 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Alındı teyidi kaydedildi ve bildirim sahibinin dosya görünümüne iletildi."
+      ],
+      "Case ID and message are required.": [
+        "Dosya kimliği ve mesaj zorunludur."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Yanıt bildirim sahibinin dosya görünümüne kaydedildi."
+      ],
+      "Eingegangen": [
+        "Alındı"
+      ],
+      "In Bearbeitung": [
+        "İnceleniyor"
+      ],
+      "Rückmeldung gegeben": [
+        "Geri bildirim verildi"
+      ],
+      "Abgeschlossen": [
+        "Kapatıldı"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Mali dolandırıcılık, zimmet, yolsuzluk ve rüşvet"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR ihlalleri ve veri sızıntıları"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "BT güvenliği ve siber olaylar"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Tedarik zinciri ve insan hakları"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "İş güvenliği, ayrımcılık ve taciz"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Genel uyum (compliance) ihlalleri"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Özel anahtar wp-config.php içindedir. Tek başına veritabanı dökümü hiçbir bildirimin şifresini çözemez."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Özel anahtar veritabanında Libsodium (XSalsa20-Poly1305) ile şifrelidir; ana anahtar (WM_HINSCHG_MASTER_KEY) wp-config.php içindedir. Veritabanı dökümü tek başına hiçbir şeyi çözmez."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Özel anahtar veritabanında şifrelidir; parola wp-config.php içindedir. Veritabanı dökümü tek başına hiçbir şeyi çözmez."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Özel anahtar veritabanında Libsodium ile şifrelidir (wp-config.php içindeki AUTH_KEY'den türetilmiştir). Döküm tek başına hiçbir şeyi çözmez; bağımsız anahtar yenileme için WM_HINSCHG_MASTER_KEY önerilir."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Veritabanında yalnızca genel anahtar bulunur (çevrimdışı saklama). Yeni bildirimler mühürlenir; bunları okumak için dosya görünümündeki yerel tarayıcı şifre çözmeyi kullanın veya wp-config.php dosyasında WM_HINSCHG_PRIVATE_KEY ayarlayın."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Henüz bir anahtar çifti yatırılmadı. “Anahtar saklama” sekmesinde tarayıcıda yerel bir anahtar çifti oluşturun (çevrimdışı saklama) veya wp-config.php dosyasında WM_HINSCHG_MASTER_KEY ayarlayın."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Özel anahtar veritabanında bildirimlerin yanında şifresiz duruyor. Tam veritabanı dökümüne sahip herkes tüm bildirimleri çözebilir."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "Gönderilen metin PEM biçiminde geçerli bir genel RSA anahtarı değil."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "Genel anahtar en az 2048 bitlik bir RSA anahtarı olmalıdır (önerilen: 4096 bit)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Güvenlik nedeniyle iptal: Bir özel anahtar gönderildi. Çevrimdışı saklamada yalnızca genel anahtar (BEGIN PUBLIC KEY) kaydedilebilir."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Şifreli dosyalar zaten mevcut. Mevcut bildirimler hâlâ önceki özel anahtara ihtiyaç duyduğundan lütfen anahtar değişikliğini açıkça onaylayın."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Genel RSA anahtarı kaydedildi ve sunucudaki özel anahtar kaldırıldı (çevrimdışı saklama etkin)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Güvenlik nedeniyle iptal: Bir özel anahtar gönderildi. Acil durum ve vekâlet anahtarı olarak yalnızca genel anahtar (BEGIN PUBLIC KEY) kaydedilebilir."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Son olarak %d kayıt işlenmiş olmasına rağmen günlük boş."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Kayıt #%d noktasında zincir kırılması: bir kayıt silinmiş, eklenmiş veya sıralaması değiştirilmiş."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Kayıt #%d imzasıyla uyuşmuyor: sonradan değiştirilmiş veya farklı bir AUTH_KEY ile yazılmış (ör. site taşınmadan önce)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Günlük sonu kaydedilen son kayıtla eşleşmiyor. En yeni kayıtlar silinmiş."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "Kaydedilen zincir sonunun imzası geçersiz. Günlüğün sonu değiştirilmiş."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Hiçbir kayıt anahtarlı imza taşımıyor. Günlük anahtar öncesi dönemden kalma ya da taklit edilebilir biçime düşürülmüş; doğrulanamaz."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "Aşağıdaki gerekli PHP uzantıları eksik olduğundan WM HinSchG Whistleblower Desk etkinleştirilemedi: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Eksik PHP uzantısı"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "wp-config.php içinde ne %1$s ne de %2$s tanımlı. wp-config.php içinde bir sır olmadan anahtar şifrelenemez."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Veritabanında özel anahtar yok. Taşınacak bir şey yok."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Kayıtlı anahtar WM_HINSCHG_MASTER_KEY ile çözülemiyor. Özgün ana anahtarı geri yükleyin; hiçbir şeyin üzerine yazılmadı."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Özel anahtar zaten Libsodium (WM_HINSCHG_MASTER_KEY) ile şifreli. Yapılacak işlem yok."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Kayıtlı anahtar açılamadı. Hiçbir şeyin üzerine yazılmadı."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Libsodium ile mühürlenen anahtar doğrulanamadı. Hiçbir şeyin üzerine yazılmadı."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Özel anahtar artık veritabanında Libsodium (WM_HINSCHG_MASTER_KEY) ile şifreli duruyor. Veritabanı dökümü tek başına bildirimleri çözemez."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Kayıtlı anahtar ne parolasız ne de yapılandırılan parolayla açılıyor. Eski parolayı geri yükleyin, aksi halde hiçbir bildirim okunamaz."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Özel anahtar zaten yapılandırılan parolayla şifreli. Yapılacak işlem yok."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Anahtar şifreli olarak dışa aktarılamadı. Kayıtlı anahtar değişmedi."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Şifrelenen anahtar yeniden açılamadı. Hiçbir şeyin üzerine yazılmadı."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Özel anahtar artık veritabanında şifrelidir. Tek başına döküm hiçbir şeyi çözmez. wp-config.php içindeki parola artık zorunludur."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG Kanal Durumu"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d gün alındı teyidi süresi (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d ay geri bildirim süresi (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "İç bildirim kanalı etkin"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Bildirim kanalı hazırlanıyor"
+      ],
+      "Interne Meldestelle": [
+        "İç Bildirim Birimi"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "İhlalleri buradan bildirebilirsiniz. Ad ve e-posta adresi sorulmaz."
+      ],
+      "Neuen Hinweis melden": [
+        "Yeni bildirim gönder"
+      ],
+      "Vorgang abrufen": [
+        "Dosya sorgula"
+      ],
+      "Was gespeichert wird:": [
+        "Kaydedilen bilgiler:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategori ve olay açıklaması sunucuda şifrelenir. IP adresiniz bildirimle birlikte kaydedilmez; istekleri sınırlamak amacıyla site en fazla bir saat boyunca HMAC özetini tutar. Web sunucusunun erişim kaydı tutup tutmaması bu forma değil site işletmecisine bağlıdır. Gönderimden sonra takip soruları ve geri bildirim için dosya kimliği ile erişim anahtarı alırsınız."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Olayı mümkün olduğunca ayrıntılı açıklayın (yer, tarih, ilgili kişiler)…"
+      ],
+      "Hinweis absenden": [
+        "Bildirimi gönder"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Durumu görmek ve bildirim birimine yazmak için dosya kimliği ve erişim anahtarını girin."
+      ],
+      "Vorgangs-ID": [
+        "Dosya Kimliği"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "örn. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Erişim Anahtarı"
+      ],
+      "64 Zeichen": [
+        "64 karakter"
+      ],
+      "Vorgang laden": [
+        "Dosyayı yükle"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "%s rolü mevcut değil."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "%s rolü zaten bildirimleri açabiliyor. Yapılacak işlem yok."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "%s rolü artık bildirimleri açabilir."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "%s rolü zaten bildirimleri açamıyordu. Yapılacak işlem yok."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "İptal edildi: aksi halde kimse bildirimleri açamazdı. Birim yedi gün içinde alındı teyidi vermelidir (§ 17 HinSchG). Önce başka birini yetkilendirin, sonra buradan kaldırın."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "%s rolü artık bildirimleri açamaz."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Kullanıcı %d mevcut değil."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s artık bildirimleri açabilir."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "İptal edildi: aksi halde kimse bildirimleri açamazdı. Önce başka birini yetkilendirin, sonra buradan kaldırın."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s artık bildirimleri açamaz."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Çok fazla istek. Lütfen daha sonra tekrar deneyin."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Bildirim Portalı"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "HinSchG kapsamında kurum içi ihbar formu ve dosya durumu sorgulama."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portal Ayarları"
+      ],
+      "Überschrift": [
+        "Başlık"
+      ],
+      "Einleitungstext anzeigen": [
+        "Giriş metnini göster"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Bildirim Portalı (ön yüz önizlemesi)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "HinSchG Bildirim Portalı"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Alman HinSchG yasası kapsamında iç ihbar ve dosya takip formu."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-yasasi"
+      ],
+      "block keyword\u0004whistleblower": [
+        "ihbarci"
+      ],
+      "block keyword\u0004meldestelle": [
+        "bildirim-birimi"
+      ],
+      "block keyword\u0004compliance": [
+        "uyumluluk"
+      ]
+    }
+  }
+}

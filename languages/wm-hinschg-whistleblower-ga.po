@@ -1,0 +1,1685 @@
+# Translation of wm-hinschg-whistleblower in ga
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-hinschg-whistleblower 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-hinschg-"
+"whistleblower\n"
+"POT-Creation-Date: 2026-11-21T13:16:55+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:36+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : "
+"4);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-hinschg-whistleblower\n"
+
+#. Plugin Name of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "WM HinSchG Whistleblower Desk"
+msgstr "Deasc Sceithirí WM HinSchG"
+
+#. Plugin URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+
+#. Description of the plugin
+#: wm-hinschg-whistleblower.php
+msgid ""
+"Internal whistleblowing channel: report form, server-side encryption of "
+"reports and messages, deadline tracking under § 17 HinSchG and a keyed audit "
+"log. It does not assess legal compliance."
+msgstr ""
+"Cainéal inmheánach sceithireachta: foirm tuairiscithe, criptiú freastalaí do "
+"thuairiscí agus teachtaireachtaí, rianú spriocdhátaí § 17 HinSchG agus loga "
+"iniúchta sínithe. Ní dhéanann sé measúnú ar chomhlíonadh dlí."
+
+#. Author of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:44
+msgid "WM HinSchG — Meldestelle"
+msgstr "WM HinSchG — Oifig Tuairiscithe"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid "Tabelle der Meldungen fehlt (Plugin neu aktivieren)"
+msgstr "Tá tábla na dtuairiscí ar iarraidh (athghníomhachtaigh an breiseán)"
+
+#. translators: %d: number of passed deadlines
+#: includes/Admin/AdminDashboard.php:80 includes/Admin/AdminDashboard.php:423
+#, php-format
+msgid "%d Frist überschritten"
+msgid_plural "%d Fristen überschritten"
+msgstr[0] "%d spriocdháta sáraithe"
+msgstr[1] "%d spriocdháta sáraithe"
+msgstr[2] "%d spriocdháta sáraithe"
+msgstr[3] "%d spriocdháta sáraithe"
+msgstr[4] "%d spriocdháta sáraithe"
+
+#: includes/Admin/AdminDashboard.php:82 includes/Admin/AdminDashboard.php:425
+msgid "Keine Frist überschritten"
+msgstr "Níor sáraíodh aon spriocdháta"
+
+#: includes/Admin/AdminDashboard.php:86
+msgid ""
+"Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)"
+msgstr "Admháil laistigh de 7 lá, aiseolas laistigh de 3 mhí (§ 17 HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:93 includes/Admin/AdminDashboard.php:689
+msgid "Vorgänge"
+msgstr "Cásanna"
+
+#: includes/Admin/AdminDashboard.php:97
+msgid "Offen"
+msgstr "Oscailte"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Überfällig"
+msgstr "Thar téarma"
+
+#: includes/Admin/AdminDashboard.php:107
+msgid "Meldestelle öffnen"
+msgstr "Oscail an oifig tuairiscithe"
+
+#: includes/Admin/AdminDashboard.php:127 includes/Admin/AdminDashboard.php:407
+msgid "HinSchG-Meldestelle"
+msgstr "Oifig HinSchG"
+
+#: includes/Admin/AdminDashboard.php:128
+msgid "Meldestelle (HinSchG)"
+msgstr "Oifig Tuairiscithe (HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:171
+msgid "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt."
+msgstr ""
+"Níor aimsíodh aon eochair phríobháideach bhailí PKCS#8 (BEGIN PRIVATE KEY)."
+
+#: includes/Admin/AdminDashboard.php:172
+msgid "WebCrypto ist nur über HTTPS oder localhost verfügbar."
+msgstr "Níl WebCrypto ar fáil ach thar HTTPS nó ar localhost."
+
+#: includes/Admin/AdminDashboard.php:173
+msgid "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …"
+msgstr "Péire eochracha RSA-4096 á ríomh go háitiúil sa bhrabhsálaí …"
+
+#: includes/Admin/AdminDashboard.php:174
+msgid ""
+"Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den "
+"öffentlichen Schlüssel."
+msgstr ""
+"Íoslódáladh an eochair phríobháideach go háitiúil. Seiceáil agus sábháil an "
+"eochair phoiblí anois."
+
+#: includes/Admin/AdminDashboard.php:175
+msgid "Fehler: "
+msgstr "Earráid: "
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lokale Entschlüsselung im Browser läuft …"
+msgstr "Díchriptiú áitiúil sa bhrabhsálaí ar siúl …"
+
+#: includes/Admin/AdminDashboard.php:177
+msgid "Meldungstext (lokal im Browser entschlüsselt)"
+msgstr "Téacs an tuairisc (díchriptithe go háitiúil sa bhrabhsálaí)"
+
+#: includes/Admin/AdminDashboard.php:178 includes/Admin/AdminDashboard.php:574
+msgid "Verlauf"
+msgstr "Stair"
+
+#: includes/Admin/AdminDashboard.php:179 includes/Admin/AdminDashboard.php:577
+msgid "Meldestelle"
+msgstr "Oifig Tuairiscithe"
+
+#: includes/Admin/AdminDashboard.php:180 includes/Admin/AdminDashboard.php:577
+msgid "Hinweisgebende Person"
+msgstr "Tuairisceoir"
+
+#: includes/Admin/AdminDashboard.php:181
+msgid ""
+"Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den "
+"Browser nicht verlassen."
+msgstr ""
+"Díchriptíodh an tuairisc go háitiúil sa bhrabhsálaí. Níor fhág an eochair "
+"phríobháideach an brabhsálaí."
+
+#: includes/Admin/AdminDashboard.php:182
+msgid "Entschlüsselung fehlgeschlagen: "
+msgstr "Theip ar an díchriptiú: "
+
+#: includes/Admin/AdminDashboard.php:183
+msgid "Eingangsbestätigung wird gespeichert …"
+msgstr "Admháil á sábháil …"
+
+#: includes/Admin/AdminDashboard.php:184
+msgid "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …"
+msgstr "Admháil sábháilte. An t-amharc á athnuachan …"
+
+#: includes/Admin/AdminDashboard.php:185
+msgid "Antwort wird verschlüsselt gespeichert …"
+msgstr "Freagra á shábháil criptithe …"
+
+#: includes/Admin/AdminDashboard.php:186
+msgid "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …"
+msgstr "Freagra sábháilte criptithe. An t-amharc á athnuachan …"
+
+#: includes/Admin/AdminDashboard.php:187
+msgid "Bitte geben Sie einen Nachrichtentext ein."
+msgstr "Cuir isteach téacs na teachtaireachta."
+
+#: includes/Admin/AdminDashboard.php:188
+msgid ""
+"Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen."
+msgstr ""
+"Tá an loga iniúchta gnóthach go sealadach. Bain triail eile as i gceann 2 "
+"shoicind."
+
+#: includes/Admin/AdminDashboard.php:395
+msgid "Vorgänge & Fristen"
+msgstr "Cásanna & Spriocdhátaí"
+
+#: includes/Admin/AdminDashboard.php:396
+msgid "Formular einbinden"
+msgstr "Leabaigh an fhoirm"
+
+#: includes/Admin/AdminDashboard.php:397
+msgid "Testmeldung"
+msgstr "Tuairisc thástála"
+
+#: includes/Admin/AdminDashboard.php:398 includes/Admin/AdminDashboard.php:814
+msgid "Fristen & Benachrichtigungen"
+msgstr "Spriocdhátaí & Fógraí"
+
+#: includes/Admin/AdminDashboard.php:399
+msgid "Schlüsselverwahrung"
+msgstr "Coimeád eochracha"
+
+#: includes/Admin/AdminDashboard.php:400
+msgid "Deinstallation"
+msgstr "Díshuiteáil"
+
+#: includes/Admin/AdminDashboard.php:401 includes/Admin/AdminDashboard.php:963
+msgid "Begriffe"
+msgstr "Gluais"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid ""
+"Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die "
+"Fristen nach § 17 HinSchG berechnen."
+msgstr ""
+"Glac le tuairiscí tríd an bhfoirm, stóráil go criptithe iad agus ríomh "
+"spriocdhátaí § 17 HinSchG."
+
+#: includes/Admin/AdminDashboard.php:411
+msgid "Part of the WM Suite plugin family"
+msgstr "Cuid d'fhine breiseán WM Suite"
+
+#: includes/Admin/AdminDashboard.php:413
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Hub"
+msgstr "Mol Suite"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Standalone"
+msgstr "Neamhspleách"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Schlüsselpaar vorhanden"
+msgstr "Péire eochracha ar fáil"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden"
+msgstr "Gan péire eochracha: ní féidir tuairiscí a shábháil"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Was die Meldestelle leisten muss"
+msgstr "Dualgais na hoifige inmheánaí tuairiscithe"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine "
+"interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 "
+"genannten Unternehmen, etwa Kreditinstitute, "
+"Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das "
+"unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den "
+"Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von "
+"drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen "
+"schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. "
+"3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll "
+"die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). "
+"Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ "
+"11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre "
+"Pflichten erfüllt, prüft das Plugin nicht."
+msgstr ""
+"Ní mór d'fhostóirí a bhfuil 50 fostaí ar a laghad acu de ghnáth oifig "
+"inmheánach tuairiscithe a bhunú (§ 12(2) HinSchG); d'eintitis faoi § 12(3), "
+"amhail institiúidí creidmheasa, gnólachtaí infheistíochta agus árachóirí, tá "
+"feidhm leis beag beann ar líon na bhfostaithe. Admhaíonn an oifig go "
+"bhfuarthas tuairisc laistigh de sheacht lá agus tugann sí aiseolas laistigh "
+"de thrí mhí (§ 17). Ní mór tuairisciú i scríbhinn, ó bhéal agus go pearsanta "
+"ar iarratas a bheith ar fáil (§ 16(3)); ní chlúdaíonn an breiseán seo ach an "
+"bealach scríofa. Ba cheart tuairiscí gan ainm a phróiseáil gan dualgas "
+"cainéal ar leith a chruthú (§ 16(1)). Scriostar doiciméadú trí bliana tar "
+"éis dheireadh an nós imeachta (§ 11(5)); ní scriosann an breiseán aon ní "
+"leis féin ná ní mheasann sé dualgais dlí."
+
+#: includes/Admin/AdminDashboard.php:440
+msgid ""
+"Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3)."
+msgstr ""
+"Cruthaíodh trí chás taispeána (eochracha rochtana token_demo_1 go "
+"token_demo_3)."
+
+#: includes/Admin/AdminDashboard.php:448
+msgid "Testmeldung verschlüsselt gespeichert."
+msgstr "Sábháladh an tuairisc thástála go criptithe."
+
+#: includes/Admin/AdminDashboard.php:451
+msgid "Vorgangs-ID:"
+msgstr "Aitheantas cáis:"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Zugangsschlüssel (nur jetzt sichtbar):"
+msgstr "Eochair rochtana (le feiceáil anois amháin):"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche der Meldestelle"
+msgstr "Rannóga na hoifige tuairiscithe"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Der private Schlüssel liegt ungeschützt in der Datenbank."
+msgstr "Tá an eochair phríobháideach gan chosaint sa bhunachar sonraí."
+
+#. translators: 1: master key constant name, 2: passphrase constant name, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:480
+#, php-format
+msgid ""
+"Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert "
+"automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das "
+"Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, "
+"sodass alle bisherigen Meldungen lesbar bleiben."
+msgstr ""
+"Socraigh %1$s (molta, Libsodium XSalsa20-Poly1305, aistríonn go "
+"huathoibríoch) nó %2$s in wp-config.php agus rith %3$s. Coinnítear an péire "
+"eochracha; ní athraíonn ach an fhoirm stóráilte ionas go bhfanann gach "
+"tuairisc inléite."
+
+#. translators: %d: number of users who can open a report
+#: includes/Admin/AdminDashboard.php:502
+#, php-format
+msgid "%d Person darf Meldungen öffnen."
+msgid_plural "%d Personen dürfen Meldungen öffnen."
+msgstr[0] "Tá cead ag %d duine tuairiscí a oscailt."
+msgstr[1] "Tá cead ag %d dhuine tuairiscí a oscailt."
+msgstr[2] "Tá cead ag %d dhuine tuairiscí a oscailt."
+msgstr[3] "Tá cead ag %d nduine tuairiscí a oscailt."
+msgstr[4] "Tá cead ag %d duine tuairiscí a oscailt."
+
+#. translators: 1: role name, 2: WP-CLI command, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:509
+#, php-format
+msgid ""
+"Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 "
+"HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit "
+"%2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" "
+"und entziehen Sie die Berechtigung danach mit %3$s."
+msgstr ""
+"Ról %1$s san áireamh, is é sin gach riarthóir ar an suíomh. Coinníonn § 8 "
+"HinSchG an t-inneachar ag daoine údaraithe amháin. Feic an liosta le %2$s; "
+"sann an ról \"Meldestelle (HinSchG)\" agus bain an cead ansin le %3$s."
+
+#: includes/Admin/AdminDashboard.php:516
+msgid ""
+"Administratoren dieser Website können Meldungen nicht öffnen, solange sie "
+"die Berechtigung nicht haben."
+msgstr ""
+"Ní féidir le riarthóirí an tsuímh seo tuairiscí a oscailt gan an cumas sin."
+
+#. translators: %s: case reference
+#: includes/Admin/AdminDashboard.php:537
+#, php-format
+msgid "Meldung %s"
+msgstr "Tuairisc %s"
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Vorgang konnte nicht geladen werden."
+msgstr "Níorbh fhéidir an cás a lódáil."
+
+#: includes/Admin/AdminDashboard.php:552
+msgid "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)"
+msgstr ""
+"Díchriptiú áitiúil sa bhrabhsálaí (roghnaigh an eochair phríobháideach as "
+"líne)"
+
+#: includes/Admin/AdminDashboard.php:553
+msgid ""
+"Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die "
+"Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; "
+"der private Schlüssel wird nicht an den Server übertragen."
+msgstr ""
+"Roghnaigh do chomhad eochrach PKCS#8 (.pem) atá stóráilte go háitiúil. Ní "
+"dhéantar an díchriptiú ach i gcuimhne oibre do bhrabhsálaí; ní sheoltar an "
+"eochair phríobháideach chuig an bhfreastalaí."
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "Meldungstext"
+msgstr "Téacs na tuairisce"
+
+#: includes/Admin/AdminDashboard.php:580
+msgid "Diese Nachricht ließ sich nicht entschlüsseln."
+msgstr "Níorbh fhéidir an teachtaireacht seo a dhíchriptiú."
+
+#: includes/Admin/AdminDashboard.php:588
+msgid ""
+"Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: "
+"der Inhalt ist auch innerhalb der Einrichtung vertraulich)."
+msgstr ""
+"Taifeadtar gach oscailt den tuairisc seo sa loga iniúchta (§ 8 HinSchG: tá "
+"an t-inneachar faoi rún laistigh den eagraíocht freisin)."
+
+#: includes/Admin/AdminDashboard.php:600
+msgid "Fallbearbeitung nach § 17 HinSchG"
+msgstr "Láimhseáil cáis faoi § 17 HinSchG"
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:605
+#, php-format
+msgid "Eingangsbestätigung erfasst am %s."
+msgstr "Admháil taifeadta ar %s."
+
+#: includes/Admin/AdminDashboard.php:607
+msgid "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage)."
+msgstr "Níor admhaíodh an fáil fós (§ 17(1) uimh. 1 HinSchG: spriocam 7 lá)."
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:612
+#, php-format
+msgid "Abschließende Rückmeldung erfasst am %s."
+msgstr "Aiseolas deiridh taifeadta ar %s."
+
+#: includes/Admin/AdminDashboard.php:617
+msgid "Eingang bestätigen (§ 17 Abs. 1 HinSchG)"
+msgstr "Admhaigh an fháil (§ 17(1) HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Rückfrage oder Rückmeldung an die hinweisgebende Person"
+msgstr "Ceist leantach nó aiseolas don sceithire"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Wird verschlüsselt gespeichert und für die hinweisgebende Person unter "
+"„Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails."
+msgstr ""
+"Sábháiltear é criptithe agus cuirtear ar fáil don sceithire é faoi “Féach ar "
+"chás”. Ní sheolann an breiseán aon ríomhphost."
+
+#: includes/Admin/AdminDashboard.php:627
+msgid "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG"
+msgstr "Aiseolas deiridh faoi § 17(2) HinSchG"
+
+#: includes/Admin/AdminDashboard.php:631
+msgid "Antwort verschlüsselt senden"
+msgstr "Seol an freagra criptithe"
+
+#: includes/Admin/AdminDashboard.php:636
+msgid "Zurück zur Übersicht"
+msgstr "Ar ais chuig an bhforbhreathnú"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar"
+msgstr "Loga iniúchta: slabhra fíoraithe, gan aon athrú ina dhiaidh le brath"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Integritätsprüfung fehlgeschlagen"
+msgstr "Loga iniúchta: theip ar sheiceáil sláine"
+
+#. translators: 1: checked count, 2: key source
+#: includes/Admin/AdminDashboard.php:647
+#, php-format
+msgid "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s."
+msgstr "Fíoraíodh %1$d iontráil loga. Eochair shínithe: %2$s."
+
+#. translators: %d: number of audit entries written before the signing key existed (unkeyed SHA-256)
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid "%d historische Alt-Einträge ohne Signatur"
+msgstr "%d seaniontráil stairiúil gan síniú"
+
+#: includes/Admin/AdminDashboard.php:660
+msgid "Unbekannter Fehler bei der Prüfung."
+msgstr "Earráid anaithnid le linn fíoraithe."
+
+#: includes/Admin/AdminDashboard.php:667
+msgid "Offene Vorgänge"
+msgstr "Cásanna oscailte"
+
+#: includes/Admin/AdminDashboard.php:669
+msgid "ohne abschließende Rückmeldung"
+msgstr "gan aiseolas deiridh"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eingangsbestätigung überfällig"
+msgstr "Admháil thar téarma"
+
+#: includes/Admin/AdminDashboard.php:674
+msgid "nicht bestätigt, 7-Tage-Frist vorbei"
+msgstr "gan admháil, sprioc 7 lá caite"
+
+#: includes/Admin/AdminDashboard.php:677
+msgid "Bestätigung in 48 Stunden fällig"
+msgstr "Admháil dlite laistigh de 48 uair"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "noch nicht bestätigt"
+msgstr "gan admháil fós"
+
+#: includes/Admin/AdminDashboard.php:682
+msgid "Rückmeldung überfällig"
+msgstr "Aiseolas thar téarma"
+
+#: includes/Admin/AdminDashboard.php:684
+msgid "keine Rückmeldung, Frist des Plugins vorbei"
+msgstr "gan aiseolas, sprioc caite"
+
+#: includes/Admin/AdminDashboard.php:690
+msgid ""
+"Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben "
+"verschlüsselt."
+msgstr ""
+"Na 50 cás is déanaí le stádas agus spriocdhátaí. Fanann an t-inneachar "
+"criptithe."
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "Vorgang"
+msgstr "Cás"
+
+#: includes/Admin/AdminDashboard.php:696 includes/Admin/AdminDashboard.php:794
+#: includes/Frontend/WhistlePortal.php:251
+msgid "Kategorie"
+msgstr "Catagóir"
+
+#: includes/Admin/AdminDashboard.php:697
+msgid "Status"
+msgstr "Stádas"
+
+#: includes/Admin/AdminDashboard.php:698 includes/Admin/AdminDashboard.php:968
+msgid "Eingangsbestätigung"
+msgstr "Admháil"
+
+#: includes/Admin/AdminDashboard.php:699 includes/Admin/AdminDashboard.php:971
+msgid "Rückmeldung"
+msgstr "Aiseolas"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Eingang"
+msgstr "Faighte"
+
+#: includes/Admin/AdminDashboard.php:707
+msgid "Noch keine Vorgänge."
+msgstr "Níl aon chás ann fós."
+
+#: includes/Admin/AdminDashboard.php:711
+msgid "Drei Demo-Vorgänge anlegen"
+msgstr "Cruthaigh trí chás taispeána"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:735
+#, php-format
+msgid "bestätigt am %s"
+msgstr "admhaithe ar %s"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:740 includes/Admin/AdminDashboard.php:754
+#, php-format
+msgid "Frist %s"
+msgstr "Sprioc %s"
+
+#: includes/Admin/AdminDashboard.php:742 includes/Admin/AdminDashboard.php:756
+msgid "überfällig"
+msgstr "thar téarma"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:749
+#, php-format
+msgid "gegeben am %s"
+msgstr "tugtha ar %s"
+
+#: includes/Admin/AdminDashboard.php:769
+msgid "Meldeformular auf der Website einbinden"
+msgstr "Foirm thuairiscithe a leabú ar an suíomh gréasáin"
+
+#: includes/Admin/AdminDashboard.php:771
+msgid "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“."
+msgstr "Cruthaigh leathanach, mar shampla \"Cainéal Sceithireachta\"."
+
+#: includes/Admin/AdminDashboard.php:773
+msgid "Den Shortcode einfügen:"
+msgstr "Cuir isteach an gearrchód:"
+
+#: includes/Admin/AdminDashboard.php:775
+msgid "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“)."
+msgstr "(comhionann: [wm_hinschg_portal] nó an bloc \"wm/hinschg-portal\")."
+
+#: includes/Admin/AdminDashboard.php:777
+msgid ""
+"Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder "
+"im Footer."
+msgstr ""
+"Cuir nasc leis an leathanach san áit a bhfaighidh fostaithe é, amhail an t-"
+"inlíon nó an buntásc."
+
+#: includes/Admin/AdminDashboard.php:780
+msgid ""
+"Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und "
+"einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab "
+"und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. "
+"Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es "
+"keinen Zugang mehr zum Vorgang."
+msgstr ""
+"Tar éis a sheolta gheobhaidh an tuairisceoir aitheantas cáis agus eochair "
+"rochtana. Leis an dá rud is féidir stádas a sheiceáil agus teachtaireachtaí "
+"a scríobh san fhoirm chéanna gan ainm ná ríomhphost a thabhairt. Ní "
+"stóráiltear ach HMAC na heochrach; má chailltear í, ní bheidh rochtain ar an "
+"gcás a thuilleadh."
+
+#: includes/Admin/AdminDashboard.php:786
+msgid "Testmeldung anlegen"
+msgstr "Cruthaigh tuairisc thástála"
+
+#: includes/Admin/AdminDashboard.php:787
+msgid ""
+"Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den "
+"Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann."
+msgstr ""
+"Cruthaíonn sé cás ar an mbealach céanna leis an bhfoirm agus taispeánann sé "
+"an eochair rochtana uair amháin chun an tairseach a thástáil."
+
+#: includes/Admin/AdminDashboard.php:803
+#: includes/Frontend/WhistlePortal.php:260
+msgid "Sachverhalt"
+msgstr "Cur síos ar na fíricí"
+
+#: includes/Admin/AdminDashboard.php:804
+msgid ""
+"Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit "
+"dem RSA-Schlüssel des Plugins versiegelt."
+msgstr ""
+"Stóráiltear criptithe le AES-256-GCM é; séalaítear an eochair le heochair "
+"RSA an bhreiseáin."
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Testmeldung speichern"
+msgstr "Sábháil tuairisc thástála"
+
+#. translators: %d: days
+#: includes/Admin/AdminDashboard.php:819
+#, php-format
+msgid ""
+"Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt "
+"die Bestätigung spätestens nach sieben Tagen."
+msgstr ""
+"Admháil: fáil + %d lá. Éilíonn § 17(1) Uimh. 1 HinSchG admháil tráth nach "
+"déanaí ná seacht lá."
+
+#. translators: %d: months
+#: includes/Admin/AdminDashboard.php:825
+#, php-format
+msgid ""
+"Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab "
+"der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab "
+"Eingang); die Frist des Plugins liegt damit früher."
+msgstr ""
+"Aiseolas: fáil + %d mhí. Ríomhann § 17(2) HinSchG trí mhí ón admháil (trí "
+"mhí agus seacht lá gan admháil); ní bhíonn sprioc an bhreiseáin níos déanaí "
+"riamh."
+
+#: includes/Admin/AdminDashboard.php:828
+msgid "Die Fristen sind im Code festgelegt und nicht einstellbar."
+msgstr "Tá na spriocdhátaí socraithe sa chód agus ní féidir iad a athrú."
+
+#: includes/Admin/AdminDashboard.php:829
+msgid ""
+"Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst "
+"bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, "
+"an die eine eigene Benachrichtigung angeschlossen werden kann."
+msgstr ""
+"Ní sheolann an breiseán ríomhphoist. Spreagann seiceáil uair an chloig (WP-"
+"Cron) an gníomh wm_hinschg_sla_breach_detected nuair a sháraítear "
+"spriocdháta."
+
+#: includes/Admin/AdminDashboard.php:831
+msgid ""
+"Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, "
+"Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet."
+msgstr ""
+"Go dtí 15.09.2026 bhí leathanach socruithe anseo do ríomhphost, "
+"spriocdhátaí, uaslódálacha agus coinneáil nár léigh an cód riamh."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger "
+"Privatschlüssel entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"Sábháladh an eochair phoiblí RSA agus baineadh aon eochair phríobháideach ar "
+"an bhfreastalaí (coimeád as líne gníomhach)."
+
+#: includes/Admin/AdminDashboard.php:845 includes/Crypto/Vault.php:342
+msgid ""
+"Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / "
+"Ombudsperson) gespeichert."
+msgstr ""
+"Sábháladh an eochair phoiblí éigeandála agus ionadaíochta (2ú duine "
+"ainmnithe / ombudsman)."
+
+#: includes/Admin/AdminDashboard.php:847 includes/Crypto/Vault.php:323
+msgid "Notfall- und Vertretungsschlüssel entfernt."
+msgstr "Baineadh an eochair éigeandála agus ionadaíochta."
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich "
+"den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen."
+msgstr ""
+"Diúltaithe: seoladh eochair phríobháideach. Ná cuir isteach ach an eochair "
+"phoiblí (BEGIN PUBLIC KEY)."
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich über das Kontrollkästchen."
+msgstr ""
+"Tá cásanna criptithe ann cheana. Deimhnigh athrú na heochrach go sainráite "
+"leis an mbosca ticeála."
+
+#: includes/Admin/AdminDashboard.php:853
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel "
+"(mindestens 2048 Bit, empfohlen 4096 Bit)."
+msgstr ""
+"Ní eochair phoiblí RSA bhailí é an téacs a seoladh (2048 giotán ar a laghad, "
+"4096 giotán molta)."
+
+#: includes/Admin/AdminDashboard.php:857
+msgid "Aktive Schlüsselverwahrung & Audit-Signatur"
+msgstr "Coimeád eochracha gníomhach & síniú iniúchta"
+
+#: includes/Admin/AdminDashboard.php:859
+msgid "RSA-Schlüsselquelle:"
+msgstr "Foinse na heochrach RSA:"
+
+#: includes/Admin/AdminDashboard.php:863
+msgid "Notfall- & Vertretungsschlüssel:"
+msgstr "Eochair éigeandála & ionadaíochta:"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)"
+msgstr ""
+"taiscthe (clúdach dúbailte gníomhach don 2ú duine ainmnithe / ombudsman)"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "nicht hinterlegt"
+msgstr "gan taisceadh"
+
+#: includes/Admin/AdminDashboard.php:867
+msgid "Audit-Kettenschlüssel:"
+msgstr "Eochair an tslabhra iniúchta:"
+
+#. translators: %s: constant name
+#: includes/Admin/AdminDashboard.php:872
+#, php-format
+msgid ""
+"(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in "
+"der wp-config.php)."
+msgstr ""
+"(chun eochracha a rothlú go neamhspleách ar AUTH_KEY, socraigh %s in wp-"
+"config.php)."
+
+#: includes/Admin/AdminDashboard.php:880
+msgid ""
+"Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)"
+msgstr ""
+"Giniúint eochracha sa bhrabhsálaí (coimeád as líne gan eochair "
+"phríobháideach ar an bhfreastalaí)"
+
+#: includes/Admin/AdminDashboard.php:882
+msgid ""
+"Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). "
+"Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät "
+"heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-"
+"Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum "
+"Versiegeln eingehender Meldungen gespeichert."
+msgstr ""
+"Gineann sé péire eochracha RSA-OAEP-4096 go háitiúil i do bhrabhsálaí "
+"(WebCrypto). Íoslódáiltear an eochair phríobháideach go díreach chuig do "
+"ghléas mar chomhad .pem agus ní théann sí i dteagmháil riamh le PHP, leis an "
+"bhfreastalaí gréasáin ná le bunachar sonraí MySQL. Ní stóráiltear ar an "
+"bhfreastalaí ach an eochair phoiblí a shéalaíonn tuairiscí isteach."
+
+#: includes/Admin/AdminDashboard.php:886
+msgid ""
+"RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel "
+"herunterladen"
+msgstr ""
+"Gin péire eochracha RSA-4096 go háitiúil sa bhrabhsálaí & íoslódáil an "
+"eochair phríobháideach"
+
+#: includes/Admin/AdminDashboard.php:893
+msgid "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)"
+msgstr "Eochair phoiblí RSA (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:899
+msgid ""
+"Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den "
+"bisherigen privaten Schlüssel)"
+msgstr ""
+"Cuir eochair nua in ionad na heochrach reatha (teastaíonn an eochair "
+"phríobháideach roimhe fós ó thuairiscí atá ann)"
+
+#: includes/Admin/AdminDashboard.php:902
+msgid "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)"
+msgstr "Sábháil an eochair phoiblí amháin (cumasaigh coimeád as líne)"
+
+#: includes/Admin/AdminDashboard.php:905
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Schlüssel der Meldestelle hinterlegen."
+msgstr ""
+"Ní féidir ach le riarthóirí an tsuímh (manage_options) eochair phoiblí na "
+"hoifige tuairiscithe a thaisceadh."
+
+#: includes/Admin/AdminDashboard.php:910
+msgid ""
+"Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / "
+"Ombudsperson)"
+msgstr ""
+"Eochair éigeandála & ionadaíochta (2ú duine ainmnithe na hoifige "
+"tuairiscithe / ombudsman)"
+
+#: includes/Admin/AdminDashboard.php:912
+msgid ""
+"Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-"
+"Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel "
+"versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser "
+"entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung "
+"dieses privaten Schlüssels ausschließlich bei einer zweiten mit der "
+"Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — "
+"niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum "
+"Entfernen das Feld leeren und speichern."
+msgstr ""
+"Clúdach dúbailte roghnach do thuairiscí agus teachtaireachtaí nua: "
+"séalaítear eochair seisiúin AES-256 freisin leis an eochair phoiblí RSA seo "
+"ionas gur féidir le hionadaí díchriptiú go háitiúil sa bhrabhsálaí le linn "
+"neamhláithreachta. Faoi § 8(1) agus § 15 HinSchG, ní féidir an eochair "
+"phríobháideach seo a choimeád ach ag an dara duine atá ainmnithe don oifig "
+"tuairiscithe nó ag ombudsman neamhspleách — riamh ag an mbainistíocht ná ag "
+"an riarachán TF ginearálta. Chun í a bhaint, glan an réimse agus sábháil."
+
+#: includes/Admin/AdminDashboard.php:916
+msgid ""
+"Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten "
+"Schlüssel herunterladen"
+msgstr ""
+"Gin péire eochracha ionadaíochta (RSA-4096) go háitiúil sa bhrabhsálaí & "
+"íoslódáil an eochair phríobháideach"
+
+#: includes/Admin/AdminDashboard.php:923
+msgid "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)"
+msgstr "Eochair phoiblí éigeandála & ionadaíochta (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:926
+msgid "Notfall- & Vertretungsschlüssel speichern"
+msgstr "Sábháil an eochair éigeandála & ionadaíochta"
+
+#: includes/Admin/AdminDashboard.php:929
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Notfall- und Vertretungsschlüssel hinterlegen."
+msgstr ""
+"Ní féidir ach le riarthóirí an tsuímh (manage_options) an eochair phoiblí "
+"éigeandála agus ionadaíochta a thaisceadh."
+
+#: includes/Admin/AdminDashboard.php:937
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "Sábháladh rogha díshuiteála."
+
+#: includes/Admin/AdminDashboard.php:940
+msgid "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation"
+msgstr "Coinneáil reachtúil (§ 11 HinSchG) & díshuiteáil"
+
+#: includes/Admin/AdminDashboard.php:942
+msgid ""
+"Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des "
+"Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, "
+"Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit "
+"ein Plugin-Update oder eine Neuinstallation keine gesetzlich "
+"aufzubewahrenden Vorgänge vernichtet."
+msgstr ""
+"Faoi § 11(5) HinSchG coinnítear an doiciméadú ar feadh trí bliana tar éis "
+"dheireadh an nós imeachta. De réir réamhshocraithe coinnítear tuairiscí, "
+"teachtaireachtaí, loga iniúchta agus eochracha nuair a scriostar an breiseán."
+
+#: includes/Admin/AdminDashboard.php:951
+msgid ""
+"Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge "
+"und Schlüssel unwiderruflich löschen"
+msgstr ""
+"Scrios go buan gach tuairisc, teachtaireacht, iontráil iniúchta agus eochair "
+"nuair a dhíshuiteáiltear an breiseán"
+
+#: includes/Admin/AdminDashboard.php:954
+msgid "Deinstallations-Option speichern"
+msgstr "Sábháil rogha díshuiteála"
+
+#: includes/Admin/AdminDashboard.php:957
+msgid ""
+"Nur Website-Administratoren (manage_options) können das Verhalten bei der "
+"Plugin-Deinstallation ändern."
+msgstr ""
+"Is iad riarthóirí an tsuímh (manage_options) amháin is féidir iompar "
+"díshuiteála a athrú."
+
+#: includes/Admin/AdminDashboard.php:965
+msgid "Vorgangs-ID und Zugangsschlüssel"
+msgstr "Aitheantas cáis agus eochair rochtana"
+
+#: includes/Admin/AdminDashboard.php:966
+msgid ""
+"Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der "
+"Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon."
+msgstr ""
+"Tugtar an dá cheann uair amháin tar éis seolta. Tá 64 carachtar san eochair; "
+"ní stóráiltear ach a HMAC."
+
+#: includes/Admin/AdminDashboard.php:969
+msgid "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr "Tráth nach déanaí ná seacht lá (§ 17(1) Uimh. 1 HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:972
+msgid ""
+"Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und "
+"ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG)."
+msgstr ""
+"Laistigh de thrí mhí ón admháil mar aon leis na bearta atá beartaithe nó "
+"déanta (§ 17(2) HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:974
+msgid "Verschlüsselung"
+msgstr "Criptiú"
+
+#: includes/Admin/AdminDashboard.php:975
+msgid ""
+"Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-"
+"Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für "
+"den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / "
+"Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter "
+"„Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php "
+"(WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt "
+"(WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt "
+"(WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-"
+"Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten "
+"zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben "
+"der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen "
+"Browser und Server schützt HTTPS."
+msgstr ""
+"Criptítear tuairiscí agus teachtaireachtaí le AES-256-GCM agus séalaítear an "
+"eochair AES le RSA-OAEP (go roghnach freisin mar chlúdach dúbailte d’eochair "
+"éigeandála & ionadaíochta an 2ú duine ainmnithe / ombudsman). Taispeánann an "
+"cluaisín “Coimeád eochracha” agus wp hinschg key-status cá bhfuil an eochair "
+"phríobháideach RSA: in wp-config.php (WM_HINSCHG_PRIVATE_KEY), séalaithe le "
+"Libsodium XSalsa20-Poly1305 (WM_HINSCHG_MASTER_KEY nó AUTH_KEY), criptithe "
+"le OpenSSL (WM_HINSCHG_KEY_PASSPHRASE) nó go háitiúil sa bhrabhsálaí amháin "
+"gan eochair phríobháideach ar an bhfreastalaí (coimeád as líne). Faigheann "
+"freagraí na hoifige tuairiscithe bosca atá séalaithe don eochair rochtana "
+"freisin, agus fanann ionchur an sceithire séalaithe go hiomlán "
+"neamhshiméadrach. Cosnaíonn HTTPS an nasc idir an brabhsálaí agus an "
+"freastalaí."
+
+#: includes/Admin/AdminDashboard.php:977
+msgid "Berechtigung zum Öffnen einer Meldung"
+msgstr "Cead chun tuairisc a oscailt"
+
+#: includes/Admin/AdminDashboard.php:978
+msgid ""
+"Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt "
+"dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet "
+"WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser "
+"Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, "
+"damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche "
+"Zweck. wp hinschg access zeigt, wer sie hat."
+msgstr ""
+"Seiceálann an breiseán a chumas féin wm_hinschg_read_cases agus cuireann sé "
+"an ról \"Meldestelle (HinSchG)\" ar fáil. Cinneann róil WordPress cé a "
+"shealbhaíonn é. Tugtar do \"Administrator\" ar shuiteáil é chun glasáil "
+"amach a sheachaint; é a chúlghairm ina dhiaidh an cuspóir. Taispeánann wp "
+"hinschg access na sealbhóirí."
+
+#: includes/Admin/AdminDashboard.php:980
+msgid "Audit-Protokoll"
+msgstr "Loga iniúchta"
+
+#: includes/Admin/AdminDashboard.php:981
+msgid ""
+"Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche "
+"Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus "
+"wp-config.php kennt, kann die Kette neu schreiben."
+msgstr ""
+"Tá HMAC-SHA256 thar an iontráil roimhe i ngach iontráil. Braitear athruithe, "
+"scriosadh agus cur isteach; is féidir le duine a bhfuil eochair wp-"
+"config.php aige an slabhra a athshíniú."
+
+#: includes/API/RestController.php:98
+msgid ""
+"Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut "
+"versuchen."
+msgstr ""
+"Tá an loga iniúchta gnóthach go sealadach. Bain triail eile as go luath."
+
+#: includes/API/RestController.php:136 includes/API/RestController.php:467
+msgid "Case ID is required."
+msgstr "Tá aitheantas cáis ag teastáil."
+
+#: includes/API/RestController.php:148 includes/API/RestController.php:479
+#: includes/API/RestController.php:553
+msgid "Case not found."
+msgstr "Níor aimsíodh an cás."
+
+#: includes/API/RestController.php:161
+msgid ""
+"Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich "
+"nicht entschlüsseln."
+msgstr "Tá clúdach na tuairisce seo neamhiomlán; ní féidir í a dhíchriptiú."
+
+#. translators: %s: what this install does with the private key
+#: includes/API/RestController.php:180
+#, php-format
+msgid "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s"
+msgstr "Níorbh fhéidir an tuairisc seo a dhíchriptiú. Foinse na heochrach: %s"
+
+#: includes/API/RestController.php:247
+msgid "Report description cannot be empty."
+msgstr "Ní fhéadfaidh cur síos na tuairisce a bheith folamh."
+
+#: includes/API/RestController.php:298
+msgid ""
+"Save this Access Token securely. It is the ONLY way to check your report "
+"status or communicate confidentially without revealing your identity."
+msgstr ""
+"Sábháil an eochair rochtana seo go slán. Is í an tAON bhealach amháin chun "
+"stádas a sheiceáil nó cumarsáid rúnda a dhéanamh gan d'aitheantas a nochtadh."
+
+#: includes/API/RestController.php:315
+msgid "Case ID and Access Token are required."
+msgstr "Tá aitheantas cáis agus eochair rochtana ag teastáil."
+
+#: includes/API/RestController.php:329 includes/API/RestController.php:413
+msgid "Invalid Case ID or Access Token."
+msgstr "Aitheantas cáis nó eochair rochtana neamhbhailí."
+
+#: includes/API/RestController.php:399
+msgid "Case ID, Access Token, and message are required."
+msgstr "Tá aitheantas cáis, eochair rochtana agus teachtaireacht ag teastáil."
+
+#: includes/API/RestController.php:438
+msgid "Confidential message appended successfully."
+msgstr "Cuireadh an teachtaireacht rúnda leis go rathúil."
+
+#: includes/API/RestController.php:484
+msgid "The receipt of this report was already acknowledged."
+msgstr "Admhaíodh go bhfuarthas an tuairisc seo cheana féin."
+
+#: includes/API/RestController.php:496
+msgid ""
+"Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle "
+"eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr ""
+"Admháil fála: fuair an oifig inmheánach tuairiscithe do thuairisc (§ 17(1) "
+"Uimh. 1 HinSchG)."
+
+#: includes/API/RestController.php:528
+msgid "Acknowledgment recorded and sent to the reporting person's case view."
+msgstr ""
+"Taifeadadh an admháil agus seoladh chuig amharc cáis an tuairisceora í."
+
+#: includes/API/RestController.php:541
+msgid "Case ID and message are required."
+msgstr "Tá aitheantas cáis agus teachtaireacht ag teastáil."
+
+#: includes/API/RestController.php:593
+msgid "Reply stored in the reporting person's case view."
+msgstr "Sábháladh an freagra in amharc cáis an tuairisceora."
+
+#: includes/Compliance/CaseStatus.php:22
+msgid "Eingegangen"
+msgstr "Faighte"
+
+#: includes/Compliance/CaseStatus.php:23
+msgid "In Bearbeitung"
+msgstr "Á phróiseáil"
+
+#: includes/Compliance/CaseStatus.php:31
+msgid "Rückmeldung gegeben"
+msgstr "Aiseolas tugtha"
+
+#: includes/Compliance/CaseStatus.php:32
+msgid "Abgeschlossen"
+msgstr "Dúnta"
+
+#: includes/Compliance/ReportCategories.php:25
+msgid "Finanzbetrug, Untreue, Korruption & Bestechung"
+msgstr "Calaois airgeadais, cúbláil, éilliú & breabaireacht"
+
+#: includes/Compliance/ReportCategories.php:26
+msgid "DSGVO-Verstöße & Datenschutzverletzungen"
+msgstr "Sáruithe GDPR & sáruithe sonraí"
+
+#: includes/Compliance/ReportCategories.php:27
+msgid "IT-Sicherheit & Cyber-Vorfälle"
+msgstr "Slándáil TF & teagmhais chibear"
+
+#: includes/Compliance/ReportCategories.php:28
+msgid "Lieferkette & Menschenrechte"
+msgstr "Slabhra soláthair & cearta an duine"
+
+#: includes/Compliance/ReportCategories.php:29
+msgid "Arbeitsschutz, Diskriminierung & Belästigung"
+msgstr "Sábháilteacht oibre, idirdhealú & ciapadh"
+
+#: includes/Compliance/ReportCategories.php:30
+msgid "Allgemeine Compliance-Verstöße"
+msgstr "Sáruithe ginearálta comhlíonta"
+
+#: includes/Crypto/Vault.php:168
+msgid ""
+"Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung."
+msgstr ""
+"Tá an eochair phríobháideach in wp-config.php. Ní dhíchriptíonn dumpáil "
+"bunachair sonraí léi féin aon tuairisc."
+
+#: includes/Crypto/Vault.php:178
+msgid ""
+"Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt "
+"in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-"
+"config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+msgstr ""
+"Tá an eochair phríobháideach criptithe sa bhunachar sonraí le Libsodium "
+"(XSalsa20-Poly1305); tá an mháistir-eochair (WM_HINSCHG_MASTER_KEY) in wp-"
+"config.php. Ní dhíchriptíonn dumpáil léi féin dada."
+
+#: includes/Crypto/Vault.php:186
+msgid ""
+"Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase "
+"steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine "
+"Meldung."
+msgstr ""
+"Tá an eochair phríobháideach criptithe sa bhunachar sonraí; tá an pasfhrása "
+"in wp-config.php. Ní dhíchriptíonn dumpáil léi féin dada."
+
+#: includes/Crypto/Vault.php:194
+msgid ""
+"Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank "
+"(abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt "
+"sich WM_HINSCHG_MASTER_KEY."
+msgstr ""
+"Tá an eochair phríobháideach criptithe sa bhunachar sonraí le Libsodium "
+"(díorthaithe ó AUTH_KEY in wp-config.php). Ní dhíchriptíonn dumpáil léi féin "
+"dada; moltar WM_HINSCHG_MASTER_KEY le haghaidh rothlú neamhspleách."
+
+#: includes/Crypto/Vault.php:202
+msgid ""
+"In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). "
+"Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-"
+"Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY "
+"in der wp-config.php."
+msgstr ""
+"Níl ach an eochair phoiblí sa bhunachar sonraí (coimeád as líne). Séalaítear "
+"tuairiscí nua; chun iad a léamh, úsáid an díchriptiú áitiúil sa bhrabhsálaí "
+"in amharc an cháis nó socraigh WM_HINSCHG_PRIVATE_KEY in wp-config.php."
+
+#: includes/Crypto/Vault.php:210
+msgid ""
+"Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter "
+"„Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) "
+"oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php."
+msgstr ""
+"Níl aon phéire eochracha taiscthe fós. Gin péire eochracha áitiúil sa "
+"bhrabhsálaí sa chluaisín “Coimeád eochracha” (coimeád as líne) nó socraigh "
+"WM_HINSCHG_MASTER_KEY in wp-config.php."
+
+#: includes/Crypto/Vault.php:217
+msgid ""
+"Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den "
+"Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung "
+"entschlüsseln."
+msgstr ""
+"Tá an eochair phríobháideach gan chriptiú sa bhunachar sonraí in aice leis "
+"na tuairiscí. Is féidir le duine ar bith a bhfuil dumpáil iomlán aige gach "
+"tuairisc a dhíchriptiú."
+
+#: includes/Crypto/Vault.php:242
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-"
+"Format."
+msgstr "Ní eochair phoiblí RSA bhailí i bhformáid PEM é an téacs a seoladh."
+
+#: includes/Crypto/Vault.php:251
+msgid ""
+"Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit "
+"(empfohlen: 4096 Bit) sein."
+msgstr ""
+"Caithfidh an eochair phoiblí a bheith ina heochair RSA de 2048 giotán ar a "
+"laghad (molta: 4096 giotán)."
+
+#: includes/Crypto/Vault.php:272
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der "
+"Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN "
+"PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Tobscor slándála: seoladh eochair phríobháideach. I gcoimeád as líne, ní "
+"féidir ach an eochair phoiblí (BEGIN PUBLIC KEY) a shábháil."
+
+#: includes/Crypto/Vault.php:289
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den "
+"bisherigen privaten Schlüssel benötigen."
+msgstr ""
+"Tá cásanna criptithe ann cheana. Deimhnigh athrú na heochrach go sainráite, "
+"mar teastaíonn an eochair phríobháideach roimhe fós ó thuairiscí atá ann."
+
+#: includes/Crypto/Vault.php:303
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel "
+"entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"Sábháladh an eochair phoiblí RSA agus baineadh an eochair phríobháideach ar "
+"an bhfreastalaí (coimeád as líne gníomhach)."
+
+#: includes/Crypto/Vault.php:329
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als "
+"Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche "
+"Schlüssel (BEGIN PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Tobscor slándála: seoladh eochair phríobháideach. Ní féidir ach an eochair "
+"phoiblí (BEGIN PUBLIC KEY) a shábháil mar eochair éigeandála agus "
+"ionadaíochta."
+
+#. translators: %d: previously recorded entry count
+#: includes/Crypto/Vault.php:847
+#, php-format
+msgid "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+msgstr "Tá an loga folamh cé go raibh %d iontráil taifeadta roimhe seo."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:866
+#, php-format
+msgid ""
+"Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder "
+"umsortiert."
+msgstr ""
+"Briseadh slabhra ag iontráil #%d: scriosadh, cuireadh isteach nó athordaíodh "
+"iontráil."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:906
+#, php-format
+msgid ""
+"Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, "
+"oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor "
+"einem Umzug der Website)."
+msgstr ""
+"Ní mheaitseálann iontráil #%d a síniú: athraíodh ina dhiaidh í nó scríobhadh "
+"le AUTH_KEY eile í (m.sh. roimh aistriú suímh)."
+
+#: includes/Crypto/Vault.php:917
+msgid ""
+"Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die "
+"neuesten Einträge wurden entfernt."
+msgstr ""
+"Ní mheaitseálann deireadh an loga leis an iontráil dheireanach a taifeadadh. "
+"Baineadh na hiontrálacha is déanaí."
+
+#: includes/Crypto/Vault.php:927
+msgid ""
+"Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende "
+"wurde manipuliert."
+msgstr ""
+"Tá síniú dheireadh taifeadta an tslabhra neamhbhailí. Rinneadh cur isteach "
+"ar dheireadh an loga."
+
+#: includes/Crypto/Vault.php:938
+msgid ""
+"Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll "
+"stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf "
+"das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht "
+"überprüfbar."
+msgstr ""
+"Níl síniú eochrach ar aon iontráil. Tagann an loga ó roimh an eochair nó "
+"íosghrádaíodh go formáid inbhrionnaithe é agus ní féidir é a fhíorú."
+
+#. translators: %s: comma-separated list of missing PHP extensions
+#: includes/Database/Schema.php:39
+#, php-format
+msgid ""
+"WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende "
+"erforderliche PHP-Erweiterungen fehlen: %s."
+msgstr ""
+"Níorbh fhéidir WM HinSchG Whistleblower Desk a ghníomhachtú mar go bhfuil na "
+"síntí PHP riachtanacha seo a leanas in easnamh: %s."
+
+#: includes/Database/Schema.php:43
+msgid "Fehlende PHP-Erweiterung"
+msgstr "Síneadh PHP in easnamh"
+
+#. translators: 1: master key constant name, 2: passphrase constant name
+#: includes/Database/Schema.php:190
+#, php-format
+msgid ""
+"In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-"
+"config.php kann der Schlüssel nicht verschlüsselt werden."
+msgstr ""
+"Níl %1$s ná %2$s socraithe in wp-config.php. Gan rún in wp-config.php ní "
+"féidir an eochair a chriptiú."
+
+#: includes/Database/Schema.php:201
+msgid ""
+"In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren."
+msgstr ""
+"Níl aon eochair phríobháideach sa bhunachar sonraí. Níl dada le haistriú."
+
+#: includes/Database/Schema.php:212
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY "
+"entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es "
+"wurde nichts überschrieben."
+msgstr ""
+"Ní féidir an eochair stóráilte a dhíchriptiú le WM_HINSCHG_MASTER_KEY. "
+"Athchóirigh an mháistir-eochair bhunaidh; níor forscríobhadh dada."
+
+#: includes/Database/Schema.php:217
+msgid ""
+"Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"Tá an eochair phríobháideach criptithe le Libsodium (WM_HINSCHG_MASTER_KEY) "
+"cheana féin. Níl dada le déanamh."
+
+#: includes/Database/Schema.php:237
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts "
+"überschrieben."
+msgstr ""
+"Níorbh fhéidir an eochair stóráilte a oscailt. Níor forscríobhadh dada."
+
+#: includes/Database/Schema.php:245
+msgid ""
+"Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es "
+"wurde nichts überschrieben."
+msgstr ""
+"Theip ar fhíorú na heochrach séalaithe le Libsodium. Níor forscríobhadh dada."
+
+#: includes/Database/Schema.php:252
+msgid ""
+"Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt "
+"keine Meldung mehr."
+msgstr ""
+"Tá an eochair phríobháideach criptithe anois le Libsodium "
+"(WM_HINSCHG_MASTER_KEY) sa bhunachar sonraí. Ní dhíchriptíonn dumpáil léi "
+"féin tuairiscí a thuilleadh."
+
+#: includes/Database/Schema.php:263
+msgid ""
+"Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten "
+"Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — "
+"bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar."
+msgstr ""
+"Ní osclaítear an eochair stóráilte gan pasfhrása ná leis an bpasfhrása "
+"cumraithe. Athchóirigh an sean-phasfhrása nó ní bheidh aon tuairisc inléite."
+
+#: includes/Database/Schema.php:268
+msgid ""
+"Der private Schlüssel ist bereits mit der konfigurierten Passphrase "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"Tá an eochair phríobháideach criptithe leis an bpasfhrása cumraithe cheana "
+"féin. Níl dada le déanamh."
+
+#: includes/Database/Schema.php:276
+msgid ""
+"Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte "
+"Schlüssel bleibt unverändert."
+msgstr ""
+"Níorbh fhéidir an eochair a easpórtáil go criptithe. Fanann an eochair "
+"stóráilte gan athrú."
+
+#: includes/Database/Schema.php:290
+msgid ""
+"Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts "
+"überschrieben."
+msgstr ""
+"Níorbh fhéidir an eochair chriptithe a athoscailt. Níor forscríobhadh dada."
+
+#: includes/Database/Schema.php:298
+msgid ""
+"Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein "
+"Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in "
+"wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr "
+"lesbar."
+msgstr ""
+"Tá an eochair phríobháideach criptithe sa bhunachar sonraí anois. Ní "
+"dhíchriptíonn dumpáil léi féin dada. Tá an pasfhrása in wp-config.php "
+"riachtanach as seo amach."
+
+#: includes/Frontend/WhistlePortal.php:84
+#: includes/Frontend/WhistlePortal.php:111
+msgid "HinSchG Meldestelle Status"
+msgstr "Stádas Cainéil HinSchG"
+
+#. translators: %d: statutory acknowledgment days
+#: includes/Frontend/WhistlePortal.php:154
+#, php-format
+msgid "%d Tage Eingangsbestätigung (§ 17 HinSchG)"
+msgstr "%d lá le haghaidh admhála (§ 17 HinSchG)"
+
+#. translators: %d: statutory feedback months
+#: includes/Frontend/WhistlePortal.php:158
+#, php-format
+msgid "%d Monate Rückmeldefrist (§ 17 HinSchG)"
+msgstr "%d mhí sprioc aiseolais (§ 17 HinSchG)"
+
+#: includes/Frontend/WhistlePortal.php:170
+msgid "Interne Meldestelle aktiv"
+msgstr "Cainéal inmheánach tuairiscithe gníomhach"
+
+#: includes/Frontend/WhistlePortal.php:171
+msgid "Meldestelle wird eingerichtet"
+msgstr "Cainéal tuairiscithe á chumrú"
+
+#: includes/Frontend/WhistlePortal.php:218
+msgid "Interne Meldestelle"
+msgstr "Cainéal Inmheánach Tuairiscithe"
+
+#: includes/Frontend/WhistlePortal.php:228
+msgid ""
+"Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden "
+"nicht abgefragt."
+msgstr ""
+"Is féidir leat sáruithe a thuairisciú anseo. Ní iarrtar ainm ná seoladh "
+"ríomhphoist."
+
+#: includes/Frontend/WhistlePortal.php:235
+msgid "Neuen Hinweis melden"
+msgstr "Seol tuairisc nua"
+
+#: includes/Frontend/WhistlePortal.php:238
+msgid "Vorgang abrufen"
+msgstr "Féach ar chás"
+
+#: includes/Frontend/WhistlePortal.php:245
+msgid "Was gespeichert wird:"
+msgstr "Cad a stóráiltear:"
+
+#: includes/Frontend/WhistlePortal.php:246
+msgid ""
+"Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse "
+"wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die "
+"Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash "
+"(HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der "
+"Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden "
+"erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und "
+"Rückmeldungen."
+msgstr ""
+"Catagóir agus cur síos, criptithe ar an bhfreastalaí. Ní stóráiltear do "
+"sheoladh IP leis an tuairisc; chun iarratais a theorannú coinníonn an suíomh "
+"hais HMAC de ar feadh uair an chloig ar a mhéad. Socraíonn oibreoir an "
+"tsuímh logáil an fhreastalaí ghréasáin, ní an fhoirm seo. Tar éis seolta "
+"gheobhaidh tú aitheantas cáis agus eochair rochtana le haghaidh ceisteanna "
+"agus aiseolais."
+
+#: includes/Frontend/WhistlePortal.php:261
+msgid ""
+"Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte "
+"Personen) …"
+msgstr ""
+"Déan cur síos chomh cruinn agus is féidir ar na fíricí (áit, dáta, daoine "
+"lena mbaineann) …"
+
+#: includes/Frontend/WhistlePortal.php:265
+msgid "Hinweis absenden"
+msgstr "Seol tuairisc"
+
+#: includes/Frontend/WhistlePortal.php:275
+msgid ""
+"Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu "
+"sehen und der Meldestelle zu schreiben."
+msgstr ""
+"Cuir isteach aitheantas cáis agus eochair rochtana chun an stádas a "
+"fheiceáil agus scríobh chuig an oifig."
+
+#: includes/Frontend/WhistlePortal.php:280
+msgid "Vorgangs-ID"
+msgstr "Aitheantas cáis"
+
+#: includes/Frontend/WhistlePortal.php:281
+msgid "z. B. CASE-A1B2C3D4"
+msgstr "m.sh. CASE-A1B2C3D4"
+
+#: includes/Frontend/WhistlePortal.php:284
+msgid "Zugangsschlüssel"
+msgstr "Eochair rochtana"
+
+#: includes/Frontend/WhistlePortal.php:285
+msgid "64 Zeichen"
+msgstr "64 carachtar"
+
+#: includes/Frontend/WhistlePortal.php:288
+msgid "Vorgang laden"
+msgstr "Lódáil cás"
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:116
+#: includes/Security/Capabilities.php:141
+#, php-format
+msgid "Die Rolle %s gibt es nicht."
+msgstr "Níl an ról %s ann."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:120
+#, php-format
+msgid "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun."
+msgstr ""
+"Tá cead ag an ról %s tuairiscí a oscailt cheana féin. Níl dada le déanamh."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:124
+#, php-format
+msgid "Die Rolle %s darf Meldungen jetzt öffnen."
+msgstr "Tá cead ag an ról %s tuairiscí a oscailt anois."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:145
+#, php-format
+msgid "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun."
+msgstr ""
+"Ní raibh cead ag an ról %s tuairiscí a oscailt ar aon nós. Níl dada le "
+"déanamh."
+
+#: includes/Security/Capabilities.php:154
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die "
+"Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 "
+"HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst "
+"jemand anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Scoireadh: ní bheadh aon duine in ann tuairiscí a oscailt ina dhiaidh sin. "
+"Ní mór admháil a thabhairt laistigh de sheacht lá (§ 17 HinSchG). Údaraigh "
+"duine eile ar dtús agus bain an cead anseo ansin."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:159
+#, php-format
+msgid "Die Rolle %s darf Meldungen nicht mehr öffnen."
+msgstr "Níl cead ag an ról %s tuairiscí a oscailt a thuilleadh."
+
+#. translators: %d: user id
+#: includes/Security/Capabilities.php:171
+#: includes/Security/Capabilities.php:187
+#, php-format
+msgid "Benutzer %d gibt es nicht."
+msgstr "Níl úsáideoir %d ann."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:175
+#, php-format
+msgid "%s darf Meldungen jetzt öffnen."
+msgstr "Tá cead ag %s tuairiscí a oscailt anois."
+
+#: includes/Security/Capabilities.php:196
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand "
+"anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Scoireadh: ní bheadh aon duine in ann tuairiscí a oscailt ina dhiaidh sin. "
+"Údaraigh duine eile ar dtús agus bain an cead anseo ansin."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:201
+#, php-format
+msgid "%s darf Meldungen nicht mehr öffnen."
+msgstr "Níl cead ag %s tuairiscí a oscailt a thuilleadh."
+
+#: includes/Security/RateLimiter.php:94
+msgid "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut."
+msgstr "An iomarca iarratas. Bain triail eile as níos déanaí."
+
+#: blocks-src/index.js:19
+msgid "HinSchG Meldestelle Portal"
+msgstr "Tairseach Sceithireachta HinSchG"
+
+#: blocks-src/index.js:20
+msgid "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG."
+msgstr "Foirm inmheánach sceithireachta agus cuardach cáis faoin HinSchG."
+
+#: blocks-src/index.js:50
+msgid "Meldestelle-Einstellungen"
+msgstr "Socruithe na Tairsí"
+
+#: blocks-src/index.js:54
+msgid "Überschrift"
+msgstr "Ceannteideal"
+
+#: blocks-src/index.js:61
+msgid "Einleitungstext anzeigen"
+msgstr "Taispeáin téacs tosaigh"
+
+#: blocks-src/index.js:80
+msgid "HinSchG Meldestelle Portal (Vorschau im Frontend)."
+msgstr "Tairseach Sceithireachta HinSchG (réamhamharc tosaigh)."
+
+#: blocks/portal/block.json
+msgctxt "block title"
+msgid "HinSchG Meldestelle Portal"
+msgstr "Tairseach Sceithireachta HinSchG"
+
+#: blocks/portal/block.json
+msgctxt "block description"
+msgid ""
+"Internal whistleblowing reporting and case-status form under the German "
+"HinSchG."
+msgstr ""
+"Foirm inmheánach tuairiscithe agus stádais cáis faoi dhlí HinSchG na "
+"Gearmáine."
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "hinschg"
+msgstr "dli-hinschg"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "whistleblower"
+msgstr "sceithire"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "meldestelle"
+msgstr "oifig-tuairiscithe"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "compliance"
+msgstr "comhlionadh"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"
+
+#~ msgid "Noch nicht in dieser Oberfläche:"
+#~ msgstr "Níl sa chomhéadan seo fós:"
+
+#~ msgid ""
+#~ "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung "
+#~ "wm_hinschg_read_cases). E-Mails versendet das Plugin nicht."
+#~ msgstr ""
+#~ "Admháil a sheoladh agus freagra a thabhairt. Úsáid na bealaí REST POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack agus /admin/reply (cumas "
+#~ "wm_hinschg_read_cases). Ní sheolann an breiseán ríomhphoist."
+
+#~ msgid ""
+#~ "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM "
+#~ "verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-"
+#~ "Schlüssel liegt, entscheidet die wp-config.php: mit "
+#~ "WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt "
+#~ "in der Datenbank, ohne beides im Klartext in der Datenbank — dann "
+#~ "entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese "
+#~ "Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-"
+#~ "status. Zwischen Browser und Server schützt nur HTTPS."
+#~ msgstr ""
+#~ "Criptítear tuairiscí agus teachtaireachtaí ar an bhfreastalaí le AES-256-"
+#~ "GCM agus séalaítear eochair AES le RSA. Braitheann suíomh na heochrach "
+#~ "príobháidí ar wp-config.php: ann le WM_HINSCHG_PRIVATE_KEY, criptithe sa "
+#~ "bhunachar sonraí le WM_HINSCHG_KEY_PASSPHRASE, nó i ngnáth-théacs i sean-"
+#~ "shuiteálacha. Taispeántar an mód gníomhach ag barr an leathanaigh agus in "
+#~ "wp hinschg key-status. Cosnaíonn HTTPS an t-iompar."
+
+#~ msgid "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):"
+#~ msgstr ""
+#~ "Easpórtáil aonuaire as líne don eochair phríobháideach (le feiceáil anois "
+#~ "amháin):"
+
+#~ msgid ""
+#~ "Hinterlegen Sie diesen privaten Schlüssel sicher als "
+#~ "WM_HINSCHG_PRIVATE_KEY in der wp-config.php."
+#~ msgstr ""
+#~ "Stóráil an eochair phríobháideach seo go slán mar WM_HINSCHG_PRIVATE_KEY "
+#~ "in wp-config.php."
+
+#~ msgid ""
+#~ "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-"
+#~ "Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist "
+#~ "WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich."
+#~ msgstr ""
+#~ "Níl ach an eochair phoiblí sa bhunachar sonraí (coimeád as líne). "
+#~ "Séalaítear tuairiscí nua; teastaíonn WM_HINSCHG_PRIVATE_KEY in wp-"
+#~ "config.php lena léamh."

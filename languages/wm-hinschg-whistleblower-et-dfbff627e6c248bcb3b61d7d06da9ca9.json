@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "et",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Vihjeandjate Kanal"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Asutusesisene teavituskanal: teavitusvorm, teadete ja sõnumite serveripoolne krüpteerimine, § 17 HinSchG tähtaegade jälgimine ning allkirjastatud auditilogi. Ei hinda õiguslikku vastavust."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Teavitusüksus"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Teadete tabel puudub (aktiveerige pistikprogramm uuesti)"
+      ],
+      "%d Frist überschritten": [
+        "%d tähtaeg ületatud",
+        "%d tähtaega ületatud"
+      ],
+      "Keine Frist überschritten": [
+        "Ühtegi tähtaega pole ületatud"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Kättesaamise kinnitus 7 päeva jooksul, tagasiside 3 kuu jooksul (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Juhtumid"
+      ],
+      "Offen": [
+        "Avatud"
+      ],
+      "Überfällig": [
+        "Ületatud"
+      ],
+      "Meldestelle öffnen": [
+        "Ava teavitusüksus"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG teavitusüksus"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Teavitusüksus (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "Kehtivat PKCS#8-privaatvõtit (BEGIN PRIVATE KEY) ei leitud."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto on saadaval ainult HTTPS-i kaudu või localhostis."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "RSA-4096-võtmepaari arvutatakse brauseris kohapeal …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Privaatvõti on kohapeal alla laaditud. Kontrollige ja salvestage nüüd avalik võti."
+      ],
+      "Fehler: ": [
+        "Viga: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Kohalik dekrüpteerimine brauseris käib …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Teate tekst (dekrüpteeritud kohapeal brauseris)"
+      ],
+      "Verlauf": [
+        "Ajalugu"
+      ],
+      "Meldestelle": [
+        "Teavitusüksus"
+      ],
+      "Hinweisgebende Person": [
+        "Teavitaja"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Teade dekrüpteeriti kohapeal brauseris. Privaatvõti ei ole brauserist lahkunud."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Dekrüpteerimine ebaõnnestus: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Kättesaamise kinnitust salvestatakse …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Kättesaamise kinnitus salvestatud. Vaadet värskendatakse …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "Vastust salvestatakse krüpteeritult …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "Vastus salvestati krüpteeritult. Vaadet värskendatakse …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Sisestage sõnumi tekst."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Auditilogi on ajutiselt hõivatud. Proovige 2 sekundi pärast uuesti."
+      ],
+      "Vorgänge & Fristen": [
+        "Juhtumid ja tähtajad"
+      ],
+      "Formular einbinden": [
+        "Manusta vorm"
+      ],
+      "Testmeldung": [
+        "Testteade"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Tähtajad ja märguanded"
+      ],
+      "Schlüsselverwahrung": [
+        "Võtmete hoidmine"
+      ],
+      "Deinstallation": [
+        "Desinstallimine"
+      ],
+      "Begriffe": [
+        "Mõisted"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Teadete vastuvõtmine vormi kaudu, krüpteeritud talletamine ja § 17 HinSchG tähtaegade arvutamine."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Osa WM Suite pistikprogrammide perekonnast"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite-keskus"
+      ],
+      "Standalone": [
+        "Eraldiseisev"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Võtmepaar olemas"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Võtmepaar puudub: teateid ei saa salvestada"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Mida teavitusüksus peab tagama"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Tööandjad, kellel on üldjuhul vähemalt 50 töötajat, peavad looma sisemise teavitusüksuse (§ 12 lg 2 HinSchG); § 12 lg 3 nimetatud ettevõtetele (krediidiasutused, investeerimisühingud, kindlustusandjad) kehtib see töötajate arvust sõltumata. Üksus kinnitab teate kättesaamist hiljemalt seitsme päeva jooksul ja annab tagasisidet kolme kuu jooksul (§ 17). Teavitamine peab olema võimalik kirjalikult, suuliselt ja soovi korral isiklikult (§ 16 lg 3); see pistikprogramm katab ainult kirjaliku kanali. Anonüümseid teateid tuleb menetleda ilma erikanali kohustuseta (§ 16 lg 1). Dokumentatsioon kustutatakse kolm aastat pärast menetluse lõppu (§ 11 lg 5); pistikprogramm ise midagi ei kustuta ega kontrolli seadusest tulenevaid kohustusi."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Loodi kolm näidisjuhtumit (pääsuvõtmed token_demo_1 kuni token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Testteade salvestati krüpteeritult."
+      ],
+      "Vorgangs-ID:": [
+        "Juhtumi ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Pääsuvõti (nähtav ainult praegu):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Teavitusüksuse jaotised"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Privaatvõti asub andmebaasis kaitseta."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Määrake %1$s (soovitatav, Libsodium XSalsa20-Poly1305, migreerub automaatselt) või %2$s failis wp-config.php ja käivitage %3$s. Võtmepaar säilib; muutub ainult salvestusvorm, nii et kõik senised teated jäävad loetavaks."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d isik tohib teateid avada.",
+        "%d isikut tohib teateid avada."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Sealhulgas roll %1$s ehk iga saidi administraator. § 8 HinSchG hoiab sisu ainult volitatud isikute käes. Käsuga %2$s näete nimekirja; määrake roll „Meldestelle (HinSchG)” ja eemaldage seejärel õigus käsuga %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Selle veebisaidi administraatorid ei saa teateid avada ilma vastava õiguseta."
+      ],
+      "Meldung %s": [
+        "Teade %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "Juhtumit ei õnnestunud laadida."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Kohalik dekrüpteerimine brauseris (valige võrguühenduseta privaatvõti)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Valige kohapeal salvestatud PKCS#8-võtmefail (.pem). Dekrüpteerimine toimub ainult teie brauseri töömälus; privaatvõtit serverisse ei edastata."
+      ],
+      "Meldungstext": [
+        "Teate tekst"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Seda sõnumit ei õnnestunud dekrüpteerida."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Iga selle teate avamine kantakse auditilogisse (§ 8 HinSchG: sisu on konfidentsiaalne ka asutuse sees)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Juhtumi menetlemine HinSchG § 17 järgi"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Kättesaamise kinnitus registreeritud %s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Kättesaamist pole veel kinnitatud (§ 17 lg 1 p 1 HinSchG: tähtaeg 7 päeva)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Lõplik tagasiside registreeritud %s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Kinnita kättesaamist (§ 17 lg 1 HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Täpsustav küsimus või tagasiside rikkumisest teatajale"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Salvestatakse krüpteeritult ja tehakse rikkumisest teatajale kättesaadavaks jaotises „Ava juhtum“. Pistikprogramm ei saada e-kirju."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Lõplik tagasiside HinSchG § 17 lg 2 järgi"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Saada vastus krüpteeritult"
+      ],
+      "Zurück zur Übersicht": [
+        "Tagasi ülevaatesse"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Auditilogi: ahel kontrollitud, hilisemaid muudatusi ei tuvastatud"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Auditilogi: tervikluse kontroll ebaõnnestus"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "Kontrollitud %1$d logikirjet. Allkirjavõti: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d ajaloolist allkirjata kirjet"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Tundmatu viga kontrollimisel."
+      ],
+      "Offene Vorgänge": [
+        "Avatud juhtumid"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "ilma lõpliku tagasisideta"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Kättesaamise kinnitus hilinenud"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "kinnitamata, 7 päeva tähtaeg möödas"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Kinnitus tähtajaga 48 tunni jooksul"
+      ],
+      "noch nicht bestätigt": [
+        "veel kinnitamata"
+      ],
+      "Rückmeldung überfällig": [
+        "Tagasiside hilinenud"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "tagasiside puudub, tähtaeg möödas"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Viimased 50 juhtumit koos oleku ja tähtaegadega. Sisu jääb krüpteerituks."
+      ],
+      "Vorgang": [
+        "Juhtum"
+      ],
+      "Kategorie": [
+        "Kategooria"
+      ],
+      "Status": [
+        "Olek"
+      ],
+      "Eingangsbestätigung": [
+        "Kättesaamise kinnitus"
+      ],
+      "Rückmeldung": [
+        "Tagasiside"
+      ],
+      "Eingang": [
+        "Laekunud"
+      ],
+      "Noch keine Vorgänge.": [
+        "Juhtumeid veel pole."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Loo kolm näidisjuhtumit"
+      ],
+      "bestätigt am %s": [
+        "kinnitatud %s"
+      ],
+      "Frist %s": [
+        "Tähtaeg %s"
+      ],
+      "überfällig": [
+        "hilinenud"
+      ],
+      "gegeben am %s": [
+        "antud %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Teavitusvormi lisamine veebisaidile"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Looge leht, näiteks „Vihjeliin”."
+      ],
+      "Den Shortcode einfügen:": [
+        "Sisestage lühikood:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(samaväärne: [wm_hinschg_portal] või plokk „wm/hinschg-portal”)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Linkige leht kohta, kust töötajad selle leiavad, nt siseveebi või jalusesse."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Pärast saatmist saab teavitaja juhtumi ID ja pääsuvõtme. Nendega saab samas vormis vaadata olekut ja kirjutada sõnumeid nime või e-posti avaldamata. Salvestatakse ainult võtme HMAC; kaotuse korral juurdepääs puudub."
+      ],
+      "Testmeldung anlegen": [
+        "Loo testteade"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Loob juhtumi sama teed pidi nagu vorm ja näitab üks kord pääsuvõtit portaali proovimiseks."
+      ],
+      "Sachverhalt": [
+        "Asjaolude kirjeldus"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Salvestatakse AES-256-GCM krüpteeringuga; võti pitseeritakse pistikprogrammi RSA-võtmega."
+      ],
+      "Testmeldung speichern": [
+        "Salvesta testteade"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Kättesaamise kinnitus: laekumine + %d päeva. § 17 lg 1 p 1 HinSchG nõuab kinnitust hiljemalt seitsme päeva pärast."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Tagasiside: laekumine + %d kuud. § 17 lg 2 HinSchG arvestab kolm kuud alates kinnitusest (ilma kinnituseta kolm kuud ja seitse päeva); pistikprogrammi tähtaeg pole kunagi hilisem."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Tähtajad on koodis fikseeritud ega ole muudetavad."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Pistikprogramm e-kirju ei saada. Igatunnine kontroll (WP-Cron) käivitab tähtaja ületamisel tegevuse wm_hinschg_sla_breach_detected."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Kuni 15.09.2026 asus siin e-posti, tähtaegade, üleslaadimiste ja säilitamise seadete leht, mida kood kunagi ei kasutanud."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Avalik RSA-võti salvestatud ja serveris olnud privaatvõti eemaldatud (võrguühenduseta hoidmine aktiivne)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Avalik hädaabi- ja asendusvõti (2. määratud isik / ombudsman) salvestatud."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Hädaabi- ja asendusvõti eemaldatud."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Tagasi lükatud: edastati privaatvõti. Esitage ainult avalik võti (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Krüpteeritud juhtumid on juba olemas. Kinnitage võtmevahetus selgesõnaliselt märkeruuduga."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "Edastatud tekst ei ole kehtiv avalik RSA-võti (vähemalt 2048 bitti, soovitatav 4096 bitti)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Aktiivne võtmete hoidmine & auditiallkiri"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "RSA-võtme allikas:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Hädaabi- & asendusvõti:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "hoiul (topeltümbrik aktiivne 2. määratud isiku / ombudsmani jaoks)"
+      ],
+      "nicht hinterlegt": [
+        "pole hoiul"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Auditiahela võti:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(AUTH_KEY-st sõltumatuks võtmevahetuseks määrake %s failis wp-config.php)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Võtmete loomine brauseris (võrguühenduseta hoidmine ilma serveri privaatvõtmeta)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Loob RSA-OAEP-4096-võtmepaari kohapeal teie brauseris (WebCrypto). Privaatvõti laaditakse otse teie seadmesse .pem-failina ega puutu kunagi kokku PHP, veebiserveri ega MySQL-andmebaasiga. Serveris salvestatakse ainult avalik võti, millega sissetulevad teated pitseeritakse."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Loo RSA-4096-võtmepaar kohapeal brauseris & laadi privaatvõti alla"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Avalik RSA-võti (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Asenda olemasolev võti (olemasolevad teated vajavad endiselt varasemat privaatvõtit)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Salvesta ainult avalik võti (aktiveeri võrguühenduseta hoidmine)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Teavitusüksuse avalikku võtit saavad hoiule anda ainult saidi administraatorid (manage_options)."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Hädaabi- & asendusvõti (teavitusüksuse 2. määratud isik / ombudsman)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Valikuline topeltümbrik uutele teadetele ja sõnumitele: AES-256-seansivõti pitseeritakse lisaks selle avaliku RSA-võtmega, et asendaja saaks puudumise ajal brauseris kohapeal dekrüpteerida. HinSchG § 8 lg 1 ja § 15 järgi tohib selle privaatvõtme hoidmine olla ainult teise teavitusüksusele määratud isiku või sõltumatu ombudsmani käes — mitte kunagi juhtkonna ega üldise IT-halduse käes. Eemaldamiseks tühjendage väli ja salvestage."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Loo asendaja võtmepaar (RSA-4096) kohapeal brauseris & laadi privaatvõti alla"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Avalik hädaabi- & asendusvõti (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Salvesta hädaabi- & asendusvõti"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Avalikku hädaabi- ja asendusvõtit saavad hoiule anda ainult saidi administraatorid (manage_options)."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Desinstallimise eelistus salvestatud."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Seadusjärgne säilitamine (§ 11 HinSchG) ja desinstallimine"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Vastavalt § 11 lg 5 HinSchG säilitatakse dokumentatsiooni kolm aastat pärast menetluse lõppu. Vaikimisi säilitatakse pistikprogrammi kustutamisel teated, sõnumid, auditilogi ja võtmepaar."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Kustuta pistikprogrammi eemaldamisel pöördumatult kõik teated, sõnumid, auditikirjed ja võtmed"
+      ],
+      "Deinstallations-Option speichern": [
+        "Salvesta desinstallimise valik"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Ainult saidi administraatorid (manage_options) saavad muuta desinstallimise käitumist."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Juhtumi ID ja pääsuvõti"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Antakse teavitajale üks kord pärast saatmist. Võti on 64 märki pikk; salvestatakse ainult selle HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Hiljemalt seitsme päeva möödudes (§ 17 lg 1 p 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Kolme kuu jooksul pärast kättesaamise kinnitust koos kavandatud või võetud järelmeetmetega (§ 17 lg 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Krüpteerimine"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Teated ja sõnumid krüpteeritakse AES-256-GCM-iga ning AES-võti pitseeritakse RSA-OAEP-ga (valikuliselt ka topeltümbrikuna 2. määratud isiku / ombudsmani hädaabi- & asendusvõtme jaoks). Kus privaatne RSA-võti asub, näitavad vahekaart „Võtmete hoidmine“ ja wp hinschg key-status: failis wp-config.php (WM_HINSCHG_PRIVATE_KEY), pitseeritud Libsodium XSalsa20-Poly1305-ga (WM_HINSCHG_MASTER_KEY või AUTH_KEY), krüpteeritud OpenSSL-iga (WM_HINSCHG_KEY_PASSPHRASE) või ainult kohapeal brauseris ilma serveri privaatvõtmeta (võrguühenduseta hoidmine). Teavitusüksuse vastused saavad lisaks pääsuvõtme jaoks pitseeritud kasti, rikkumisest teataja sisestused aga jäävad puhtalt asümmeetriliselt pitseerituks. Brauseri ja serveri vahel kaitseb HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Õigus teate avamiseks"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Pistikprogramm kontrollib õigust wm_hinschg_read_cases ja lisab rolli „Meldestelle (HinSchG)”. WordPress või rollihaldur määrab selle hoidjad. Paigaldamisel antakse see rollile „Administrator”; hilisem eemaldamine on eesmärk. wp hinschg access näitab hoidjaid."
+      ],
+      "Audit-Protokoll": [
+        "Auditilogi"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Iga kirje sisaldab eelmise kirje HMAC-SHA256 räsi. Muudatused, kustutamised ja lisamised tuvastatakse; wp-config.php võtme valdaja saab ahela uuesti allkirjastada."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "Auditilogi on ajutiselt hõivatud. Proovige varsti uuesti."
+      ],
+      "Case ID is required.": [
+        "Juhtumi ID on kohustuslik."
+      ],
+      "Case not found.": [
+        "Juhtumit ei leitud."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "Selle teate krümbrik on poolikult salvestatud ega ole dekrüpteeritav."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Seda teadet ei õnnestunud dekrüpteerida. Võtme allikas: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Teate kirjeldus ei tohi olla tühi."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Hoidke seda pääsuvõtit turvaliselt. See on AINUS viis oleku kontrollimiseks või konfidentsiaalseks suhtluseks oma isikut avaldamata."
+      ],
+      "Case ID and Access Token are required.": [
+        "Nõutavad on juhtumi ID ja pääsuvõti."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Vigane juhtumi ID või pääsuvõti."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Nõutavad on juhtumi ID, pääsuvõti ja sõnum."
+      ],
+      "Confidential message appended successfully.": [
+        "Konfidentsiaalne sõnum lisati edukalt."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Selle teate kättesaamine on juba kinnitatud."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Kättesaamise kinnitus: teie teade on sisemises teavitusüksuses vastu võetud (§ 17 lg 1 p 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Kinnitus registreeriti ja saadeti teavitaja juhtumivaatesse."
+      ],
+      "Case ID and message are required.": [
+        "Nõutavad on juhtumi ID ja sõnum."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Vastus salvestati teavitaja juhtumivaatesse."
+      ],
+      "Eingegangen": [
+        "Laekunud"
+      ],
+      "In Bearbeitung": [
+        "Menetluses"
+      ],
+      "Rückmeldung gegeben": [
+        "Tagasiside antud"
+      ],
+      "Abgeschlossen": [
+        "Suletud"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Finantspettus, omastamine, korruptsioon ja altkäemaks"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR-i rikkumised ja andmelekked"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-turvalisus ja küberintsidendid"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Tarneahel ja inimõigused"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Tööohutus, diskrimineerimine ja ahistamine"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Üldised vastavusrikkumised"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privaatvõti asub failis wp-config.php. Andmebaasi tõmmis üksi ei dekrüpteeri ühtegi teadet."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privaatvõti on andmebaasis krüpteeritud Libsodiumiga (XSalsa20-Poly1305); peavõti (WM_HINSCHG_MASTER_KEY) on failis wp-config.php. Tõmmis üksi ei dekrüpteeri midagi."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Privaatvõti on andmebaasis krüpteeritud; paroolifraas asub failis wp-config.php. Tõmmis üksi ei dekrüpteeri midagi."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Privaatvõti on andmebaasis krüpteeritud Libsodiumiga (tuletatud wp-config.php AUTH_KEY väärtusest). Tõmmis üksi ei dekrüpteeri midagi; sõltumatuks võtmevahetuseks on soovitatav WM_HINSCHG_MASTER_KEY."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Andmebaasis on ainult avalik võti (võrguühenduseta hoidmine). Uued teated pitseeritakse; nende lugemiseks kasutage juhtumivaates kohalikku brauseridekrüpteerimist või määrake WM_HINSCHG_PRIVATE_KEY failis wp-config.php."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Võtmepaari pole veel hoiule antud. Looge vahekaardil „Võtmete hoidmine“ kohalik brauseri võtmepaar (võrguühenduseta hoidmine) või määrake WM_HINSCHG_MASTER_KEY failis wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Privaatvõti on andmebaasis teadete kõrval krüpteerimata. Täieliku andmebaasitõmmise valdaja saab dekrüpteerida kõik teated."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "Edastatud tekst ei ole kehtiv avalik RSA-võti PEM-vormingus."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "Avalik võti peab olema vähemalt 2048-bitine RSA-võti (soovitatav: 4096 bitti)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Turvakatkestus: edastati privaatvõti. Võrguühenduseta hoidmisel tohib salvestada ainult avalikku võtit (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Krüpteeritud juhtumid on juba olemas. Kinnitage võtmevahetus selgesõnaliselt, kuna olemasolevad teated vajavad endiselt varasemat privaatvõtit."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Avalik RSA-võti salvestatud ja serveri privaatvõti eemaldatud (võrguühenduseta hoidmine aktiivne)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Turvakatkestus: edastati privaatvõti. Hädaabi- ja asendusvõtmena tohib salvestada ainult avalikku võtit (BEGIN PUBLIC KEY)."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Logi on tühi, kuigi viimati oli registreeritud %d kirjet."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Ahela katkemine kirjel #%d: kirje on kustutatud, vahele lisatud või ümber tõstetud."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Kirje #%d ei vasta allkirjale: seda on hiljem muudetud või kirjutatud teise AUTH_KEY võtmega (nt enne saidi kolimist)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "Logi lõpp ei ühti viimati märgitud kirjega. Uusimad kirjed on eemaldatud."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "Registreeritud ahelalõpu allkiri on kehtetu. Logi lõppu on muudetud."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Ühelgi kirjel pole võtmega allkirja. Logi pärineb võtme-eelsest ajast või viidi võltsitavasse vormingusse ega ole kontrollitav."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "WM HinSchG Whistleblower Desk'i ei saanud aktiveerida, kuna järgmised nõutavad PHP-laiendused puuduvad: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Puuduv PHP-laiendus"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Failis wp-config.php pole määratud ei %1$s ega %2$s. Ilma saladuseta failis wp-config.php ei saa võtit krüpteerida."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Andmebaasis puudub privaatvõti. Pole midagi migreerida."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Salvestatud võtit ei saa WM_HINSCHG_MASTER_KEY abil dekrüpteerida. Taastage algne peavõti; midagi ei kirjutatud üle."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Privaatvõti on juba Libsodiumiga (WM_HINSCHG_MASTER_KEY) krüpteeritud. Midagi pole vaja teha."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Salvestatud võtit ei saanud avada. Midagi ei kirjutatud üle."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Libsodiumiga pitseeritud võtit ei õnnestunud kontrollida. Midagi ei kirjutatud üle."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Privaatvõti on nüüd andmebaasis krüpteeritud Libsodiumiga (WM_HINSCHG_MASTER_KEY). Tõmmis üksi teateid enam ei ava."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Salvestatud võtit ei saa avada ei ilma paroolifraasita ega seadistatud fraasiga. Taastage vana fraas, muidu ei saa ühtegi teadet lugeda."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Privaatvõti on juba seadistatud paroolifraasiga krüpteeritud. Midagi pole vaja teha."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Võtit ei õnnestunud krüpteeritult eksportida. Salvestatud võti jääb muutmata."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Krüpteeritud võtit ei saanud uuesti avada. Midagi ei kirjutatud üle."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Privaatvõti on nüüd andmebaasis krüpteeritud. Tõmmis üksi ei ava midagi. Paroolifraas failis wp-config.php on edaspidi hädavajalik."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG kanali olek"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d päeva kättesaamise kinnituseks (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d kuud tagasiside tähtaeg (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Sisemine teavituskanal aktiivne"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Teavituskanalit seadistatakse"
+      ],
+      "Interne Meldestelle": [
+        "Sisemine teavituskanal"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Siin saate teatada rikkumistest. Nime ega e-posti aadressi ei küsita."
+      ],
+      "Neuen Hinweis melden": [
+        "Esita uus teade"
+      ],
+      "Vorgang abrufen": [
+        "Ava juhtum"
+      ],
+      "Was gespeichert wird:": [
+        "Mida salvestatakse:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Kategooria ja kirjeldus serveris krüpteeritult. Teie IP-aadressi teatega koos ei salvestata; päringute piiramiseks hoiab sait kuni ühe tunni vältel selle HMAC-räsi. Veebiserveri võimaliku logimise määrab saidi haldaja, mitte see vorm. Pärast saatmist saate juhtumi ID ja pääsuvõtme täpsustuste ning tagasiside jaoks."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Kirjeldage asjaolusid võimalikult täpselt (koht, kuupäev, seotud isikud)…"
+      ],
+      "Hinweis absenden": [
+        "Saada teade"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Sisestage juhtumi ID ja pääsuvõti, et näha seisu ja kirjutada teavitusüksusele."
+      ],
+      "Vorgangs-ID": [
+        "Juhtumi ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "nt CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Pääsuvõti"
+      ],
+      "64 Zeichen": [
+        "64 märki"
+      ],
+      "Vorgang laden": [
+        "Laadi juhtum"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Rolli %s ei eksisteeri."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Roll %s tohib juba teateid avada. Midagi pole vaja teha."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Roll %s tohib nüüd teateid avada."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Roll %s ei tohtinud niikuinii teateid avada. Midagi pole vaja teha."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Katkestatud: pärast seda ei saaks keegi enam teateid avada. Üksus peab kinnitama kättesaamise seitsme päeva jooksul (§ 17 HinSchG). Volitage esmalt keegi teine ja eemaldage õigus seejärel siit."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Roll %s ei tohi enam teateid avada."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "Kasutajat %d ei eksisteeri."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s tohib nüüd teateid avada."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Katkestatud: pärast seda ei saaks keegi enam teateid avada. Volitage esmalt keegi teine ja eemaldage õigus seejärel siit."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s ei tohi enam teateid avada."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Liiga palju päringuid. Proovige hiljem uuesti."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Teavitusportaal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Sisemine vihjeandjate vorm ja juhtumi oleku päring HinSchG alusel."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portaali seaded"
+      ],
+      "Überschrift": [
+        "Pealkiri"
+      ],
+      "Einleitungstext anzeigen": [
+        "Kuva sissejuhatav tekst"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Teavitusportaal (eelvaade lehel)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "HinSchG Teavitusportaal"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Sisemine rikkumisest teavitamise ja juhtumi jälgimise vorm Saksa HinSchG alusel."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-seadus"
+      ],
+      "block keyword\u0004whistleblower": [
+        "vihjeandja"
+      ],
+      "block keyword\u0004meldestelle": [
+        "teavitusuksus"
+      ],
+      "block keyword\u0004compliance": [
+        "vastavus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "translation-revision-date": "2026-11-21T14:36:34+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "mt_MT",
+        "plural-forms": "nplurals=4; plural=(n==1 ? 0 : n==0 || (n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Skrivanija tar-Rappurtaġġ WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Stazzjon intern ta' rappurtaġġ: formola tar-rapport, kriptaġġ fuq is-server ta' rapporti u messaġġi, traċċar tal-iskadenzi skont § 17 HinSchG u reġistru tal-awditjar iffirmat. Ma jivvalutax il-konformità legali."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Uffiċċju tar-Rappurtaġġ"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "It-tabella tar-rapporti hija nieqsa (erga' attiva l-plugin)"
+      ],
+      "%d Frist überschritten": [
+        "%d skadenza maqbuża",
+        "%d skadenzi maqbużin",
+        "%d skadenza maqbuża",
+        "%d skadenza maqbuża"
+      ],
+      "Keine Frist überschritten": [
+        "L-ebda skadenza ma nqabżet"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Konferma tal-wasla fi żmien 7 ijiem, rispons fi żmien 3 xhur (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Każijiet"
+      ],
+      "Offen": [
+        "Miftuħa"
+      ],
+      "Überfällig": [
+        "Maqbura"
+      ],
+      "Meldestelle öffnen": [
+        "Iftaħ l-uffiċċju tar-rappurtaġġ"
+      ],
+      "HinSchG-Meldestelle": [
+        "Uffiċċju HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Uffiċċju tar-Rappurtaġġ (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "Ma nstabet l-ebda ċavetta privata PKCS#8 valida (BEGIN PRIVATE KEY)."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto huwa disponibbli biss permezz ta' HTTPS jew fuq localhost."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "Il-par ta' ċwievet RSA-4096 qed jiġi kkalkulat lokalment fil-browser …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Iċ-ċavetta privata tniżżlet lokalment. Issa ivverifika u ssejvja ċ-ċavetta pubblika."
+      ],
+      "Fehler: ": [
+        "Żball: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Id-diċifrar lokali fil-browser għaddej …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Test tar-rapport (diċifrat lokalment fil-browser)"
+      ],
+      "Verlauf": [
+        "Kronoloġija"
+      ],
+      "Meldestelle": [
+        "Uffiċċju tar-Rappurtaġġ"
+      ],
+      "Hinweisgebende Person": [
+        "Persuna li tirrapporta"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Ir-rapport ġie diċifrat lokalment fil-browser. Iċ-ċavetta privata ma ħarġitx mill-browser."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Id-diċifrar falla: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Il-konferma tal-wasla qed tiġi ssejvjata …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Il-konferma tal-wasla ġiet issejvjata. Il-veduta qed tiġi aġġornata …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "It-tweġiba qed tiġi ssejvjata kriptata …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "It-tweġiba ġiet issejvjata kriptata. Il-veduta qed tiġi aġġornata …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Jekk jogħġbok daħħal it-test tal-messaġġ."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Ir-reġistru tal-awditjar huwa okkupat temporanjament. Erġa' pprova f'2 sekondi."
+      ],
+      "Vorgänge & Fristen": [
+        "Każijiet u Skadenzi"
+      ],
+      "Formular einbinden": [
+        "Inkorpora l-formola"
+      ],
+      "Testmeldung": [
+        "Rapport ta' prova"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Skadenzi u Notifiki"
+      ],
+      "Schlüsselverwahrung": [
+        "Kustodja taċ-ċwievet"
+      ],
+      "Deinstallation": [
+        "Diżinstallazzjoni"
+      ],
+      "Begriffe": [
+        "Glossarju"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Irċievi rapporti permezz tal-formola, aħżinhom b'mod kriptat u kkalkula l-iskadenzi skont § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parti mill-familja ta' plugins WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Ċentru Hub"
+      ],
+      "Standalone": [
+        "Modalità Indipendenti"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Par ċwievet disponibbli"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "L-ebda par ċwievet: ir-rapporti ma jistgħux jinħażnu"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "X'għandu jipprovdi l-uffiċċju intern tar-rappurtaġġ"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Min iħaddem b'mill-inqas 50 impjegat bħala regola jrid iwaqqaf uffiċċju intern tar-rappurtaġġ (§ 12(2) HinSchG); għall-entitajiet f'§ 12(3), bħal istituzzjonijiet ta' kreditu, ditti ta' investiment u kumpaniji tal-assigurazzjoni, dan japplika irrispettivament mill-għadd ta' ħaddiema. L-uffiċċju jikkonferma l-wasla sa sebat ijiem u jagħti rispons fi żmien tliet xhur (§ 17). Ir-rappurtaġġ irid ikun possibbli bil-miktub, bil-fomm u fuq talba personalment (§ 16(3)); dan il-plugin ikopri biss il-kanal bil-miktub. Rapporti anonimi għandhom jiġu pproċessati mingħajr obbligu ta' kanal apposta (§ 16(1)). Id-dokumentazzjoni titħassar tliet snin wara li jintemm il-proċediment (§ 11(5)); il-plugin ma jħassar xejn waħdu u ma jeżaminax obbligi legali."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Inħolqu tliet każijiet dimostrassjoni (ċwievet ta' aċċess token_demo_1 sa token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Ir-rapport ta' prova ġie maħżun b'mod kriptat."
+      ],
+      "Vorgangs-ID:": [
+        "ID tal-każ:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Ċavetta ta' aċċess (tidher issa biss):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Taqsimiet tal-uffiċċju tar-rappurtaġġ"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "Iċ-ċavetta privata tinsab mhux protetta fid-database."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Issettja %1$s (rakkomandat, Libsodium XSalsa20-Poly1305, jimmigra awtomatikament) jew %2$s f'wp-config.php u ħaddem %3$s. Il-par ċwievet jinżamm; tinbidel biss il-forma maħżuna sabiex ir-rapporti kollha ta' qabel jibqgħu jinqraw."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d persuna tista' tiftaħ ir-rapporti.",
+        "%d persuni jistgħu jiftħu r-rapporti.",
+        "%d persuna jistgħu jiftħu r-rapporti.",
+        "%d persuna jistgħu jiftħu r-rapporti."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Inkluż ir-rwol %1$s, jiġifieri kull amministratur ta' dan is-sit. § 8 HinSchG iżomm il-kontenut għand il-persuni fdati bil-kanal. B'%2$s tara l-lista; agħti r-rwol \"Meldestelle (HinSchG)\" u mbagħad neħħi l-permess b'%3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "L-amministraturi ta' dan is-sit ma jistgħux jiftħu r-rapporti sakemm ma jkollhomx dan il-permess."
+      ],
+      "Meldung %s": [
+        "Rapport %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "Il-każ ma setax jitgħabba."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Diċifrar lokali fil-browser (agħżel iċ-ċavetta privata offline)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Agħżel il-fajl taċ-ċavetta PKCS#8 (.pem) maħżun lokalment. Id-diċifrar isir esklussivament fil-memorja tax-xogħol tal-browser tiegħek; iċ-ċavetta privata ma tintbagħatx lis-server."
+      ],
+      "Meldungstext": [
+        "Test tar-rapport"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Dan il-messaġġ ma setax jiġi dekriptat."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Kull ftuħ ta' dan ir-rapport jitniżżel fir-reġistru tal-awditjar (§ 8 HinSchG: il-kontenut huwa kunfidenzjali wkoll fi ħdan l-organizzazzjoni)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Ġestjoni tal-każ skont il-§ 17 HinSchG"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Konferma tal-wasla rreġistrata fil-%s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Il-wasla għadha mhix ikkonfermata (§ 17(1) punt 1 HinSchG: skadenza ta' 7 ijiem)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Rispons finali rreġistrat fil-%s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Ikkonferma l-wasla (§ 17(1) HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Mistoqsija ulterjuri jew rispons lill-persuna li tirrapporta"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Jiġi ssejvjat kriptat u jitqiegħed għad-dispożizzjoni tal-persuna li tirrapporta taħt \"Iċċekkja każ\". Il-plugin ma jibgħat l-ebda email."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Rispons finali skont il-§ 17(2) HinSchG"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Ibgħat it-tweġiba kriptata"
+      ],
+      "Zurück zur Übersicht": [
+        "Lura għall-ħarsa ġenerali"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Reġistru tal-awditjar: katina vverifikata, l-ebda bidla sussegwenti misjuba"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Reġistru tal-awditjar: il-verifika tal-integrità falliet"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d entrata vverifikata. Ċavetta tal-firma: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d entrati storiċi mingħajr firma"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Żball mhux magħruf waqt il-verifika."
+      ],
+      "Offene Vorgänge": [
+        "Każijiet miftuħa"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "mingħajr rispons finali"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Konferma tal-wasla maqbura"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "mhux ikkonfermata, skadenza ta' 7 ijiem għaddiet"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Konferma dovuta fi żmien 48 siegħa"
+      ],
+      "noch nicht bestätigt": [
+        "għadha mhix ikkonfermata"
+      ],
+      "Rückmeldung überfällig": [
+        "Rispons maqbur"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "l-ebda rispons, skadenza għaddiet"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "L-aħħar 50 każ bl-istat u l-iskadenzi. Il-kontenut jibqa' kriptat."
+      ],
+      "Vorgang": [
+        "Każ"
+      ],
+      "Kategorie": [
+        "Kategorija"
+      ],
+      "Status": [
+        "Stat"
+      ],
+      "Eingangsbestätigung": [
+        "Konferma tal-wasla"
+      ],
+      "Rückmeldung": [
+        "Rispons"
+      ],
+      "Eingang": [
+        "Wasal"
+      ],
+      "Noch keine Vorgänge.": [
+        "Għad m'hemmx każijiet."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Oħloq tliet każijiet dimostrassjoni"
+      ],
+      "bestätigt am %s": [
+        "ikkonfermat fi %s"
+      ],
+      "Frist %s": [
+        "Skadenza %s"
+      ],
+      "überfällig": [
+        "maqbur"
+      ],
+      "gegeben am %s": [
+        "mogħti fi %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Inkorpora l-formola tar-rappurtaġġ fuq is-sit"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Oħloq paġna, pereżempju \"Sistema ta' Rappurtaġġ\"."
+      ],
+      "Den Shortcode einfügen:": [
+        "Daħħal ix-shortcode:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(ekwivalenti: [wm_hinschg_portal] jew il-blokk \"wm/hinschg-portal\")."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Agħmel ħolqa fejn l-impjegati jsibuha, bħall-intranet jew il-qiegħ tal-paġna."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Wara li jissottometti, ir-rapportatur jirċievi ID tal-każ u ċavetta ta' aċċess. Bit-tnejn jista' jara l-istat u jikteb messaġġi fl-istess formola mingħajr ma jagħti isem jew email. Jinħażen biss HMAC taċ-ċavetta; jekk tintilef, ma jkunx hemm aktar aċċess."
+      ],
+      "Testmeldung anlegen": [
+        "Oħloq rapport ta' prova"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Joħloq każ bl-istess mod bħall-formola u juri ċ-ċavetta ta' aċċess darba sabiex il-portal ikun jista' jiġi ttestjat."
+      ],
+      "Sachverhalt": [
+        "Deskrizzjoni tal-fatti"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Maħżun kriptat b'AES-256-GCM; iċ-ċavetta tiġi ssiġillata biċ-ċavetta RSA tal-plugin."
+      ],
+      "Testmeldung speichern": [
+        "Issejvja r-rapport ta' prova"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Konferma tal-wasla: wasla + %d ijiem. § 17(1) Nru 1 HinSchG jitlob konferma mhux aktar tard minn sebat ijiem."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Rispons: wasla + %d xhur. § 17(2) HinSchG jgħodd tliet xhur mill-konferma (tliet xhur u sebat ijiem mingħajrha); l-iskadenza tal-plugin qatt ma tkun aktar tard."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "L-iskadenzi huma fissi fil-kodiċi u ma jistgħux jinbidlu."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "Il-plugin ma jibgħatx emails. Kontroll kull siegħa (WP-Cron) iqajjem l-azzjoni wm_hinschg_sla_breach_detected meta tinqabeż skadenza."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Sal-15/09/2026 kien hemm hawn paġna ta' settings għall-email, skadenzi, uploads u żamma li l-kodiċi qatt ma qara."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Iċ-ċavetta RSA pubblika ġiet issejvjata u kwalunkwe ċavetta privata fuq is-server tneħħiet (kustodja offline attiva)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Iċ-ċavetta pubblika ta' emerġenza u ta' sostituzzjoni (it-2 persuna nnominata / ombudsman) ġiet issejvjata."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Iċ-ċavetta ta' emerġenza u ta' sostituzzjoni tneħħiet."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Miċħud: intbagħtet ċavetta privata. Jekk jogħġbok issottometti biss iċ-ċavetta pubblika (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Diġà jeżistu każijiet kriptati. Jekk jogħġbok ikkonferma espressament il-bidla taċ-ċavetta permezz tal-kaxxa tal-immarkar."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "It-test sottomess mhuwiex ċavetta RSA pubblika valida (mill-inqas 2048 bit, rakkomandat 4096 bit)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Kustodja attiva taċ-ċwievet & firma tal-awditjar"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "Sors taċ-ċavetta RSA:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Ċavetta ta' emerġenza & ta' sostituzzjoni:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "depożitata (envelopp doppju attiv għat-2 persuna nnominata / ombudsman)"
+      ],
+      "nicht hinterlegt": [
+        "mhux depożitata"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Ċavetta tal-katina tal-awditjar:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(għal rotazzjoni taċ-ċwievet indipendenti minn AUTH_KEY, issettja %s f'wp-config.php)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Ġenerazzjoni taċ-ċwievet fil-browser (kustodja offline mingħajr ċavetta privata fuq is-server)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Jiġġenera par ta' ċwievet RSA-OAEP-4096 lokalment fil-browser tiegħek (WebCrypto). Iċ-ċavetta privata titniżżel direttament fuq it-tagħmir tiegħek bħala fajl .pem u qatt ma tmiss PHP, is-server tal-web jew id-database MySQL. Fuq is-server tiġi ssejvjata biss iċ-ċavetta pubblika li biha jiġu ssiġillati r-rapporti deħlin."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Iġġenera par ta' ċwievet RSA-4096 lokalment fil-browser & niżżel iċ-ċavetta privata"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Ċavetta RSA pubblika (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Ibdel iċ-ċavetta eżistenti (ir-rapporti eżistenti xorta jeħtieġu ċ-ċavetta privata ta' qabel)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Issejvja biss iċ-ċavetta pubblika (attiva l-kustodja offline)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Biss l-amministraturi tas-sit (manage_options) jistgħu jiddepożitaw iċ-ċavetta pubblika tal-uffiċċju tar-rappurtaġġ."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Ċavetta ta' emerġenza & ta' sostituzzjoni (it-2 persuna nnominata tal-uffiċċju tar-rappurtaġġ / ombudsman)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Envelopp doppju fakultattiv għal rapporti u messaġġi ġodda: iċ-ċavetta tas-sessjoni AES-256 tiġi ssiġillata wkoll b'din iċ-ċavetta RSA pubblika, sabiex sostitut ikun jista' jiddiċifra lokalment fil-browser f'każ ta' assenza. Skont il-§ 8(1) u l-§ 15 HinSchG, iċ-ċavetta privata tista' tinżamm biss minn persuna oħra nnominata għall-uffiċċju tar-rappurtaġġ jew minn ombudsman indipendenti — qatt mill-maniġment jew mill-amministrazzjoni ġenerali tal-IT. Biex tneħħiha, battal il-qasam u ssejvja."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Iġġenera par ta' ċwievet ta' sostituzzjoni (RSA-4096) lokalment fil-browser & niżżel iċ-ċavetta privata"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Ċavetta pubblika ta' emerġenza & ta' sostituzzjoni (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Issejvja ċ-ċavetta ta' emerġenza & ta' sostituzzjoni"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Biss l-amministraturi tas-sit (manage_options) jistgħu jiddepożitaw iċ-ċavetta pubblika ta' emerġenza u ta' sostituzzjoni."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "L-għażla tad-diżinstallazzjoni ġiet issejvjata."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Żamma legali (§ 11 HinSchG) u diżinstallazzjoni"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Skont § 11(5) HinSchG id-dokumentazzjoni tinżamm għal tliet snin wara t-tmiem tal-proċedura. B'mod awtomatiku r-rapporti, il-messaġġi, ir-reġistru u ċ-ċwievet jinżammu meta jitħassar il-plugin."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Ħassar b'mod irrevokabbli r-rapporti, il-messaġġi, l-entrati tal-awditjar u ċ-ċwievet kollha waqt id-diżinstallazzjoni"
+      ],
+      "Deinstallations-Option speichern": [
+        "Issejvja l-għażla tad-diżinstallazzjoni"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "L-amministraturi tas-sit biss (manage_options) jistgħu jibdlu l-imġiba tad-diżinstallazzjoni."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID tal-każ u ċavetta ta' aċċess"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Jingħataw darba wara s-sottomissjoni. Iċ-ċavetta fiha 64 karattru; jinħażen biss l-HMAC tagħha."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Mhux aktar tard minn sebat ijiem (§ 17(1) Nru 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Fi żmien tliet xhur mill-konferma tal-wasla bil-miżuri ppjanati jew meħuda (§ 17(2) HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Kriptaġġ"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Ir-rapporti u l-messaġġi jiġu kriptati b'AES-256-GCM u ċ-ċavetta AES tiġi ssiġillata b'RSA-OAEP (fakultattivament ukoll bħala envelopp doppju għaċ-ċavetta ta' emerġenza & ta' sostituzzjoni tat-2 persuna nnominata / ombudsman). Fejn tinsab iċ-ċavetta RSA privata juruha t-tab \"Kustodja taċ-ċwievet\" u wp hinschg key-status: f'wp-config.php (WM_HINSCHG_PRIVATE_KEY), issiġillata b'Libsodium XSalsa20-Poly1305 (WM_HINSCHG_MASTER_KEY jew AUTH_KEY), kriptata b'OpenSSL (WM_HINSCHG_KEY_PASSPHRASE) jew biss lokalment fil-browser mingħajr ċavetta privata fuq is-server (kustodja offline). It-tweġibiet tal-uffiċċju tar-rappurtaġġ jirċievu wkoll kaxxa ssiġillata għaċ-ċavetta ta' aċċess, filwaqt li l-input tal-persuna li tirrapporta jibqa' ssiġillat b'mod purament asimmetriku. Bejn il-browser u s-server jipproteġi l-HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Permess biex jinfetaħ rapport"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "Il-plugin jiċċekkja l-permess tiegħu wm_hinschg_read_cases u jipprovdi r-rwol \"Meldestelle (HinSchG)\". Ir-rwoli ta' WordPress jiddeċiedu min ikollu dan il-permess. Waqt l-installazzjoni jingħata lil \"Administrator\"; li jitneħħa wara huwa l-għan. wp hinschg access juri min għandu aċċess."
+      ],
+      "Audit-Protokoll": [
+        "Reġistru tal-awditjar"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Kull entrata ġġorr HMAC-SHA256 fuq ta' qabilha. Bidliet, tħassir u żidiet jinqabdu; min għandu ċ-ċavetta minn wp-config.php jista' jerġa' jiffirma l-katina."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "Ir-reġistru tal-awditjar huwa okkupat temporanjament. Erġa' pprova ftit wara."
+      ],
+      "Case ID is required.": [
+        "L-ID tal-każ hija meħtieġa."
+      ],
+      "Case not found.": [
+        "Il-każ ma nstabx."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "L-envelopp ta' dan ir-rapport mhuwiex komplut; ma jistax jiġi dekriptat."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "Dan ir-rapport ma setax jiġi dekriptat. Sors taċ-ċavetta: %s"
+      ],
+      "Report description cannot be empty.": [
+        "Id-deskrizzjoni tar-rapport ma tistax tkun vojta."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Erfgħa din iċ-ċavetta ta' aċċess f'post sigur. Hija l-UNIKU mod biex tiċċekkja l-istat jew tikkomunika b'mod kunfidenzjali mingħajr ma tikxef l-identità tiegħek."
+      ],
+      "Case ID and Access Token are required.": [
+        "Huma meħtieġa l-ID tal-każ u ċ-ċavetta ta' aċċess."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "ID tal-każ jew ċavetta ta' aċċess invalida."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Huma meħtieġa l-ID tal-każ, iċ-ċavetta ta' aċċess u l-messaġġ."
+      ],
+      "Confidential message appended successfully.": [
+        "Il-messaġġ kunfidenzjali ġie miżjud b'suċċess."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Il-wasla ta' dan ir-rapport diġà ġiet ikkonfermata."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Konferma tal-wasla: ir-rapport tiegħek wasal għand l-uffiċċju intern tar-rappurtaġġ (§ 17(1) Nru 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Il-konferma ġiet irreġistrata u mibgħuta fil-paġna tal-każ tar-rapportatur."
+      ],
+      "Case ID and message are required.": [
+        "Huma meħtieġa l-ID tal-każ u l-messaġġ."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "It-tweġiba ġiet maħżuna fil-paġna tal-każ tar-rapportatur."
+      ],
+      "Eingegangen": [
+        "Wasal"
+      ],
+      "In Bearbeitung": [
+        "Fl-ipproċessar"
+      ],
+      "Rückmeldung gegeben": [
+        "Rispons mogħti"
+      ],
+      "Abgeschlossen": [
+        "Magħluq"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Frodi finanzjarja, miżapproprjazzjoni, korruzzjoni u tixħim"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Ksur tal-GDPR u ksur tad-data"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Sigurtà tal-IT u inċidenti ċibernetiċi"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Katina tal-provvista u drittijiet tal-bniedem"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Saħħa u sigurtà fuq il-post tax-xogħol, diskriminazzjoni u fastidju"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Ksur ġenerali ta' konformità"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Iċ-ċavetta privata tinsab f'wp-config.php. Kopja tad-database waħedha ma tiddekripta l-ebda rapport."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Iċ-ċavetta privata hija kriptata fid-database permezz ta' Libsodium (XSalsa20-Poly1305); iċ-ċavetta ewlenija (WM_HINSCHG_MASTER_KEY) tinsab f'wp-config.php. Kopja tad-database waħedha ma tiddekripta xejn."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "Iċ-ċavetta privata hija kriptata fid-database; il-passphrase tinsab f'wp-config.php. Kopja tad-database waħedha ma tiddekripta xejn."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "Iċ-ċavetta privata hija kriptata fid-database permezz ta' Libsodium (derivata minn AUTH_KEY f'wp-config.php). Kopja waħedha ma tiddekripta xejn; WM_HINSCHG_MASTER_KEY huwa rakkomandat għal rotazzjoni separata."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Fid-database hemm biss iċ-ċavetta pubblika (kustodja offline). Ir-rapporti l-ġodda jiġu ssiġillati; biex taqrahom, uża d-diċifrar lokali fil-browser fil-veduta tal-każ jew issettja WM_HINSCHG_PRIVATE_KEY f'wp-config.php."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Għadu ma ġie ddepożitat l-ebda par ta' ċwievet. Iġġenera par ta' ċwievet lokali fil-browser fit-tab \"Kustodja taċ-ċwievet\" (kustodja offline) jew issettja WM_HINSCHG_MASTER_KEY f'wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "Iċ-ċavetta privata tinsab mhux kriptata fid-database ħdejn ir-rapporti. Kull min għandu kopja sħiħa jista' jiddekripta kull rapport."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "It-test sottomess mhuwiex ċavetta RSA pubblika valida f'format PEM."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "Iċ-ċavetta pubblika għandha tkun ċavetta RSA ta' mill-inqas 2048 bit (rakkomandat: 4096 bit)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Interruzzjoni tas-sigurtà: intbagħtet ċavetta privata. Fil-kustodja offline tista' tiġi ssejvjata biss iċ-ċavetta pubblika (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Diġà jeżistu każijiet kriptati. Jekk jogħġbok ikkonferma espressament il-bidla taċ-ċavetta, peress li r-rapporti eżistenti xorta jeħtieġu ċ-ċavetta privata ta' qabel."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Iċ-ċavetta RSA pubblika ġiet issejvjata u ċ-ċavetta privata fuq is-server tneħħiet (kustodja offline attiva)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Interruzzjoni tas-sigurtà: intbagħtet ċavetta privata. Bħala ċavetta ta' emerġenza u ta' sostituzzjoni tista' tiġi ssejvjata biss iċ-ċavetta pubblika (BEGIN PUBLIC KEY)."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "Ir-reġistru huwa vojt għalkemm qabel kienu rreġistrati %d entrati."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Qtugħ fil-katina fl-entrata #%d: entrata tħassret, ġiet imdaħħla jew tqiegħdet f'ordni oħra."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "L-entrata #%d ma taqbilx mal-firma tagħha: ġiet mibdula wara jew inkitbet b'AUTH_KEY differenti (eż. qabel migrazzjoni tas-sit)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "It-tmiem tar-reġistru ma jaqbilx mal-aħħar entrata rreġistrata. L-aktar entrati ġodda tneħħew."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "Il-firma tat-tarf irreġistrat tal-katina mhijiex valida. It-tmiem tar-reġistru ġie mbagħbas."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "L-ebda entrata ma fiha firma bi ċavetta. Ir-reġistru ġej minn qabel iċ-ċavetta jew tniżżel għal format li jista' jiġi ffalsifikat u ma jistax jiġi vverifikat."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "WM HinSchG Whistleblower Desk ma setax jiġi attivat għax l-estensjonijiet PHP meħtieġa li ġejjin huma nieqsa: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Estensjoni PHP nieqsa"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "La %1$s u lanqas %2$s m'huma definiti f'wp-config.php. Mingħajr sigriet f'wp-config.php iċ-ċavetta ma tistax tiġi kriptata."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "M'hemm l-ebda ċavetta privata fid-database. M'hemm xejn x'jimmigra."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "Iċ-ċavetta maħżuna ma tistax tiġi dekriptata b'WM_HINSCHG_MASTER_KEY. Erġa' ġib iċ-ċavetta ewlenija oriġinali; xejn ma nkiteb fuqha."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "Iċ-ċavetta privata diġà hija kriptata permezz ta' Libsodium (WM_HINSCHG_MASTER_KEY). M'hemm xejn x'tagħmel."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "Iċ-ċavetta maħżuna ma setgħetx tinfetaħ. Xejn ma nkiteb fuqha."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "Iċ-ċavetta ssiġillata b'Libsodium ma għaddietx mill-verifika. Xejn ma nkiteb fuqha."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "Iċ-ċavetta privata issa tinsab kriptata permezz ta' Libsodium (WM_HINSCHG_MASTER_KEY) fid-database. Kopja tad-database waħedha ma tistax tiddekripta aktar rapporti."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "Iċ-ċavetta maħżuna ma tinfetaħ la mingħajr u lanqas bil-passphrase kkonfigurata. Erġa' ġib il-passphrase l-qadima inkella l-ebda rapport ma jkun jista' jinqara."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "Iċ-ċavetta privata diġà hija kriptata bil-passphrase kkonfigurata. M'hemm xejn x'tagħmel."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "Iċ-ċavetta ma setgħetx tiġi esportata b'mod kriptat. Iċ-ċavetta maħżuna tibqa' kif inhi."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "Iċ-ċavetta kriptata ma setgħetx terġa' tinfetaħ. Xejn ma nkiteb fuqha."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "Iċ-ċavetta privata issa hija kriptata fid-database. Kopja waħedha ma tiddekripta xejn. Il-passphrase f'wp-config.php issa hija indispensabbli."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Stat tal-Istazzjon HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d ijiem għall-konferma tal-wasla (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d xhur skadenza tar-rispons (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Stazzjon intern tar-rappurtaġġ attiv"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "L-istazzjon tar-rappurtaġġ qed jiġi kkonfigurat"
+      ],
+      "Interne Meldestelle": [
+        "Uffiċċju Intern tar-Rappurtaġġ"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Hawnhekk tista' tirrapporta ksur. L-isem u l-indirizz tal-email ma jintalbux."
+      ],
+      "Neuen Hinweis melden": [
+        "Ibgħat rapport ġdid"
+      ],
+      "Vorgang abrufen": [
+        "Iċċekkja każ"
+      ],
+      "Was gespeichert wird:": [
+        "X'jinħażen:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Il-kategorija u d-deskrizzjoni, kriptati fuq is-server. L-indirizz IP tiegħek ma jinħażinx mar-rapport; biex jillimita t-talbiet is-sit iżomm sa siegħa hash HMAC tiegħu. Jekk is-server tal-web iżommx logs jiddependi mill-operatur tas-sit, mhux minn din il-formola. Wara li tibgħat tirċievi ID tal-każ u ċavetta ta' aċċess għal mistoqsijiet u rispons."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Iddeskrivi l-fatti bl-aktar mod preċiż possibbli (post, data, persuni involuti)…"
+      ],
+      "Hinweis absenden": [
+        "Ibgħat ir-rapport"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Daħħal l-ID tal-każ u ċ-ċavetta ta' aċċess biex tara l-istat u tikteb lill-uffiċċju."
+      ],
+      "Vorgangs-ID": [
+        "ID tal-każ"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "eż. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Ċavetta ta' aċċess"
+      ],
+      "64 Zeichen": [
+        "64 karattru"
+      ],
+      "Vorgang laden": [
+        "Illowdja l-każ"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Ir-rwol %s ma jeżistix."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Ir-rwol %s diġà jista' jiftaħ ir-rapporti. M'hemm xejn x'tagħmel."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Ir-rwol %s issa jista' jiftaħ ir-rapporti."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Ir-rwol %s xorta ma setax jiftaħ ir-rapporti. M'hemm xejn x'tagħmel."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Imħassar: wara dan ħadd ma jkun jista' jiftaħ ir-rapporti. L-uffiċċju jrid jikkonferma l-wasla fi żmien sebat ijiem (§ 17 HinSchG). L-ewwel awtorizza lil xi ħadd ieħor u mbagħad neħħi hawn."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Ir-rwol %s ma jistax jiftaħ aktar ir-rapporti."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "L-utent %d ma jeżistix."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s issa jista' jiftaħ ir-rapporti."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Imħassar: wara dan ħadd ma jkun jista' jiftaħ ir-rapporti. L-ewwel awtorizza lil xi ħadd ieħor u mbagħad neħħi hawn."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s ma jistax jiftaħ aktar ir-rapporti."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Wisq talbiet. Erġa' pprova aktar tard."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portal tar-Rappurtaġġ HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Formola interna ta' rappurtaġġ u stħarriġ tal-każ skont il-HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Settings tal-Portal"
+      ],
+      "Überschrift": [
+        "Titlu"
+      ],
+      "Einleitungstext anzeigen": [
+        "Uri t-test introduttorju"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portal tar-Rappurtaġġ HinSchG (dehra minn quddiem)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "Portal tar-Rappurtaġġ HinSchG"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Formola interna ta' rappurtaġġ u kontroll tal-istat skont il-liġi Ġermaniża HinSchG."
+      ],
+      "block keyword\u0004hinschg": [
+        "ligi-hinschg"
+      ],
+      "block keyword\u0004whistleblower": [
+        "whistleblower-mt"
+      ],
+      "block keyword\u0004meldestelle": [
+        "uffizzju-rapporti"
+      ],
+      "block keyword\u0004compliance": [
+        "konformita"
+      ]
+    }
+  }
+}

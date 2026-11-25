@@ -1,0 +1,1661 @@
+# Translation of wm-hinschg-whistleblower in hu_HU
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-hinschg-whistleblower 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-hinschg-"
+"whistleblower\n"
+"POT-Creation-Date: 2026-11-21T13:16:55+00:00\n"
+"PO-Revision-Date: 2026-11-21 14:33+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-hinschg-"
+"whistleblower/issues>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-hinschg-whistleblower\n"
+
+#. Plugin Name of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "WM HinSchG Whistleblower Desk"
+msgstr "WM HinSchG Bejelentővédelmi Iroda"
+
+#. Plugin URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+
+#. Description of the plugin
+#: wm-hinschg-whistleblower.php
+msgid ""
+"Internal whistleblowing channel: report form, server-side encryption of "
+"reports and messages, deadline tracking under § 17 HinSchG and a keyed audit "
+"log. It does not assess legal compliance."
+msgstr ""
+"Belső visszaélés-bejelentő csatorna: űrlap, bejelentések és üzenetek "
+"szerveroldali titkosítása, § 17 HinSchG határidő-követés és aláírt "
+"auditnapló. Jogi megfelelőséget nem vizsgál."
+
+#. Author of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-hinschg-whistleblower.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:44
+msgid "WM HinSchG — Meldestelle"
+msgstr "WM HinSchG — Bejelentőhely"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid "Tabelle der Meldungen fehlt (Plugin neu aktivieren)"
+msgstr "Hiányzik a bejelentések táblája (aktiválja újra a bővítményt)"
+
+#. translators: %d: number of passed deadlines
+#: includes/Admin/AdminDashboard.php:80 includes/Admin/AdminDashboard.php:423
+#, php-format
+msgid "%d Frist überschritten"
+msgid_plural "%d Fristen überschritten"
+msgstr[0] "%d határidő lejárt"
+msgstr[1] "%d határidő lejárt"
+
+#: includes/Admin/AdminDashboard.php:82 includes/Admin/AdminDashboard.php:425
+msgid "Keine Frist überschritten"
+msgstr "Nincs lejárt határidő"
+
+#: includes/Admin/AdminDashboard.php:86
+msgid ""
+"Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)"
+msgstr ""
+"Visszaigazolás 7 napon belül, visszajelzés 3 hónapon belül (§ 17 HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:93 includes/Admin/AdminDashboard.php:689
+msgid "Vorgänge"
+msgstr "Ügyek"
+
+#: includes/Admin/AdminDashboard.php:97
+msgid "Offen"
+msgstr "Nyitott"
+
+#: includes/Admin/AdminDashboard.php:101
+msgid "Überfällig"
+msgstr "Lejárt"
+
+#: includes/Admin/AdminDashboard.php:107
+msgid "Meldestelle öffnen"
+msgstr "Bejelentőhely megnyitása"
+
+#: includes/Admin/AdminDashboard.php:127 includes/Admin/AdminDashboard.php:407
+msgid "HinSchG-Meldestelle"
+msgstr "HinSchG-bejelentőhely"
+
+#: includes/Admin/AdminDashboard.php:128
+msgid "Meldestelle (HinSchG)"
+msgstr "Bejelentőhely (HinSchG)"
+
+#: includes/Admin/AdminDashboard.php:171
+msgid "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt."
+msgstr "Nem található érvényes PKCS#8 privát kulcs (BEGIN PRIVATE KEY)."
+
+#: includes/Admin/AdminDashboard.php:172
+msgid "WebCrypto ist nur über HTTPS oder localhost verfügbar."
+msgstr "A WebCrypto csak HTTPS-en keresztül vagy localhoston érhető el."
+
+#: includes/Admin/AdminDashboard.php:173
+msgid "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …"
+msgstr "Az RSA-4096 kulcspár kiszámítása helyben, a böngészőben folyik …"
+
+#: includes/Admin/AdminDashboard.php:174
+msgid ""
+"Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den "
+"öffentlichen Schlüssel."
+msgstr ""
+"A privát kulcs helyben letöltve. Most ellenőrizze és mentse a nyilvános "
+"kulcsot."
+
+#: includes/Admin/AdminDashboard.php:175
+msgid "Fehler: "
+msgstr "Hiba: "
+
+#: includes/Admin/AdminDashboard.php:176
+msgid "Lokale Entschlüsselung im Browser läuft …"
+msgstr "Helyi visszafejtés a böngészőben folyamatban …"
+
+#: includes/Admin/AdminDashboard.php:177
+msgid "Meldungstext (lokal im Browser entschlüsselt)"
+msgstr "A bejelentés szövege (helyben, a böngészőben visszafejtve)"
+
+#: includes/Admin/AdminDashboard.php:178 includes/Admin/AdminDashboard.php:574
+msgid "Verlauf"
+msgstr "Előzmények"
+
+#: includes/Admin/AdminDashboard.php:179 includes/Admin/AdminDashboard.php:577
+msgid "Meldestelle"
+msgstr "Bejelentőhely"
+
+#: includes/Admin/AdminDashboard.php:180 includes/Admin/AdminDashboard.php:577
+msgid "Hinweisgebende Person"
+msgstr "Bejelentő személy"
+
+#: includes/Admin/AdminDashboard.php:181
+msgid ""
+"Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den "
+"Browser nicht verlassen."
+msgstr ""
+"A bejelentés helyben, a böngészőben visszafejtve. A privát kulcs nem hagyta "
+"el a böngészőt."
+
+#: includes/Admin/AdminDashboard.php:182
+msgid "Entschlüsselung fehlgeschlagen: "
+msgstr "A visszafejtés sikertelen: "
+
+#: includes/Admin/AdminDashboard.php:183
+msgid "Eingangsbestätigung wird gespeichert …"
+msgstr "Visszaigazolás mentése …"
+
+#: includes/Admin/AdminDashboard.php:184
+msgid "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …"
+msgstr "Visszaigazolás mentve. A nézet frissül …"
+
+#: includes/Admin/AdminDashboard.php:185
+msgid "Antwort wird verschlüsselt gespeichert …"
+msgstr "A válasz titkosított mentése …"
+
+#: includes/Admin/AdminDashboard.php:186
+msgid "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …"
+msgstr "A válasz titkosítva mentve. A nézet frissül …"
+
+#: includes/Admin/AdminDashboard.php:187
+msgid "Bitte geben Sie einen Nachrichtentext ein."
+msgstr "Adja meg az üzenet szövegét."
+
+#: includes/Admin/AdminDashboard.php:188
+msgid ""
+"Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen."
+msgstr "Az auditnapló átmenetileg foglalt. Próbálja újra 2 másodperc múlva."
+
+#: includes/Admin/AdminDashboard.php:395
+msgid "Vorgänge & Fristen"
+msgstr "Ügyek és határidők"
+
+#: includes/Admin/AdminDashboard.php:396
+msgid "Formular einbinden"
+msgstr "Űrlap beágyazása"
+
+#: includes/Admin/AdminDashboard.php:397
+msgid "Testmeldung"
+msgstr "Tesztbejelentés"
+
+#: includes/Admin/AdminDashboard.php:398 includes/Admin/AdminDashboard.php:814
+msgid "Fristen & Benachrichtigungen"
+msgstr "Határidők és értesítések"
+
+#: includes/Admin/AdminDashboard.php:399
+msgid "Schlüsselverwahrung"
+msgstr "Kulcsőrzés"
+
+#: includes/Admin/AdminDashboard.php:400
+msgid "Deinstallation"
+msgstr "Eltávolítás"
+
+#: includes/Admin/AdminDashboard.php:401 includes/Admin/AdminDashboard.php:963
+msgid "Begriffe"
+msgstr "Fogalmak"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid ""
+"Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die "
+"Fristen nach § 17 HinSchG berechnen."
+msgstr ""
+"Bejelentések fogadása űrlapon keresztül, titkosított tárolásuk és a § 17 "
+"HinSchG szerinti határidők számítása."
+
+#: includes/Admin/AdminDashboard.php:411
+msgid "Part of the WM Suite plugin family"
+msgstr "A WM Suite bővítménycsalád tagja"
+
+#: includes/Admin/AdminDashboard.php:413
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Hub"
+msgstr "Suite Központ"
+
+#: includes/Admin/AdminDashboard.php:414
+msgid "Standalone"
+msgstr "Önálló mód"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Schlüsselpaar vorhanden"
+msgstr "Kulcspár elérhető"
+
+#: includes/Admin/AdminDashboard.php:417
+msgid "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden"
+msgstr "Nincs kulcspár: a bejelentések nem menthetők"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Was die Meldestelle leisten muss"
+msgstr "A belső bejelentőhely feladatai"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine "
+"interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 "
+"genannten Unternehmen, etwa Kreditinstitute, "
+"Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das "
+"unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den "
+"Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von "
+"drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen "
+"schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. "
+"3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll "
+"die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). "
+"Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ "
+"11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre "
+"Pflichten erfüllt, prüft das Plugin nicht."
+msgstr ""
+"A főszabály szerint legalább 50 foglalkoztatottal rendelkező munkáltatóknak "
+"belső bejelentőhelyet kell létrehozniuk (§ 12 (2) HinSchG); a § 12 (3) "
+"szerinti szervezetekre (hitelintézetek, befektetési vállalkozások, "
+"biztosítók) ez létszámtól függetlenül vonatkozik. A bejelentőhely legkésőbb "
+"hét napon belül visszaigazolja a beérkezést, és három hónapon belül "
+"visszajelzést ad (§ 17). A bejelentést írásban, szóban és kérésre "
+"személyesen is lehetővé kell tenni (§ 16 (3)); ez a bővítmény csak az írásos "
+"csatornát fedi le. A névtelen bejelentéseket kezelni kell külön csatorna "
+"kötelezettsége nélkül (§ 16 (1)). A dokumentációt az eljárás lezárása után "
+"három évvel törölni kell (§ 11 (5)); a bővítmény magától semmit sem töröl, "
+"és nem vizsgálja a jogi kötelezettségeket."
+
+#: includes/Admin/AdminDashboard.php:440
+msgid ""
+"Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3)."
+msgstr ""
+"Három demóügy létrejött (hozzáférési kulcsok: token_demo_1 – token_demo_3)."
+
+#: includes/Admin/AdminDashboard.php:448
+msgid "Testmeldung verschlüsselt gespeichert."
+msgstr "Tesztbejelentés titkosítva elmentve."
+
+#: includes/Admin/AdminDashboard.php:451
+msgid "Vorgangs-ID:"
+msgstr "Ügyazonosító:"
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Zugangsschlüssel (nur jetzt sichtbar):"
+msgstr "Hozzáférési kulcs (csak most látható):"
+
+#: includes/Admin/AdminDashboard.php:458
+msgid "Bereiche der Meldestelle"
+msgstr "A bejelentőhely szakaszai"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Der private Schlüssel liegt ungeschützt in der Datenbank."
+msgstr "A privát kulcs védelem nélkül található az adatbázisban."
+
+#. translators: 1: master key constant name, 2: passphrase constant name, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:480
+#, php-format
+msgid ""
+"Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert "
+"automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das "
+"Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, "
+"sodass alle bisherigen Meldungen lesbar bleiben."
+msgstr ""
+"Állítsa be a %1$s (ajánlott, Libsodium XSalsa20-Poly1305, automatikus "
+"átállás) vagy a %2$s konstanst a wp-config.php fájlban, majd futtassa a %3$s "
+"parancsot. A kulcspár megmarad, csak a tárolt forma változik, így minden "
+"korábbi bejelentés olvasható marad."
+
+#. translators: %d: number of users who can open a report
+#: includes/Admin/AdminDashboard.php:502
+#, php-format
+msgid "%d Person darf Meldungen öffnen."
+msgid_plural "%d Personen dürfen Meldungen öffnen."
+msgstr[0] "%d személy nyithat meg bejelentéseket."
+msgstr[1] "%d személy nyithat meg bejelentéseket."
+
+#. translators: 1: role name, 2: WP-CLI command, 3: WP-CLI command
+#: includes/Admin/AdminDashboard.php:509
+#, php-format
+msgid ""
+"Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 "
+"HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit "
+"%2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" "
+"und entziehen Sie die Berechtigung danach mit %3$s."
+msgstr ""
+"Köztük az %1$s szerepkör, vagyis a webhely összes adminisztrátora. A § 8 "
+"HinSchG a tartalmat a csatornával megbízott személyekre korlátozza. A %2$s "
+"paranccsal látható a lista; adja meg a „Meldestelle (HinSchG)” szerepkört, "
+"majd vonja vissza a jogosultságot a %3$s paranccsal."
+
+#: includes/Admin/AdminDashboard.php:516
+msgid ""
+"Administratoren dieser Website können Meldungen nicht öffnen, solange sie "
+"die Berechtigung nicht haben."
+msgstr ""
+"A webhely adminisztrátorai nem nyithatják meg a bejelentéseket, amíg nem "
+"rendelkeznek ezzel a jogosultsággal."
+
+#. translators: %s: case reference
+#: includes/Admin/AdminDashboard.php:537
+#, php-format
+msgid "Meldung %s"
+msgstr "Bejelentés %s"
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Vorgang konnte nicht geladen werden."
+msgstr "Az ügyet nem sikerült betölteni."
+
+#: includes/Admin/AdminDashboard.php:552
+msgid "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)"
+msgstr "Helyi visszafejtés a böngészőben (offline privát kulcs kiválasztása)"
+
+#: includes/Admin/AdminDashboard.php:553
+msgid ""
+"Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die "
+"Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; "
+"der private Schlüssel wird nicht an den Server übertragen."
+msgstr ""
+"Válassza ki a helyben tárolt PKCS#8 kulcsfájlt (.pem). A visszafejtés "
+"kizárólag a böngésző memóriájában történik; a privát kulcs nem kerül "
+"továbbításra a szerverre."
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "Meldungstext"
+msgstr "Bejelentés szövege"
+
+#: includes/Admin/AdminDashboard.php:580
+msgid "Diese Nachricht ließ sich nicht entschlüsseln."
+msgstr "Ezt az üzenetet nem sikerült visszafejteni."
+
+#: includes/Admin/AdminDashboard.php:588
+msgid ""
+"Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: "
+"der Inhalt ist auch innerhalb der Einrichtung vertraulich)."
+msgstr ""
+"A bejelentés minden megnyitása bekerül az auditnaplóba (§ 8 HinSchG: a "
+"tartalom a szervezeten belül is bizalmas)."
+
+#: includes/Admin/AdminDashboard.php:600
+msgid "Fallbearbeitung nach § 17 HinSchG"
+msgstr "Ügyintézés a HinSchG § 17 szerint"
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:605
+#, php-format
+msgid "Eingangsbestätigung erfasst am %s."
+msgstr "Visszaigazolás rögzítve: %s."
+
+#: includes/Admin/AdminDashboard.php:607
+msgid "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage)."
+msgstr ""
+"A beérkezés még nincs visszaigazolva (HinSchG § 17 (1) bek. 1. pont: "
+"határidő 7 nap)."
+
+#. translators: %s: timestamp
+#: includes/Admin/AdminDashboard.php:612
+#, php-format
+msgid "Abschließende Rückmeldung erfasst am %s."
+msgstr "Végső visszajelzés rögzítve: %s."
+
+#: includes/Admin/AdminDashboard.php:617
+msgid "Eingang bestätigen (§ 17 Abs. 1 HinSchG)"
+msgstr "Beérkezés visszaigazolása (HinSchG § 17 (1) bek.)"
+
+#: includes/Admin/AdminDashboard.php:620
+msgid "Rückfrage oder Rückmeldung an die hinweisgebende Person"
+msgstr "Kiegészítő kérdés vagy visszajelzés a bejelentőnek"
+
+#: includes/Admin/AdminDashboard.php:621
+msgid ""
+"Wird verschlüsselt gespeichert und für die hinweisgebende Person unter "
+"„Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails."
+msgstr ""
+"Titkosítva tárolódik, és a bejelentő számára az „Ügy lekérdezése” alatt "
+"érhető el. A bővítmény nem küld e-maileket."
+
+#: includes/Admin/AdminDashboard.php:627
+msgid "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG"
+msgstr "Végső visszajelzés a HinSchG § 17 (2) bek. szerint"
+
+#: includes/Admin/AdminDashboard.php:631
+msgid "Antwort verschlüsselt senden"
+msgstr "Válasz küldése titkosítva"
+
+#: includes/Admin/AdminDashboard.php:636
+msgid "Zurück zur Übersicht"
+msgstr "Vissza az áttekintéshez"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar"
+msgstr "Auditnapló: a lánc ellenőrizve, utólagos módosítás nem észlelhető"
+
+#: includes/Admin/AdminDashboard.php:641
+msgid "Audit-Protokoll: Integritätsprüfung fehlgeschlagen"
+msgstr "Auditnapló: a sértetlenségi ellenőrzés sikertelen"
+
+#. translators: 1: checked count, 2: key source
+#: includes/Admin/AdminDashboard.php:647
+#, php-format
+msgid "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s."
+msgstr "%1$d naplóbejegyzés ellenőrizve. Aláírókulcs: %2$s."
+
+#. translators: %d: number of audit entries written before the signing key existed (unkeyed SHA-256)
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid "%d historische Alt-Einträge ohne Signatur"
+msgstr "%d korábbi, aláírás nélküli bejegyzés"
+
+#: includes/Admin/AdminDashboard.php:660
+msgid "Unbekannter Fehler bei der Prüfung."
+msgstr "Ismeretlen hiba az ellenőrzés során."
+
+#: includes/Admin/AdminDashboard.php:667
+msgid "Offene Vorgänge"
+msgstr "Nyitott ügyek"
+
+#: includes/Admin/AdminDashboard.php:669
+msgid "ohne abschließende Rückmeldung"
+msgstr "lezáró visszajelzés nélkül"
+
+#: includes/Admin/AdminDashboard.php:672
+msgid "Eingangsbestätigung überfällig"
+msgstr "Visszaigazolás lejárt"
+
+#: includes/Admin/AdminDashboard.php:674
+msgid "nicht bestätigt, 7-Tage-Frist vorbei"
+msgstr "nincs visszaigazolva, a 7 napos határidő letelt"
+
+#: includes/Admin/AdminDashboard.php:677
+msgid "Bestätigung in 48 Stunden fällig"
+msgstr "Visszaigazolás 48 órán belül esedékes"
+
+#: includes/Admin/AdminDashboard.php:679
+msgid "noch nicht bestätigt"
+msgstr "még nincs visszaigazolva"
+
+#: includes/Admin/AdminDashboard.php:682
+msgid "Rückmeldung überfällig"
+msgstr "Visszajelzés lejárt"
+
+#: includes/Admin/AdminDashboard.php:684
+msgid "keine Rückmeldung, Frist des Plugins vorbei"
+msgstr "nincs visszajelzés, a határidő letelt"
+
+#: includes/Admin/AdminDashboard.php:690
+msgid ""
+"Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben "
+"verschlüsselt."
+msgstr ""
+"Az utolsó 50 ügy állapottal és határidőkkel. A tartalom titkosított marad."
+
+#: includes/Admin/AdminDashboard.php:695
+msgid "Vorgang"
+msgstr "Ügy"
+
+#: includes/Admin/AdminDashboard.php:696 includes/Admin/AdminDashboard.php:794
+#: includes/Frontend/WhistlePortal.php:251
+msgid "Kategorie"
+msgstr "Kategória"
+
+#: includes/Admin/AdminDashboard.php:697
+msgid "Status"
+msgstr "Állapot"
+
+#: includes/Admin/AdminDashboard.php:698 includes/Admin/AdminDashboard.php:968
+msgid "Eingangsbestätigung"
+msgstr "Visszaigazolás"
+
+#: includes/Admin/AdminDashboard.php:699 includes/Admin/AdminDashboard.php:971
+msgid "Rückmeldung"
+msgstr "Visszajelzés"
+
+#: includes/Admin/AdminDashboard.php:700
+msgid "Eingang"
+msgstr "Beérkezett"
+
+#: includes/Admin/AdminDashboard.php:707
+msgid "Noch keine Vorgänge."
+msgstr "Még nincsenek ügyek."
+
+#: includes/Admin/AdminDashboard.php:711
+msgid "Drei Demo-Vorgänge anlegen"
+msgstr "Három demóügy létrehozása"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:735
+#, php-format
+msgid "bestätigt am %s"
+msgstr "visszaigazolva: %s"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:740 includes/Admin/AdminDashboard.php:754
+#, php-format
+msgid "Frist %s"
+msgstr "Határidő: %s"
+
+#: includes/Admin/AdminDashboard.php:742 includes/Admin/AdminDashboard.php:756
+msgid "überfällig"
+msgstr "lejárt"
+
+#. translators: %s: date
+#: includes/Admin/AdminDashboard.php:749
+#, php-format
+msgid "gegeben am %s"
+msgstr "megadva: %s"
+
+#: includes/Admin/AdminDashboard.php:769
+msgid "Meldeformular auf der Website einbinden"
+msgstr "Bejelentő űrlap beágyazása a webhelyre"
+
+#: includes/Admin/AdminDashboard.php:771
+msgid "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“."
+msgstr ""
+"Hozzon létre egy oldalt, például „Visszaélés-bejelentő rendszer” néven."
+
+#: includes/Admin/AdminDashboard.php:773
+msgid "Den Shortcode einfügen:"
+msgstr "Illessze be a rövidkódot:"
+
+#: includes/Admin/AdminDashboard.php:775
+msgid "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“)."
+msgstr "(egyenértékű: [wm_hinschg_portal] vagy a „wm/hinschg-portal” blokk)."
+
+#: includes/Admin/AdminDashboard.php:777
+msgid ""
+"Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder "
+"im Footer."
+msgstr ""
+"Helyezzen el hivatkozást ott, ahol a munkatársak megtalálják, például az "
+"intraneten vagy a láblécben."
+
+#: includes/Admin/AdminDashboard.php:780
+msgid ""
+"Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und "
+"einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab "
+"und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. "
+"Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es "
+"keinen Zugang mehr zum Vorgang."
+msgstr ""
+"Beküldés után a bejelentő kap egy ügyazonosítót és egy hozzáférési kulcsot. "
+"Ezekkel ugyanabban az űrlapban név és e-mail megadása nélkül lekérdezheti az "
+"állapotot és üzenetet küldhet. Csak a kulcs HMAC-kivonata kerül tárolásra; "
+"elvesztése esetén az ügyhöz nem lehet többé hozzáférni."
+
+#: includes/Admin/AdminDashboard.php:786
+msgid "Testmeldung anlegen"
+msgstr "Tesztbejelentés létrehozása"
+
+#: includes/Admin/AdminDashboard.php:787
+msgid ""
+"Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den "
+"Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann."
+msgstr ""
+"Az űrlappal azonos módon hoz létre ügyet, és egyszer megjeleníti a "
+"hozzáférési kulcsot a portál kipróbálásához."
+
+#: includes/Admin/AdminDashboard.php:803
+#: includes/Frontend/WhistlePortal.php:260
+msgid "Sachverhalt"
+msgstr "Tényállás"
+
+#: includes/Admin/AdminDashboard.php:804
+msgid ""
+"Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit "
+"dem RSA-Schlüssel des Plugins versiegelt."
+msgstr ""
+"AES-256-GCM titkosítással kerül mentésre; a kulcsot a bővítmény RSA-kulcsa "
+"zárja le."
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Testmeldung speichern"
+msgstr "Tesztbejelentés mentése"
+
+#. translators: %d: days
+#: includes/Admin/AdminDashboard.php:819
+#, php-format
+msgid ""
+"Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt "
+"die Bestätigung spätestens nach sieben Tagen."
+msgstr ""
+"Visszaigazolás: beérkezés + %d nap. A § 17 (1) 1. pont HinSchG legfeljebb "
+"hét napon belüli visszaigazolást ír elő."
+
+#. translators: %d: months
+#: includes/Admin/AdminDashboard.php:825
+#, php-format
+msgid ""
+"Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab "
+"der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab "
+"Eingang); die Frist des Plugins liegt damit früher."
+msgstr ""
+"Visszajelzés: beérkezés + %d hónap. A § 17 (2) HinSchG a visszaigazolástól "
+"számol három hónapot (nélküle három hónapot és hét napot); a bővítmény "
+"határideje sosem későbbi."
+
+#: includes/Admin/AdminDashboard.php:828
+msgid "Die Fristen sind im Code festgelegt und nicht einstellbar."
+msgstr "A határidők a kódban rögzítettek, nem módosíthatók."
+
+#: includes/Admin/AdminDashboard.php:829
+msgid ""
+"Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst "
+"bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, "
+"an die eine eigene Benachrichtigung angeschlossen werden kann."
+msgstr ""
+"A bővítmény nem küld e-mailt. Óránkénti ellenőrzés (WP-Cron) váltja ki a "
+"wm_hinschg_sla_breach_detected eseményt lejárt határidő esetén."
+
+#: includes/Admin/AdminDashboard.php:831
+msgid ""
+"Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, "
+"Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet."
+msgstr ""
+"2026. 09. 15-ig itt egy e-mail-, határidő-, feltöltés- és megőrzés-beállító "
+"oldal állt, amelynek értékeit a kód sosem olvasta."
+
+#: includes/Admin/AdminDashboard.php:843
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger "
+"Privatschlüssel entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"A nyilvános RSA-kulcs mentve, az esetleges szerveroldali privát kulcs "
+"eltávolítva (offline őrzés aktív)."
+
+#: includes/Admin/AdminDashboard.php:845 includes/Crypto/Vault.php:342
+msgid ""
+"Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / "
+"Ombudsperson) gespeichert."
+msgstr ""
+"A nyilvános vész- és helyettesítő kulcs (2. kijelölt személy / ombudsman) "
+"mentve."
+
+#: includes/Admin/AdminDashboard.php:847 includes/Crypto/Vault.php:323
+msgid "Notfall- und Vertretungsschlüssel entfernt."
+msgstr "A vész- és helyettesítő kulcs eltávolítva."
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich "
+"den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen."
+msgstr ""
+"Elutasítva: privát kulcsot küldött be. Kizárólag a nyilvános kulcsot (BEGIN "
+"PUBLIC KEY) adja meg."
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich über das Kontrollkästchen."
+msgstr ""
+"Már vannak titkosított ügyek. Erősítse meg kifejezetten a kulcscserét a "
+"jelölőnégyzettel."
+
+#: includes/Admin/AdminDashboard.php:853
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel "
+"(mindestens 2048 Bit, empfohlen 4096 Bit)."
+msgstr ""
+"A beküldött szöveg nem érvényes nyilvános RSA-kulcs (legalább 2048 bit, "
+"ajánlott 4096 bit)."
+
+#: includes/Admin/AdminDashboard.php:857
+msgid "Aktive Schlüsselverwahrung & Audit-Signatur"
+msgstr "Aktív kulcsőrzés & auditaláírás"
+
+#: includes/Admin/AdminDashboard.php:859
+msgid "RSA-Schlüsselquelle:"
+msgstr "RSA-kulcs forrása:"
+
+#: includes/Admin/AdminDashboard.php:863
+msgid "Notfall- & Vertretungsschlüssel:"
+msgstr "Vész- & helyettesítő kulcs:"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)"
+msgstr ""
+"letétbe helyezve (kettős boríték aktív a 2. kijelölt személy / ombudsman "
+"számára)"
+
+#: includes/Admin/AdminDashboard.php:864
+msgid "nicht hinterlegt"
+msgstr "nincs letétbe helyezve"
+
+#: includes/Admin/AdminDashboard.php:867
+msgid "Audit-Kettenschlüssel:"
+msgstr "Auditlánc-kulcs:"
+
+#. translators: %s: constant name
+#: includes/Admin/AdminDashboard.php:872
+#, php-format
+msgid ""
+"(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in "
+"der wp-config.php)."
+msgstr ""
+"(az AUTH_KEY-től független kulcsrotációhoz állítsa be a(z) %s konstanst a wp-"
+"config.php fájlban)."
+
+#: includes/Admin/AdminDashboard.php:880
+msgid ""
+"Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)"
+msgstr ""
+"Kulcsgenerálás a böngészőben (offline őrzés szerveroldali privát kulcs "
+"nélkül)"
+
+#: includes/Admin/AdminDashboard.php:882
+msgid ""
+"Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). "
+"Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät "
+"heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-"
+"Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum "
+"Versiegeln eingehender Meldungen gespeichert."
+msgstr ""
+"RSA-OAEP-4096 kulcspárt hoz létre helyben a böngészőjében (WebCrypto). A "
+"privát kulcs .pem fájlként közvetlenül az eszközére töltődik le, és soha nem "
+"érinti a PHP-t, a webszervert vagy a MySQL-adatbázist. A szerveren kizárólag "
+"a beérkező bejelentések lepecsételésére szolgáló nyilvános kulcs tárolódik."
+
+#: includes/Admin/AdminDashboard.php:886
+msgid ""
+"RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel "
+"herunterladen"
+msgstr ""
+"RSA-4096 kulcspár létrehozása helyben a böngészőben & a privát kulcs "
+"letöltése"
+
+#: includes/Admin/AdminDashboard.php:893
+msgid "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)"
+msgstr "Nyilvános RSA-kulcs (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:899
+msgid ""
+"Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den "
+"bisherigen privaten Schlüssel)"
+msgstr ""
+"Meglévő kulcs cseréje (a meglévő bejelentésekhez továbbra is a korábbi "
+"privát kulcs szükséges)"
+
+#: includes/Admin/AdminDashboard.php:902
+msgid "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)"
+msgstr "Csak a nyilvános kulcs mentése (offline őrzés bekapcsolása)"
+
+#: includes/Admin/AdminDashboard.php:905
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Schlüssel der Meldestelle hinterlegen."
+msgstr ""
+"A bejelentőhely nyilvános kulcsát csak a webhely rendszergazdái "
+"(manage_options) helyezhetik letétbe."
+
+#: includes/Admin/AdminDashboard.php:910
+msgid ""
+"Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / "
+"Ombudsperson)"
+msgstr ""
+"Vész- & helyettesítő kulcs (a bejelentőhely 2. kijelölt személye / ombudsman)"
+
+#: includes/Admin/AdminDashboard.php:912
+msgid ""
+"Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-"
+"Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel "
+"versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser "
+"entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung "
+"dieses privaten Schlüssels ausschließlich bei einer zweiten mit der "
+"Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — "
+"niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum "
+"Entfernen das Feld leeren und speichern."
+msgstr ""
+"Opcionális kettős boríték új bejelentésekhez és üzenetekhez: az AES-256 "
+"munkamenetkulcsot ezzel a nyilvános RSA-kulccsal is lepecsételi a rendszer, "
+"hogy távollét esetén egy helyettes helyben, a böngészőben visszafejthessen. "
+"A HinSchG § 8 (1) bek. és § 15 szerint ezt a privát kulcsot kizárólag a "
+"bejelentőhelyre kijelölt második személy vagy egy független ombudsman "
+"őrizheti — soha nem a vezetés vagy az általános informatikai adminisztráció. "
+"Eltávolításhoz ürítse ki a mezőt, és mentse."
+
+#: includes/Admin/AdminDashboard.php:916
+msgid ""
+"Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten "
+"Schlüssel herunterladen"
+msgstr ""
+"Helyettesítő kulcspár (RSA-4096) létrehozása helyben a böngészőben & a "
+"privát kulcs letöltése"
+
+#: includes/Admin/AdminDashboard.php:923
+msgid "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)"
+msgstr "Nyilvános vész- & helyettesítő kulcs (BEGIN PUBLIC KEY)"
+
+#: includes/Admin/AdminDashboard.php:926
+msgid "Notfall- & Vertretungsschlüssel speichern"
+msgstr "Vész- & helyettesítő kulcs mentése"
+
+#: includes/Admin/AdminDashboard.php:929
+msgid ""
+"Nur Website-Administratoren (manage_options) können den öffentlichen "
+"Notfall- und Vertretungsschlüssel hinterlegen."
+msgstr ""
+"A nyilvános vész- és helyettesítő kulcsot csak a webhely rendszergazdái "
+"(manage_options) helyezhetik letétbe."
+
+#: includes/Admin/AdminDashboard.php:937
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "Eltávolítási beállítás elmentve."
+
+#: includes/Admin/AdminDashboard.php:940
+msgid "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation"
+msgstr "Törvényes megőrzés (§ 11 HinSchG) és eltávolítás"
+
+#: includes/Admin/AdminDashboard.php:942
+msgid ""
+"Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des "
+"Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, "
+"Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit "
+"ein Plugin-Update oder eine Neuinstallation keine gesetzlich "
+"aufzubewahrenden Vorgänge vernichtet."
+msgstr ""
+"A § 11 (5) HinSchG szerint a dokumentációt az eljárás lezárásától számított "
+"három évig kell megőrizni. Alapértelmezés szerint a bővítmény törlésekor a "
+"bejelentések, üzenetek, auditnapló és kulcspár megmaradnak."
+
+#: includes/Admin/AdminDashboard.php:951
+msgid ""
+"Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge "
+"und Schlüssel unwiderruflich löschen"
+msgstr ""
+"A bővítmény eltávolításakor minden bejelentés, üzenet, auditbejegyzés és "
+"kulcs végleges törlése"
+
+#: includes/Admin/AdminDashboard.php:954
+msgid "Deinstallations-Option speichern"
+msgstr "Eltávolítási opció mentése"
+
+#: includes/Admin/AdminDashboard.php:957
+msgid ""
+"Nur Website-Administratoren (manage_options) können das Verhalten bei der "
+"Plugin-Deinstallation ändern."
+msgstr ""
+"Csak a webhely adminisztrátorai (manage_options) módosíthatják az "
+"eltávolítási működést."
+
+#: includes/Admin/AdminDashboard.php:965
+msgid "Vorgangs-ID und Zugangsschlüssel"
+msgstr "Ügyazonosító és hozzáférési kulcs"
+
+#: includes/Admin/AdminDashboard.php:966
+msgid ""
+"Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der "
+"Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon."
+msgstr ""
+"A bejelentő egyszer kapja meg beküldés után. A kulcs 64 karakteres; csak a "
+"HMAC-kivonata tárolódik."
+
+#: includes/Admin/AdminDashboard.php:969
+msgid "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr "Legkésőbb hét napon belül (§ 17 (1) 1. pont HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:972
+msgid ""
+"Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und "
+"ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG)."
+msgstr ""
+"A visszaigazolástól számított három hónapon belül a tervezett és megtett "
+"intézkedésekkel (§ 17 (2) HinSchG)."
+
+#: includes/Admin/AdminDashboard.php:974
+msgid "Verschlüsselung"
+msgstr "Titkosítás"
+
+#: includes/Admin/AdminDashboard.php:975
+msgid ""
+"Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-"
+"Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für "
+"den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / "
+"Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter "
+"„Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php "
+"(WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt "
+"(WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt "
+"(WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-"
+"Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten "
+"zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben "
+"der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen "
+"Browser und Server schützt HTTPS."
+msgstr ""
+"A bejelentéseket és üzeneteket AES-256-GCM titkosítja, az AES-kulcsot RSA-"
+"OAEP pecsételi le (opcionálisan kettős borítékként is a 2. kijelölt "
+"személy / ombudsman vész- & helyettesítő kulcsához). Hogy hol van a privát "
+"RSA-kulcs, azt a „Kulcsőrzés” fül és a wp hinschg key-status mutatja: a wp-"
+"config.php fájlban (WM_HINSCHG_PRIVATE_KEY), Libsodium XSalsa20-Poly1305 "
+"eljárással lepecsételve (WM_HINSCHG_MASTER_KEY vagy AUTH_KEY), OpenSSL-lel "
+"titkosítva (WM_HINSCHG_KEY_PASSPHRASE) vagy kizárólag helyben, a "
+"böngészőben, szerveroldali privát kulcs nélkül (offline őrzés). A "
+"bejelentőhely válaszai emellett a hozzáférési kulcshoz lepecsételt dobozt is "
+"kapnak, míg a bejelentő bevitelei tisztán aszimmetrikusan lepecsételve "
+"maradnak. A böngésző és a szerver között a HTTPS nyújt védelmet."
+
+#: includes/Admin/AdminDashboard.php:977
+msgid "Berechtigung zum Öffnen einer Meldung"
+msgstr "Jogosultság bejelentés megnyitásához"
+
+#: includes/Admin/AdminDashboard.php:978
+msgid ""
+"Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt "
+"dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet "
+"WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser "
+"Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, "
+"damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche "
+"Zweck. wp hinschg access zeigt, wer sie hat."
+msgstr ""
+"A bővítmény a saját wm_hinschg_read_cases jogosultságát ellenőrzi, és "
+"létrehozza a „Meldestelle (HinSchG)” szerepkört. Azt, hogy ki rendelkezik "
+"vele, a WordPress szerepkörök kezelik. Telepítéskor az „Administrator” kapja "
+"meg a kizárás elkerülésére; utólagos megvonása a cél. A wp hinschg access "
+"listázza a jogosultakat."
+
+#: includes/Admin/AdminDashboard.php:980
+msgid "Audit-Protokoll"
+msgstr "Auditnapló"
+
+#: includes/Admin/AdminDashboard.php:981
+msgid ""
+"Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche "
+"Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus "
+"wp-config.php kennt, kann die Kette neu schreiben."
+msgstr ""
+"Minden bejegyzés HMAC-SHA256 lenyomatot hordoz az előzőről. A módosítások, "
+"törlések és beszúrások észlelhetők; aki ismeri a wp-config.php kulcsát, "
+"újraírhatja a láncot."
+
+#: includes/API/RestController.php:98
+msgid ""
+"Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut "
+"versuchen."
+msgstr "Az auditnapló átmenetileg foglalt. Próbálja újra hamarosan."
+
+#: includes/API/RestController.php:136 includes/API/RestController.php:467
+msgid "Case ID is required."
+msgstr "Az ügyazonosító megadása kötelező."
+
+#: includes/API/RestController.php:148 includes/API/RestController.php:479
+#: includes/API/RestController.php:553
+msgid "Case not found."
+msgstr "Az ügy nem található."
+
+#: includes/API/RestController.php:161
+msgid ""
+"Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich "
+"nicht entschlüsseln."
+msgstr "A bejelentés titkosítási borítékja hiányos; nem fejthető vissza."
+
+#. translators: %s: what this install does with the private key
+#: includes/API/RestController.php:180
+#, php-format
+msgid "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s"
+msgstr "A bejelentést nem sikerült visszafejteni. Kulcsforrás: %s"
+
+#: includes/API/RestController.php:247
+msgid "Report description cannot be empty."
+msgstr "A bejelentés leírása nem lehet üres."
+
+#: includes/API/RestController.php:298
+msgid ""
+"Save this Access Token securely. It is the ONLY way to check your report "
+"status or communicate confidentially without revealing your identity."
+msgstr ""
+"Őrizze meg biztonságosan ezt a hozzáférési kulcsot. Ez az EGYETLEN módja az "
+"állapot lekérdezésének vagy a bizalmas üzenetváltásnak személyazonossága "
+"felfedése nélkül."
+
+#: includes/API/RestController.php:315
+msgid "Case ID and Access Token are required."
+msgstr "Az ügyazonosító és a hozzáférési kulcs megadása kötelező."
+
+#: includes/API/RestController.php:329 includes/API/RestController.php:413
+msgid "Invalid Case ID or Access Token."
+msgstr "Érvénytelen ügyazonosító vagy hozzáférési kulcs."
+
+#: includes/API/RestController.php:399
+msgid "Case ID, Access Token, and message are required."
+msgstr "Az ügyazonosító, a hozzáférési kulcs és az üzenet megadása kötelező."
+
+#: includes/API/RestController.php:438
+msgid "Confidential message appended successfully."
+msgstr "A bizalmas üzenet sikeresen rögzítve."
+
+#: includes/API/RestController.php:484
+msgid "The receipt of this report was already acknowledged."
+msgstr "Ennek a bejelentésnek a beérkezését már visszaigazolták."
+
+#: includes/API/RestController.php:496
+msgid ""
+"Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle "
+"eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG)."
+msgstr ""
+"Beérkezés visszaigazolása: bejelentése megérkezett a belső bejelentőhelyre "
+"(§ 17 (1) 1. pont HinSchG)."
+
+#: includes/API/RestController.php:528
+msgid "Acknowledgment recorded and sent to the reporting person's case view."
+msgstr "A visszaigazolás rögzítve lett, és megjelent a bejelentő ügyfelületén."
+
+#: includes/API/RestController.php:541
+msgid "Case ID and message are required."
+msgstr "Az ügyazonosító és az üzenet megadása kötelező."
+
+#: includes/API/RestController.php:593
+msgid "Reply stored in the reporting person's case view."
+msgstr "A válasz elmentve a bejelentő ügyfelületére."
+
+#: includes/Compliance/CaseStatus.php:22
+msgid "Eingegangen"
+msgstr "Beérkezett"
+
+#: includes/Compliance/CaseStatus.php:23
+msgid "In Bearbeitung"
+msgstr "Folyamatban"
+
+#: includes/Compliance/CaseStatus.php:31
+msgid "Rückmeldung gegeben"
+msgstr "Visszajelzés megadva"
+
+#: includes/Compliance/CaseStatus.php:32
+msgid "Abgeschlossen"
+msgstr "Lezárva"
+
+#: includes/Compliance/ReportCategories.php:25
+msgid "Finanzbetrug, Untreue, Korruption & Bestechung"
+msgstr "Pénzügyi csalás, hűtlen kezelés, korrupció és vesztegetés"
+
+#: includes/Compliance/ReportCategories.php:26
+msgid "DSGVO-Verstöße & Datenschutzverletzungen"
+msgstr "GDPR-sértések és adatvédelmi incidensek"
+
+#: includes/Compliance/ReportCategories.php:27
+msgid "IT-Sicherheit & Cyber-Vorfälle"
+msgstr "IT-biztonság és kiberincidensek"
+
+#: includes/Compliance/ReportCategories.php:28
+msgid "Lieferkette & Menschenrechte"
+msgstr "Ellátási lánc és emberi jogok"
+
+#: includes/Compliance/ReportCategories.php:29
+msgid "Arbeitsschutz, Diskriminierung & Belästigung"
+msgstr "Munkavédelem, diszkrimináció és zaklatás"
+
+#: includes/Compliance/ReportCategories.php:30
+msgid "Allgemeine Compliance-Verstöße"
+msgstr "Általános megfelelőségi jogsértések"
+
+#: includes/Crypto/Vault.php:168
+msgid ""
+"Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung."
+msgstr ""
+"A privát kulcs a wp-config.php fájlban van. Egy adatbázismentés önmagában "
+"egyetlen bejelentést sem fejt vissza."
+
+#: includes/Crypto/Vault.php:178
+msgid ""
+"Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt "
+"in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-"
+"config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung."
+msgstr ""
+"A privát kulcs Libsodiummal (XSalsa20-Poly1305) titkosítva van az "
+"adatbázisban; a mesterkulcs (WM_HINSCHG_MASTER_KEY) a wp-config.php fájlban "
+"áll. Az adatbázismentés önmagában semmit sem fejt vissza."
+
+#: includes/Crypto/Vault.php:186
+msgid ""
+"Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase "
+"steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine "
+"Meldung."
+msgstr ""
+"A privát kulcs titkosítva van az adatbázisban; a jelmondat a wp-config.php "
+"fájlban található. Az adatbázismentés önmagában semmit sem fejt vissza."
+
+#: includes/Crypto/Vault.php:194
+msgid ""
+"Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank "
+"(abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein "
+"entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt "
+"sich WM_HINSCHG_MASTER_KEY."
+msgstr ""
+"A privát kulcs Libsodiummal titkosítva van az adatbázisban (a wp-config.php "
+"AUTH_KEY értékéből származtatva). A mentés önmagában semmit sem fejt vissza; "
+"külön kulcsforgatáshoz a WM_HINSCHG_MASTER_KEY ajánlott."
+
+#: includes/Crypto/Vault.php:202
+msgid ""
+"In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). "
+"Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-"
+"Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY "
+"in der wp-config.php."
+msgstr ""
+"Az adatbázisban csak a nyilvános kulcs található (offline őrzés). Az új "
+"bejelentéseket a rendszer lepecsételi; elolvasásukhoz használja az ügynézet "
+"helyi böngészős visszafejtését, vagy állítsa be a WM_HINSCHG_PRIVATE_KEY "
+"konstanst a wp-config.php fájlban."
+
+#: includes/Crypto/Vault.php:210
+msgid ""
+"Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter "
+"„Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) "
+"oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php."
+msgstr ""
+"Még nincs letétbe helyezett kulcspár. Hozzon létre a „Kulcsőrzés” fülön "
+"helyi böngészős kulcspárt (offline őrzés), vagy állítsa be a "
+"WM_HINSCHG_MASTER_KEY konstanst a wp-config.php fájlban."
+
+#: includes/Crypto/Vault.php:217
+msgid ""
+"Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den "
+"Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung "
+"entschlüsseln."
+msgstr ""
+"A privát kulcs titkosítatlanul van az adatbázisban a bejelentések mellett. "
+"Aki teljes adatbázismentéssel rendelkezik, minden bejelentést visszafejthet."
+
+#: includes/Crypto/Vault.php:242
+msgid ""
+"Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-"
+"Format."
+msgstr "A beküldött szöveg nem érvényes nyilvános RSA-kulcs PEM formátumban."
+
+#: includes/Crypto/Vault.php:251
+msgid ""
+"Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit "
+"(empfohlen: 4096 Bit) sein."
+msgstr ""
+"A nyilvános kulcsnak legalább 2048 bites RSA-kulcsnak kell lennie (ajánlott: "
+"4096 bit)."
+
+#: includes/Crypto/Vault.php:272
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der "
+"Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN "
+"PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Biztonsági megszakítás: privát kulcsot küldött be. Offline őrzés esetén "
+"kizárólag a nyilvános kulcs (BEGIN PUBLIC KEY) tárolható."
+
+#: includes/Crypto/Vault.php:289
+msgid ""
+"Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den "
+"Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den "
+"bisherigen privaten Schlüssel benötigen."
+msgstr ""
+"Már vannak titkosított ügyek. Erősítse meg kifejezetten a kulcscserét, mivel "
+"a meglévő bejelentésekhez továbbra is a korábbi privát kulcs szükséges."
+
+#: includes/Crypto/Vault.php:303
+msgid ""
+"Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel "
+"entfernt (Offline-Verwahrung aktiv)."
+msgstr ""
+"A nyilvános RSA-kulcs mentve, a szerveroldali privát kulcs eltávolítva "
+"(offline őrzés aktív)."
+
+#: includes/Crypto/Vault.php:329
+msgid ""
+"Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als "
+"Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche "
+"Schlüssel (BEGIN PUBLIC KEY) gespeichert werden."
+msgstr ""
+"Biztonsági megszakítás: privát kulcsot küldött be. Vész- és helyettesítő "
+"kulcsként kizárólag a nyilvános kulcs (BEGIN PUBLIC KEY) tárolható."
+
+#. translators: %d: previously recorded entry count
+#: includes/Crypto/Vault.php:847
+#, php-format
+msgid "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren."
+msgstr "A napló üres, noha legutóbb %d bejegyzés volt feljegyezve."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:866
+#, php-format
+msgid ""
+"Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder "
+"umsortiert."
+msgstr ""
+"Lánctörés a(z) #%d bejegyzésnél: egy bejegyzést töröltek, beszúrtak vagy "
+"átrendeztek."
+
+#. translators: %d: audit entry id
+#: includes/Crypto/Vault.php:906
+#, php-format
+msgid ""
+"Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, "
+"oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor "
+"einem Umzug der Website)."
+msgstr ""
+"A(z) #%d bejegyzés nem egyezik az aláírásával: utólag módosították, vagy "
+"másik AUTH_KEY-jel írták (pl. költöztetés előtt)."
+
+#: includes/Crypto/Vault.php:917
+msgid ""
+"Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die "
+"neuesten Einträge wurden entfernt."
+msgstr ""
+"A napló vége nem egyezik a legutóbb rögzített bejegyzéssel. A legújabb "
+"bejegyzéseket eltávolították."
+
+#: includes/Crypto/Vault.php:927
+msgid ""
+"Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende "
+"wurde manipuliert."
+msgstr "A rögzített láncvég aláírása érvénytelen. A napló végét manipulálták."
+
+#: includes/Crypto/Vault.php:938
+msgid ""
+"Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll "
+"stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf "
+"das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht "
+"überprüfbar."
+msgstr ""
+"Egyetlen bejegyzés sem tartalmaz kulcsos aláírást. A napló a kulcs előtti "
+"időkből származik vagy visszaminősítették a hamisítható formátumra, így nem "
+"ellenőrizhető."
+
+#. translators: %s: comma-separated list of missing PHP extensions
+#: includes/Database/Schema.php:39
+#, php-format
+msgid ""
+"WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende "
+"erforderliche PHP-Erweiterungen fehlen: %s."
+msgstr ""
+"A WM HinSchG Whistleblower Desk nem aktiválható, mert a következő szükséges "
+"PHP-bővítmények hiányoznak: %s."
+
+#: includes/Database/Schema.php:43
+msgid "Fehlende PHP-Erweiterung"
+msgstr "Hiányzó PHP-bővítmény"
+
+#. translators: 1: master key constant name, 2: passphrase constant name
+#: includes/Database/Schema.php:190
+#, php-format
+msgid ""
+"In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-"
+"config.php kann der Schlüssel nicht verschlüsselt werden."
+msgstr ""
+"A wp-config.php fájlban sem a %1$s, sem a %2$s nincs megadva. Titok nélkül a "
+"kulcs nem titkosítható."
+
+#: includes/Database/Schema.php:201
+msgid ""
+"In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren."
+msgstr "Nincs privát kulcs az adatbázisban. Nincs mit migrálni."
+
+#: includes/Database/Schema.php:212
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY "
+"entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es "
+"wurde nichts überschrieben."
+msgstr ""
+"A tárolt kulcs nem fejthető vissza a WM_HINSCHG_MASTER_KEY segítségével. "
+"Állítsa vissza az eredeti mesterkulcsot; semmi sem íródott felül."
+
+#: includes/Database/Schema.php:217
+msgid ""
+"Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"A privát kulcs már Libsodiummal (WM_HINSCHG_MASTER_KEY) van titkosítva. "
+"Nincs teendő."
+
+#: includes/Database/Schema.php:237
+msgid ""
+"Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts "
+"überschrieben."
+msgstr "A tárolt kulcsot nem sikerült megnyitni. Semmi sem íródott felül."
+
+#: includes/Database/Schema.php:245
+msgid ""
+"Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es "
+"wurde nichts überschrieben."
+msgstr ""
+"A Libsodiummal lezárt kulcs ellenőrzése sikertelen volt. Semmi sem íródott "
+"felül."
+
+#: includes/Database/Schema.php:252
+msgid ""
+"Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) "
+"verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt "
+"keine Meldung mehr."
+msgstr ""
+"A privát kulcs mostantól Libsodiummal (WM_HINSCHG_MASTER_KEY) titkosítva "
+"található az adatbázisban. Egy adatbázismentés önmagában már nem fejti "
+"vissza a bejelentéseket."
+
+#: includes/Database/Schema.php:263
+msgid ""
+"Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten "
+"Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — "
+"bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar."
+msgstr ""
+"A tárolt kulcs sem jelmondat nélkül, sem a megadott jelmondattal nem "
+"nyitható meg. Állítsa vissza a régit, különben egyetlen bejelentés sem lesz "
+"olvasható."
+
+#: includes/Database/Schema.php:268
+msgid ""
+"Der private Schlüssel ist bereits mit der konfigurierten Passphrase "
+"verschlüsselt. Nichts zu tun."
+msgstr ""
+"A privát kulcs már a beállított jelmondattal van titkosítva. Nincs teendő."
+
+#: includes/Database/Schema.php:276
+msgid ""
+"Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte "
+"Schlüssel bleibt unverändert."
+msgstr ""
+"A kulcs nem exportálható titkosítva. A tárolt kulcs változatlan maradt."
+
+#: includes/Database/Schema.php:290
+msgid ""
+"Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts "
+"überschrieben."
+msgstr ""
+"A titkosított kulcsot nem sikerült újra megnyitni. Semmi sem íródott felül."
+
+#: includes/Database/Schema.php:298
+msgid ""
+"Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein "
+"Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in "
+"wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr "
+"lesbar."
+msgstr ""
+"A privát kulcs mostantól titkosítva van az adatbázisban. Az adatbázismentés "
+"önmagában semmit sem fejt vissza. A wp-config.php jelmondata ettől kezdve "
+"nélkülözhetetlen."
+
+#: includes/Frontend/WhistlePortal.php:84
+#: includes/Frontend/WhistlePortal.php:111
+msgid "HinSchG Meldestelle Status"
+msgstr "HinSchG csatorna állapota"
+
+#. translators: %d: statutory acknowledgment days
+#: includes/Frontend/WhistlePortal.php:154
+#, php-format
+msgid "%d Tage Eingangsbestätigung (§ 17 HinSchG)"
+msgstr "%d napos visszaigazolási határidő (§ 17 HinSchG)"
+
+#. translators: %d: statutory feedback months
+#: includes/Frontend/WhistlePortal.php:158
+#, php-format
+msgid "%d Monate Rückmeldefrist (§ 17 HinSchG)"
+msgstr "%d hónapos visszajelzési határidő (§ 17 HinSchG)"
+
+#: includes/Frontend/WhistlePortal.php:170
+msgid "Interne Meldestelle aktiv"
+msgstr "Belső bejelentőhely aktív"
+
+#: includes/Frontend/WhistlePortal.php:171
+msgid "Meldestelle wird eingerichtet"
+msgstr "Bejelentőhely beállítás alatt"
+
+#: includes/Frontend/WhistlePortal.php:218
+msgid "Interne Meldestelle"
+msgstr "Belső bejelentőhely"
+
+#: includes/Frontend/WhistlePortal.php:228
+msgid ""
+"Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden "
+"nicht abgefragt."
+msgstr ""
+"Itt tehet bejelentést jogsértésekről. Nevet és e-mail-címet nem kérünk."
+
+#: includes/Frontend/WhistlePortal.php:235
+msgid "Neuen Hinweis melden"
+msgstr "Új bejelentés küldése"
+
+#: includes/Frontend/WhistlePortal.php:238
+msgid "Vorgang abrufen"
+msgstr "Ügy lekérdezése"
+
+#: includes/Frontend/WhistlePortal.php:245
+msgid "Was gespeichert wird:"
+msgstr "Mi kerül mentésre:"
+
+#: includes/Frontend/WhistlePortal.php:246
+msgid ""
+"Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse "
+"wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die "
+"Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash "
+"(HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der "
+"Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden "
+"erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und "
+"Rückmeldungen."
+msgstr ""
+"A kategória és a tényállás a szerveren titkosítva. Az IP-címe nem kerül "
+"mentésre a bejelentéssel; a kérések korlátozására a webhely legfeljebb egy "
+"órán át annak HMAC-lenyomatát őrzi meg. A webszerver esetleges naplózását az "
+"üzemeltető határozza meg, nem ez az űrlap. Beküldés után ügyazonosítót és "
+"hozzáférési kulcsot kap a visszakérdezésekhez és visszajelzésekhez."
+
+#: includes/Frontend/WhistlePortal.php:261
+msgid ""
+"Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte "
+"Personen) …"
+msgstr ""
+"Írja le a tényállást a lehető legpontosabban (helyszín, dátum, érintett "
+"személyek)…"
+
+#: includes/Frontend/WhistlePortal.php:265
+msgid "Hinweis absenden"
+msgstr "Bejelentés elküldése"
+
+#: includes/Frontend/WhistlePortal.php:275
+msgid ""
+"Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu "
+"sehen und der Meldestelle zu schreiben."
+msgstr ""
+"Adja meg az ügyazonosítót és a hozzáférési kulcsot az állapot "
+"megtekintéséhez és az üzenetküldéshez."
+
+#: includes/Frontend/WhistlePortal.php:280
+msgid "Vorgangs-ID"
+msgstr "Ügyazonosító"
+
+#: includes/Frontend/WhistlePortal.php:281
+msgid "z. B. CASE-A1B2C3D4"
+msgstr "pl. CASE-A1B2C3D4"
+
+#: includes/Frontend/WhistlePortal.php:284
+msgid "Zugangsschlüssel"
+msgstr "Hozzáférési kulcs"
+
+#: includes/Frontend/WhistlePortal.php:285
+msgid "64 Zeichen"
+msgstr "64 karakter"
+
+#: includes/Frontend/WhistlePortal.php:288
+msgid "Vorgang laden"
+msgstr "Ügy betöltése"
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:116
+#: includes/Security/Capabilities.php:141
+#, php-format
+msgid "Die Rolle %s gibt es nicht."
+msgstr "A(z) %s szerepkör nem létezik."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:120
+#, php-format
+msgid "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun."
+msgstr "A(z) %s szerepkör már megnyithat bejelentéseket. Nincs teendő."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:124
+#, php-format
+msgid "Die Rolle %s darf Meldungen jetzt öffnen."
+msgstr "A(z) %s szerepkör mostantól megnyithat bejelentéseket."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:145
+#, php-format
+msgid "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun."
+msgstr ""
+"A(z) %s szerepkör eddig sem nyithatott meg bejelentéseket. Nincs teendő."
+
+#: includes/Security/Capabilities.php:154
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die "
+"Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 "
+"HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst "
+"jemand anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Megszakítva: ezután senki sem tudná megnyitni a bejelentéseket. A "
+"bejelentőhelynek hét napon belül vissza kell igazolnia a beérkezést (§ 17 "
+"HinSchG). Előbb adjon jogosultságot másnak, majd vonja vissza itt."
+
+#. translators: %s: role slug
+#: includes/Security/Capabilities.php:159
+#, php-format
+msgid "Die Rolle %s darf Meldungen nicht mehr öffnen."
+msgstr "A(z) %s szerepkör többé nem nyithat meg bejelentéseket."
+
+#. translators: %d: user id
+#: includes/Security/Capabilities.php:171
+#: includes/Security/Capabilities.php:187
+#, php-format
+msgid "Benutzer %d gibt es nicht."
+msgstr "A(z) %d felhasználó nem létezik."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:175
+#, php-format
+msgid "%s darf Meldungen jetzt öffnen."
+msgstr "%s mostantól megnyithat bejelentéseket."
+
+#: includes/Security/Capabilities.php:196
+msgid ""
+"Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand "
+"anderen berechtigen, dann hier entziehen."
+msgstr ""
+"Megszakítva: ezután senki sem tudná megnyitni a bejelentéseket. Előbb adjon "
+"jogosultságot másnak, majd vonja vissza itt."
+
+#. translators: %s: user login
+#: includes/Security/Capabilities.php:201
+#, php-format
+msgid "%s darf Meldungen nicht mehr öffnen."
+msgstr "%s többé nem nyithat meg bejelentéseket."
+
+#: includes/Security/RateLimiter.php:94
+msgid "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut."
+msgstr "Túl sok kérés. Kérjük, próbálja újra később."
+
+#: blocks-src/index.js:19
+msgid "HinSchG Meldestelle Portal"
+msgstr "HinSchG Bejelentőportál"
+
+#: blocks-src/index.js:20
+msgid "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG."
+msgstr "Belső visszaélés-bejelentő űrlap és ügykövetés a HinSchG szerint."
+
+#: blocks-src/index.js:50
+msgid "Meldestelle-Einstellungen"
+msgstr "Portál beállításai"
+
+#: blocks-src/index.js:54
+msgid "Überschrift"
+msgstr "Címsor"
+
+#: blocks-src/index.js:61
+msgid "Einleitungstext anzeigen"
+msgstr "Bevezető szöveg megjelenítése"
+
+#: blocks-src/index.js:80
+msgid "HinSchG Meldestelle Portal (Vorschau im Frontend)."
+msgstr "HinSchG Bejelentőportál (előlapi előnézet)."
+
+#: blocks/portal/block.json
+msgctxt "block title"
+msgid "HinSchG Meldestelle Portal"
+msgstr "HinSchG Bejelentőportál"
+
+#: blocks/portal/block.json
+msgctxt "block description"
+msgid ""
+"Internal whistleblowing reporting and case-status form under the German "
+"HinSchG."
+msgstr ""
+"Belső visszaélés-bejelentő és állapotlekérdező űrlap a német HinSchG alapján."
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "hinschg"
+msgstr "hinschg-torveny"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "whistleblower"
+msgstr "bejelento"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "meldestelle"
+msgstr "bejelentohely"
+
+#: blocks/portal/block.json
+msgctxt "block keyword"
+msgid "compliance"
+msgstr "megfeleloseg"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"
+
+#~ msgid "Noch nicht in dieser Oberfläche:"
+#~ msgstr "Még nem érhető el ezen a felületen:"
+
+#~ msgid ""
+#~ "Den Eingang bestätigen und antworten. Dafür gibt es die REST-Routen POST /"
+#~ "wp-json/wm-hinschg/v1/admin/ack und /admin/reply (Berechtigung "
+#~ "wm_hinschg_read_cases). E-Mails versendet das Plugin nicht."
+#~ msgstr ""
+#~ "Beérkezés visszaigazolása és válaszadás. Erre a POST /wp-json/wm-hinschg/"
+#~ "v1/admin/ack és /admin/reply REST-útvonalak szolgálnak "
+#~ "(wm_hinschg_read_cases jogosultság). A bővítmény nem küld e-mailt."
+
+#~ msgid ""
+#~ "Meldung und Nachrichten werden auf dem Server mit AES-256-GCM "
+#~ "verschlüsselt, der AES-Schlüssel mit RSA versiegelt. Wo der private RSA-"
+#~ "Schlüssel liegt, entscheidet die wp-config.php: mit "
+#~ "WM_HINSCHG_PRIVATE_KEY dort, mit WM_HINSCHG_KEY_PASSPHRASE verschlüsselt "
+#~ "in der Datenbank, ohne beides im Klartext in der Datenbank — dann "
+#~ "entschlüsselt ein Datenbank-Abzug jede Meldung. Welche der drei diese "
+#~ "Installation verwendet, steht oben auf dieser Seite und in wp hinschg key-"
+#~ "status. Zwischen Browser und Server schützt nur HTTPS."
+#~ msgstr ""
+#~ "A bejelentések és üzenetek a szerveren AES-256-GCM-mel titkosítódnak, az "
+#~ "AES-kulcsot pedig RSA zárja le. A privát kulcs helyét a wp-config.php "
+#~ "dönti el: ott a WM_HINSCHG_PRIVATE_KEY révén, az adatbázisban titkosítva "
+#~ "a WM_HINSCHG_KEY_PASSPHRASE révén, vagy régebbi telepítéseknél nyílt "
+#~ "szövegként. Az aktív mód az oldal tetején és a wp hinschg key-status "
+#~ "kimenetében látható. Az átvitelt HTTPS védi."
+
+#~ msgid "Einmalige Offline-Schlüsselausgabe (nur jetzt sichtbar):"
+#~ msgstr "Egyszeri offline privátkulcs-kiadás (csak most látható):"
+
+#~ msgid ""
+#~ "Hinterlegen Sie diesen privaten Schlüssel sicher als "
+#~ "WM_HINSCHG_PRIVATE_KEY in der wp-config.php."
+#~ msgstr ""
+#~ "Mentse el biztonságosan ezt a privát kulcsot WM_HINSCHG_PRIVATE_KEY néven "
+#~ "a wp-config.php fájlba."
+
+#~ msgid ""
+#~ "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-"
+#~ "Verwahrung). Neue Meldungen werden versiegelt; zum Lesen ist "
+#~ "WM_HINSCHG_PRIVATE_KEY in wp-config.php erforderlich."
+#~ msgstr ""
+#~ "Az adatbázisban csak a nyilvános kulcs szerepel (offline őrzés). Az új "
+#~ "bejelentések lezárásra kerülnek; olvasásukhoz WM_HINSCHG_PRIVATE_KEY "
+#~ "szükséges a wp-config.php-ban."

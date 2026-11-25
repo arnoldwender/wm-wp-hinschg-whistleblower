@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php-version: ['8.2', '8.3']
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-version }}
+          extensions: openssl, sodium, mbstring, json
+          tools: phpunit
+
+      - name: Run PHPUnit Tests
+        run: |
+          cd tests
+          phpunit --configuration phpunit.xml.dist
+
+      # Until 2026-09-15 CI ran only tests/Unit: the standalone suite, which renders the desk, the portal and
+      # uninstall.php against a mock database, never ran on a pull request.
+      - name: Standalone suite
+        run: php tests/test-suite.php
+
+      - name: Optional internal UI gate
+        run: |
+          for gate in tests/test-ui-*.php; do
+            if [ -f "$gate" ]; then
+              php "$gate"
+            fi
+          done
+
+      # `wp i18n make-pot` IS the definition of a fresh catalog in the step below, so wp-cli is a
+      # hard requirement there rather than something it shrugs off. Into $HOME/bin, not the
+      # workspace: an executable in the repo root would land in the copy the mutation runner makes.
+      # No workflow input reaches these commands; the URL is a literal.
+      - name: Install WP-CLI
+        if: matrix.php-version == '8.3'
+        run: |
+          mkdir -p "$HOME/bin"
+          curl -sSL https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar -o "$HOME/bin/wp"
+          chmod +x "$HOME/bin/wp"
+          echo "$HOME/bin" >> "$GITHUB_PATH"
+
+      # A string with no entry in the .pot cannot be translated by anyone, ever, and nothing reports
+      # it: the interface just stays German. 146 of 162 strings were in that state on 2026-09-20.
+      - name: Translation catalog freshness
+        if: matrix.php-version == '8.3'
+        run: php tests/test-pot-freshness.php
+
+      # Each entry in tests/mutations.php undoes one correction; the suite must turn red for every one.
+      - name: Compliance & Security Audit
+        if: matrix.php-version == '8.3'
+        run: python3 .github/scripts/security-audit.py
+
+      - name: Mutation check
+        if: matrix.php-version == '8.3'
+        run: bash tests/run-mutations.sh
+
+  mysql-integration:
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: wp_test
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h 127.0.0.1 -uroot -proot"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=10
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP 8.3 with mysqli
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: openssl, sodium, mbstring, json, mysqli
+
+      - name: Verify MySQL 8.0 GET_LOCK advisory lock behavior
+        run: |
+          php -r '$m1 = new mysqli("127.0.0.1", "root", "root", "wp_test", 3306); $m2 = new mysqli("127.0.0.1", "root", "root", "wp_test", 3306); $l1 = (int) $m1->query("SELECT GET_LOCK(\"wm_hinschg_audit_chain\", 2)")->fetch_row()[0]; $l2 = (int) $m2->query("SELECT GET_LOCK(\"wm_hinschg_audit_chain\", 0)")->fetch_row()[0]; $m1->query("SELECT RELEASE_LOCK(\"wm_hinschg_audit_chain\")"); if ($l1 !== 1 || $l2 !== 0) { exit(1); } echo "MySQL 8.0 GET_LOCK contention verified: l1=1 l2=0\n";'

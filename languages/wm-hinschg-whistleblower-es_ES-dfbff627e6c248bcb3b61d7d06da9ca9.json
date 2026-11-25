@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "es_ES",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "Canal de Denuncias WM HinSchG"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Canal interno de denuncias: formulario de envío, cifrado en servidor de denuncias y mensajes, control de plazos según el § 17 HinSchG y registro de auditoría firmado. No evalúa el cumplimiento legal."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Canal interno"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Falta la tabla de denuncias (reactive el plugin)"
+      ],
+      "%d Frist überschritten": [
+        "%d plazo vencido",
+        "%d plazos vencidos"
+      ],
+      "Keine Frist überschritten": [
+        "Ningún plazo vencido"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Acuse de recibo en 7 días, respuesta en 3 meses (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Expedientes"
+      ],
+      "Offen": [
+        "Abiertos"
+      ],
+      "Überfällig": [
+        "Vencidos"
+      ],
+      "Meldestelle öffnen": [
+        "Abrir canal de denuncias"
+      ],
+      "HinSchG-Meldestelle": [
+        "Canal HinSchG"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Oficina de denuncias (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "No se ha detectado ninguna clave privada PKCS#8 válida (BEGIN PRIVATE KEY)."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto solo está disponible a través de HTTPS o en localhost."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "Calculando el par de claves RSA-4096 localmente en el navegador …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Clave privada descargada localmente. Compruebe y guarde ahora la clave pública."
+      ],
+      "Fehler: ": [
+        "Error: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Descifrado local en el navegador en curso …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Texto de la denuncia (descifrado localmente en el navegador)"
+      ],
+      "Verlauf": [
+        "Historial"
+      ],
+      "Meldestelle": [
+        "Oficina de denuncias"
+      ],
+      "Hinweisgebende Person": [
+        "Persona denunciante"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Denuncia descifrada localmente en el navegador. La clave privada no ha salido del navegador."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Error al descifrar: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Guardando el acuse de recibo …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Acuse de recibo guardado. Actualizando la vista …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "Guardando la respuesta cifrada …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "Respuesta cifrada guardada. Actualizando la vista …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Introduzca el texto del mensaje."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Registro de auditoría ocupado temporalmente. Vuelva a intentarlo dentro de 2 segundos."
+      ],
+      "Vorgänge & Fristen": [
+        "Expedientes y plazos"
+      ],
+      "Formular einbinden": [
+        "Insertar formulario"
+      ],
+      "Testmeldung": [
+        "Denuncia de prueba"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Plazos y avisos"
+      ],
+      "Schlüsselverwahrung": [
+        "Custodia de claves"
+      ],
+      "Deinstallation": [
+        "Desinstalación"
+      ],
+      "Begriffe": [
+        "Glosario"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Recibir comunicaciones mediante el formulario, guardarlas cifradas y calcular los plazos del § 17 HinSchG."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte de la familia de plugins de WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Centro Hub"
+      ],
+      "Standalone": [
+        "Modo autónomo"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Par de claves disponible"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Sin par de claves: no se pueden guardar denuncias"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "Requisitos del canal interno de denuncias"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Los empleadores con al menos 50 personas trabajadoras por regla general deben establecer una oficina interna de denuncias (§ 12 apdo. 2 HinSchG); para las entidades del § 12 apdo. 3, como entidades de crédito, empresas de servicios de inversión y aseguradoras, rige con independencia de la plantilla. La oficina confirma la recepción en un máximo de siete días y responde dentro de los tres meses siguientes (§ 17). Las denuncias deben ser posibles por escrito, verbalmente y, previa solicitud, en persona (§ 16 apdo. 3); este plugin cubre solo la vía escrita. Las denuncias anónimas deben tramitarse aunque no es obligatorio habilitarlas (§ 16 apdo. 1). La documentación se suprime tres años después de concluir el procedimiento (§ 11 apdo. 5); el plugin no borra nada por sí solo ni evalúa obligaciones jurídicas."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Se crearon tres expedientes de demostración (claves token_demo_1 a token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Denuncia de prueba guardada cifrada."
+      ],
+      "Vorgangs-ID:": [
+        "ID del expediente:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Clave de acceso (visible solo ahora):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Secciones de la oficina de denuncias"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "La clave privada está sin proteger en la base de datos."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Defina %1$s (recomendado, Libsodium XSalsa20-Poly1305, migra automáticamente) o %2$s en wp-config.php y ejecute %3$s. El par de claves se conserva; solo cambia el formato almacenado para que todas las denuncias sigan siendo legibles."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d persona puede abrir denuncias.",
+        "%d personas pueden abrir denuncias."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Incluye el rol %1$s, es decir, cualquier administrador del sitio. El § 8 HinSchG limita el contenido a las personas encargadas del canal. Con %2$s verá la lista; asigne el rol «Meldestelle (HinSchG)» y retire después el permiso con %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Los administradores del sitio no pueden abrir denuncias mientras no tengan este permiso."
+      ],
+      "Meldung %s": [
+        "Denuncia %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "No se ha podido cargar el expediente."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Descifrado local en el navegador (elegir la clave privada sin conexión)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Elija su archivo de clave PKCS#8 (.pem) guardado localmente. El descifrado se realiza exclusivamente en la memoria de su navegador; la clave privada no se transmite al servidor."
+      ],
+      "Meldungstext": [
+        "Texto de la denuncia"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "No fue posible descifrar este mensaje."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Cada consulta de esta denuncia queda registrada en la auditoría (§ 8 HinSchG: el contenido también es confidencial dentro de la organización)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Tramitación del expediente según el § 17 HinSchG"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Acuse de recibo registrado el %s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Recepción aún no confirmada (§ 17, apdo. 1, n.º 1 HinSchG: plazo de 7 días)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Respuesta final registrada el %s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Confirmar la recepción (§ 17, apdo. 1 HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Consulta o respuesta a la persona informante"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Se guarda cifrada y se pone a disposición de la persona informante en «Consultar expediente». El plugin no envía correos electrónicos."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Respuesta final según el § 17, apdo. 2 HinSchG"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Enviar respuesta cifrada"
+      ],
+      "Zurück zur Übersicht": [
+        "Volver al resumen"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Registro de auditoría: cadena verificada, sin alteraciones posteriores detectables"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Registro de auditoría: falló la comprobación de integridad"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d entradas verificadas. Clave de firma: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d entradas antiguas sin firma"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Error desconocido durante la verificación."
+      ],
+      "Offene Vorgänge": [
+        "Expedientes abiertos"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "sin respuesta final"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Acuse de recibo vencido"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "sin confirmar, plazo de 7 días superado"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Confirmación vence en 48 horas"
+      ],
+      "noch nicht bestätigt": [
+        "aún sin confirmar"
+      ],
+      "Rückmeldung überfällig": [
+        "Respuesta vencida"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "sin respuesta, plazo del plugin superado"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Últimos 50 expedientes con estado y plazos. El contenido permanece cifrado."
+      ],
+      "Vorgang": [
+        "Expediente"
+      ],
+      "Kategorie": [
+        "Categoría"
+      ],
+      "Status": [
+        "Estado"
+      ],
+      "Eingangsbestätigung": [
+        "Acuse de recibo"
+      ],
+      "Rückmeldung": [
+        "Respuesta"
+      ],
+      "Eingang": [
+        "Recepción"
+      ],
+      "Noch keine Vorgänge.": [
+        "Todavía no hay expedientes."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Crear tres expedientes de demostración"
+      ],
+      "bestätigt am %s": [
+        "confirmado el %s"
+      ],
+      "Frist %s": [
+        "Plazo %s"
+      ],
+      "überfällig": [
+        "vencido"
+      ],
+      "gegeben am %s": [
+        "enviada el %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Integrar el formulario de denuncias en el sitio web"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Cree una página, por ejemplo «Canal de denuncias»."
+      ],
+      "Den Shortcode einfügen:": [
+        "Inserte el shortcode:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(equivalente: [wm_hinschg_portal] o el bloque «wm/hinschg-portal»)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Enlace la página donde el personal pueda encontrarla, como en la intranet o el pie de página."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Tras el envío, la persona denunciante recibe un ID de expediente y una clave de acceso. Con ambos consulta el estado y envía mensajes en el mismo formulario sin indicar nombre ni correo. Solo se guarda un HMAC de la clave; si se pierde, ya no habrá acceso al expediente."
+      ],
+      "Testmeldung anlegen": [
+        "Crear denuncia de prueba"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Crea un expediente por la misma vía que el formulario público y muestra una sola vez la clave de acceso para probar el portal."
+      ],
+      "Sachverhalt": [
+        "Descripción de los hechos"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Se almacena cifrado con AES-256-GCM; la clave simétrica se sella con la clave RSA del plugin."
+      ],
+      "Testmeldung speichern": [
+        "Guardar denuncia de prueba"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Acuse de recibo: recepción + %d días. El § 17 apdo. 1 n.º 1 HinSchG exige confirmar en un máximo de siete días."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Respuesta: recepción + %d meses. El § 17 apdo. 2 HinSchG cuenta tres meses desde el acuse (o tres meses y siete días sin acuse); el plazo del plugin nunca es posterior."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Los plazos están fijados en el código y no son configurables."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "El plugin no envía correos. Una revisión horaria (WP-Cron) dispara la acción wm_hinschg_sla_breach_detected cuando vence un plazo para conectar avisos propios."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Hasta el 15/09/2026 había aquí una página de ajustes para correo, plazos, subidas y conservación cuyos valores nunca se usaron."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Clave RSA pública guardada y eliminada la posible clave privada del servidor (custodia sin conexión activa)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Clave pública de emergencia y suplencia (2.ª persona designada / mediador) guardada."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Clave de emergencia y suplencia eliminada."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Rechazado: se ha enviado una clave privada. Envíe únicamente la clave pública (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Ya existen expedientes cifrados. Confirme expresamente el cambio de clave mediante la casilla de verificación."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "El texto enviado no es una clave RSA pública válida (mínimo 2048 bits, recomendado 4096 bits)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Custodia de claves activa y firma de auditoría"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "Origen de la clave RSA:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Clave de emergencia y suplencia:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "depositada (doble sobre activo para la 2.ª persona designada / mediador)"
+      ],
+      "nicht hinterlegt": [
+        "no depositada"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Clave de la cadena de auditoría:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(para rotar las claves con independencia de AUTH_KEY, defina %s en wp-config.php)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Generación de claves en el navegador (custodia sin conexión sin clave privada en el servidor)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Genera un par de claves RSA-OAEP-4096 localmente en su navegador (WebCrypto). La clave privada se descarga directamente en su dispositivo como archivo .pem y nunca pasa por PHP, el servidor web ni la base de datos MySQL. En el servidor solo se guarda la clave pública con la que se sellan las denuncias entrantes."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Generar el par de claves RSA-4096 localmente en el navegador y descargar la clave privada"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Clave RSA pública (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Sustituir la clave existente (las denuncias existentes siguen necesitando la clave privada anterior)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Guardar solo la clave pública (activar la custodia sin conexión)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Solo los administradores del sitio (manage_options) pueden depositar la clave pública de la oficina de denuncias."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Clave de emergencia y suplencia (2.ª persona designada de la oficina de denuncias / mediador)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Doble sobre opcional para nuevas denuncias y mensajes: la clave de sesión AES-256 se sella además con esta clave RSA pública para que una suplencia pueda descifrar localmente en el navegador en caso de ausencia. Según el § 8, apdo. 1 y el § 15 HinSchG, la custodia de esta clave privada solo puede corresponder a una segunda persona designada de la oficina de denuncias o a un mediador independiente, nunca a la dirección ni a la administración informática general. Para eliminarla, vacíe el campo y guarde."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Generar el par de claves de suplencia (RSA-4096) localmente en el navegador y descargar la clave privada"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Clave pública de emergencia y suplencia (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Guardar la clave de emergencia y suplencia"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Solo los administradores del sitio (manage_options) pueden depositar la clave pública de emergencia y suplencia."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Preferencia de desinstalación guardada."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Conservación legal (§ 11 HinSchG) y desinstalación"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Según el § 11 apdo. 5 HinSchG, la documentación debe conservarse tres años tras finalizar el procedimiento. Por defecto se mantienen denuncias, mensajes, auditoría y par de claves al borrar el plugin para no destruir expedientes durante actualizaciones o reinstalaciones."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Eliminar irreversiblemente todas las denuncias, mensajes, registros de auditoría y claves al desinstalar el plugin"
+      ],
+      "Deinstallations-Option speichern": [
+        "Guardar opción de desinstalación"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Solo los administradores del sitio (manage_options) pueden cambiar el comportamiento de desinstalación."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "ID de expediente y clave de acceso"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "La persona denunciante recibe ambos una única vez tras enviar. La clave mide 64 caracteres y solo se almacena su HMAC."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Como máximo a los siete días (§ 17 apdo. 1 n.º 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Dentro de los tres meses siguientes al acuse, indicando las medidas previstas o adoptadas (§ 17 apdo. 2 HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Cifrado"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Las denuncias y los mensajes se cifran con AES-256-GCM y la clave AES se sella con RSA-OAEP (opcionalmente también como doble sobre para la clave de emergencia y suplencia de una 2.ª persona designada / mediador). Dónde está la clave RSA privada lo indican la pestaña «Custodia de claves» y wp hinschg key-status: en wp-config.php (WM_HINSCHG_PRIVATE_KEY), sellada con Libsodium XSalsa20-Poly1305 (WM_HINSCHG_MASTER_KEY o AUTH_KEY), cifrada con OpenSSL (WM_HINSCHG_KEY_PASSPHRASE) o solo localmente en el navegador sin clave privada en el servidor (custodia sin conexión). Las respuestas de la oficina de denuncias reciben además una caja sellada para la clave de acceso, mientras que lo que introduce la persona informante permanece sellado de forma puramente asimétrica. Entre el navegador y el servidor protege HTTPS."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Permiso para abrir una denuncia"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "El plugin comprueba la capacidad propia wm_hinschg_read_cases e incluye el rol «Meldestelle (HinSchG)». WordPress o un gestor de roles deciden quién la posee. Al instalar se asigna a «Administrator» para evitar bloqueos; revocarla después es el objetivo. wp hinschg access muestra quién la tiene."
+      ],
+      "Audit-Protokoll": [
+        "Registro de auditoría"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Cada entrada incluye un HMAC-SHA256 sobre la anterior. Se detectan cambios, borrados e inserciones; quien posea la clave de wp-config.php puede recalcular la cadena."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "El registro de auditoría está ocupado temporalmente. Vuelva a intentarlo en breve."
+      ],
+      "Case ID is required.": [
+        "El ID del expediente es obligatorio."
+      ],
+      "Case not found.": [
+        "No se encontró el expediente."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "El sobre criptográfico de esta denuncia está incompleto; no se puede descifrar."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "No se pudo descifrar esta denuncia. Origen de la clave: %s"
+      ],
+      "Report description cannot be empty.": [
+        "La descripción de la denuncia no puede estar vacía."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Guarde esta clave de acceso en lugar seguro. Es la ÚNICA forma de consultar el estado o comunicarse confidencialmente sin revelar su identidad."
+      ],
+      "Case ID and Access Token are required.": [
+        "Se requieren el ID del expediente y la clave de acceso."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "ID de expediente o clave de acceso no válidos."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Se requieren el ID del expediente, la clave de acceso y el mensaje."
+      ],
+      "Confidential message appended successfully.": [
+        "Mensaje confidencial añadido correctamente."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "La recepción de esta denuncia ya fue confirmada."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Acuse de recibo: su comunicación ha sido recibida por el canal interno de denuncias (§ 17 apdo. 1 n.º 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Acuse registrado y enviado a la vista del expediente de la persona denunciante."
+      ],
+      "Case ID and message are required.": [
+        "Se requieren el ID del expediente y el mensaje."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Respuesta guardada en la vista del expediente de la persona denunciante."
+      ],
+      "Eingegangen": [
+        "Recibido"
+      ],
+      "In Bearbeitung": [
+        "En tramitación"
+      ],
+      "Rückmeldung gegeben": [
+        "Respuesta enviada"
+      ],
+      "Abgeschlossen": [
+        "Cerrado"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Fraude financiero, administración desleal, corrupción y soborno"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "Infracciones del RGPD y brechas de datos"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "Seguridad informática e incidentes cibernéticos"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Cadena de suministro y derechos humanos"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Seguridad laboral, discriminación y acoso"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Incumplimientos generales de normativa"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "La clave privada está en wp-config.php. Un volcado de base de datos por sí solo no descifra ninguna denuncia."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "La clave privada está cifrada con Libsodium (XSalsa20-Poly1305) en la base de datos; la clave maestra (WM_HINSCHG_MASTER_KEY) reside en wp-config.php. Un volcado por sí solo no descifra ninguna denuncia."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "La clave privada está cifrada en la base de datos; la frase de paso reside en wp-config.php. Un volcado por sí solo no descifra ninguna denuncia."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "La clave privada está cifrada con Libsodium en la base de datos (derivada de AUTH_KEY en wp-config.php). Un volcado por sí solo no descifra denuncias; se recomienda WM_HINSCHG_MASTER_KEY para rotación independiente."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "En la base de datos solo está la clave pública (custodia sin conexión). Las nuevas denuncias se sellan; para leerlas, use el descifrado local en el navegador en la vista del expediente o defina WM_HINSCHG_PRIVATE_KEY en wp-config.php."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Todavía no hay ningún par de claves depositado. Genere un par de claves local en el navegador en la pestaña «Custodia de claves» (custodia sin conexión) o defina WM_HINSCHG_MASTER_KEY en wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "La clave privada está sin cifrar en la base de datos junto a las denuncias. Quien tenga un volcado completo puede descifrarlas todas."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "El texto enviado no es una clave RSA pública válida en formato PEM."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "La clave pública debe ser una clave RSA de al menos 2048 bits (recomendado: 4096 bits)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Interrupción de seguridad: se ha enviado una clave privada. En la custodia sin conexión solo se puede guardar la clave pública (BEGIN PUBLIC KEY)."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Ya existen expedientes cifrados. Confirme expresamente el cambio de clave, ya que las denuncias existentes siguen necesitando la clave privada anterior."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Clave RSA pública guardada y clave privada del servidor eliminada (custodia sin conexión activa)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Interrupción de seguridad: se ha enviado una clave privada. Como clave de emergencia y suplencia solo se puede guardar la clave pública (BEGIN PUBLIC KEY)."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "El registro está vacío aunque figuraban %d entradas registradas."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Rotura de cadena en la entrada #%d: se borró, insertó o reordenó un registro."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "La entrada #%d no coincide con su firma: fue modificada posteriormente o se escribió con otro AUTH_KEY (por ejemplo, antes de migrar el sitio)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "El final del registro no coincide con la última entrada anotada. Se eliminaron las entradas más recientes."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "La firma del final de cadena registrado no es válida. El final del registro ha sido manipulado."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Ninguna entrada lleva firma con clave. El registro procede de antes de la clave o fue degradado al formato antiguo falsificable; en ambos casos no es verificable."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "WM HinSchG Whistleblower Desk no se ha podido activar porque faltan las siguientes extensiones PHP necesarias: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Falta una extensión PHP"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "En wp-config.php no está definido %1$s ni %2$s. Sin un secreto en wp-config.php no se puede cifrar la clave."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "No hay clave privada en la base de datos. Nada que migrar."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "La clave guardada no puede descifrarse con WM_HINSCHG_MASTER_KEY. Restaure la clave maestra original; no se sobrescribió nada."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "La clave privada ya está cifrada mediante Libsodium (WM_HINSCHG_MASTER_KEY). Nada que hacer."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "No se pudo abrir la clave almacenada. No se sobrescribió nada."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "No se pudo verificar la clave sellada con Libsodium. No se sobrescribió nada."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "La clave privada figura ahora cifrada con Libsodium (WM_HINSCHG_MASTER_KEY) en la base de datos. Un volcado por sí solo ya no descifra denuncias."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "La clave guardada no abre ni sin ni con la frase configurada. Se cifró con otra frase: restáurela o ninguna denuncia será legible."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "La clave privada ya está cifrada con la frase configurada. Nada que hacer."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "No fue posible exportar la clave cifrada. La clave guardada permanece sin cambios."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "La clave cifrada no pudo volver a abrirse. No se sobrescribió nada."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "La clave privada está ahora cifrada en la base de datos. Un volcado por sí solo ya no descifra denuncias. La frase en wp-config.php pasa a ser imprescindible."
+      ],
+      "HinSchG Meldestelle Status": [
+        "Estado del canal HinSchG"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d días para acuse de recibo (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d meses de plazo de respuesta (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Canal interno de denuncias activo"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Canal de denuncias en configuración"
+      ],
+      "Interne Meldestelle": [
+        "Canal interno de denuncias"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Aquí puede comunicar infracciones. No se solicitan nombre ni dirección de correo electrónico."
+      ],
+      "Neuen Hinweis melden": [
+        "Enviar nueva denuncia"
+      ],
+      "Vorgang abrufen": [
+        "Consultar expediente"
+      ],
+      "Was gespeichert wird:": [
+        "Qué se almacena:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Categoría y descripción, cifradas en el servidor. Su dirección IP no se guarda con la denuncia; para limitar peticiones el sitio conserva durante un máximo de una hora un hash con clave (HMAC). Si el servidor web registra accesos depende del operador del sitio, no de este formulario. Tras enviar recibirá un ID de expediente y una clave de acceso para consultas y respuestas."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Describa los hechos con el mayor detalle posible (lugar, fecha, personas implicadas)…"
+      ],
+      "Hinweis absenden": [
+        "Enviar denuncia"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Introduzca el ID del expediente y la clave de acceso para ver el estado y escribir al canal."
+      ],
+      "Vorgangs-ID": [
+        "ID del expediente"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "p. ej. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Clave de acceso"
+      ],
+      "64 Zeichen": [
+        "64 caracteres"
+      ],
+      "Vorgang laden": [
+        "Cargar expediente"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "El rol %s no existe."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "El rol %s ya puede abrir denuncias. Nada que hacer."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "El rol %s ahora puede abrir denuncias."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "El rol %s ya carecía de permiso para abrir denuncias. Nada que hacer."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Cancelado: nadie quedaría autorizado para abrir denuncias. La oficina debe acusar recibo en siete días (§ 17 HinSchG) y sin este permiso nadie accede a ellas. Autorice antes a otra persona y revoque después aquí."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "El rol %s ya no puede abrir denuncias."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "El usuario %d no existe."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s ahora puede abrir denuncias."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Cancelado: nadie quedaría autorizado para abrir denuncias. Autorice antes a otra persona y revoque después aquí."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s ya no puede abrir denuncias."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Demasiadas solicitudes. Inténtelo de nuevo más tarde."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "Portal de Denuncias HinSchG"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Formulario interno de denuncias y consulta de estado conforme a la HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Ajustes del canal"
+      ],
+      "Überschrift": [
+        "Título"
+      ],
+      "Einleitungstext anzeigen": [
+        "Mostrar texto introductorio"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "Portal de Denuncias HinSchG (vista previa en el sitio)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "Portal de Denuncias HinSchG"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Formulario interno de denuncias y seguimiento de expedientes conforme a la ley alemana HinSchG."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-ley"
+      ],
+      "block keyword\u0004whistleblower": [
+        "denunciante"
+      ],
+      "block keyword\u0004meldestelle": [
+        "canal-interno"
+      ],
+      "block keyword\u0004compliance": [
+        "cumplimiento"
+      ]
+    }
+  }
+}

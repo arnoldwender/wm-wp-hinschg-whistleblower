@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "en_US",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Whistleblower Reporting Desk"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Internal whistleblowing channel: report intake form, server-side encryption of reports and messages, § 17 HinSchG deadline tracking, and a keyed audit log. Does not assess legal compliance."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Reporting Office"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Reports table missing (reactivate plugin)"
+      ],
+      "%d Frist überschritten": [
+        "%d deadline exceeded",
+        "%d deadlines exceeded"
+      ],
+      "Keine Frist überschritten": [
+        "No deadlines exceeded"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Acknowledgment within 7 days, feedback within 3 months (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Cases"
+      ],
+      "Offen": [
+        "Open"
+      ],
+      "Überfällig": [
+        "Overdue"
+      ],
+      "Meldestelle öffnen": [
+        "Open Reporting Desk"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG Reporting Desk"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Reporting Office (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "No valid PKCS#8 private key (BEGIN PRIVATE KEY) found."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "WebCrypto is only available over HTTPS or on localhost."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "Computing the RSA-4096 key pair locally in the browser …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "Private key downloaded locally. Now check and save the public key."
+      ],
+      "Fehler: ": [
+        "Error: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Decrypting locally in the browser …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "Report text (decrypted locally in the browser)"
+      ],
+      "Verlauf": [
+        "Thread"
+      ],
+      "Meldestelle": [
+        "Reporting Office"
+      ],
+      "Hinweisgebende Person": [
+        "Reporting Person"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "Report decrypted locally in the browser. The private key has not left the browser."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "Decryption failed: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Saving acknowledgment …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Acknowledgment saved. Refreshing the view …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "Saving the encrypted reply …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "Encrypted reply saved. Refreshing the view …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Please enter a message."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Audit log temporarily busy. Please try again in 2 seconds."
+      ],
+      "Vorgänge & Fristen": [
+        "Cases & Deadlines"
+      ],
+      "Formular einbinden": [
+        "Embed Form"
+      ],
+      "Testmeldung": [
+        "Test Report"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Deadlines & Notifications"
+      ],
+      "Schlüsselverwahrung": [
+        "Key custody"
+      ],
+      "Deinstallation": [
+        "Uninstall"
+      ],
+      "Begriffe": [
+        "Glossary"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Receive reports through the form, store them encrypted, and calculate § 17 HinSchG deadlines."
+      ],
+      "Part of the WM Suite plugin family": [
+        "Member of the WM Suite plugin family"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite Hub"
+      ],
+      "Standalone": [
+        "Standalone Mode"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Key pair available"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "No key pair: reports cannot be stored"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "What the reporting office must cover"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "Employers with at least 50 employees as a rule must establish an internal reporting office (§ 12(2) HinSchG); for entities listed in § 12(3), such as credit institutions, investment services firms, and insurance undertakings, this applies regardless of headcount. The office acknowledges receipt within seven days and provides feedback within three months of acknowledgment (§ 17). Reports must be possible in writing and orally, and upon request in person (§ 16(3)); this plugin covers the written channel only. Anonymous reports should be processed, though channels enabling them are not mandatory (§ 16(1)). Documentation must be deleted three years after closure (§ 11(5)); the plugin deletes nothing automatically. The plugin does not assess legal duties."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Three demo cases created (access tokens token_demo_1 to token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Test report stored encrypted."
+      ],
+      "Vorgangs-ID:": [
+        "Case ID:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Access Token (shown once only):"
+      ],
+      "Bereiche der Meldestelle": [
+        "Reporting desk sections"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "The private key sits unprotected in the database."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Set %1$s (recommended, Libsodium XSalsa20-Poly1305, migrates automatically) or %2$s in wp-config.php and run %3$s. The key pair is preserved and only the stored format changes, keeping all existing reports readable."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d person can open reports.",
+        "%d people can open reports."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Including the role %1$s, meaning everyone administering this site. § 8 HinSchG restricts content to personnel entrusted with the reporting office. Run %2$s to view holders; assign the role \"Meldestelle (HinSchG)\" and then revoke administrator access via %3$s."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "Site administrators cannot open reports unless granted this capability."
+      ],
+      "Meldung %s": [
+        "Report %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "The case could not be loaded."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Local browser decryption (choose the offline private key)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Choose your locally stored PKCS#8 key file (.pem). Decryption takes place only in your browser's memory; the private key is not sent to the server."
+      ],
+      "Meldungstext": [
+        "Report text"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "This message could not be decrypted."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "Every view of this report is recorded in the audit log (§ 8 HinSchG: contents remain confidential within the organization)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Case handling under § 17 HinSchG"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Acknowledgment recorded on %s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "Receipt not yet acknowledged (§ 17(1) no. 1 HinSchG: deadline 7 days)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Final feedback recorded on %s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Acknowledge receipt (§ 17(1) HinSchG)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Follow-up question or feedback to the whistleblower"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Stored encrypted and made available to the whistleblower under “Check case status”. The plugin sends no e-mails."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Final feedback under § 17(2) HinSchG"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Send encrypted reply"
+      ],
+      "Zurück zur Übersicht": [
+        "Back to overview"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Audit log: chain verified, no subsequent modification detected"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Audit log: integrity check failed"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d log entries verified. Signing key: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d historical legacy entries without signature"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Unknown error during verification."
+      ],
+      "Offene Vorgänge": [
+        "Open cases"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "without final feedback"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Acknowledgment overdue"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "unacknowledged, 7-day deadline passed"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Acknowledgment due within 48 hours"
+      ],
+      "noch nicht bestätigt": [
+        "not yet acknowledged"
+      ],
+      "Rückmeldung überfällig": [
+        "Feedback overdue"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "no feedback sent, plugin deadline passed"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Latest 50 cases with status and deadlines. Contents remain encrypted."
+      ],
+      "Vorgang": [
+        "Case"
+      ],
+      "Kategorie": [
+        "Category"
+      ],
+      "Status": [
+        "Current Status"
+      ],
+      "Eingangsbestätigung": [
+        "Acknowledgment"
+      ],
+      "Rückmeldung": [
+        "Feedback"
+      ],
+      "Eingang": [
+        "Received"
+      ],
+      "Noch keine Vorgänge.": [
+        "No cases yet."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Create three demo cases"
+      ],
+      "bestätigt am %s": [
+        "acknowledged on %s"
+      ],
+      "Frist %s": [
+        "Deadline %s"
+      ],
+      "überfällig": [
+        "overdue"
+      ],
+      "gegeben am %s": [
+        "sent on %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Embed reporting form on your website"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Create a page, for example \"Whistleblowing Channel\"."
+      ],
+      "Den Shortcode einfügen:": [
+        "Insert the shortcode:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(equivalent: [wm_hinschg_portal] or the block \"wm/hinschg-portal\")."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Link the page where employees can find it, such as the intranet or footer."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "After submitting, the reporting person receives a Case ID and an Access Token. Using both, they can check status and exchange messages in the same form without providing a name or email address. Only an HMAC of the token is stored; if lost, the case can no longer be accessed."
+      ],
+      "Testmeldung anlegen": [
+        "Create test report"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Creates a case through the same path as the public form and displays the access token once so you can test the portal."
+      ],
+      "Sachverhalt": [
+        "Description of facts"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "Stored encrypted with AES-256-GCM; the symmetric key is sealed with the plugin's RSA public key."
+      ],
+      "Testmeldung speichern": [
+        "Save test report"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Acknowledgment: receipt + %d days. § 17(1) No. 1 HinSchG requires acknowledgment within seven days at the latest."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Feedback: receipt + %d months. § 17(2) HinSchG counts three months from acknowledgment (or three months and seven days from receipt without acknowledgment); the plugin's deadline is never later."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "Deadlines are fixed in code and cannot be customized."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "The plugin sends no emails. An hourly check (WP-Cron) triggers the action wm_hinschg_sla_breach_detected when deadlines pass so you can attach custom notifications."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "Until 2026-09-15 an unused settings form for email, deadlines, uploads, and retention sat here; those values were never read."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Public RSA key saved and any server-side private key removed (offline custody active)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "Public emergency and deputy key (2nd designated person / ombudsperson) saved."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "Emergency and deputy key removed."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Rejected: a private key was submitted. Please submit the public key (BEGIN PUBLIC KEY) only."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Encrypted cases already exist. Please confirm the key change explicitly with the checkbox."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "The submitted text is not a valid public RSA key (at least 2048 bits, 4096 bits recommended)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Active key custody & audit signature"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "RSA key source:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Emergency & deputy key:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "stored (dual envelope for 2nd designated person / ombudsperson active)"
+      ],
+      "nicht hinterlegt": [
+        "not stored"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Audit chain key:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(for key rotation independent of AUTH_KEY, set %s in wp-config.php)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Browser key generation (offline custody without a server private key)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "Generates an RSA-OAEP-4096 key pair locally in your browser (WebCrypto). The private key is downloaded directly to your device as a .pem file and never touches PHP, the web server or the MySQL database. Only the public key, used to seal incoming reports, is stored on the server."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Generate an RSA-4096 key pair locally in the browser & download the private key"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Public RSA key (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Replace the existing key (existing reports still need the previous private key)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Save the public key only (enable offline custody)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "Only site administrators (manage_options) can store the reporting office's public key."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Emergency & deputy key (2nd designated person of the reporting office / ombudsperson)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Optional dual envelope for new reports and messages: the AES-256 session key is additionally sealed with this public RSA key so that a deputy can decrypt locally in the browser during an absence. Under § 8(1) and § 15 HinSchG, this private key may be held only by a second person designated to the reporting office or by an independent ombudsperson — never by management or general IT administration. To remove it, clear the field and save."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Generate a deputy key pair (RSA-4096) locally in the browser & download the private key"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Public emergency & deputy key (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Save emergency & deputy key"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "Only site administrators (manage_options) can store the public emergency and deputy key."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Uninstall preference saved."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Statutory Retention (§ 11 HinSchG) & Uninstall"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "Under § 11(5) HinSchG, documentation is retained for three years after closure. By default, reports, messages, audit log, and key pair are preserved when deleting the plugin so updates or reinstallations do not destroy statutory records."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "Permanently delete all reports, messages, audit entries, and keys when uninstalling the plugin"
+      ],
+      "Deinstallations-Option speichern": [
+        "Save uninstall option"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Only site administrators (manage_options) can change plugin uninstall behavior."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Case ID and Access Token"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "Handed to the reporting person once after submission. The token is 64 characters long; the plugin stores only an HMAC of it."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "No later than seven days (§ 17(1) No. 1 HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "Within three months of acknowledgment, stating planned and taken follow-up measures (§ 17(2) HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Encryption"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "Reports and messages are encrypted with AES-256-GCM, and the AES key is sealed with RSA-OAEP (optionally also as a dual envelope for the emergency & deputy key of a 2nd designated person / ombudsperson). Where the private RSA key is kept is shown by the “Key custody” tab and wp hinschg key-status: in wp-config.php (WM_HINSCHG_PRIVATE_KEY), sealed with Libsodium XSalsa20-Poly1305 (WM_HINSCHG_MASTER_KEY or AUTH_KEY), encrypted with OpenSSL (WM_HINSCHG_KEY_PASSPHRASE) or only locally in the browser without a server private key (offline custody). Replies from the reporting office also get a box sealed for the access token, while input from the whistleblower stays purely asymmetrically sealed. HTTPS protects the connection between browser and server."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Permission to open a report"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "The plugin checks its own capability wm_hinschg_read_cases and provides the role \"Meldestelle (HinSchG)\". WordPress roles or a role-manager plugin control who holds it, rather than a duplicate screen here. Administrators receive it on install to avoid lockout; revoking it afterward is the intended separation. wp hinschg access lists current holders."
+      ],
+      "Audit-Protokoll": [
+        "Audit log"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Each entry carries an HMAC-SHA256 over its predecessor. Edits, deletions, and insertions are detected; anyone with access to the key in wp-config.php can re-sign the chain."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "The audit log is temporarily busy. Please try again shortly."
+      ],
+      "Case ID is required.": [
+        "A Case ID is required."
+      ],
+      "Case not found.": [
+        "Requested case was not found."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "The envelope of this report is incomplete; it cannot be decrypted."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "This report could not be decrypted. Key source: %s"
+      ],
+      "Report description cannot be empty.": [
+        "The report description must not be empty."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Store this Access Token safely. It is the sole credential for checking report status or exchanging confidential messages without disclosing your identity."
+      ],
+      "Case ID and Access Token are required.": [
+        "Both Case ID and Access Token are required."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Case ID or Access Token is invalid."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Case ID, Access Token, and message text are required."
+      ],
+      "Confidential message appended successfully.": [
+        "Confidential follow-up message stored."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Receipt of this report has already been acknowledged."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Acknowledgment of receipt: your report has been received by the internal reporting office (§ 17(1) No. 1 HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "Acknowledgment recorded and added to the reporting person's case view."
+      ],
+      "Case ID and message are required.": [
+        "Both Case ID and message text are required."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "Reply saved to the reporting person's case view."
+      ],
+      "Eingegangen": [
+        "Received"
+      ],
+      "In Bearbeitung": [
+        "In progress"
+      ],
+      "Rückmeldung gegeben": [
+        "Feedback provided"
+      ],
+      "Abgeschlossen": [
+        "Closed"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Financial fraud, embezzlement, corruption & bribery"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR violations & data breaches"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT security & cyber incidents"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Supply chain & human rights"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Workplace safety, discrimination & harassment"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "General compliance violations"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "The private key resides in wp-config.php. A database dump alone cannot decrypt any report."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "The private key is encrypted in the database via Libsodium (XSalsa20-Poly1305); the master key (WM_HINSCHG_MASTER_KEY) resides in wp-config.php. A database dump alone cannot decrypt any report."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "The private key is stored encrypted in the database; the passphrase resides in wp-config.php. A database dump alone cannot decrypt any report."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "The private key is encrypted in the database via Libsodium (derived from AUTH_KEY in wp-config.php). A database dump alone cannot decrypt any report; WM_HINSCHG_MASTER_KEY is recommended for independent key rotation."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Only the public key is stored in the database (offline custody). New reports are sealed; to read them, use local browser decryption in the case view or set WM_HINSCHG_PRIVATE_KEY in wp-config.php."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "No key pair has been stored yet. Generate a local browser key pair in the “Key custody” tab (offline custody) or set WM_HINSCHG_MASTER_KEY in wp-config.php."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "The private key sits unencrypted in the database next to the reports. Anyone holding a full database dump can decrypt every report."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "The submitted text is not a valid public RSA key in PEM format."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "The public key must be an RSA key of at least 2048 bits (recommended: 4096 bits)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Security abort: a private key was submitted. In offline custody, only the public key (BEGIN PUBLIC KEY) may be stored."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Encrypted cases already exist. Please confirm the key change explicitly, as existing reports still need the previous private key."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "Public RSA key saved and server-side private key removed (offline custody active)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Security abort: a private key was submitted. Only the public key (BEGIN PUBLIC KEY) may be stored as the emergency and deputy key."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "The audit log is empty even though %d entries were previously recorded."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Chain break at entry #%d: an entry was deleted, inserted, or reordered."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "Entry #%d does not match its signature: it was modified afterward, or the log was written under a different AUTH_KEY (for example before a site migration)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "The end of the log does not match the last recorded tip. The newest entries were removed."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "The signature of the recorded chain end is invalid. The end of the log has been tampered with."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Not a single entry carries a keyed signature. Either the log predates the signing key entirely or it was downgraded to the legacy forgeable format; in both cases it cannot be verified."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "WM HinSchG Whistleblower Desk could not be activated because the following required PHP extensions are missing: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Missing PHP extension"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "Neither %1$s nor %2$s is defined in wp-config.php. Without a secret in wp-config.php the key cannot be encrypted."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "No private key is stored in the database. Nothing to migrate."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "The stored key cannot be decrypted with WM_HINSCHG_MASTER_KEY. Restore the original master key; nothing was overwritten."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "The private key is already encrypted via Libsodium (WM_HINSCHG_MASTER_KEY). Nothing to do."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "The stored key could not be opened. Nothing was overwritten."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "The Libsodium-sealed key failed verification. Nothing was overwritten."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "The private key is now stored encrypted via Libsodium (WM_HINSCHG_MASTER_KEY) in the database. A database dump alone can no longer decrypt reports."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "The stored key opens neither without nor with the configured passphrase. It was encrypted with a different passphrase — restore the previous one or reports will remain unreadable."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "The private key is already encrypted with the configured passphrase. Nothing to do."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "The key could not be exported in encrypted form. The stored key remains unchanged."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "The encrypted key could not be reopened. Nothing was overwritten."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "The private key is now encrypted in the database. A database dump alone no longer decrypts reports. Keep the passphrase in wp-config.php safe: without it no report can be read."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG Channel Status"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d-day acknowledgment window (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d-month feedback deadline (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Internal reporting channel active"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Reporting channel setup pending"
+      ],
+      "Interne Meldestelle": [
+        "Internal Reporting Channel"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Submit reports on compliance violations here. Name and email address are never requested."
+      ],
+      "Neuen Hinweis melden": [
+        "Submit new report"
+      ],
+      "Vorgang abrufen": [
+        "Check case status"
+      ],
+      "Was gespeichert wird:": [
+        "What is stored:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "Category and description, encrypted on the server. Your IP address is not stored with the report; for rate limiting, the site retains a keyed hash (HMAC) for up to one hour. Whether the web server logs requests is controlled by the site operator, not this form. After submitting, you receive a Case ID and an Access Token for follow-up questions and feedback."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Describe the facts as specifically as possible (location, date, persons involved) …"
+      ],
+      "Hinweis absenden": [
+        "Submit report"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Enter your Case ID and Access Token to view progress and message the reporting office."
+      ],
+      "Vorgangs-ID": [
+        "Case ID"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "e.g. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Access Token"
+      ],
+      "64 Zeichen": [
+        "64 characters"
+      ],
+      "Vorgang laden": [
+        "Load case"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "Role %s does not exist."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "Role %s can already open reports. Nothing to do."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "Role %s can now open reports."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "Role %s cannot open reports anyway. Nothing to do."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Aborted: nobody would be left able to open reports. The reporting office must acknowledge receipt within seven days (§ 17 HinSchG), and without this capability reports are inaccessible. Grant access to another holder first, then revoke here."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "Role %s can no longer open reports."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "User %d does not exist."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s can now open reports."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Aborted: nobody would be left able to open reports. Grant access to another holder first, then revoke here."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s can no longer open reports."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Too many requests. Please try again later."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Reporting Portal"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Internal whistleblower intake form and case-status lookup under the HinSchG."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portal Settings"
+      ],
+      "Überschrift": [
+        "Heading"
+      ],
+      "Einleitungstext anzeigen": [
+        "Show introductory text"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Reporting Portal (frontend preview)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "HinSchG Reporting Portal"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Confidential whistleblowing intake and case-status block for German HinSchG channels."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-law"
+      ],
+      "block keyword\u0004whistleblower": [
+        "whistleblowing"
+      ],
+      "block keyword\u0004meldestelle": [
+        "reporting-office"
+      ],
+      "block keyword\u0004compliance": [
+        "compliance-channel"
+      ]
+    }
+  }
+}

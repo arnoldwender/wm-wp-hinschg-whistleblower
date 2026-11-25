@@ -1,0 +1,803 @@
+{
+  "translation-revision-date": "2026-11-21T14:33:25+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-hinschg-whistleblower",
+        "lang": "hu_HU",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM HinSchG Whistleblower Desk": [
+        "WM HinSchG Bejelentővédelmi Iroda"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-hinschg-whistleblower/"
+      ],
+      "Internal whistleblowing channel: report form, server-side encryption of reports and messages, deadline tracking under § 17 HinSchG and a keyed audit log. It does not assess legal compliance.": [
+        "Belső visszaélés-bejelentő csatorna: űrlap, bejelentések és üzenetek szerveroldali titkosítása, § 17 HinSchG határidő-követés és aláírt auditnapló. Jogi megfelelőséget nem vizsgál."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM HinSchG — Meldestelle": [
+        "WM HinSchG — Bejelentőhely"
+      ],
+      "Tabelle der Meldungen fehlt (Plugin neu aktivieren)": [
+        "Hiányzik a bejelentések táblája (aktiválja újra a bővítményt)"
+      ],
+      "%d Frist überschritten": [
+        "%d határidő lejárt",
+        "%d határidő lejárt"
+      ],
+      "Keine Frist überschritten": [
+        "Nincs lejárt határidő"
+      ],
+      "Eingangsbestätigung nach 7 Tagen, Rückmeldung nach 3 Monaten (§ 17 HinSchG)": [
+        "Visszaigazolás 7 napon belül, visszajelzés 3 hónapon belül (§ 17 HinSchG)"
+      ],
+      "Vorgänge": [
+        "Ügyek"
+      ],
+      "Offen": [
+        "Nyitott"
+      ],
+      "Überfällig": [
+        "Lejárt"
+      ],
+      "Meldestelle öffnen": [
+        "Bejelentőhely megnyitása"
+      ],
+      "HinSchG-Meldestelle": [
+        "HinSchG-bejelentőhely"
+      ],
+      "Meldestelle (HinSchG)": [
+        "Bejelentőhely (HinSchG)"
+      ],
+      "Kein gültiger PKCS#8-Privatschlüssel (BEGIN PRIVATE KEY) erkannt.": [
+        "Nem található érvényes PKCS#8 privát kulcs (BEGIN PRIVATE KEY)."
+      ],
+      "WebCrypto ist nur über HTTPS oder localhost verfügbar.": [
+        "A WebCrypto csak HTTPS-en keresztül vagy localhoston érhető el."
+      ],
+      "RSA-4096-Schlüsselpaar wird lokal im Browser berechnet …": [
+        "Az RSA-4096 kulcspár kiszámítása helyben, a böngészőben folyik …"
+      ],
+      "Privater Schlüssel lokal heruntergeladen. Prüfen und speichern Sie nun den öffentlichen Schlüssel.": [
+        "A privát kulcs helyben letöltve. Most ellenőrizze és mentse a nyilvános kulcsot."
+      ],
+      "Fehler: ": [
+        "Hiba: "
+      ],
+      "Lokale Entschlüsselung im Browser läuft …": [
+        "Helyi visszafejtés a böngészőben folyamatban …"
+      ],
+      "Meldungstext (lokal im Browser entschlüsselt)": [
+        "A bejelentés szövege (helyben, a böngészőben visszafejtve)"
+      ],
+      "Verlauf": [
+        "Előzmények"
+      ],
+      "Meldestelle": [
+        "Bejelentőhely"
+      ],
+      "Hinweisgebende Person": [
+        "Bejelentő személy"
+      ],
+      "Meldung lokal im Browser entschlüsselt. Der private Schlüssel hat den Browser nicht verlassen.": [
+        "A bejelentés helyben, a böngészőben visszafejtve. A privát kulcs nem hagyta el a böngészőt."
+      ],
+      "Entschlüsselung fehlgeschlagen: ": [
+        "A visszafejtés sikertelen: "
+      ],
+      "Eingangsbestätigung wird gespeichert …": [
+        "Visszaigazolás mentése …"
+      ],
+      "Eingangsbestätigung gespeichert. Ansicht wird aktualisiert …": [
+        "Visszaigazolás mentve. A nézet frissül …"
+      ],
+      "Antwort wird verschlüsselt gespeichert …": [
+        "A válasz titkosított mentése …"
+      ],
+      "Antwort verschlüsselt gespeichert. Ansicht wird aktualisiert …": [
+        "A válasz titkosítva mentve. A nézet frissül …"
+      ],
+      "Bitte geben Sie einen Nachrichtentext ein.": [
+        "Adja meg az üzenet szövegét."
+      ],
+      "Audit-Protokoll vorübergehend belegt. Bitte in 2 Sekunden erneut versuchen.": [
+        "Az auditnapló átmenetileg foglalt. Próbálja újra 2 másodperc múlva."
+      ],
+      "Vorgänge & Fristen": [
+        "Ügyek és határidők"
+      ],
+      "Formular einbinden": [
+        "Űrlap beágyazása"
+      ],
+      "Testmeldung": [
+        "Tesztbejelentés"
+      ],
+      "Fristen & Benachrichtigungen": [
+        "Határidők és értesítések"
+      ],
+      "Schlüsselverwahrung": [
+        "Kulcsőrzés"
+      ],
+      "Deinstallation": [
+        "Eltávolítás"
+      ],
+      "Begriffe": [
+        "Fogalmak"
+      ],
+      "Meldungen über das Formular entgegennehmen, verschlüsselt speichern und die Fristen nach § 17 HinSchG berechnen.": [
+        "Bejelentések fogadása űrlapon keresztül, titkosított tárolásuk és a § 17 HinSchG szerinti határidők számítása."
+      ],
+      "Part of the WM Suite plugin family": [
+        "A WM Suite bővítménycsalád tagja"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Suite Központ"
+      ],
+      "Standalone": [
+        "Önálló mód"
+      ],
+      "Schlüsselpaar vorhanden": [
+        "Kulcspár elérhető"
+      ],
+      "Kein Schlüsselpaar: Meldungen können nicht gespeichert werden": [
+        "Nincs kulcspár: a bejelentések nem menthetők"
+      ],
+      "Was die Meldestelle leisten muss": [
+        "A belső bejelentőhely feladatai"
+      ],
+      "Beschäftigungsgeber mit in der Regel mindestens 50 Beschäftigten müssen eine interne Meldestelle einrichten (§ 12 Abs. 2 HinSchG); für die in § 12 Abs. 3 genannten Unternehmen, etwa Kreditinstitute, Wertpapierdienstleistungsunternehmen und Versicherungsunternehmen, gilt das unabhängig von der Zahl der Beschäftigten. Die Meldestelle bestätigt den Eingang einer Meldung spätestens nach sieben Tagen und gibt innerhalb von drei Monaten nach der Bestätigung eine Rückmeldung (§ 17). Meldungen müssen schriftlich und mündlich möglich sein, auf Wunsch auch persönlich (§ 16 Abs. 3); dieses Plugin deckt nur den schriftlichen Weg ab. Anonyme Meldungen soll die Meldestelle bearbeiten, muss sie aber nicht ermöglichen (§ 16 Abs. 1). Die Dokumentation ist drei Jahre nach Abschluss des Verfahrens zu löschen (§ 11 Abs. 5); das Plugin löscht nichts selbst. Ob eine Einrichtung ihre Pflichten erfüllt, prüft das Plugin nicht.": [
+        "A főszabály szerint legalább 50 foglalkoztatottal rendelkező munkáltatóknak belső bejelentőhelyet kell létrehozniuk (§ 12 (2) HinSchG); a § 12 (3) szerinti szervezetekre (hitelintézetek, befektetési vállalkozások, biztosítók) ez létszámtól függetlenül vonatkozik. A bejelentőhely legkésőbb hét napon belül visszaigazolja a beérkezést, és három hónapon belül visszajelzést ad (§ 17). A bejelentést írásban, szóban és kérésre személyesen is lehetővé kell tenni (§ 16 (3)); ez a bővítmény csak az írásos csatornát fedi le. A névtelen bejelentéseket kezelni kell külön csatorna kötelezettsége nélkül (§ 16 (1)). A dokumentációt az eljárás lezárása után három évvel törölni kell (§ 11 (5)); a bővítmény magától semmit sem töröl, és nem vizsgálja a jogi kötelezettségeket."
+      ],
+      "Drei Demo-Vorgänge angelegt (Zugangsschlüssel token_demo_1 bis token_demo_3).": [
+        "Három demóügy létrejött (hozzáférési kulcsok: token_demo_1 – token_demo_3)."
+      ],
+      "Testmeldung verschlüsselt gespeichert.": [
+        "Tesztbejelentés titkosítva elmentve."
+      ],
+      "Vorgangs-ID:": [
+        "Ügyazonosító:"
+      ],
+      "Zugangsschlüssel (nur jetzt sichtbar):": [
+        "Hozzáférési kulcs (csak most látható):"
+      ],
+      "Bereiche der Meldestelle": [
+        "A bejelentőhely szakaszai"
+      ],
+      "Der private Schlüssel liegt ungeschützt in der Datenbank.": [
+        "A privát kulcs védelem nélkül található az adatbázisban."
+      ],
+      "Setzen Sie %1$s (empfohlen, Libsodium XSalsa20-Poly1305, migriert automatisch) oder %2$s in der wp-config.php und führen Sie %3$s aus. Das Schlüsselpaar bleibt dabei erhalten; nur die gespeicherte Form ändert sich, sodass alle bisherigen Meldungen lesbar bleiben.": [
+        "Állítsa be a %1$s (ajánlott, Libsodium XSalsa20-Poly1305, automatikus átállás) vagy a %2$s konstanst a wp-config.php fájlban, majd futtassa a %3$s parancsot. A kulcspár megmarad, csak a tárolt forma változik, így minden korábbi bejelentés olvasható marad."
+      ],
+      "%d Person darf Meldungen öffnen.": [
+        "%d személy nyithat meg bejelentéseket.",
+        "%d személy nyithat meg bejelentéseket."
+      ],
+      "Darunter die Rolle %1$s, also jede Person, die diese Website verwaltet. § 8 HinSchG hält den Inhalt bei den mit der Meldestelle betrauten Personen. Mit %2$s sehen Sie die Liste; vergeben Sie die Rolle „Meldestelle (HinSchG)\" und entziehen Sie die Berechtigung danach mit %3$s.": [
+        "Köztük az %1$s szerepkör, vagyis a webhely összes adminisztrátora. A § 8 HinSchG a tartalmat a csatornával megbízott személyekre korlátozza. A %2$s paranccsal látható a lista; adja meg a „Meldestelle (HinSchG)” szerepkört, majd vonja vissza a jogosultságot a %3$s paranccsal."
+      ],
+      "Administratoren dieser Website können Meldungen nicht öffnen, solange sie die Berechtigung nicht haben.": [
+        "A webhely adminisztrátorai nem nyithatják meg a bejelentéseket, amíg nem rendelkeznek ezzel a jogosultsággal."
+      ],
+      "Meldung %s": [
+        "Bejelentés %s"
+      ],
+      "Vorgang konnte nicht geladen werden.": [
+        "Az ügyet nem sikerült betölteni."
+      ],
+      "Lokale Browser-Entschlüsselung (Offline-Privatschlüssel wählen)": [
+        "Helyi visszafejtés a böngészőben (offline privát kulcs kiválasztása)"
+      ],
+      "Wählen Sie Ihre lokal gespeicherte PKCS#8-Schlüsseldatei (.pem). Die Entschlüsselung erfolgt ausschließlich im Arbeitsspeicher Ihres Browsers; der private Schlüssel wird nicht an den Server übertragen.": [
+        "Válassza ki a helyben tárolt PKCS#8 kulcsfájlt (.pem). A visszafejtés kizárólag a böngésző memóriájában történik; a privát kulcs nem kerül továbbításra a szerverre."
+      ],
+      "Meldungstext": [
+        "Bejelentés szövege"
+      ],
+      "Diese Nachricht ließ sich nicht entschlüsseln.": [
+        "Ezt az üzenetet nem sikerült visszafejteni."
+      ],
+      "Jeder Aufruf dieser Meldung wird im Audit-Protokoll vermerkt (§ 8 HinSchG: der Inhalt ist auch innerhalb der Einrichtung vertraulich).": [
+        "A bejelentés minden megnyitása bekerül az auditnaplóba (§ 8 HinSchG: a tartalom a szervezeten belül is bizalmas)."
+      ],
+      "Fallbearbeitung nach § 17 HinSchG": [
+        "Ügyintézés a HinSchG § 17 szerint"
+      ],
+      "Eingangsbestätigung erfasst am %s.": [
+        "Visszaigazolás rögzítve: %s."
+      ],
+      "Eingang noch nicht bestätigt (§ 17 Abs. 1 Nr. 1 HinSchG: Frist 7 Tage).": [
+        "A beérkezés még nincs visszaigazolva (HinSchG § 17 (1) bek. 1. pont: határidő 7 nap)."
+      ],
+      "Abschließende Rückmeldung erfasst am %s.": [
+        "Végső visszajelzés rögzítve: %s."
+      ],
+      "Eingang bestätigen (§ 17 Abs. 1 HinSchG)": [
+        "Beérkezés visszaigazolása (HinSchG § 17 (1) bek.)"
+      ],
+      "Rückfrage oder Rückmeldung an die hinweisgebende Person": [
+        "Kiegészítő kérdés vagy visszajelzés a bejelentőnek"
+      ],
+      "Wird verschlüsselt gespeichert und für die hinweisgebende Person unter „Vorgang abrufen“ bereitgestellt. Das Plugin versendet keine E-Mails.": [
+        "Titkosítva tárolódik, és a bejelentő számára az „Ügy lekérdezése” alatt érhető el. A bővítmény nem küld e-maileket."
+      ],
+      "Abschließende Rückmeldung nach § 17 Abs. 2 HinSchG": [
+        "Végső visszajelzés a HinSchG § 17 (2) bek. szerint"
+      ],
+      "Antwort verschlüsselt senden": [
+        "Válasz küldése titkosítva"
+      ],
+      "Zurück zur Übersicht": [
+        "Vissza az áttekintéshez"
+      ],
+      "Audit-Protokoll: Kette geprüft, keine nachträgliche Änderung erkennbar": [
+        "Auditnapló: a lánc ellenőrizve, utólagos módosítás nem észlelhető"
+      ],
+      "Audit-Protokoll: Integritätsprüfung fehlgeschlagen": [
+        "Auditnapló: a sértetlenségi ellenőrzés sikertelen"
+      ],
+      "%1$d Protokolleinträge geprüft. Signaturschlüssel: %2$s.": [
+        "%1$d naplóbejegyzés ellenőrizve. Aláírókulcs: %2$s."
+      ],
+      "%d historische Alt-Einträge ohne Signatur": [
+        "%d korábbi, aláírás nélküli bejegyzés"
+      ],
+      "Unbekannter Fehler bei der Prüfung.": [
+        "Ismeretlen hiba az ellenőrzés során."
+      ],
+      "Offene Vorgänge": [
+        "Nyitott ügyek"
+      ],
+      "ohne abschließende Rückmeldung": [
+        "lezáró visszajelzés nélkül"
+      ],
+      "Eingangsbestätigung überfällig": [
+        "Visszaigazolás lejárt"
+      ],
+      "nicht bestätigt, 7-Tage-Frist vorbei": [
+        "nincs visszaigazolva, a 7 napos határidő letelt"
+      ],
+      "Bestätigung in 48 Stunden fällig": [
+        "Visszaigazolás 48 órán belül esedékes"
+      ],
+      "noch nicht bestätigt": [
+        "még nincs visszaigazolva"
+      ],
+      "Rückmeldung überfällig": [
+        "Visszajelzés lejárt"
+      ],
+      "keine Rückmeldung, Frist des Plugins vorbei": [
+        "nincs visszajelzés, a határidő letelt"
+      ],
+      "Die letzten 50 Vorgänge mit Status und Fristen. Die Inhalte bleiben verschlüsselt.": [
+        "Az utolsó 50 ügy állapottal és határidőkkel. A tartalom titkosított marad."
+      ],
+      "Vorgang": [
+        "Ügy"
+      ],
+      "Kategorie": [
+        "Kategória"
+      ],
+      "Status": [
+        "Állapot"
+      ],
+      "Eingangsbestätigung": [
+        "Visszaigazolás"
+      ],
+      "Rückmeldung": [
+        "Visszajelzés"
+      ],
+      "Eingang": [
+        "Beérkezett"
+      ],
+      "Noch keine Vorgänge.": [
+        "Még nincsenek ügyek."
+      ],
+      "Drei Demo-Vorgänge anlegen": [
+        "Három demóügy létrehozása"
+      ],
+      "bestätigt am %s": [
+        "visszaigazolva: %s"
+      ],
+      "Frist %s": [
+        "Határidő: %s"
+      ],
+      "überfällig": [
+        "lejárt"
+      ],
+      "gegeben am %s": [
+        "megadva: %s"
+      ],
+      "Meldeformular auf der Website einbinden": [
+        "Bejelentő űrlap beágyazása a webhelyre"
+      ],
+      "Eine Seite anlegen, zum Beispiel „Hinweisgebersystem“.": [
+        "Hozzon létre egy oldalt, például „Visszaélés-bejelentő rendszer” néven."
+      ],
+      "Den Shortcode einfügen:": [
+        "Illessze be a rövidkódot:"
+      ],
+      "(gleichwertig: [wm_hinschg_portal] oder der Block „wm/hinschg-portal“).": [
+        "(egyenértékű: [wm_hinschg_portal] vagy a „wm/hinschg-portal” blokk)."
+      ],
+      "Die Seite dort verlinken, wo Beschäftigte sie finden, etwa im Intranet oder im Footer.": [
+        "Helyezzen el hivatkozást ott, ahol a munkatársak megtalálják, például az intraneten vagy a láblécben."
+      ],
+      "Nach dem Absenden erhält die hinweisgebende Person eine Vorgangs-ID und einen Zugangsschlüssel. Mit beiden ruft sie im selben Formular den Status ab und schreibt Nachrichten, ohne Namen oder E-Mail-Adresse anzugeben. Gespeichert wird nur ein HMAC des Schlüssels; geht er verloren, gibt es keinen Zugang mehr zum Vorgang.": [
+        "Beküldés után a bejelentő kap egy ügyazonosítót és egy hozzáférési kulcsot. Ezekkel ugyanabban az űrlapban név és e-mail megadása nélkül lekérdezheti az állapotot és üzenetet küldhet. Csak a kulcs HMAC-kivonata kerül tárolásra; elvesztése esetén az ügyhöz nem lehet többé hozzáférni."
+      ],
+      "Testmeldung anlegen": [
+        "Tesztbejelentés létrehozása"
+      ],
+      "Legt einen Vorgang auf demselben Weg an wie das Formular und zeigt den Zugangsschlüssel einmal an, damit das Formular damit ausprobiert werden kann.": [
+        "Az űrlappal azonos módon hoz létre ügyet, és egyszer megjeleníti a hozzáférési kulcsot a portál kipróbálásához."
+      ],
+      "Sachverhalt": [
+        "Tényállás"
+      ],
+      "Wird mit AES-256-GCM verschlüsselt gespeichert; der Schlüssel dafür wird mit dem RSA-Schlüssel des Plugins versiegelt.": [
+        "AES-256-GCM titkosítással kerül mentésre; a kulcsot a bővítmény RSA-kulcsa zárja le."
+      ],
+      "Testmeldung speichern": [
+        "Tesztbejelentés mentése"
+      ],
+      "Eingangsbestätigung: Eingang + %d Tage. § 17 Abs. 1 Nr. 1 HinSchG verlangt die Bestätigung spätestens nach sieben Tagen.": [
+        "Visszaigazolás: beérkezés + %d nap. A § 17 (1) 1. pont HinSchG legfeljebb hét napon belüli visszaigazolást ír elő."
+      ],
+      "Rückmeldung: Eingang + %d Monate. § 17 Abs. 2 HinSchG rechnet drei Monate ab der Eingangsbestätigung (ohne Bestätigung drei Monate und sieben Tage ab Eingang); die Frist des Plugins liegt damit früher.": [
+        "Visszajelzés: beérkezés + %d hónap. A § 17 (2) HinSchG a visszaigazolástól számol három hónapot (nélküle három hónapot és hét napot); a bővítmény határideje sosem későbbi."
+      ],
+      "Die Fristen sind im Code festgelegt und nicht einstellbar.": [
+        "A határidők a kódban rögzítettek, nem módosíthatók."
+      ],
+      "Das Plugin versendet keine E-Mails. Eine stündliche Prüfung (WP-Cron) löst bei überschrittenen Fristen die Aktion wm_hinschg_sla_breach_detected aus, an die eine eigene Benachrichtigung angeschlossen werden kann.": [
+        "A bővítmény nem küld e-mailt. Óránkénti ellenőrzés (WP-Cron) váltja ki a wm_hinschg_sla_breach_detected eseményt lejárt határidő esetén."
+      ],
+      "Bis zum 15.09.2026 stand hier eine Einstellungsseite für E-Mail, Fristen, Uploads und Aufbewahrung. Das Plugin hat diese Werte nie verwendet.": [
+        "2026. 09. 15-ig itt egy e-mail-, határidő-, feltöltés- és megőrzés-beállító oldal állt, amelynek értékeit a kód sosem olvasta."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und etwaiger serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "A nyilvános RSA-kulcs mentve, az esetleges szerveroldali privát kulcs eltávolítva (offline őrzés aktív)."
+      ],
+      "Öffentlicher Notfall- und Vertretungsschlüssel (2. betraute Person / Ombudsperson) gespeichert.": [
+        "A nyilvános vész- és helyettesítő kulcs (2. kijelölt személy / ombudsman) mentve."
+      ],
+      "Notfall- und Vertretungsschlüssel entfernt.": [
+        "A vész- és helyettesítő kulcs eltávolítva."
+      ],
+      "Abgelehnt: Es wurde ein privater Schlüssel übermittelt. Bitte ausschließlich den öffentlichen Schlüssel (BEGIN PUBLIC KEY) einreichen.": [
+        "Elutasítva: privát kulcsot küldött be. Kizárólag a nyilvános kulcsot (BEGIN PUBLIC KEY) adja meg."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich über das Kontrollkästchen.": [
+        "Már vannak titkosított ügyek. Erősítse meg kifejezetten a kulcscserét a jelölőnégyzettel."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel (mindestens 2048 Bit, empfohlen 4096 Bit).": [
+        "A beküldött szöveg nem érvényes nyilvános RSA-kulcs (legalább 2048 bit, ajánlott 4096 bit)."
+      ],
+      "Aktive Schlüsselverwahrung & Audit-Signatur": [
+        "Aktív kulcsőrzés & auditaláírás"
+      ],
+      "RSA-Schlüsselquelle:": [
+        "RSA-kulcs forrása:"
+      ],
+      "Notfall- & Vertretungsschlüssel:": [
+        "Vész- & helyettesítő kulcs:"
+      ],
+      "hinterlegt (Dual-Envelope für 2. betraute Person / Ombudsperson aktiv)": [
+        "letétbe helyezve (kettős boríték aktív a 2. kijelölt személy / ombudsman számára)"
+      ],
+      "nicht hinterlegt": [
+        "nincs letétbe helyezve"
+      ],
+      "Audit-Kettenschlüssel:": [
+        "Auditlánc-kulcs:"
+      ],
+      "(für unabhängige Schlüsselrotation unabhängig von AUTH_KEY setzen Sie %s in der wp-config.php).": [
+        "(az AUTH_KEY-től független kulcsrotációhoz állítsa be a(z) %s konstanst a wp-config.php fájlban)."
+      ],
+      "Browser-Schlüsselerzeugung (Offline-Verwahrung ohne Server-Privatschlüssel)": [
+        "Kulcsgenerálás a böngészőben (offline őrzés szerveroldali privát kulcs nélkül)"
+      ],
+      "Erzeugt ein RSA-OAEP-4096-Schlüsselpaar lokal in Ihrem Browser (WebCrypto). Der private Schlüssel wird direkt als .pem-Datei auf Ihr Gerät heruntergeladen und berührt niemals PHP, den Webserver oder die MySQL-Datenbank. Auf dem Server wird ausschließlich der öffentliche Schlüssel zum Versiegeln eingehender Meldungen gespeichert.": [
+        "RSA-OAEP-4096 kulcspárt hoz létre helyben a böngészőjében (WebCrypto). A privát kulcs .pem fájlként közvetlenül az eszközére töltődik le, és soha nem érinti a PHP-t, a webszervert vagy a MySQL-adatbázist. A szerveren kizárólag a beérkező bejelentések lepecsételésére szolgáló nyilvános kulcs tárolódik."
+      ],
+      "RSA-4096-Schlüsselpaar lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "RSA-4096 kulcspár létrehozása helyben a böngészőben & a privát kulcs letöltése"
+      ],
+      "Öffentlicher RSA-Schlüssel (BEGIN PUBLIC KEY)": [
+        "Nyilvános RSA-kulcs (BEGIN PUBLIC KEY)"
+      ],
+      "Vorhandenen Schlüssel ersetzen (bestehende Meldungen benötigen weiterhin den bisherigen privaten Schlüssel)": [
+        "Meglévő kulcs cseréje (a meglévő bejelentésekhez továbbra is a korábbi privát kulcs szükséges)"
+      ],
+      "Nur öffentlichen Schlüssel speichern (Offline-Verwahrung aktivieren)": [
+        "Csak a nyilvános kulcs mentése (offline őrzés bekapcsolása)"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Schlüssel der Meldestelle hinterlegen.": [
+        "A bejelentőhely nyilvános kulcsát csak a webhely rendszergazdái (manage_options) helyezhetik letétbe."
+      ],
+      "Notfall- & Vertretungsschlüssel (2. betraute Person der Meldestelle / Ombudsperson)": [
+        "Vész- & helyettesítő kulcs (a bejelentőhely 2. kijelölt személye / ombudsman)"
+      ],
+      "Optionales Dual-Envelope für neue Meldungen und Nachrichten: Der AES-256-Sitzungsschlüssel wird zusätzlich mit diesem öffentlichen RSA-Schlüssel versiegelt, damit eine Vertretung im Abwesenheitsfall lokal im Browser entschlüsseln kann. Nach § 8 Abs. 1 und § 15 HinSchG darf die Verwahrung dieses privaten Schlüssels ausschließlich bei einer zweiten mit der Meldestelle betrauten Person oder einer unabhängigen Ombudsperson liegen — niemals bei der Geschäftsführung oder der allgemeinen IT-Administration. Zum Entfernen das Feld leeren und speichern.": [
+        "Opcionális kettős boríték új bejelentésekhez és üzenetekhez: az AES-256 munkamenetkulcsot ezzel a nyilvános RSA-kulccsal is lepecsételi a rendszer, hogy távollét esetén egy helyettes helyben, a böngészőben visszafejthessen. A HinSchG § 8 (1) bek. és § 15 szerint ezt a privát kulcsot kizárólag a bejelentőhelyre kijelölt második személy vagy egy független ombudsman őrizheti — soha nem a vezetés vagy az általános informatikai adminisztráció. Eltávolításhoz ürítse ki a mezőt, és mentse."
+      ],
+      "Vertretungs-Schlüsselpaar (RSA-4096) lokal im Browser erzeugen & privaten Schlüssel herunterladen": [
+        "Helyettesítő kulcspár (RSA-4096) létrehozása helyben a böngészőben & a privát kulcs letöltése"
+      ],
+      "Öffentlicher Notfall- & Vertretungsschlüssel (BEGIN PUBLIC KEY)": [
+        "Nyilvános vész- & helyettesítő kulcs (BEGIN PUBLIC KEY)"
+      ],
+      "Notfall- & Vertretungsschlüssel speichern": [
+        "Vész- & helyettesítő kulcs mentése"
+      ],
+      "Nur Website-Administratoren (manage_options) können den öffentlichen Notfall- und Vertretungsschlüssel hinterlegen.": [
+        "A nyilvános vész- és helyettesítő kulcsot csak a webhely rendszergazdái (manage_options) helyezhetik letétbe."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Eltávolítási beállítás elmentve."
+      ],
+      "Gesetzliche Aufbewahrung (§ 11 HinSchG) & Deinstallation": [
+        "Törvényes megőrzés (§ 11 HinSchG) és eltávolítás"
+      ],
+      "Nach § 11 Abs. 5 HinSchG ist die Dokumentation drei Jahre nach Abschluss des Verfahrens aufzubewahren. Standardmäßig bleiben Meldungen, Nachrichten, Audit-Protokoll und Schlüsselpaar beim Löschen des Plugins erhalten, damit ein Plugin-Update oder eine Neuinstallation keine gesetzlich aufzubewahrenden Vorgänge vernichtet.": [
+        "A § 11 (5) HinSchG szerint a dokumentációt az eljárás lezárásától számított három évig kell megőrizni. Alapértelmezés szerint a bővítmény törlésekor a bejelentések, üzenetek, auditnapló és kulcspár megmaradnak."
+      ],
+      "Beim Deinstallieren des Plugins alle Meldungen, Nachrichten, Audit-Einträge und Schlüssel unwiderruflich löschen": [
+        "A bővítmény eltávolításakor minden bejelentés, üzenet, auditbejegyzés és kulcs végleges törlése"
+      ],
+      "Deinstallations-Option speichern": [
+        "Eltávolítási opció mentése"
+      ],
+      "Nur Website-Administratoren (manage_options) können das Verhalten bei der Plugin-Deinstallation ändern.": [
+        "Csak a webhely adminisztrátorai (manage_options) módosíthatják az eltávolítási működést."
+      ],
+      "Vorgangs-ID und Zugangsschlüssel": [
+        "Ügyazonosító és hozzáférési kulcs"
+      ],
+      "Die hinweisgebende Person erhält beide einmal nach dem Absenden. Der Schlüssel ist 64 Zeichen lang; das Plugin speichert nur einen HMAC davon.": [
+        "A bejelentő egyszer kapja meg beküldés után. A kulcs 64 karakteres; csak a HMAC-kivonata tárolódik."
+      ],
+      "Spätestens nach sieben Tagen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Legkésőbb hét napon belül (§ 17 (1) 1. pont HinSchG)."
+      ],
+      "Innerhalb von drei Monaten nach der Eingangsbestätigung, mit geplanten und ergriffenen Folgemaßnahmen (§ 17 Abs. 2 HinSchG).": [
+        "A visszaigazolástól számított három hónapon belül a tervezett és megtett intézkedésekkel (§ 17 (2) HinSchG)."
+      ],
+      "Verschlüsselung": [
+        "Titkosítás"
+      ],
+      "Meldung und Nachrichten werden mit AES-256-GCM verschlüsselt, der AES-Schlüssel mit RSA-OAEP versiegelt (optional zusätzlich als Dual-Envelope für den Notfall- & Vertretungsschlüssel einer 2. betrauten Person / Ombudsperson). Wo der private RSA-Schlüssel liegt, zeigen der Reiter „Schlüsselverwahrung“ und wp hinschg key-status: in der wp-config.php (WM_HINSCHG_PRIVATE_KEY), per Libsodium XSalsa20-Poly1305 versiegelt (WM_HINSCHG_MASTER_KEY oder AUTH_KEY), OpenSSL-verschlüsselt (WM_HINSCHG_KEY_PASSPHRASE) oder ausschließlich lokal im Browser ohne Server-Privatschlüssel (Offline-Verwahrung). Rückmeldungen der Meldestelle erhalten zusätzlich eine für den Zugangsschlüssel versiegelte Box, während Eingaben der hinweisgebenden Person rein asymmetrisch versiegelt bleiben. Zwischen Browser und Server schützt HTTPS.": [
+        "A bejelentéseket és üzeneteket AES-256-GCM titkosítja, az AES-kulcsot RSA-OAEP pecsételi le (opcionálisan kettős borítékként is a 2. kijelölt személy / ombudsman vész- & helyettesítő kulcsához). Hogy hol van a privát RSA-kulcs, azt a „Kulcsőrzés” fül és a wp hinschg key-status mutatja: a wp-config.php fájlban (WM_HINSCHG_PRIVATE_KEY), Libsodium XSalsa20-Poly1305 eljárással lepecsételve (WM_HINSCHG_MASTER_KEY vagy AUTH_KEY), OpenSSL-lel titkosítva (WM_HINSCHG_KEY_PASSPHRASE) vagy kizárólag helyben, a böngészőben, szerveroldali privát kulcs nélkül (offline őrzés). A bejelentőhely válaszai emellett a hozzáférési kulcshoz lepecsételt dobozt is kapnak, míg a bejelentő bevitelei tisztán aszimmetrikusan lepecsételve maradnak. A böngésző és a szerver között a HTTPS nyújt védelmet."
+      ],
+      "Berechtigung zum Öffnen einer Meldung": [
+        "Jogosultság bejelentés megnyitásához"
+      ],
+      "Das Plugin prüft die eigene Berechtigung wm_hinschg_read_cases und bringt dafür die Rolle „Meldestelle (HinSchG)“ mit. Wer sie hat, verwaltet WordPress — über die Rollen oder ein Rechte-Plugin, nicht in dieser Oberfläche. Bei der Installation bekommt die Rolle „Administrator“ sie, damit niemand ausgesperrt wird; sie danach zu entziehen ist der eigentliche Zweck. wp hinschg access zeigt, wer sie hat.": [
+        "A bővítmény a saját wm_hinschg_read_cases jogosultságát ellenőrzi, és létrehozza a „Meldestelle (HinSchG)” szerepkört. Azt, hogy ki rendelkezik vele, a WordPress szerepkörök kezelik. Telepítéskor az „Administrator” kapja meg a kizárás elkerülésére; utólagos megvonása a cél. A wp hinschg access listázza a jogosultakat."
+      ],
+      "Audit-Protokoll": [
+        "Auditnapló"
+      ],
+      "Jeder Eintrag enthält einen HMAC-SHA256 über den vorherigen. Nachträgliche Änderungen, Löschungen und Einschübe werden erkannt; wer den Schlüssel aus wp-config.php kennt, kann die Kette neu schreiben.": [
+        "Minden bejegyzés HMAC-SHA256 lenyomatot hordoz az előzőről. A módosítások, törlések és beszúrások észlelhetők; aki ismeri a wp-config.php kulcsát, újraírhatja a láncot."
+      ],
+      "Das Audit-Protokoll ist vorübergehend belegt. Bitte in Kürze erneut versuchen.": [
+        "Az auditnapló átmenetileg foglalt. Próbálja újra hamarosan."
+      ],
+      "Case ID is required.": [
+        "Az ügyazonosító megadása kötelező."
+      ],
+      "Case not found.": [
+        "Az ügy nem található."
+      ],
+      "Der Umschlag dieser Meldung ist unvollständig gespeichert; sie lässt sich nicht entschlüsseln.": [
+        "A bejelentés titkosítási borítékja hiányos; nem fejthető vissza."
+      ],
+      "Diese Meldung ließ sich nicht entschlüsseln. Schlüsselquelle: %s": [
+        "A bejelentést nem sikerült visszafejteni. Kulcsforrás: %s"
+      ],
+      "Report description cannot be empty.": [
+        "A bejelentés leírása nem lehet üres."
+      ],
+      "Save this Access Token securely. It is the ONLY way to check your report status or communicate confidentially without revealing your identity.": [
+        "Őrizze meg biztonságosan ezt a hozzáférési kulcsot. Ez az EGYETLEN módja az állapot lekérdezésének vagy a bizalmas üzenetváltásnak személyazonossága felfedése nélkül."
+      ],
+      "Case ID and Access Token are required.": [
+        "Az ügyazonosító és a hozzáférési kulcs megadása kötelező."
+      ],
+      "Invalid Case ID or Access Token.": [
+        "Érvénytelen ügyazonosító vagy hozzáférési kulcs."
+      ],
+      "Case ID, Access Token, and message are required.": [
+        "Az ügyazonosító, a hozzáférési kulcs és az üzenet megadása kötelező."
+      ],
+      "Confidential message appended successfully.": [
+        "A bizalmas üzenet sikeresen rögzítve."
+      ],
+      "The receipt of this report was already acknowledged.": [
+        "Ennek a bejelentésnek a beérkezését már visszaigazolták."
+      ],
+      "Eingangsbestätigung: Ihre Meldung ist bei der internen Meldestelle eingegangen (§ 17 Abs. 1 Nr. 1 HinSchG).": [
+        "Beérkezés visszaigazolása: bejelentése megérkezett a belső bejelentőhelyre (§ 17 (1) 1. pont HinSchG)."
+      ],
+      "Acknowledgment recorded and sent to the reporting person's case view.": [
+        "A visszaigazolás rögzítve lett, és megjelent a bejelentő ügyfelületén."
+      ],
+      "Case ID and message are required.": [
+        "Az ügyazonosító és az üzenet megadása kötelező."
+      ],
+      "Reply stored in the reporting person's case view.": [
+        "A válasz elmentve a bejelentő ügyfelületére."
+      ],
+      "Eingegangen": [
+        "Beérkezett"
+      ],
+      "In Bearbeitung": [
+        "Folyamatban"
+      ],
+      "Rückmeldung gegeben": [
+        "Visszajelzés megadva"
+      ],
+      "Abgeschlossen": [
+        "Lezárva"
+      ],
+      "Finanzbetrug, Untreue, Korruption & Bestechung": [
+        "Pénzügyi csalás, hűtlen kezelés, korrupció és vesztegetés"
+      ],
+      "DSGVO-Verstöße & Datenschutzverletzungen": [
+        "GDPR-sértések és adatvédelmi incidensek"
+      ],
+      "IT-Sicherheit & Cyber-Vorfälle": [
+        "IT-biztonság és kiberincidensek"
+      ],
+      "Lieferkette & Menschenrechte": [
+        "Ellátási lánc és emberi jogok"
+      ],
+      "Arbeitsschutz, Diskriminierung & Belästigung": [
+        "Munkavédelem, diszkrimináció és zaklatás"
+      ],
+      "Allgemeine Compliance-Verstöße": [
+        "Általános megfelelőségi jogsértések"
+      ],
+      "Der private Schlüssel steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "A privát kulcs a wp-config.php fájlban van. Egy adatbázismentés önmagában egyetlen bejelentést sem fejt vissza."
+      ],
+      "Der private Schlüssel liegt per Libsodium (XSalsa20-Poly1305) verschlüsselt in der Datenbank; der Hauptschlüssel (WM_HINSCHG_MASTER_KEY) steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "A privát kulcs Libsodiummal (XSalsa20-Poly1305) titkosítva van az adatbázisban; a mesterkulcs (WM_HINSCHG_MASTER_KEY) a wp-config.php fájlban áll. Az adatbázismentés önmagában semmit sem fejt vissza."
+      ],
+      "Der private Schlüssel liegt verschlüsselt in der Datenbank; die Passphrase steht in wp-config.php. Ein Datenbank-Abzug allein entschlüsselt keine Meldung.": [
+        "A privát kulcs titkosítva van az adatbázisban; a jelmondat a wp-config.php fájlban található. Az adatbázismentés önmagában semmit sem fejt vissza."
+      ],
+      "Der private Schlüssel liegt per Libsodium verschlüsselt in der Datenbank (abgeleitet aus AUTH_KEY in wp-config.php). Ein Datenbank-Abzug allein entschlüsselt keine Meldung; für unabhängige Schlüsselrotation empfiehlt sich WM_HINSCHG_MASTER_KEY.": [
+        "A privát kulcs Libsodiummal titkosítva van az adatbázisban (a wp-config.php AUTH_KEY értékéből származtatva). A mentés önmagában semmit sem fejt vissza; külön kulcsforgatáshoz a WM_HINSCHG_MASTER_KEY ajánlott."
+      ],
+      "In der Datenbank liegt nur der öffentliche Schlüssel (Offline-Verwahrung). Neue Meldungen werden versiegelt; zum Lesen nutzen Sie die lokale Browser-Entschlüsselung in der Fallansicht oder hinterlegen WM_HINSCHG_PRIVATE_KEY in der wp-config.php.": [
+        "Az adatbázisban csak a nyilvános kulcs található (offline őrzés). Az új bejelentéseket a rendszer lepecsételi; elolvasásukhoz használja az ügynézet helyi böngészős visszafejtését, vagy állítsa be a WM_HINSCHG_PRIVATE_KEY konstanst a wp-config.php fájlban."
+      ],
+      "Es ist noch kein Schlüsselpaar hinterlegt. Erzeugen Sie im Reiter „Schlüsselverwahrung“ ein lokales Browser-Schlüsselpaar (Offline-Verwahrung) oder hinterlegen Sie WM_HINSCHG_MASTER_KEY in der wp-config.php.": [
+        "Még nincs letétbe helyezett kulcspár. Hozzon létre a „Kulcsőrzés” fülön helyi böngészős kulcspárt (offline őrzés), vagy állítsa be a WM_HINSCHG_MASTER_KEY konstanst a wp-config.php fájlban."
+      ],
+      "Der private Schlüssel liegt unverschlüsselt in der Datenbank, neben den Meldungen. Wer einen vollständigen Datenbank-Abzug hat, kann jede Meldung entschlüsseln.": [
+        "A privát kulcs titkosítatlanul van az adatbázisban a bejelentések mellett. Aki teljes adatbázismentéssel rendelkezik, minden bejelentést visszafejthet."
+      ],
+      "Der übermittelte Text ist kein gültiger öffentlicher RSA-Schlüssel im PEM-Format.": [
+        "A beküldött szöveg nem érvényes nyilvános RSA-kulcs PEM formátumban."
+      ],
+      "Der öffentliche Schlüssel muss ein RSA-Schlüssel mit mindestens 2048 Bit (empfohlen: 4096 Bit) sein.": [
+        "A nyilvános kulcsnak legalább 2048 bites RSA-kulcsnak kell lennie (ajánlott: 4096 bit)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. In der Offline-Verwahrung darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Biztonsági megszakítás: privát kulcsot küldött be. Offline őrzés esetén kizárólag a nyilvános kulcs (BEGIN PUBLIC KEY) tárolható."
+      ],
+      "Es sind bereits verschlüsselte Vorgänge vorhanden. Bitte bestätigen Sie den Schlüsselwechsel ausdrücklich, da bestehende Meldungen weiterhin den bisherigen privaten Schlüssel benötigen.": [
+        "Már vannak titkosított ügyek. Erősítse meg kifejezetten a kulcscserét, mivel a meglévő bejelentésekhez továbbra is a korábbi privát kulcs szükséges."
+      ],
+      "Öffentlicher RSA-Schlüssel gespeichert und serverseitiger Privatschlüssel entfernt (Offline-Verwahrung aktiv).": [
+        "A nyilvános RSA-kulcs mentve, a szerveroldali privát kulcs eltávolítva (offline őrzés aktív)."
+      ],
+      "Sicherheitsabbruch: Es wurde ein privater Schlüssel übermittelt. Als Notfall- und Vertretungsschlüssel darf ausschließlich der öffentliche Schlüssel (BEGIN PUBLIC KEY) gespeichert werden.": [
+        "Biztonsági megszakítás: privát kulcsot küldött be. Vész- és helyettesítő kulcsként kizárólag a nyilvános kulcs (BEGIN PUBLIC KEY) tárolható."
+      ],
+      "Das Protokoll ist leer, obwohl zuletzt %d Einträge verzeichnet waren.": [
+        "A napló üres, noha legutóbb %d bejegyzés volt feljegyezve."
+      ],
+      "Kettenbruch bei Eintrag #%d: ein Eintrag wurde gelöscht, eingeschleust oder umsortiert.": [
+        "Lánctörés a(z) #%d bejegyzésnél: egy bejegyzést töröltek, beszúrtak vagy átrendeztek."
+      ],
+      "Eintrag #%d passt nicht zu seiner Signatur: Er wurde nachträglich verändert, oder das Protokoll wurde mit einem anderen AUTH_KEY geschrieben (etwa vor einem Umzug der Website).": [
+        "A(z) #%d bejegyzés nem egyezik az aláírásával: utólag módosították, vagy másik AUTH_KEY-jel írták (pl. költöztetés előtt)."
+      ],
+      "Das Ende des Protokolls passt nicht zum zuletzt verzeichneten Eintrag. Die neuesten Einträge wurden entfernt.": [
+        "A napló vége nem egyezik a legutóbb rögzített bejegyzéssel. A legújabb bejegyzéseket eltávolították."
+      ],
+      "Die Signatur des verzeichneten Kettenendes ist ungültig. Das Protokollende wurde manipuliert.": [
+        "A rögzített láncvég aláírása érvénytelen. A napló végét manipulálták."
+      ],
+      "Kein einziger Eintrag trägt eine geschlüsselte Signatur. Das Protokoll stammt entweder vollständig aus der Zeit vor dem Schlüssel oder wurde auf das alte, fälschbare Format zurückgestuft. In beiden Fällen ist es nicht überprüfbar.": [
+        "Egyetlen bejegyzés sem tartalmaz kulcsos aláírást. A napló a kulcs előtti időkből származik vagy visszaminősítették a hamisítható formátumra, így nem ellenőrizhető."
+      ],
+      "WM HinSchG Whistleblower Desk konnte nicht aktiviert werden, da folgende erforderliche PHP-Erweiterungen fehlen: %s.": [
+        "A WM HinSchG Whistleblower Desk nem aktiválható, mert a következő szükséges PHP-bővítmények hiányoznak: %s."
+      ],
+      "Fehlende PHP-Erweiterung": [
+        "Hiányzó PHP-bővítmény"
+      ],
+      "In wp-config.php ist weder %1$s noch %2$s gesetzt. Ohne ein Geheimnis in wp-config.php kann der Schlüssel nicht verschlüsselt werden.": [
+        "A wp-config.php fájlban sem a %1$s, sem a %2$s nincs megadva. Titok nélkül a kulcs nem titkosítható."
+      ],
+      "In der Datenbank liegt kein privater Schlüssel. Es gibt nichts zu migrieren.": [
+        "Nincs privát kulcs az adatbázisban. Nincs mit migrálni."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht mit WM_HINSCHG_MASTER_KEY entschlüsseln. Bitte den ursprünglichen Hauptschlüssel wiederherstellen; es wurde nichts überschrieben.": [
+        "A tárolt kulcs nem fejthető vissza a WM_HINSCHG_MASTER_KEY segítségével. Állítsa vissza az eredeti mesterkulcsot; semmi sem íródott felül."
+      ],
+      "Der private Schlüssel ist bereits per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt. Nichts zu tun.": [
+        "A privát kulcs már Libsodiummal (WM_HINSCHG_MASTER_KEY) van titkosítva. Nincs teendő."
+      ],
+      "Der gespeicherte Schlüssel lässt sich nicht öffnen. Es wurde nichts überschrieben.": [
+        "A tárolt kulcsot nem sikerült megnyitni. Semmi sem íródott felül."
+      ],
+      "Der per Libsodium versiegelte Schlüssel ließ sich nicht verifizieren. Es wurde nichts überschrieben.": [
+        "A Libsodiummal lezárt kulcs ellenőrzése sikertelen volt. Semmi sem íródott felül."
+      ],
+      "Der private Schlüssel liegt jetzt per Libsodium (WM_HINSCHG_MASTER_KEY) verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr.": [
+        "A privát kulcs mostantól Libsodiummal (WM_HINSCHG_MASTER_KEY) titkosítva található az adatbázisban. Egy adatbázismentés önmagában már nem fejti vissza a bejelentéseket."
+      ],
+      "Der gespeicherte Schlüssel lässt sich weder ohne noch mit der konfigurierten Passphrase öffnen. Er wurde mit einer anderen Passphrase verschlüsselt — bitte die alte wiederherstellen, sonst ist keine Meldung mehr lesbar.": [
+        "A tárolt kulcs sem jelmondat nélkül, sem a megadott jelmondattal nem nyitható meg. Állítsa vissza a régit, különben egyetlen bejelentés sem lesz olvasható."
+      ],
+      "Der private Schlüssel ist bereits mit der konfigurierten Passphrase verschlüsselt. Nichts zu tun.": [
+        "A privát kulcs már a beállított jelmondattal van titkosítva. Nincs teendő."
+      ],
+      "Der Schlüssel konnte nicht verschlüsselt exportiert werden. Der gespeicherte Schlüssel bleibt unverändert.": [
+        "A kulcs nem exportálható titkosítva. A tárolt kulcs változatlan maradt."
+      ],
+      "Der verschlüsselte Schlüssel ließ sich nicht wieder öffnen. Es wurde nichts überschrieben.": [
+        "A titkosított kulcsot nem sikerült újra megnyitni. Semmi sem íródott felül."
+      ],
+      "Der private Schlüssel liegt jetzt verschlüsselt in der Datenbank. Ein Datenbank-Abzug allein entschlüsselt keine Meldung mehr. Die Passphrase in wp-config.php ist ab sofort unverzichtbar: ohne sie ist keine Meldung mehr lesbar.": [
+        "A privát kulcs mostantól titkosítva van az adatbázisban. Az adatbázismentés önmagában semmit sem fejt vissza. A wp-config.php jelmondata ettől kezdve nélkülözhetetlen."
+      ],
+      "HinSchG Meldestelle Status": [
+        "HinSchG csatorna állapota"
+      ],
+      "%d Tage Eingangsbestätigung (§ 17 HinSchG)": [
+        "%d napos visszaigazolási határidő (§ 17 HinSchG)"
+      ],
+      "%d Monate Rückmeldefrist (§ 17 HinSchG)": [
+        "%d hónapos visszajelzési határidő (§ 17 HinSchG)"
+      ],
+      "Interne Meldestelle aktiv": [
+        "Belső bejelentőhely aktív"
+      ],
+      "Meldestelle wird eingerichtet": [
+        "Bejelentőhely beállítás alatt"
+      ],
+      "Interne Meldestelle": [
+        "Belső bejelentőhely"
+      ],
+      "Hier können Sie Hinweise auf Verstöße melden. Name und E-Mail-Adresse werden nicht abgefragt.": [
+        "Itt tehet bejelentést jogsértésekről. Nevet és e-mail-címet nem kérünk."
+      ],
+      "Neuen Hinweis melden": [
+        "Új bejelentés küldése"
+      ],
+      "Vorgang abrufen": [
+        "Ügy lekérdezése"
+      ],
+      "Was gespeichert wird:": [
+        "Mi kerül mentésre:"
+      ],
+      "Kategorie und Sachverhalt, auf dem Server verschlüsselt. Ihre IP-Adresse wird nicht mit der Meldung gespeichert; zur Begrenzung der Anfragen hält die Website bis zu einer Stunde einen mit ihrem Geheimschlüssel gebildeten Hash (HMAC) davon vor. Ob der Webserver Zugriffe protokolliert, legt der Betreiber der Website fest, nicht dieses Formular. Nach dem Absenden erhalten Sie eine Vorgangs-ID und einen Zugangsschlüssel für Rückfragen und Rückmeldungen.": [
+        "A kategória és a tényállás a szerveren titkosítva. Az IP-címe nem kerül mentésre a bejelentéssel; a kérések korlátozására a webhely legfeljebb egy órán át annak HMAC-lenyomatát őrzi meg. A webszerver esetleges naplózását az üzemeltető határozza meg, nem ez az űrlap. Beküldés után ügyazonosítót és hozzáférési kulcsot kap a visszakérdezésekhez és visszajelzésekhez."
+      ],
+      "Beschreiben Sie den Sachverhalt möglichst genau (Ort, Datum, beteiligte Personen) …": [
+        "Írja le a tényállást a lehető legpontosabban (helyszín, dátum, érintett személyek)…"
+      ],
+      "Hinweis absenden": [
+        "Bejelentés elküldése"
+      ],
+      "Geben Sie Vorgangs-ID und Zugangsschlüssel ein, um den Bearbeitungsstand zu sehen und der Meldestelle zu schreiben.": [
+        "Adja meg az ügyazonosítót és a hozzáférési kulcsot az állapot megtekintéséhez és az üzenetküldéshez."
+      ],
+      "Vorgangs-ID": [
+        "Ügyazonosító"
+      ],
+      "z. B. CASE-A1B2C3D4": [
+        "pl. CASE-A1B2C3D4"
+      ],
+      "Zugangsschlüssel": [
+        "Hozzáférési kulcs"
+      ],
+      "64 Zeichen": [
+        "64 karakter"
+      ],
+      "Vorgang laden": [
+        "Ügy betöltése"
+      ],
+      "Die Rolle %s gibt es nicht.": [
+        "A(z) %s szerepkör nem létezik."
+      ],
+      "Die Rolle %s darf Meldungen bereits öffnen. Nichts zu tun.": [
+        "A(z) %s szerepkör már megnyithat bejelentéseket. Nincs teendő."
+      ],
+      "Die Rolle %s darf Meldungen jetzt öffnen.": [
+        "A(z) %s szerepkör mostantól megnyithat bejelentéseket."
+      ],
+      "Die Rolle %s darf Meldungen ohnehin nicht öffnen. Nichts zu tun.": [
+        "A(z) %s szerepkör eddig sem nyithatott meg bejelentéseket. Nincs teendő."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Die Meldestelle muss den Eingang innerhalb von sieben Tagen bestätigen (§ 17 HinSchG), und ohne diese Berechtigung kommt niemand an die Meldungen. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Megszakítva: ezután senki sem tudná megnyitni a bejelentéseket. A bejelentőhelynek hét napon belül vissza kell igazolnia a beérkezést (§ 17 HinSchG). Előbb adjon jogosultságot másnak, majd vonja vissza itt."
+      ],
+      "Die Rolle %s darf Meldungen nicht mehr öffnen.": [
+        "A(z) %s szerepkör többé nem nyithat meg bejelentéseket."
+      ],
+      "Benutzer %d gibt es nicht.": [
+        "A(z) %d felhasználó nem létezik."
+      ],
+      "%s darf Meldungen jetzt öffnen.": [
+        "%s mostantól megnyithat bejelentéseket."
+      ],
+      "Abgebrochen: danach hätte niemand mehr Meldungen öffnen können. Erst jemand anderen berechtigen, dann hier entziehen.": [
+        "Megszakítva: ezután senki sem tudná megnyitni a bejelentéseket. Előbb adjon jogosultságot másnak, majd vonja vissza itt."
+      ],
+      "%s darf Meldungen nicht mehr öffnen.": [
+        "%s többé nem nyithat meg bejelentéseket."
+      ],
+      "Zu viele Anfragen. Bitte versuchen Sie es spaeter erneut.": [
+        "Túl sok kérés. Kérjük, próbálja újra később."
+      ],
+      "HinSchG Meldestelle Portal": [
+        "HinSchG Bejelentőportál"
+      ],
+      "Internes Hinweisgeber-Meldeformular und Vorgangsabfrage nach HinSchG.": [
+        "Belső visszaélés-bejelentő űrlap és ügykövetés a HinSchG szerint."
+      ],
+      "Meldestelle-Einstellungen": [
+        "Portál beállításai"
+      ],
+      "Überschrift": [
+        "Címsor"
+      ],
+      "Einleitungstext anzeigen": [
+        "Bevezető szöveg megjelenítése"
+      ],
+      "HinSchG Meldestelle Portal (Vorschau im Frontend).": [
+        "HinSchG Bejelentőportál (előlapi előnézet)."
+      ],
+      "block title\u0004HinSchG Meldestelle Portal": [
+        "HinSchG Bejelentőportál"
+      ],
+      "block description\u0004Internal whistleblowing reporting and case-status form under the German HinSchG.": [
+        "Belső visszaélés-bejelentő és állapotlekérdező űrlap a német HinSchG alapján."
+      ],
+      "block keyword\u0004hinschg": [
+        "hinschg-torveny"
+      ],
+      "block keyword\u0004whistleblower": [
+        "bejelento"
+      ],
+      "block keyword\u0004meldestelle": [
+        "bejelentohely"
+      ],
+      "block keyword\u0004compliance": [
+        "megfeleloseg"
+      ]
+    }
+  }
+}
